@@ -105,6 +105,10 @@
         <img src="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" alt="Trauma and Recovery">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein">
+    </a>
+
 </div>
 
 <div class="Books to read" align="center">
@@ -116,9 +120,6 @@
         <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF894,1000_QL80_.jpg" alt="Assassinorum: Kingmaker">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein">
-    </a>
 
     <a href="https://media.s-bol.com/YNOrn4jjoWq9/n5ZZxn4/794x1200.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/YNOrn4jjoWq9/n5ZZxn4/794x1200.jpg" alt="Old Man's War">
