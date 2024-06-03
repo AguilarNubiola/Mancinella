@@ -93,9 +93,22 @@
         <img src="https://m.media-amazon.com/images/I/71Ha3OShqSL._AC_UF1000,1000_QL80_.jpg" alt="The Body Keeps the score">
     </a>
 
+    <a href="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" alt="Defenders: Beyond">
+    </a>
+
+    <a href="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" alt="My Grandmother's Hands">
+    </a>
+
+
+
 </div>
 
+
 <div class="june books to read" align="center">
+
+
 
     <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
         <img src="https://upload.wikimedia.org/wikipedia/en//4b/4b/Neuromancer_%28Book%29.jpg" alt="Neuromancer">
@@ -108,6 +121,31 @@
     <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein">
     </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" alt="Old man's War">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat">
+    </a>
+
+    
+</div>
+
+</div>
+
+<div class="july books" align='center'>
+    <a href="" class="thumbnail">
+        <img src="" alt="I will Teach you to be rich">
+    </a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals">
+    </a>
+
+   
 
 </div>
 
