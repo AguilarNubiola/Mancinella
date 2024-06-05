@@ -101,6 +101,10 @@
         <img src="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" alt="My Grandmother's Hands">
     </a>
 
+    <a href="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" class="thumbnail">
+        <img src="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" alt="I am Iron Man">
+    </a>
+
 
 
 </div>
@@ -111,7 +115,7 @@
 
 
     <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/en//4b/4b/Neuromancer_%28Book%29.jpg" alt="Neuromancer">
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" alt="Neuromancer">
     </a>
 
     <a href="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
@@ -131,14 +135,31 @@
         <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/41QFLPj4J2L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/41QFLPj4J2L.jpg" alt="Conversation Casanova">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" alt="Conversationally Speaking">
+    </a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her">
+    </a>
+
+    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
+    </a>
+
+
     
 </div>
 
 </div>
 
 <div class="july books" align='center'>
-    <a href="" class="thumbnail">
-        <img src="" alt="I will Teach you to be rich">
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich">
     </a>
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
