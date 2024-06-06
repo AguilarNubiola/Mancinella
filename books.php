@@ -139,6 +139,21 @@
         <img src="https://m.media-amazon.com/images/I/41QFLPj4J2L.jpg" alt="Conversation Casanova">
     </a>
 
+    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X">
+    </a>
+
+    <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnai">
+        <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius">
+    </a>
+    
+
+
+
     <a href="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" alt="Conversationally Speaking">
     </a>
