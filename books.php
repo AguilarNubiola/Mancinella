@@ -105,6 +105,10 @@
         <img src="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" alt="I am Iron Man">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" alt="Conversationally Speaking">
+    </a>
+
 
 
 </div>
@@ -150,13 +154,7 @@
     <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnai">
         <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius">
     </a>
-    
 
-
-
-    <a href="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" alt="Conversationally Speaking">
-    </a>
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her">
@@ -180,6 +178,19 @@
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" alt="Decorum">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
 
    
 
