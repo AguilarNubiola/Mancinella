@@ -72,6 +72,8 @@
 
 <body>
 
+
+
 <a href="http://localhost/arakko" align="center">Index</a>
 <a href="http://localhost/arakko/books.php" align="center">Books</a>
 <a href="http://localhost/arakko/skills.php" align="center">skills</a>
@@ -139,9 +141,6 @@
         <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/41QFLPj4J2L.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/41QFLPj4J2L.jpg" alt="Conversation Casanova">
-    </a>
 
     <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
         <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X">
