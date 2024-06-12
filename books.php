@@ -111,6 +111,10 @@
         <img src="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" alt="Conversationally Speaking">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81Jy2PU82kL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Jy2PU82kL._AC_UF894,1000_QL80_.jpg" alt="Dopamine Nation">
+    </a>
+
 
 
 </div>
@@ -182,12 +186,16 @@
         <img src="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" alt="Decorum">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" alt="Improve your Social Skills">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://m.media-amazon.com/images/I/8135QxIueIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/8135QxIueIL._AC_UF1000,1000_QL80_.jpg" alt="Small Gods">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81hqu1dMckL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81hqu1dMckL._AC_UF894,1000_QL80_.jpg" alt="The Light Fantastic">
     </a>
 
 
