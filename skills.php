@@ -65,7 +65,7 @@
 
 
         </style>
-    <title>Arakko is for games</title>
+    <title>Worth picking up</title>
 
 
     </head>
@@ -121,7 +121,13 @@
         <a href="https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_680,h_680/https://www.gallerysystems.com/wp-content/uploads/SQL-server.jpg" class="thumbnail">
             <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_680,h_680/https://www.gallerysystems.com/wp-content/uploads/SQL-server.jpg" alt="sql">
 
-</div>
+	</div>
+
+<div class="priority 4 skills" align="center">
+
+	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC98oXZ6ajal-_yCwhEYlqlQwy68nR_TQkLw&s" class="thumbnail">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC98oXZ6ajal-_yCwhEYlqlQwy68nR_TQkLw&s" alt="Brazilian Portuguese">
+	
 
 
 
