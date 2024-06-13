@@ -115,6 +115,9 @@
         <a href="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" class="thumbnail">
             <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" alt="Github">
 
+	<a href="https://www.theiceway.com/hubfs/Why%20is%20Software%20Testing%20So%20Important.jpg" class="thumbnail">
+		<img src="https://www.theiceway.com/hubfs/Why%20is%20Software%20Testing%20So%20Important.jpg" alt="Software testing">
+
         <a href="https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_680,h_680/https://www.gallerysystems.com/wp-content/uploads/SQL-server.jpg" class="thumbnail">
             <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_680,h_680/https://www.gallerysystems.com/wp-content/uploads/SQL-server.jpg" alt="sql">
 
