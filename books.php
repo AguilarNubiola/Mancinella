@@ -65,7 +65,7 @@
 
 
         </style>
-    <title>Arakko is for games</title>
+    <title>Read up</title>
 
 
     </head>
@@ -122,6 +122,10 @@
 
 <div class="june books to read" align="center">
 
+
+	<a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
+		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S">
+	</a>
 
 
     <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
