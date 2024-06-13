@@ -1,73 +1,17 @@
 <DOCTYPE HTML>
     <head>
         <style>
-
-            body{
-                background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f6ed149-c2f1-45b1-876c-0c26ccf7c2e2/dfwf04p-132be7c2-bbe3-4199-9c7c-d12a3d05dd30.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmNmVkMTQ5LWMyZjEtNDViMS04NzZjLTBjMjZjY2Y3YzJlMlwvZGZ3ZjA0cC0xMzJiZTdjMi1iYmUzLTQxOTktOWM3Yy1kMTJhM2QwNWRkMzAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KGIhmvgSw6oHGfiFtOo4hC6kPlJp7vCMkUHlpjvShSE");
+            body {
+                background-image: url("https://i.redd.it/egj5zo26yeh31.jpg") ;
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-size: 100%;
             }
 
-            h1 {
-                border: 0px solid black;
-            -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease;
-
-            }
-
-            h1:hover {
-                transform: scale(1.2);
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-
-            }
-
-            .topnav {
-                background-color: white;
-                overflow: hidden;
-            }
-
-            .topnav a {
-
-            }
-
-            img {
-     width: 400px;
-     height: 400px;
-	 border: 0px solid black;
-	 padding: 5px;
-   }
-   img:hover {
-      box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.5);
-   }
-
-            .thumbnail { 
-        display: inline-block;
-        -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease; 
-    
-} 
-
-.thumbnail:hover { 
-        transform: scale(1.2);
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
-
-.games {
-    display: inline-block;
-        -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease; 
-}
-
-
-
         </style>
     <title>Worth picking up</title>
 
-
+    <link rel="stylesheet" href="styles.css">
     </head>
 
 <body>
@@ -80,7 +24,7 @@
 
 <h1 align="center" class="What I wish to become"><img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/cyberpunk-red-netrunning-1.jpg"></h1>
 
-<div class="Priority 1 skills" align="center">
+<div alt="Priority 1 skills" align="center">
 
 
 <a href="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2016/06/how-to-change-your-php-version.webp" class="thumbnail">
@@ -92,7 +36,7 @@
 
 </div>
 
-<div class="Priority 2 skills" align="center">
+<div alt="Priority 2 skills" align="center">
     <a href="https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo.jpg" class="thumbnail">
         <img src="https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo.jpg" alt="Python">
 
@@ -104,7 +48,7 @@
 
 </div>
 
-<div class="Priority 3 skils" align="center">
+<div alt="Priority 3 skils" align="center">
 
 <a href="https://thetranslationcompany.com/wp-content/uploads/2022/09/The-Colombian-Spanish-Dialect.jpg" class="thumbnail">
         <img src="https://thetranslationcompany.com/wp-content/uploads/2022/09/The-Colombian-Spanish-Dialect.jpg" alt="Colombian Spanish">
@@ -123,10 +67,19 @@
 
 	</div>
 
-<div class="priority 4 skills" align="center">
+<div alt="priority 4 skills" align="center">
 
 	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC98oXZ6ajal-_yCwhEYlqlQwy68nR_TQkLw&s" class="thumbnail">
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC98oXZ6ajal-_yCwhEYlqlQwy68nR_TQkLw&s" alt="Brazilian Portuguese">
+
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Paris_with_coat_of_arms.svg/1200px-Flag_of_Paris_with_coat_of_arms.svg.png" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Paris_with_coat_of_arms.svg/1200px-Flag_of_Paris_with_coat_of_arms.svg.png" alt="Parisian French">
+
+    <a href="https://www.teachhub.com/wp-content/uploads/2021/04/Apr-21-The-Importance-of-Teaching-Financial-Literacy.jpg" class="thumbnail">
+    <img src="https://www.teachhub.com/wp-content/uploads/2021/04/Apr-21-The-Importance-of-Teaching-Financial-Literacy.jpg" alt="Financial literacy">
+
+    <a href="https://www.betterinvesting.org/getmedia/003bddb5-372a-4623-98d5-40b45d0f696b/investing_101_naic.jpg?width=1281&height=721&ext=.jpg" class="thumbnail">
+        <img src="https://www.betterinvesting.org/getmedia/003bddb5-372a-4623-98d5-40b45d0f696b/investing_101_naic.jpg?width=1281&height=721&ext=.jpg" alt="Investing">
 	
 
 

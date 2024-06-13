@@ -1,74 +1,18 @@
 <DOCTYPE HTML>
     <head>
         <style>
-
-            body{
-                background-image: url("https://basecamplive.com/wp-content/uploads/2023/02/books.jpeg");
+            body {
+                background-image: url("https://basecamplive.com/wp-content/uploads/2023/02/books.jpeg") ;
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-size: 100%;
             }
-
-            h1 {
-                border: 0px solid black;
-            -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease;
-
-            }
-
-            h1:hover {
-                transform: scale(1.2);
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-
-            }
-
-            .topnav {
-                background-color: white;
-                overflow: hidden;
-            }
-
-            .topnav a {
-
-            }
-
-            img {
-     width: 400px;
-     height: 400px;
-	 border: 0px solid black;
-	 padding: 5px;
-   }
-   img:hover {
-      box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.5);
-   }
-
-            .thumbnail { 
-        display: inline-block;
-        -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease; 
-    
-} 
-
-.thumbnail:hover { 
-        transform: scale(1.2);
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
-
-.games {
-    display: inline-block;
-        -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease; 
-}
-
-
-
         </style>
     <title>Read up</title>
+    <link rel="stylesheet" href="styles.css">
 
 
-    </head>
+</head>
 
 <body>
 
@@ -82,7 +26,7 @@
 
 
 
-<div class="finished books" align="center">
+<div alt="finished books" align="center">
     <a href="https://m.media-amazon.com/images/I/81uuRYwTwbL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81uuRYwTwbL._AC_UF894,1000_QL80_.jpg" alt="Unconquerable Sun"/>
     </a>
@@ -120,7 +64,7 @@
 </div>
 
 
-<div class="june books to read" align="center">
+<div alt="june books to read" align="center">
 
 
 	<a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
@@ -177,7 +121,7 @@
 
 </div>
 
-<div class="july books" align='center'>
+<div alt="July Books" align='center'>
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich"/>
     </a>
@@ -202,12 +146,17 @@
         <img src="https://m.media-amazon.com/images/I/81hqu1dMckL._AC_UF894,1000_QL80_.jpg" alt="The Light Fantastic"/>
     </a>
 
+    <a href="" class="thumbnail">
+        <img src="" alt=""/>
+    </a>
+
+
 
    
 
 </div>
 
-<div class="Books to read" align="center">
+<div alt="Books to read" align="center">
     <a href="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" alt="My Grandmother's Hands"/>
     </a>

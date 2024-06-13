@@ -9,73 +9,20 @@
                 background-size: 100%;
             }
 
-            h1 {
-                border: 0px solid black;
-            -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease;
-
-            }
-
-            h1:hover {
-                transform: scale(1.2);
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-
-            }
-
-            .topnav {
-                background-color: white;
-                overflow: hidden;
-            }
-
-            .topnav a {
-
-            }
-
-            img {
-     width: 400px;
-     height: 400px;
-	 border: 0px solid black;
-	 padding: 5px;
-   }
-   img:hover {
-      box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.5);
-   }
-
-            .thumbnail { 
-        display: inline-block;
-        -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease; 
-    
-} 
-
-.thumbnail:hover { 
-        transform: scale(1.2);
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
-
-.games {
-    display: inline-block;
-        -webkit-transition-property: all; 
--webkit-transition-duration: 0.3s; 
--webkit-transition-timing-function: ease; 
-}
-
-
-
+        
         </style>
     <title>Arakko is for games</title>
-
+    <link rel="stylesheet" href="styles.css">
 
     </head>
 
 <body>
 
-<a href="http://localhost/arakko" align="center">Index</a>
-<a href="http://localhost/arakko/books.php" align="center">Books</a>
-<a href="http://localhost/arakko/skills.php" align="center">skills</a>
-
+<div alt="links">
+<a href="http://localhost/arakko">Index</a>
+<a href="http://localhost/arakko/books.php">Books</a>
+<a href="http://localhost/arakko/skills.php">Skills</a>
+</div>
 
 
 
