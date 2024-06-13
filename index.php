@@ -116,6 +116,10 @@
     <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Elden Ring: Shadow of the Erdtree">
 </a>
 
+<a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
+	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure">
+</a>
+
 
 </div>
 
@@ -123,6 +127,10 @@
 
 <a href="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" class="thumbnail">
     <img src="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" alt="Persona 6">
+</a>
+
+<a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" class="thumbnail">
+	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" alt="Expedition 66">
 </a>
 
 
