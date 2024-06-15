@@ -230,6 +230,13 @@
         <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
     </a>
 
+</div>
+
+        <div alt="Upcoming comics" class="thumbnail">
+
+
+        </div>
+
 
 
 

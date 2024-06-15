@@ -26,6 +26,22 @@
 
 </div>
 
+<div alt="movies in June" align="center">
+
+<a href="https://i.redd.it/z8ds7upfk7zc1.jpeg" class="thumbnail">
+    <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg" alt="Fall guy">
+</a>
+
+<a href="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" class="thumbnail">
+    <img src="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" alt="Metropolis">
+</a>
+
+</div>
+
 <div class="tv shows in june" align="center">
 
 <a href="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
