@@ -38,13 +38,20 @@
     <img src="https://i0.wp.com/insider-gaming.com/wp-content/uploads/2024/02/stellar-blade-eve.jpg?fit=2560%2C1440&ssl=1" alt="Stellar Blade">
 </a>
 
-</div>
-
-<div class="June and July games" align="center">
-
 <a href="https://www.notebookcheck.nl/fileadmin/Notebooks/News/_nc4/Final-Fantasy-7-Rebirth.jpg" class="thumbnail">
     <img src="https://www.notebookcheck.nl/fileadmin/Notebooks/News/_nc4/Final-Fantasy-7-Rebirth.jpg" alt="Final Fantasy 7 rebirth">
 </a>
+
+</div>
+
+<div alt="current game" class="thumbnail">
+    
+    <a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" class="thumbnail">
+        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Shadow of the Erdtree">
+    </a>
+
+<div alt="July games" align="center">
+
 
 <a href="https://jagatplay.com/wp-content/uploads/2024/02/shadow-of-the-erdtree-elden-ring-first-trailer.jpg" class="thumbnail">
     <img src="https://jagatplay.com/wp-content/uploads/2024/02/shadow-of-the-erdtree-elden-ring-first-trailer.jpg" alt="Shadow of the Erdtree">
@@ -71,14 +78,19 @@
     <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Elden Ring: Shadow of the Erdtree">
 </a>
 
-<a href="https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-acu3y.png" class="thumbnail">
-    <img src="https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-acu3y.png" alt="Hades Early access">
-</a>
 
 <a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
 	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure">
 </a>
 
+
+</div>
+
+<div alt="Maybe" align="center">
+
+    <a href="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg" class="thumbnail">
+        <img src="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg" alt="Hades II">
+    </a>
 
 </div>
 
