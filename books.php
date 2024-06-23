@@ -59,17 +59,17 @@
         <img src="https://m.media-amazon.com/images/I/81Jy2PU82kL._AC_UF894,1000_QL80_.jpg" alt="Dopamine Nation"/>
     </a>
 
+    <a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
+		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S"/>
+	</a>
+
+
 
 
 </div>
 
 
-<div alt="june books to read" align="center">
-
-
-	<a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
-		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S"/>
-	</a>
+<div alt="july books to read" align="center">
 
 
     <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
@@ -121,7 +121,7 @@
 
 </div>
 
-<div alt="July Books" align='center'>
+<div alt="August Books" align='center'>
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich"/>
     </a>
@@ -144,10 +144,6 @@
 
     <a href="https://m.media-amazon.com/images/I/81hqu1dMckL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81hqu1dMckL._AC_UF894,1000_QL80_.jpg" alt="The Light Fantastic"/>
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt=""/>
     </a>
 
 

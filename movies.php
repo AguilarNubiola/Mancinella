@@ -24,6 +24,11 @@
     <img src="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" alt="X-Men 97">
 </a>
 
+<a href="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" alt="Hit-Monkey">
+</a>
+
+
 </div>
 
 <div alt="movies in June" align="center">
@@ -44,17 +49,27 @@
 
 <div class="tv shows in june" align="center">
 
-<a href="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" alt="Hit-Monkey">
-</a>
 
 <a href="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" class="thumbnail">
     <img src="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" alt="Vivy Fluorite Eye Song">
 </a>
 
+
+<a href="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" alt="Vinland Saga 4 episodes">
+</a>
+
 </div>
 
 <div class="backburner" align="center">
+
+<a href="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" alt="Jujutsu Kaisen 4 episodes">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BZTM4Y2EwZjAtNzRjYS00NWJlLThkNzEtMTYxNDJjMTNhYjllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BZTM4Y2EwZjAtNzRjYS00NWJlLThkNzEtMTYxNDJjMTNhYjllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" alt="Unicorn Warriors Eternal">
+</a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="Bob's Burgers">
