@@ -154,6 +154,10 @@
 
 <div alt="Books to read" align="center">
 
+<a href="https://m.media-amazon.com/images/I/51eUw-v0X+L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+	<img src="https://m.media-amazon.com/images/I/51eUw-v0X+L._AC_UF1000,1000_QL80_.jpg" alt="">
+</a>
+
     <a href="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF894,1000_QL80_.jpg" alt="Assassinorum: Kingmaker"/>
     </a>
