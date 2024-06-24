@@ -153,9 +153,6 @@
 </div>
 
 <div alt="Books to read" align="center">
-    <a href="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" alt="My Grandmother's Hands"/>
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF894,1000_QL80_.jpg" alt="Assassinorum: Kingmaker"/>
