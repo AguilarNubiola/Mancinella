@@ -88,14 +88,6 @@
 
 </div>
 
-<div alt="Maybe" align="center">
-
-    <a href="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg" class="thumbnail">
-        <img src="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg" alt="Hades II">
-    </a>
-
-</div>
-
 <div alt="2025 and beyond games" align="center">
 
 <a href="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" class="thumbnail">
