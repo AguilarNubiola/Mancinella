@@ -42,20 +42,26 @@
     <img src="https://www.notebookcheck.nl/fileadmin/Notebooks/News/_nc4/Final-Fantasy-7-Rebirth.jpg" alt="Final Fantasy 7 rebirth">
 </a>
 
+<a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="">
+</a>
+
 </div>
 
-<div alt="current game" class="thumbnail">
+<div alt="June games" align="center">
     
-    <a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" class="thumbnail">
-        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Shadow of the Erdtree">
+    <a href="https://img.redbull.com/images/c_crop,w_1920,h_960,x_0,y_120,f_auto,q_auto/c_scale,w_1200/redbullcom/2024/6/4/g3nqorgwndom5g5po5nq/elden-ring-shadow-of-the-erdtree-artwork" class="thumbnail">
+        <img src="https://img.redbull.com/images/c_crop,w_1920,h_960,x_0,y_120,f_auto,q_auto/c_scale,w_1200/redbullcom/2024/6/4/g3nqorgwndom5g5po5nq/elden-ring-shadow-of-the-erdtree-artwork" alt="Shadow of the Erdtree">
     </a>
+</div>
+
+<div alt="current game" align="center">
+    
+ 
+</div>
 
 <div alt="July games" align="center">
 
-
-<a href="https://jagatplay.com/wp-content/uploads/2024/02/shadow-of-the-erdtree-elden-ring-first-trailer.jpg" class="thumbnail">
-    <img src="https://jagatplay.com/wp-content/uploads/2024/02/shadow-of-the-erdtree-elden-ring-first-trailer.jpg" alt="Shadow of the Erdtree">
-</a>
 
 <a href="https://cdn.webshopapp.com/shops/47899/files/451753660/atlus-ps5-shin-megami-tensei-v-vengeance.jpg" class="thumbnail">
     <img src="https://cdn.webshopapp.com/shops/47899/files/451753660/atlus-ps5-shin-megami-tensei-v-vengeance.jpg" alt="Shin Megami Tensei Vengeance">
@@ -73,11 +79,6 @@
 <a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/1519/a7151c293ebd9344b6521a2dad4896411f78a9226fd8a74a.jpg" class="thumbnail">
     <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/1519/a7151c293ebd9344b6521a2dad4896411f78a9226fd8a74a.jpg" alt="Shin Megami Tensei V: Vengeance">
 </a>
-
-<a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Elden Ring: Shadow of the Erdtree">
-</a>
-
 
 <a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
 	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure">
