@@ -46,27 +46,22 @@
     <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="">
 </a>
 
-</div>
 
-<div alt="June games" align="center">
-    
-</div>
 
 <div alt="current game" align="center">
 
-    <a href="https://playsense.nl/wp-content/uploads/2024/02/Shin-Magami-Tensei-V-Vengeance-thumbnail.jpg" alt="">
-        <img src="https://playsense.nl/wp-content/uploads/2024/02/Shin-Magami-Tensei-V-Vengeance-thumbnail.jpg" alt="Shin Megami Tensei Vengeance">
+    <a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
+        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3">
     </a>
-    
+
  
 </div>
 
 <div alt="July games" align="center">
 
-
-<a href="https://cdn.webshopapp.com/shops/47899/files/451753660/atlus-ps5-shin-megami-tensei-v-vengeance.jpg" class="thumbnail">
-    <img src="https://cdn.webshopapp.com/shops/47899/files/451753660/atlus-ps5-shin-megami-tensei-v-vengeance.jpg" alt="Shin Megami Tensei Vengeance">
-</a>
+    <a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
+        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3">
+    </a>
 
 </div>
 
