@@ -50,12 +50,13 @@
 
 <div alt="June games" align="center">
     
-    <a href="https://img.redbull.com/images/c_crop,w_1920,h_960,x_0,y_120,f_auto,q_auto/c_scale,w_1200/redbullcom/2024/6/4/g3nqorgwndom5g5po5nq/elden-ring-shadow-of-the-erdtree-artwork" class="thumbnail">
-        <img src="https://img.redbull.com/images/c_crop,w_1920,h_960,x_0,y_120,f_auto,q_auto/c_scale,w_1200/redbullcom/2024/6/4/g3nqorgwndom5g5po5nq/elden-ring-shadow-of-the-erdtree-artwork" alt="Shadow of the Erdtree">
-    </a>
 </div>
 
 <div alt="current game" align="center">
+
+    <a href="https://playsense.nl/wp-content/uploads/2024/02/Shin-Magami-Tensei-V-Vengeance-thumbnail.jpg" alt="">
+        <img src="https://playsense.nl/wp-content/uploads/2024/02/Shin-Magami-Tensei-V-Vengeance-thumbnail.jpg" alt="Shin Megami Tensei Vengeance">
+    </a>
     
  
 </div>
