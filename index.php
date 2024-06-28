@@ -43,43 +43,57 @@
 </a>
 
 <a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="">
+    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Erdtree">
 </a>
 
 
 
 <div alt="current game" align="center">
 
-    <a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
-        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3">
+    <a href="https://atlus.com/smt5v/img/media/ss-05.jpg" class="thumbnail">
+        <img src="https://atlus.com/smt5v/img/media/ss-05.jpg" alt="Vengeance July">
     </a>
+
 
  
 </div>
 
-<div alt="July games" align="center">
-
-    <a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
-        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3">
+<div alt="july games" align="center">
+    <a href="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/06/yoko-a-new-character-in-shin-megami-tensei-5_-vengeance-looks-toward-the-camera.jpg" class="thumbnail">
+        <img src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/06/yoko-a-new-character-in-shin-megami-tensei-5_-vengeance-looks-toward-the-camera.jpg" alt="Vengeance July">
     </a>
-
 </div>
+
 
 
 <div alt="2024 games" align="center">
 
 <a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3">
+    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3 July">
 </a>
 
-<a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/1519/a7151c293ebd9344b6521a2dad4896411f78a9226fd8a74a.jpg" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/1519/a7151c293ebd9344b6521a2dad4896411f78a9226fd8a74a.jpg" alt="Shin Megami Tensei V: Vengeance">
+<a href="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK-1200-80.jpg" class="thumbnail">
+    <img src="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK-1200-80.jpg" alt="Hades 2 August">
 </a>
+
+
 
 <a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
-	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure">
+	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure October">
 </a>
 
+
+</div>
+
+<div alt="Competitive games" align="center">
+
+    <a href="https://static.bandainamcoent.eu/high/tekken/tekken-8/01-news/tekken_season1_thumbnail.jpg" class="thumbnail">
+        <img src="https://static.bandainamcoent.eu/high/tekken/tekken-8/01-news/tekken_season1_thumbnail.jpg" alt="Tekken 8">
+    </a>
+
+    <a href="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" class="thumbnail">
+        <img src="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" alt="Street Fighter 6. Mai Shiranui in the winter of 2025">
+    </a>
 
 </div>
 
