@@ -72,10 +72,6 @@
     <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3 July">
 </a>
 
-<a href="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK-1200-80.jpg" class="thumbnail">
-    <img src="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK-1200-80.jpg" alt="Hades 2 August">
-</a>
-
 
 
 <a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
