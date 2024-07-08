@@ -50,8 +50,8 @@
 
 <div alt="current game" align="center">
 
-    <a href="https://atlus.com/smt5v/img/media/ss-05.jpg" class="thumbnail">
-        <img src="https://atlus.com/smt5v/img/media/ss-05.jpg" alt="Vengeance July">
+    <a href="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" class="thumbnail">
+        <img src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" alt="Baldur's Gate 3">
     </a>
 
 
@@ -59,8 +59,8 @@
 </div>
 
 <div alt="july games" align="center">
-    <a href="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/06/yoko-a-new-character-in-shin-megami-tensei-5_-vengeance-looks-toward-the-camera.jpg" class="thumbnail">
-        <img src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/06/yoko-a-new-character-in-shin-megami-tensei-5_-vengeance-looks-toward-the-camera.jpg" alt="Vengeance July">
+    <a href="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" class="thumbnail">
+        <img src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" alt="Vengeance July">
     </a>
 </div>
 
@@ -68,8 +68,8 @@
 
 <div alt="2024 games" align="center">
 
-<a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3 July">
+<a href="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" class="thumbnail">
+    <img src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" alt="Baldur's Gate 3 July">
 </a>
 
 
