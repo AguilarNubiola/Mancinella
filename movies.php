@@ -28,6 +28,47 @@
     <img src="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" alt="Hit-Monkey">
 </a>
 
+<a href="https://www.broadwayinhollywood.com/assets/img/1600x640.HAM.Pic5-7030f5f393-7030f5f393.jpg" class="thumbnail">
+    <img src="https://www.broadwayinhollywood.com/assets/img/1600x640.HAM.Pic5-7030f5f393-7030f5f393.jpg" alt="Hamilton">
+        </a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+        </a>
+
+
+</div>
+
+<div alt="Movies in the second week of July" align="center">
+    <a href="" class="thumbnail">
+        <img src="" alt="Angel's Egg">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metropolis">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Rebuild of Evangelion 1">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Rebuild of Evangelion 2">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+
 
 </div>
 
