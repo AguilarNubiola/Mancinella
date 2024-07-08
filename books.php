@@ -68,6 +68,17 @@
 
 </div>
 
+<div alt="Second week of July books" align="center">
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her">
+    </a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630575238i/6346975.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630575238i/6346975.jpg" alt="Moonwalking with Einstein">
+    </a>
+
+</div>
+
 
 <div alt="july books to read" align="center">
 
