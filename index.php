@@ -50,26 +50,24 @@
 
 <div alt="current game" align="center">
 
-    <a href="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" class="thumbnail">
-        <img src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" alt="Baldur's Gate 3">
+
+    <a href="https://cdn.mos.cms.futurecdn.net/jUzkZX6peuBa5BoMKofEDT.jpg" class="thumbnail">
+        <img src="https://cdn.mos.cms.futurecdn.net/jUzkZX6peuBa5BoMKofEDT.jpg" alt="Baldur's Gate 3">
     </a>
 
 
  
 </div>
 
-<div alt="july games" align="center">
-    <a href="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" class="thumbnail">
-        <img src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" alt="Vengeance July">
-    </a>
-</div>
+
 
 
 
 <div alt="2024 games" align="center">
 
-<a href="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" class="thumbnail">
-    <img src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/08/11/36603f58/baldurs_gate_3_art_crop.jpg" alt="Baldur's Gate 3 July">
+
+<a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3 July">
 </a>
 
 
@@ -109,8 +107,8 @@
 </a>
 
 
-<a href="https://yt3.googleusercontent.com/skAODIZ07KvllI7tXL6ERzwZn1ECRCdIPehY4dV5AvaD9xxu6L2Q-rm6his2ImwQgSGISmJtgg=s900-c-k-c0x00ffffff-no-rj" class="thumbnail">
-    <img src="https://yt3.googleusercontent.com/skAODIZ07KvllI7tXL6ERzwZn1ECRCdIPehY4dV5AvaD9xxu6L2Q-rm6his2ImwQgSGISmJtgg=s900-c-k-c0x00ffffff-no-rj" alt="Cyberpunk">
+<a href="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" class="thumbnail">
+    <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk">
 </a>
 
 </div>

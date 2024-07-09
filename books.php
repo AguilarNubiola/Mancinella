@@ -68,14 +68,17 @@
 
 </div>
 
-<div alt="Second week of July books" align="center">
+<div alt="reading now" align="center">
+
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
 
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630575238i/6346975.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630575238i/6346975.jpg" alt="Moonwalking with Einstein">
+    <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein"/>
     </a>
+
+    
 
 </div>
 
@@ -113,7 +116,7 @@
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnai">
+    <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius"/>
     </a>
 
@@ -164,10 +167,6 @@
 </div>
 
 <div alt="Books to read" align="center">
-
-<a href="https://m.media-amazon.com/images/I/51eUw-v0X+L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-	<img src="https://m.media-amazon.com/images/I/51eUw-v0X+L._AC_UF1000,1000_QL80_.jpg" alt="">
-</a>
 
     <a href="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF894,1000_QL80_.jpg" alt="Assassinorum: Kingmaker"/>
@@ -240,10 +239,117 @@
 
 </div>
 
-        <div alt="Upcoming comics" class="thumbnail">
+<div alt="x-men issues read" alt="thumbnail">
+
+<a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" alt="Blood Hunt: Psylocke, July 3rd">
+    </a>
+
+</div>
+
+<div alt="July comics" align="center">
+
+    <a href="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" alt="X-men #1, July 10th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" alt="Ultimate X-Men #5, July 17th">
+    </a>
+
+    <a href="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" class="thumbnail">
+        <img src="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" alt="Emma/Tony Divorce, July 17th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/5/a0/66212b813ac4b/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/5/a0/66212b813ac4b/clean.jpg" alt="Heir of Apocalypse #4, July 31st">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" alt="X-Force #1, July 31st">
+    </a>
 
 
-        </div>
+</div>
+
+<div alt="August comics" align="center">
+    <a href="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" class="thumbnail">
+        <img src="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" alt="Uncanny X-men #1, August 7th">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" alt="Avengers #17, August 7th">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th">
+    </a>
+
+
+</div>
+
+<div alt="September comics" align="center">
+    <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
+        <img src="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" alt="Exceptional X-Men #1, September 4th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" alt="Uncanny X-Men #2, September 11th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/e0/6669b74cac71f/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/e0/6669b74cac71f/clean.jpg" alt="X-Factor #2, September 18th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" alt="Ultimate X-Men #7, September 18th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" alt="Avengers #18, September 18th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" alt="Dazzler #1, September 18th">
+    </a>
+
+    <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" class="thumbnail">
+        <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" alt="X-Force #3, September 25th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" alt="Uncanny X-men #3, September 25th">
+    </a>
+
+
+</div>
+
+<div alt="October books" align="center">
+    <a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
+    </a>
+
+    <a href="https://i.redd.it/rqnya2dc2d9d1.jpeg" class="thumbnail">
+        <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
+    </a>
+
+</div>
 
 
 
