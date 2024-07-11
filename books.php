@@ -63,6 +63,10 @@
 		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S"/>
 	</a>
 
+    <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein"/>
+    </a>
+
 
 
 
@@ -74,9 +78,14 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein"/>
+    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X"/>
     </a>
+
+    <a href="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
+    </a>
+
 
     
 
@@ -94,9 +103,6 @@
         <img src="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" alt="Trauma and Recovery"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein"/>
-    </a>
 
 
     <a href="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" class="thumbnail">
@@ -245,13 +251,19 @@
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" alt="Blood Hunt: Psylocke, July 3rd">
     </a>
 
+    <a href="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" alt="X-men #1, July 10th">
+    </a>
+
+
 </div>
 
 <div alt="July comics" align="center">
 
-    <a href="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" alt="X-men #1, July 10th">
+    <a href="" class="thumbnail">
+        <img src="" alt="I heart Skull-crusher #5">
     </a>
+
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" alt="Ultimate X-Men #5, July 17th">
