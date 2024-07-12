@@ -67,6 +67,10 @@
         <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein"/>
     </a>
 
+    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X"/>
+    </a>
+
 
 
 
@@ -76,10 +80,6 @@
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
-    </a>
-
-    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X"/>
     </a>
 
     <a href="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" class="thumbnail">
@@ -104,7 +104,6 @@
     </a>
 
 
-
     <a href="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" alt="Old man's War"/>
     </a>
@@ -113,10 +112,6 @@
         <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat"/>
     </a>
 
-
-    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X"/>
-    </a>
 
     <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
@@ -136,7 +131,6 @@
     </a>
 
 
-    
 </div>
 
 </div>
