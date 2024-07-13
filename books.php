@@ -39,16 +39,8 @@
         <img src="https://m.media-amazon.com/images/I/71Ha3OShqSL._AC_UF1000,1000_QL80_.jpg" alt="The Body Keeps the score"/>
     </a>
 
-    <a href="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" alt="Defenders: Beyond"/>
-    </a>
-
     <a href="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/BRNNqVmLOxAJ/pQgLWlr/548x840.jpg" alt="My Grandmother's Hands"/>
-    </a>
-
-    <a href="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" class="thumbnail">
-        <img src="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" alt="I am Iron Man"/>
     </a>
 
     <a href="https://m.media-amazon.com/images/I/81vhLmlJoqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
@@ -59,35 +51,64 @@
         <img src="https://m.media-amazon.com/images/I/81Jy2PU82kL._AC_UF894,1000_QL80_.jpg" alt="Dopamine Nation"/>
     </a>
 
-    <a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
-		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S"/>
-	</a>
-
     <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein"/>
     </a>
-
-    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X"/>
-    </a>
-
 
 
 
 </div>
 
+<div alt="finished comics" align="Center">
+
+<a href="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" alt="Defenders: Beyond"/>
+    </a>
+
+    <a href="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" class="thumbnail">
+        <img src="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" alt="I am Iron Man"/>
+    </a>
+
+
+<a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
+		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S"/>
+	</a>
+
+    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" alt="Decorum"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat"/>
+    </a>
+
+    
+</div>
+
 <div alt="reading now" align="center">
 
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
-    </a>
 
     <a href="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" class="thumbnail">
         <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
     </a>
 
 
-    
+</div>
+
+<div alt="Next up" align="center">
+
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" alt="I will teach you to be rich"/>
+    </a>
+
 
 </div>
 
@@ -108,9 +129,6 @@
         <img src="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" alt="Old man's War"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat"/>
-    </a>
 
 
     <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
@@ -144,9 +162,6 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" alt="Decorum"/>
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" alt="Improve your Social Skills"/>
@@ -177,9 +192,6 @@
         <img src="https://media.s-bol.com/YNOrn4jjoWq9/n5ZZxn4/794x1200.jpg" alt="Old Man's War"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat"/>
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" alt="House of War"/>
@@ -239,7 +251,7 @@
 
 </div>
 
-<div alt="x-men issues read" alt="thumbnail">
+<div alt="x-men issues read" align="center">
 
 <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" alt="Blood Hunt: Psylocke, July 3rd">
@@ -254,8 +266,8 @@
 
 <div alt="July comics" align="center">
 
-    <a href="" class="thumbnail">
-        <img src="" alt="I heart Skull-crusher #5">
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" alt="I heart Skull-crusher #5">
     </a>
 
 
