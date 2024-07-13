@@ -86,6 +86,10 @@
         <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat"/>
     </a>
 
+    <a href="https://i.pinimg.com/736x/76/d2/ed/76d2ed977df8744c575f21d82fe42395.jpg" class="thumbnail">
+    <img src="https://i.pinimg.com/736x/76/d2/ed/76d2ed977df8744c575f21d82fe42395.jpg" alt="We3">
+</a>
+
     
 </div>
 
