@@ -109,6 +109,10 @@
         <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
     </a>
 
+    <a href="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" class="thumbnail">
+        <img src="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" alt="East of West">
+    </a>
+
 
 </div>
 
