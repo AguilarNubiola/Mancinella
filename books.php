@@ -102,6 +102,10 @@
         <img src="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" alt="East of West">
     </a>
 
+    <a href="https://media.s-bol.com/7MzRQ1W2Rwwy/XRRrKV/548x840.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/7MzRQ1W2Rwwy/XRRrKV/548x840.jpg" alt="Peach Momoko's Demon Days">
+    </a>
+
 
     
 </div>
@@ -149,7 +153,6 @@
     </a>
 
 
-
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
@@ -157,6 +160,16 @@
     <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" alt="Captain Marvel and Rogue">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" alt="Power Girl: Power Trip">
+    </a>
+
 
 </div>
 
