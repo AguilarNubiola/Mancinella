@@ -341,14 +341,15 @@
         <img src="https://m.media-amazon.com/images/I/51VHa9DV58L.jpg" alt="Phoenix #1">
     </a>
 
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" alt="I heart Skull-crusher #5">
+    </a>
+
 
 </div>
 
 <div alt="July comics" align="center">
 
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" alt="I heart Skull-crusher #5">
-    </a>
 
 
     <a href="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" class="thumbnail">
