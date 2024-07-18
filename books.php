@@ -106,6 +106,10 @@
         <img src="https://media.s-bol.com/7MzRQ1W2Rwwy/XRRrKV/548x840.jpg" alt="Peach Momoko's Demon Days">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" alt="Captain Marvel and Rogue">
+    </a>
+
 
     
 </div>
@@ -127,6 +131,43 @@
 
     <a href="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" alt="I will teach you to be rich"/>
+    </a>
+
+
+</div>
+
+<div alt="Trades to read" align="center">
+
+    <a href="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" alt="Power Girl: Power Trip">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" alt="Harley Quinn: Batman">
+    </a>
+
+    <a href="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" class="thumbnail">
+        <img src="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" alt="Crisis on Infinite Earths">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" alt="Dark Phoenix Saga">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" alt="Domino: Hotshots">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/914Gu9LagqL._AC_UF1000,1000_QL80_.jpg" class="thumnail">
+        <img src="https://m.media-amazon.com/images/I/914Gu9LagqL._AC_UF1000,1000_QL80_.jpg" alt="Domino">
+    </a>
+
+    <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumnail">
+        <img src="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" alt="Monika">
+    </a>
+
+    <a href="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" class="thumnail">
+        <img src="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" alt="Karmen">
     </a>
 
 
@@ -161,16 +202,6 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" alt="Captain Marvel and Rogue">
-    </a>
-
-
-    <a href="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" alt="Power Girl: Power Trip">
-    </a>
-
-
 </div>
 
 </div>
@@ -195,11 +226,6 @@
 
     <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
         <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" alt="Neuromancer"/>
-    </a>
-
-
-    <a href="https://upload.wikimedia.org/wikipedia/en/3/36/East_of_West.jpg" class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/36/East_of_West.jpg" alt="East of West">
     </a>
 
 
@@ -295,12 +321,24 @@
 
 <div alt="x-men issues read" align="center">
 
-<a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" class="thumbnail">
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" alt="Blood Hunt: Psylocke, July 3rd">
     </a>
 
     <a href="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" alt="X-men #1, July 10th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" alt="Ultimate X-Men #5, July 17th">
+    </a>
+
+    <a href="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" class="thumbnail">
+        <img src="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" alt="Emma/Tony Divorce, July 17th">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/51VHa9DV58L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51VHa9DV58L.jpg" alt="Phoenix #1">
     </a>
 
 
@@ -312,18 +350,6 @@
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" alt="I heart Skull-crusher #5">
     </a>
 
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" alt="Ultimate X-Men #5, July 17th">
-    </a>
-
-    <a href="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" class="thumbnail">
-        <img src="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" alt="Emma/Tony Divorce, July 17th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/5/a0/66212b813ac4b/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/5/a0/66212b813ac4b/clean.jpg" alt="Heir of Apocalypse #4, July 31st">
-    </a>
 
     <a href="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" alt="X-Force #1, July 31st">
