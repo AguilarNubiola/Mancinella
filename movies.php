@@ -50,6 +50,12 @@
     <img src="https://cdn.britannica.com/76/238676-050-1AFDA48F/Lin-Manuel-Miranda-and-the-cast-of-Hamilton-perform-70th-Annual-Tony-Awards-2016.jpg" alt="Hamilton">
 </a>
 
+<a href="" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNWNlZTUxOTUtMzhmMi00MDg4LThmMTYtNjZhNmM2NDcxYjk1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg" alt="Big George Foreman">
+</a>
+
+
+
 
 
 </div>
@@ -139,7 +145,6 @@
 </a>
 
 </div>
-
 
 
 <div class="movies" align="center">
