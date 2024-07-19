@@ -110,8 +110,12 @@
         <img src="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" alt="Captain Marvel and Rogue">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/914Gu9LagqL._AC_UF1000,1000_QL80_.jpg" class="thumnail">
+    <a href="https://m.media-amazon.com/images/I/914Gu9LagqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/914Gu9LagqL._AC_UF1000,1000_QL80_.jpg" alt="Domino">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" alt="Domino: Hotshots">
     </a>
 
 
@@ -157,11 +161,6 @@
     <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" alt="Dark Phoenix Saga">
     </a>
-
-    <a href="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" alt="Domino: Hotshots">
-    </a>
-
 
     <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumnail">
         <img src="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" alt="Monika">
