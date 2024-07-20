@@ -33,6 +33,11 @@
 
 <a href="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" class="thumbnail">
         <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="HTML CSS">
+</a>
+
+<a href="https://www.nurturepods.com/wp-content/uploads/2021/10/Social-Skills-Nurture-Pods.jpg" class="thumbnail">
+    <img src="https://www.nurturepods.com/wp-content/uploads/2021/10/Social-Skills-Nurture-Pods.jpg" alt="social skills">
+</a>
 
 </div>
 
