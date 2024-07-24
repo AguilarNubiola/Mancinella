@@ -18,9 +18,15 @@
 
 
 
-<a href="http://localhost/arakko" align="center">Index</a>
-<a href="http://localhost/arakko/books.php" align="center">Books</a>
-<a href="http://localhost/arakko/skills.php" align="center">skills</a>
+<div class="topnav" align="center">
+<a href="http://localhost/arakko">Games</a>
+<a href="http://localhost/arakko/books.php">Books</a>
+<a href="http://localhost/arakko/skills.php">Skills</a>
+<a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/xmen.php">X-Men</a>
+</div>
+
+
 
 
 
@@ -53,6 +59,10 @@
 
     <a href="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71wxNktCqKL._AC_UF894,1000_QL80_.jpg" alt="Moonwalking with Einstein"/>
+    </a>
+
+    <a href="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
     </a>
 
 
@@ -94,8 +104,8 @@
         <img src="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" alt="Secret Six">
     </a>
 
-    <a href="https://www.previewsworld.com/SiteImage/MainImage/STL208233" class="thumbnail">
-        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL208233" alt="The Invincible Red Sonja">
+    <a href="https://cdn.webshopapp.com/shops/244637/files/438269750/800x1024x1/invincible-red-sonja-hc-vol-01.jpg" class="thumbnail">
+        <img src="https://cdn.webshopapp.com/shops/244637/files/438269750/800x1024x1/invincible-red-sonja-hc-vol-01.jpg" alt="The Invincible Red Sonja">
     </a>
 
     <a href="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" class="thumbnail">
@@ -124,18 +134,14 @@
 
 <div alt="reading now" align="center">
 
-
-    <a href="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
+
 
 </div>
 
 <div alt="Next up" align="center">
-
-<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" alt="I will teach you to be rich"/>
@@ -162,28 +168,35 @@
         <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" alt="Dark Phoenix Saga">
     </a>
 
-    <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumnail">
+    <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumbnail">
         <img src="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" alt="Monika">
     </a>
 
-    <a href="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" class="thumnail">
+    <a href="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" class="thumbnail">
         <img src="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" alt="Karmen">
     </a>
 
 
 </div>
 
+<div alt="July book" class="thumbnail">
 
-<div alt="july books to read" align="center">
+<a href="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
+</a>
+
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
+    </a>
+
+</div>
+
+
+<div alt="August books to read" align="center">
 
     <a href="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" alt="Old man's War"/>
     </a>
-
-    <a href="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
-    </a>
-
 
     <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
@@ -198,15 +211,11 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
 
-    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
-    </a>
-
 </div>
 
 </div>
 
-<div alt="August Books" align='center'>
+<div alt="September Books" align='center'>
 
 <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius"/>
