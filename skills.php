@@ -16,13 +16,23 @@
 
 <body>
 
-<a href="http://localhost/arakko/" align="center">Home</a>
-<a href="http://localhost/arakko/books.php" align="center">Books</a>
-<a href="http://localhost/arakko/skills.php" align="center">Skills</a>
 
 
 
-<h1 align="center" class="What I wish to become"><img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/cyberpunk-red-netrunning-1.jpg"></h1>
+
+
+<div class="topnav" align="center">
+<a href="http://localhost/arakko">Games</a>
+<a href="http://localhost/arakko/books.php">Books</a>
+<a href="http://localhost/arakko/skills.php">Skills</a>
+<a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/xmen.php">X-Men</a>
+</div>
+
+
+
+
+<h1 align="center" class="What I wish to become"><img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/cyberpunk-red-netrunning-1.jpg"><img src="https://static.wikia.nocookie.net/marveldatabase/images/0/02/X-Treme_X-Men_Vol_1_4_Textless.jpg"></h1>
 
 <div alt="Priority 1 skills" align="center">
 
