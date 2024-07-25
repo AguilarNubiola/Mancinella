@@ -453,8 +453,24 @@
         <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
     </a>
 
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4 9th of October">
+    </a>
+    
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4 16th of October">
+    </a>
+
     <a href="https://i.redd.it/rqnya2dc2d9d1.jpeg" class="thumbnail">
         <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
+    </a>
+
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFACT2024003_Cover-1-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFACT2024003_Cover-1-scaled.jpg" alt="X-Factor #3 23rd of October">
+    </a>
+
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6 23rd of October">
     </a>
 
 </div>
