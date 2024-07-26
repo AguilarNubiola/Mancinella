@@ -128,6 +128,15 @@
         <img src="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" alt="Domino: Hotshots">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" alt="Power Girl: Power Trip">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" alt="Harley Quinn: Batman">
+    </a>
+
+
 
     
 </div>
@@ -138,9 +147,6 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-    <a href="https://www.previewsworld.com/SiteImage/MainImage/STK627779" class="thumbnail">
-        <img src="https://www.previewsworld.com/SiteImage/MainImage/STK627779" alt="Power Girl: Power Trip">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" alt="I will teach you to be rich">
@@ -164,13 +170,6 @@
 
 <div alt="Trades to read" align="center">
 
-    <a href="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" alt="Power Girl: Power Trip">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" alt="Harley Quinn: Batman">
-    </a>
 
     <a href="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" class="thumbnail">
         <img src="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" alt="Crisis on Infinite Earths">
@@ -191,7 +190,7 @@
 
 </div>
 
-<div alt="July book" class="thumbnail">
+<div alt="July book" align="center">
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich"/>
@@ -471,6 +470,10 @@
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6 23rd of October">
+    </a>
+
+    <a href="https://preview.redd.it/ultimate-x-men-variant-covers-by-taurin-clarke-and-ian-v0-pe1kuxx1vped1.jpg?width=1242&format=pjpg&auto=webp&s=3b38ed7263747bc00718bcb7c43efc943e1c6943" class="thumbnail">
+        <img src="https://preview.redd.it/ultimate-x-men-variant-covers-by-taurin-clarke-and-ian-v0-pe1kuxx1vped1.jpg?width=1242&format=pjpg&auto=webp&s=3b38ed7263747bc00718bcb7c43efc943e1c6943" alt="Ultimate X-men 30rth of October">
     </a>
 
 </div>
