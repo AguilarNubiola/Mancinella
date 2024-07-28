@@ -3,7 +3,7 @@
         <style>
 
             body{
-                background-image: url("https://basecamplive.com/wp-content/uploads/2023/02/books.jpeg");
+                background-image: url("https://hips.hearstapps.com/hmg-prod/images/christopher-nolan-winner-of-the-best-picture-award-for-news-photo-1710125236.jpg");
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-size: 100%;
@@ -33,7 +33,17 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<div alt="Best movie and tv show so far" align="center">
 
+<a href="https://filmformatie.imgix.net/filmstills/Deadpool-Wolverine_st_9_jpg_sd-high_2024-20th-Century-Studios-and-2024-MARVEL-2bb3.jpg?w=1600" class="thumbnail">
+    <img src="https://filmformatie.imgix.net/filmstills/Deadpool-Wolverine_st_9_jpg_sd-high_2024-20th-Century-Studios-and-2024-MARVEL-2bb3.jpg?w=1600" alt="Best film so far">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BOTBhYWRhMzMtMGY1Mi00YjJkLWIxN2EtNjAxMmQzYTk2NTNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BOTBhYWRhMzMtMGY1Mi00YjJkLWIxN2EtNjAxMmQzYTk2NTNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="Best tv show so far">
+</a>
+
+</div>
 
 
 <div class='tv shows and movies finished' align="center">
@@ -84,6 +94,9 @@
     <img src="https://m.media-amazon.com/images/M/MV5BZjMyOTI1NDgtN2I1OS00NWQyLTg1ODQtMDI4ZTc4MmIzNDZiXkEyXkFqcGdeQXVyMTc3NDUxNDg5._V1_FMjpg_UX1000_.jpg" alt="Giannis documentary">
 </a>
 
+<a href="https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png" class="thumbnail">
+    <img src="https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png" alt="Deadpool and Wolverine">
+</a>
 
 </div>
 
@@ -109,7 +122,7 @@
 
 </div>
 
-<div class="july tv and movies" align="center">
+<div class="August tv and movies" align="center">
 
 
     <a href="https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1563990172609-UZ05VG1H04PMUB66LPN7/cover+2.jpg" class="thumbnail">
@@ -126,10 +139,6 @@
 
     <a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
         <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" alt="Jujutsu Kaisen">
     </a>
 
 
@@ -154,6 +163,12 @@
 </div>
 
 <div class="Not for me" align="center">
+
+<a href="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" alt="Jujutsu Kaisen">
+    </a>
+
+
 <a href="https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="Bob's Burgers">
 </a>

@@ -74,15 +74,6 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPL6k0a6-H7mTAnF8XhaRzUDlyOQQCEPaRDLOd1ZLRcLPi4qExbUA4iaRWMcOaRNYNCR8UOOGhKH1BjpHXynLCwt9epCJLUJQ8ob3RjX4GodmhMv_Rgm5_j0oM4ye2tC-8e4xF/s1600-rw/power-girl-old-friends-winick-sturges-basri-prasetya-louw.jpg" class="thumbnail">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPL6k0a6-H7mTAnF8XhaRzUDlyOQQCEPaRDLOd1ZLRcLPi4qExbUA4iaRWMcOaRNYNCR8UOOGhKH1BjpHXynLCwt9epCJLUJQ8ob3RjX4GodmhMv_Rgm5_j0oM4ye2tC-8e4xF/s1600-rw/power-girl-old-friends-winick-sturges-basri-prasetya-louw.jpg" alt="Power Girl: Old Friends">
-    </a>
-
-<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
-    </a>
-
-
     <a href="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" alt="I will teach you to be rich">
     </a>
@@ -110,6 +101,14 @@
 
 
 <div alt="August books to read" align="center">
+
+    <a href="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" alt="Gearbreakers"/>
+    </a>
+
+    <a href="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" alt="Renegades">
+    </a>
 
     <a href="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" alt="Old man's War"/>
@@ -169,6 +168,10 @@
 
     <a href="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" alt="Trauma and Recovery"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" alt="House of War"/>
     </a>
 
 

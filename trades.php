@@ -29,14 +29,20 @@
 </div>
 
 
+<div alt="reading now" align="center">
+
+<a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" alt="Dark Phoenix Saga">
+        </a>
+
+
+</div>
+
+
 <div alt="Next up" align="center">
 
         <a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
            <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" alt="Dark Phoenix Saga">
         </a>
 
 

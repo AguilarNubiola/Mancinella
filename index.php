@@ -20,13 +20,15 @@
 
 
 
-    <div class="topnav" align="center">
-        <a href="http://localhost/arakko">*Games*</a>
-        <a href="http://localhost/arakko/books.php">*Books*</a>
-        <a href="http://localhost/arakko/skills.php">*Skills*</a>
-        <a href="http://localhost/arakko/movies.php">*TV & movies*</a>
-        <a href="http://localhost/arakko/xmen.php">*X-Men*</a>
-        </div>
+<div class="topnav" align="center">
+<a href="http://localhost/arakko">Games</a>
+<a href="http://localhost/arakko/books.php">Books</a>
+<a href="http://localhost/arakko/skills.php">Skills</a>
+<a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/xmen.php">X-Men</a>
+<a href="http://localhost/arakko/issues.php">Issues</a>
+<a href="http://localhost/arakko/trades.php">Trades</a>
+</div>
         
 
 <h1 align="center" class="current game of the year">
@@ -82,6 +84,20 @@
 	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure October">
 </a>
 
+<a href="https://m.media-amazon.com/images/M/MV5BNzU2NDg5MmUtYTk4NS00MmZjLTgzYmYtYTU4MDgzNDg5NGVkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNzU2NDg5MmUtYTk4NS00MmZjLTgzYmYtYTU4MDgzNDg5NGVkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" alt="Earthbound">
+</a>
+
+
+
+<a href="https://play-lh.googleusercontent.com/b5uFWAKeFF6udnQB60HGln9JpbR4ndqff-eevDPlPTPvU_cqU2EuPq9FoZ6OqSKDNA=w526-h296-rw" class="thumbnail">
+	<img src="https://play-lh.googleusercontent.com/b5uFWAKeFF6udnQB60HGln9JpbR4ndqff-eevDPlPTPvU_cqU2EuPq9FoZ6OqSKDNA=w526-h296-rw" alt="Chrono Trigger">
+</a>
+
+
+<a href="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK.jpg" class="thumbnail">
+	<img src="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK.jpg" alt="Hades II">
+</a>
 
 </div>
 
@@ -117,8 +133,8 @@
     <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="Stellar Blade sequel">
+<a href="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" class="thumbnail">
+    <img src="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" alt="Stellar Blade sequel">
 </a>
 
 </div>
