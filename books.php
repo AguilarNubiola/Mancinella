@@ -24,6 +24,8 @@
 <a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
+<a href="http://localhost/arakko/issues.php">Issues</a>
+<a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
 
@@ -69,79 +71,12 @@
 
 </div>
 
-<div alt="finished comics" align="Center">
-
-<a href="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" alt="Defenders: Beyond"/>
-    </a>
-
-    <a href="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" class="thumbnail">
-        <img src="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" alt="I am Iron Man"/>
-    </a>
-
-
-<a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
-		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S"/>
-	</a>
-
-    <a href="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/8a6c41df-530b-4522-8643-928819a16a33/1200/1200/False/mr-and-mrs-x-vol-2.jpg" alt="Mr and Mrs.X"/>
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81rsUQ+uy6L._AC_UF894,1000_QL80_.jpg" alt="Decorum"/>
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/810aUBwcFIL._AC_UF1000,1000_QL80_.jpg" alt="Black Cat"/>
-    </a>
-
-    <a href="https://i.pinimg.com/736x/76/d2/ed/76d2ed977df8744c575f21d82fe42395.jpg" class="thumbnail">
-    <img src="https://i.pinimg.com/736x/76/d2/ed/76d2ed977df8744c575f21d82fe42395.jpg" alt="We3">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" alt="Secret Six">
-    </a>
-
-    <a href="https://cdn.webshopapp.com/shops/244637/files/438269750/800x1024x1/invincible-red-sonja-hc-vol-01.jpg" class="thumbnail">
-        <img src="https://cdn.webshopapp.com/shops/244637/files/438269750/800x1024x1/invincible-red-sonja-hc-vol-01.jpg" alt="The Invincible Red Sonja">
-    </a>
-
-    <a href="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" class="thumbnail">
-        <img src="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" alt="East of West">
-    </a>
-
-    <a href="https://media.s-bol.com/7MzRQ1W2Rwwy/XRRrKV/548x840.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/7MzRQ1W2Rwwy/XRRrKV/548x840.jpg" alt="Peach Momoko's Demon Days">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81JBtMFYbdL._AC_UF894,1000_QL80_.jpg" alt="Captain Marvel and Rogue">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/914Gu9LagqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/914Gu9LagqL._AC_UF1000,1000_QL80_.jpg" alt="Domino">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81VDTY2xoOL._AC_UF894,1000_QL80_.jpg" alt="Domino: Hotshots">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91sjtjsGPRL._AC_UF1000,1000_QL80_.jpg" alt="Power Girl: Power Trip">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/716h9QeZfuL._AC_UF1000,1000_QL80_.jpg" alt="Harley Quinn: Batman">
-    </a>
-
-
-
-    
-</div>
 
 <div alt="reading now" align="center">
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPL6k0a6-H7mTAnF8XhaRzUDlyOQQCEPaRDLOd1ZLRcLPi4qExbUA4iaRWMcOaRNYNCR8UOOGhKH1BjpHXynLCwt9epCJLUJQ8ob3RjX4GodmhMv_Rgm5_j0oM4ye2tC-8e4xF/s1600-rw/power-girl-old-friends-winick-sturges-basri-prasetya-louw.jpg" class="thumbnail">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPL6k0a6-H7mTAnF8XhaRzUDlyOQQCEPaRDLOd1ZLRcLPi4qExbUA4iaRWMcOaRNYNCR8UOOGhKH1BjpHXynLCwt9epCJLUJQ8ob3RjX4GodmhMv_Rgm5_j0oM4ye2tC-8e4xF/s1600-rw/power-girl-old-friends-winick-sturges-basri-prasetya-louw.jpg" alt="Power Girl: Old Friends">
+    </a>
 
 <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
@@ -157,38 +92,13 @@
 
 <div alt="Next up" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" alt="Dark Phoenix Saga">
-        </a>
-
-
-</div>
-
-<div alt="Trades to read" align="center">
-
-
-    <a href="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" class="thumbnail">
-        <img src="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" alt="Crisis on Infinite Earths">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" alt="Dark Phoenix Saga">
-    </a>
-
-    <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumbnail">
-        <img src="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" alt="Monika">
-    </a>
-
-    <a href="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" class="thumbnail">
-        <img src="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" alt="Karmen">
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
 
 </div>
+
 
 <div alt="July book" align="center">
 
@@ -247,11 +157,6 @@
     <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
         <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" alt="Neuromancer"/>
     </a>
-
-
-
-
-   
 
 </div>
 
@@ -339,144 +244,6 @@
 
 </div>
 
-<div alt="x-men issues read" align="center">
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/60/66212b6d4d94c/clean.jpg" alt="Blood Hunt: Psylocke, July 3rd">
-    </a>
-
-    <a href="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/xmen2024001_cover.jpg" alt="X-men #1, July 10th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/c/50/66212b2cdffc9/clean.jpg" alt="Ultimate X-Men #5, July 17th">
-    </a>
-
-    <a href="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" class="thumbnail">
-        <img src="https://cdn.archonia.com/images/1-104350947-1-1-original1/invincible-iron-man-20.jpg" alt="Emma/Tony Divorce, July 17th">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/51VHa9DV58L.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/51VHa9DV58L.jpg" alt="Phoenix #1">
-    </a>
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3170508.jpg?1715581688" alt="I heart Skull-crusher #5">
-    </a>
-
-
-</div>
-
-<div alt="July comics" align="center">
-
-
-
-    <a href="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" alt="X-Force #1, July 31st">
-    </a>
-
-
-</div>
-
-<div alt="August comics" align="center">
-    <a href="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" class="thumbnail">
-        <img src="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" alt="Uncanny X-men #1, August 7th">
-    </a>
-
-    <a href="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" alt="Avengers #17, August 7th">
-    </a>
-
-    <a href="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th">
-    </a>
-
-
-</div>
-
-<div alt="September comics" align="center">
-    <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
-        <img src="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" alt="Exceptional X-Men #1, September 4th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" alt="Uncanny X-Men #2, September 11th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/e0/6669b74cac71f/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/e0/6669b74cac71f/clean.jpg" alt="X-Factor #2, September 18th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" alt="Ultimate X-Men #7, September 18th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" alt="Avengers #18, September 18th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" alt="Dazzler #1, September 18th">
-    </a>
-
-    <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" class="thumbnail">
-        <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" alt="X-Force #3, September 25th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" alt="Uncanny X-men #3, September 25th">
-    </a>
-
-
-</div>
-
-<div alt="October books" align="center">
-    <a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
-    </a>
-
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4 9th of October">
-    </a>
-    
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4 16th of October">
-    </a>
-
-    <a href="https://i.redd.it/rqnya2dc2d9d1.jpeg" class="thumbnail">
-        <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
-    </a>
-
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFACT2024003_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFACT2024003_Cover-1-scaled.jpg" alt="X-Factor #3 23rd of October">
-    </a>
-
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6 23rd of October">
-    </a>
-
-    <a href="https://preview.redd.it/ultimate-x-men-variant-covers-by-taurin-clarke-and-ian-v0-pe1kuxx1vped1.jpg?width=1242&format=pjpg&auto=webp&s=3b38ed7263747bc00718bcb7c43efc943e1c6943" class="thumbnail">
-        <img src="https://preview.redd.it/ultimate-x-men-variant-covers-by-taurin-clarke-and-ian-v0-pe1kuxx1vped1.jpg?width=1242&format=pjpg&auto=webp&s=3b38ed7263747bc00718bcb7c43efc943e1c6943" alt="Ultimate X-men 30rth of October">
-    </a>
-
-</div>
 
 
 

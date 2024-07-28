@@ -3,7 +3,7 @@
         <style>
 
             body{
-                background-image: url("https://cdn.mos.cms.futurecdn.net/ZmMkFCTgBNMoxEohbzBXJm.jpg");
+                background-image: url("https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/07/dawn-of-x-teaser-header.jpg");
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-size: 100%;
@@ -15,6 +15,16 @@
     <link rel="stylesheet" href="styles.css">
 
     </head>
+
+    
+<div class="topnav" align="center">
+<a href="http://localhost/arakko">Games</a>
+<a href="http://localhost/arakko/books.php">Books</a>
+<a href="http://localhost/arakko/skills.php">Skills</a>
+<a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/xmen.php">X-Men</a>
+</div>
+
 
     <body>
 
@@ -92,6 +102,7 @@
             <a href="https://pbs.twimg.com/media/FOuQw0VXEBk1j3t.jpg" class="thumbnail">
                 <img src="https://pbs.twimg.com/media/FOuQw0VXEBk1j3t.jpg" alt="Storm">
         </div>
+
 
     </body>
 

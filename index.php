@@ -18,15 +18,21 @@
 
 <body>
 
-<div alt="links">
-<a href="http://localhost/arakko">Index</a>
-<a href="http://localhost/arakko/books.php">Books</a>
-<a href="http://localhost/arakko/skills.php">Skills</a>
-</div>
 
 
+    <div class="topnav" align="center">
+        <a href="http://localhost/arakko">*Games*</a>
+        <a href="http://localhost/arakko/books.php">*Books*</a>
+        <a href="http://localhost/arakko/skills.php">*Skills*</a>
+        <a href="http://localhost/arakko/movies.php">*TV & movies*</a>
+        <a href="http://localhost/arakko/xmen.php">*X-Men*</a>
+        </div>
+        
 
-<h1 align="center" class="current game of the year"><img src="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg"></h1>
+<h1 align="center" class="current game of the year">
+    <img src="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/eve-looking-back-in-stellar-blade.jpg?q=49&fit=contain&w=750&h=415&dpr=2">
+</h1>
 
 <div class="Completed game" align="center">
 
@@ -109,6 +115,10 @@
 
 <a href="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" class="thumbnail">
     <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="Stellar Blade sequel">
 </a>
 
 </div>

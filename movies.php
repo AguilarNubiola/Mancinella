@@ -18,6 +18,24 @@
 
 <body>
 
+
+
+
+
+
+<div class="topnav" align="center">
+<a href="http://localhost/arakko">Games</a>
+<a href="http://localhost/arakko/books.php">Books</a>
+<a href="http://localhost/arakko/skills.php">Skills</a>
+<a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/xmen.php">X-Men</a>
+<a href="http://localhost/arakko/issues.php">Issues</a>
+<a href="http://localhost/arakko/trades.php">Trades</a>
+</div>
+
+
+
+
 <div class='tv shows and movies finished' align="center">
 
 <a href="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" class="thumbnail">
@@ -58,6 +76,13 @@
     <img src="https://www.ica.art/media/04075.jpg" alt="In the Mood for Love">
 </a>
 
+<a href="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" alt="Mars Express">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BZjMyOTI1NDgtN2I1OS00NWQyLTg1ODQtMDI4ZTc4MmIzNDZiXkEyXkFqcGdeQXVyMTc3NDUxNDg5._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BZjMyOTI1NDgtN2I1OS00NWQyLTg1ODQtMDI4ZTc4MmIzNDZiXkEyXkFqcGdeQXVyMTc3NDUxNDg5._V1_FMjpg_UX1000_.jpg" alt="Giannis documentary">
+</a>
 
 
 </div>
@@ -66,10 +91,6 @@
 
 <a href="https://i.redd.it/z8ds7upfk7zc1.jpeg" class="thumbnail">
     <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
-</a>
-
-<a href="https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg" alt="Fall guy">
 </a>
 
 <a href="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" class="thumbnail">
@@ -86,15 +107,11 @@
 </a>
 
 
-<a href="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" alt="Vinland Saga 4 episodes">
-</a>
-
-
-
 </div>
 
 <div class="july tv and movies" align="center">
+
+
     <a href="https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1563990172609-UZ05VG1H04PMUB66LPN7/cover+2.jpg" class="thumbnail">
         <img src="https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1563990172609-UZ05VG1H04PMUB66LPN7/cover+2.jpg" alt="Metropolis">
     </a>
@@ -111,16 +128,15 @@
         <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
     </a>
 
-
+    <a href="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" alt="Jujutsu Kaisen">
+    </a>
 
 
 </div>
 
 <div class="backburner" align="center">
 
-<a href="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" alt="Jujutsu Kaisen 4 episodes">
-</a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BZTM4Y2EwZjAtNzRjYS00NWJlLThkNzEtMTYxNDJjMTNhYjllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BZTM4Y2EwZjAtNzRjYS00NWJlLThkNzEtMTYxNDJjMTNhYjllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" alt="Unicorn Warriors Eternal">
@@ -146,6 +162,22 @@
 <img src="https://image.volkskrant.nl/222549789/width/2480/jeremy-allen-white-in-the-bear" alt="The Bear">
 </a>
 
+<a href="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" alt="Vinland Saga 4 episodes">
+</a>
+
+
+
+</div>
+
+<div class="tv shows" align="center">
+
+<a href="https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt="She-Ra Princesses of Power">
+    <img src="https://assets.teenvogue.com/photos/5b96594d8456e12b6d72a624/16:9/w_2560%2Cc_limit/she-ra-lede.jpg" alt="She-ra">
+</a>
+
+
 </div>
 
 
@@ -159,11 +191,6 @@
     <img src="https://m.media-amazon.com/images/M/MV5BNTI0MjIwMDAtYWY1ZC00MDUyLWI0MzMtZGNjODRlN2Y3ZmE2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" alt="Joker 2">
 </a>
 
-
-<a href="https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" alt="The Fall-guy">
-</a>
-
 <a href="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" class="thumbnail">
     <img src="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" alt="Angel's Egg">
 </a>
@@ -172,11 +199,23 @@
     <img src="https://m.media-amazon.com/images/M/MV5BNmFlZjM3NGQtYmQzMC00MGIxLWE1ZDQtNmQzNjEzYWQ0MDI5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" alt="Metropolis">
 </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" alt="Mars Express">
+
+<a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
+    <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" alt="No hard feelings">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
 </a>
 
 
+<a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
+    <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
+</a>
 
 </div>
 
