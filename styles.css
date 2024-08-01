@@ -37,8 +37,7 @@
         display: inline-block;
           -webkit-transition-property: all; 
           -webkit-transition-duration: 0.3s; 
-    -webkit-transition-timing-function: ease; 
-    
+    -webkit-transition-timing-function: ease;  
 } 
 
 .thumbnail:hover { 
@@ -52,3 +51,37 @@
     -webkit-transition-duration: 0.3s; 
     -webkit-transition-timing-function: ease; 
 }
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: gold;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: italic;
+    color: gold;
+    -webkit-text-stroke: 1px black;
+    font-weight: bold;
+    -webkit-transition-property: all; 
+    -webkit-transition-duration: 0.3s; 
+    -webkit-transition-timing-function: ease; 
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color:black;
+    transform: scale(1.2);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }

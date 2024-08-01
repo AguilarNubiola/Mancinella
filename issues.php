@@ -23,6 +23,7 @@
 <a href="http://localhost/arakko/books.php">Books</a>
 <a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/albums.php">Albums</a>
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
@@ -31,16 +32,6 @@
 
 
 
-<div alt="July comics" align="center">
-
-
-
-    <a href="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" alt="X-Force #1, July 31st">
-    </a>
-
-
-</div>
 
 <div alt="next week" align="center">
 <a href="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" class="thumbnail">
@@ -177,6 +168,10 @@
 
     <a href="https://m.media-amazon.com/images/I/51VHa9DV58L.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/51VHa9DV58L.jpg" alt="Phoenix #1">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" alt="X-Force #1, July 31st">
     </a>
 
 

@@ -23,10 +23,12 @@
 <a href="http://localhost/arakko/books.php">Books</a>
 <a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/albums.php">Albums</a>
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
+
 
 
 
@@ -77,6 +79,9 @@
     <a href="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" alt="I will teach you to be rich">
     </a>
+    <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
+    </a>
 
 
 </div>
@@ -87,20 +92,22 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-
-</div>
-
-
-<div alt="July book" align="center">
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich"/>
+    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
     </a>
 
+
 </div>
+
+
+
 
 
 <div alt="August books to read" align="center">
+
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich"/>
+    </a>
 
     <a href="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" alt="Gearbreakers"/>

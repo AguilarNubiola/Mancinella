@@ -23,6 +23,7 @@
 <a href="http://localhost/arakko/books.php">Books</a>
 <a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/albums.php">Albums</a>
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
@@ -34,7 +35,6 @@
 <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" alt="Dark Phoenix Saga">
         </a>
-
 
 </div>
 
@@ -119,7 +119,13 @@
         <img src="https://m.media-amazon.com/images/I/71-4ffdhlGL._AC_UF1000,1000_QL80_.jpg" alt="Power Girl: Bomb Squad">
     </a>
 
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/X-23-Deadly-Regenesis-TPB-2023.jpg" class="thumbnail">
+            <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/X-23-Deadly-Regenesis-TPB-2023.jpg" alt="X-23 Regenesis">
+        </a>
 
+    <a href="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" class="thumbnail">
+        <img src="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" alt="Karmen">
+    </a>
 
 
     
@@ -144,11 +150,6 @@
     <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumbnail">
         <img src="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" alt="Monika">
     </a>
-
-    <a href="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" class="thumbnail">
-        <img src="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" alt="Karmen">
-    </a>
-
 
 </div>
 

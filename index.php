@@ -25,10 +25,12 @@
 <a href="http://localhost/arakko/books.php">Books</a>
 <a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/albums.php">Albums</a>
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
+
         
 
 <h1 align="center" class="current game of the year">

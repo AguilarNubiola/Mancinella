@@ -28,10 +28,12 @@
 <a href="http://localhost/arakko/books.php">Books</a>
 <a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
+<a href="http://localhost/arakko/albums.php">Albums</a>
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
+
 
 <div alt="Best movie and tv show so far" align="center">
 
@@ -98,6 +100,10 @@
     <img src="https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png" alt="Deadpool and Wolverine">
 </a>
 
+<a href="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" class="thumbnail">
+    <img src="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" alt="Metropolis">
+</a>
+
 </div>
 
 <div alt="movies in July" align="center">
@@ -106,9 +112,6 @@
     <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
 </a>
 
-<a href="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" class="thumbnail">
-    <img src="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" alt="Metropolis">
-</a>
 
 </div>
 
@@ -123,15 +126,6 @@
 </div>
 
 <div class="August tv and movies" align="center">
-
-
-    <a href="https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1563990172609-UZ05VG1H04PMUB66LPN7/cover+2.jpg" class="thumbnail">
-        <img src="https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1563990172609-UZ05VG1H04PMUB66LPN7/cover+2.jpg" alt="Metropolis">
-    </a>
-
-    <a href="https://assets.melkweg.nl/eventpages/8844350a-c5de-4939-9136-c4c0b858f02a/AngelsEgg_still_3.png" class="thumbnail">
-        <img src="https://assets.melkweg.nl/eventpages/8844350a-c5de-4939-9136-c4c0b858f02a/AngelsEgg_still_3.png" alt="Angel's Egg">
-    </a>
 
     <a href="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" class="thumbnail">
         <img src="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" alt="My Neighbor Totoro">
@@ -198,9 +192,6 @@
 
 <div class="movies" align="center">
 
-<a href="https://m.media-amazon.com/images/M/MV5BNDA3MmYzOWEtYWZhNS00ZmU3LWJkYmUtODBjMzQyNzMxYmZhXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNDA3MmYzOWEtYWZhNS00ZmU3LWJkYmUtODBjMzQyNzMxYmZhXkEyXkFqcGc@._V1_.jpg" alt="Deadpool and Wolverine">
-</a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BNTI0MjIwMDAtYWY1ZC00MDUyLWI0MzMtZGNjODRlN2Y3ZmE2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BNTI0MjIwMDAtYWY1ZC00MDUyLWI0MzMtZGNjODRlN2Y3ZmE2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" alt="Joker 2">
@@ -209,11 +200,6 @@
 <a href="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" class="thumbnail">
     <img src="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" alt="Angel's Egg">
 </a>
-
-<a href="https://m.media-amazon.com/images/M/MV5BNmFlZjM3NGQtYmQzMC00MGIxLWE1ZDQtNmQzNjEzYWQ0MDI5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNmFlZjM3NGQtYmQzMC00MGIxLWE1ZDQtNmQzNjEzYWQ0MDI5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" alt="Metropolis">
-</a>
-
 
 <a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
     <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
