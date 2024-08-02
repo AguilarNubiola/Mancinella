@@ -69,6 +69,10 @@
         <img src="https://cdn.kobo.com/book-images/d59afacc-131f-494f-b1e1-d4dbe3e4cd20/1200/1200/False/cognitive-therapy-5.jpg" alt="Cognitive Therapy by Robert Leahy">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" alt="I will teach you to be rich">
+    </a>
+
 
 
 </div>
@@ -76,21 +80,20 @@
 
 <div alt="reading now" align="center">
 
-    <a href="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" alt="I will teach you to be rich">
-    </a>
     <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
         <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
     </a>
+
+    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
+    </a>
+
 
 
 </div>
 
 <div alt="Next up" align="center">
 
-<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
-    </a>
 
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
@@ -104,10 +107,6 @@
 
 
 <div alt="August books to read" align="center">
-
-<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich"/>
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" alt="Gearbreakers"/>
@@ -125,9 +124,6 @@
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
     </a>
 
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552228430i/40591670.jpg" alt="I will Teach you to be rich"/>
-    </a>
 
     <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
@@ -219,10 +215,6 @@
 
     <a href="https://m.media-amazon.com/images/I/81DFDGzHZqL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81DFDGzHZqL._AC_UF894,1000_QL80_.jpg" alt="Meditations"/>
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71G1koXSoiL._AC_UF894,1000_QL80_.jpg" alt="I will teach you to be rich"/>
     </a>
 
 
