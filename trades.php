@@ -32,18 +32,26 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" alt="Dark Phoenix Saga">
-        </a>
+<a href="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" class="thumbnail">
+            <img src="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" al="Witchblade vol 5">
+    </a>
+
+
 
 </div>
 
 
 <div alt="Next up" align="center">
 
+<a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" alt="Dark Phoenix Saga">
+        </a>
+
+
         <a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
            <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
         </a>
+
 
 
 </div>
@@ -127,6 +135,22 @@
         <img src="https://downthetubes.net/wp-content/uploads/2020/09/Covers.jpg" alt="Karmen">
     </a>
 
+    <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumbnail">
+        <img src="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" alt="Monika">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81VdPZLJ6ZL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81VdPZLJ6ZL._AC_UF894,1000_QL80_.jpg" alt="Monika 2">
+    </a>
+
+    <a href="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" class="thumbnail">
+        <img src="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" alt="Crisis on Infinite Earths">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/919+W2XiUkL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/919+W2XiUkL._AC_UF1000,1000_QL80_.jpg" alt="Wonder Woman: Historia">
+        </a>
+
 
     
 </div>
@@ -139,18 +163,16 @@
         </a>
 
 
-    <a href="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" class="thumbnail">
-        <img src="https://preview.redd.it/other-is-crisis-on-infinite-earths-the-most-popular-event-v0-ufvb09ra2hnb1.jpg?width=640&crop=smart&auto=webp&s=b8fae236f32f5b9d682486d61285bf7bb67cacd7" alt="Crisis on Infinite Earths">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" alt="Dark Phoenix Saga">
     </a>
 
-    <a href="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" class="thumbnail">
-        <img src="http://www.bculture.org/media/cache/b9/70/b9709ae1b5cfa6b264042609db12a6e6.jpg" alt="Monika">
+    <a href="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" class="thumbnail">
+            <img src="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" al="Witchblade vol 5">
     </a>
 
+    
 </div>
 
 
