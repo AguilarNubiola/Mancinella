@@ -27,15 +27,17 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
 <div alt="reading now" align="center">
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" class="thumbnail">
-            <img src="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" al="Witchblade vol 5">
-    </a>
+<a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
+        </a>
 
+     
 
 
 </div>
@@ -43,16 +45,13 @@
 
 <div alt="Next up" align="center">
 
-<a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._SL1500_.jpg" alt="Dark Phoenix Saga">
-        </a>
+    <a href="https://cdn.imagecomics.com/assets/i/releases/675305/grrl-scouts-stone-ghost-1-of-6_45f9764921.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/675305/grrl-scouts-stone-ghost-1-of-6_45f9764921.jpg" alt="Grrrl Scouts">
+    </a>
 
-
-        <a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
-        </a>
-
-
+<a href="https://www.keen.com/wp-content/uploads/sites/2/2022/08/king-of-diamonds-meaning-e1659546200973.jpg" class="thumbnail">
+    <img src="https://www.keen.com/wp-content/uploads/sites/2/2022/08/king-of-diamonds-meaning-e1659546200973.jpg" alt="King of Diamonds">
+</a>
 
 </div>
 
@@ -151,6 +150,22 @@
             <img src="https://m.media-amazon.com/images/I/919+W2XiUkL._AC_UF1000,1000_QL80_.jpg" alt="Wonder Woman: Historia">
         </a>
 
+    <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" alt="Dark Phoenix Saga">
+    </a>
+
+    <a href="https://media.s-bol.com/7wJP68n04951/jzQnEl/777x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/7wJP68n04951/jzQnEl/777x1200.jpg" alt="Wonder Woman: Homecoming">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" class="thumbnail">
+            <img src="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" alt="Witchblade vol 5">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/675305/grrl-scouts-stone-ghost-1-of-6_45f9764921.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/675305/grrl-scouts-stone-ghost-1-of-6_45f9764921.jpg" alt="Grrrl Scouts">
+    </a>
+
 
     
 </div>
@@ -163,16 +178,6 @@
         </a>
 
 
-
-    <a href="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91dbN+CVd2L._AC_UF894,1000_QL80_.jpg" alt="Dark Phoenix Saga">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" class="thumbnail">
-            <img src="https://cdn.imagecomics.com/assets/i/releases/2211/witchblade-vol-05_312730806b.jpg" al="Witchblade vol 5">
-    </a>
-
-    
 </div>
 
 

@@ -29,6 +29,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
         
@@ -73,12 +74,7 @@
 
 
 
-<div alt="2024 games" align="center">
-
-
-<a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg" alt="Baldur's Gate 3 July">
-</a>
+<div alt="Final Four. Last year before semi-retirement." align="center">
 
 
 
@@ -86,22 +82,28 @@
 	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure October">
 </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BNzU2NDg5MmUtYTk4NS00MmZjLTgzYmYtYTU4MDgzNDg5NGVkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNzU2NDg5MmUtYTk4NS00MmZjLTgzYmYtYTU4MDgzNDg5NGVkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" alt="Earthbound">
-</a>
-
-
-
-<a href="https://play-lh.googleusercontent.com/b5uFWAKeFF6udnQB60HGln9JpbR4ndqff-eevDPlPTPvU_cqU2EuPq9FoZ6OqSKDNA=w526-h296-rw" class="thumbnail">
-	<img src="https://play-lh.googleusercontent.com/b5uFWAKeFF6udnQB60HGln9JpbR4ndqff-eevDPlPTPvU_cqU2EuPq9FoZ6OqSKDNA=w526-h296-rw" alt="Chrono Trigger">
-</a>
-
 
 <a href="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK.jpg" class="thumbnail">
-	<img src="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK.jpg" alt="Hades II">
+	<img src="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK.jpg" alt="Hades II October">
+</a>
+
+<a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/27f5ad360040bd3eee7134711cd6649cca4e8ac696b86e15.jpg" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/27f5ad360040bd3eee7134711cd6649cca4e8ac696b86e15.jpg" alt="Shin Megami Tensei Vengeance">
 </a>
 
 </div>
+
+<div alt="Retro games" align="center">
+    <a href="https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg" class="thumbnail">>
+        <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg" alt="Earthbound">
+    </a>
+
+    <a href="https://i.redd.it/i-described-chrono-trigger-characters-to-ai-v0-xx5qku843z1c1.jpg?width=1024&format=pjpg&auto=webp&s=b01f0924f7875c23495adfa9bd64f9ae0ff9c5cb" class="thumbnail">>
+        <img src="https://i.redd.it/i-described-chrono-trigger-characters-to-ai-v0-xx5qku843z1c1.jpg?width=1024&format=pjpg&auto=webp&s=b01f0924f7875c23495adfa9bd64f9ae0ff9c5cb" alt="Chrono Trigger">
+    </a>
+</div>
+
+
 
 <div alt="Competitive games" align="center">
 
@@ -122,7 +124,7 @@
 </a>
 
 <a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" class="thumbnail">
-	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" alt="Expedition 66">
+	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" alt="Expedition 33">
 </a>
 
 
@@ -132,7 +134,7 @@
 
 
 <a href="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" class="thumbnail">
-    <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk">
+    <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk sequel">
 </a>
 
 <a href="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" class="thumbnail">

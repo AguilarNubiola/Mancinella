@@ -32,6 +32,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 

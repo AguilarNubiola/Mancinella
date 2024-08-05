@@ -30,6 +30,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
@@ -51,6 +52,10 @@
 
 <a href="https://www.nurturepods.com/wp-content/uploads/2021/10/Social-Skills-Nurture-Pods.jpg" class="thumbnail">
     <img src="https://www.nurturepods.com/wp-content/uploads/2021/10/Social-Skills-Nurture-Pods.jpg" alt="social skills">
+</a>
+
+<a href="https://www.science.org/do/10.1126/science.caredit.aau1320/abs/Path_16x9.jpg" class="thumbnail">
+    <img src="https://www.science.org/do/10.1126/science.caredit.aau1320/abs/Path_16x9.jpg" alt="Taking the hard path">
 </a>
 
 </div>

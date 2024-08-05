@@ -27,6 +27,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
@@ -60,6 +61,10 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" alt="Ultimate X_men #6 August 28th">
     </a>
 
 

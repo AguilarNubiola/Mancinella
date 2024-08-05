@@ -27,12 +27,17 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 <div alt="Albums finished" align="center">
 
 <a href="https://audioxide.com/api/images/album-artwork/kings-disease-nas-medium-square.jpg" class="thumbnail">
     <img src="https://audioxide.com/api/images/album-artwork/kings-disease-nas-medium-square.jpg" alt="King's Disease">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81SnS+LoVoL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81SnS+LoVoL._UF1000,1000_QL80_.jpg" alt="Blueprint">
 </a>
 
 
@@ -55,10 +60,6 @@
 
 <a href="https://m.media-amazon.com/images/I/71h631BJGLL._UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71h631BJGLL._UF1000,1000_QL80_.jpg" alt="36 chambers">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81SnS+LoVoL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81SnS+LoVoL._UF1000,1000_QL80_.jpg" alt="Blueprint">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/61P9pqHGD+L._AC_SL1500_.jpg" class="thumbnail">

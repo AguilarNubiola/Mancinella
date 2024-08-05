@@ -27,6 +27,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
@@ -108,9 +109,6 @@
 
 <div alt="August books to read" align="center">
 
-    <a href="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81CN2NqLb+L._AC_UF894,1000_QL80_.jpg" alt="Gearbreakers"/>
-    </a>
 
     <a href="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" alt="Renegades">
@@ -122,11 +120,6 @@
 
     <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
-    </a>
-
-
-    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
 
