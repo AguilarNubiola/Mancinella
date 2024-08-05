@@ -83,24 +83,6 @@
 </a>
 
 
-<a href="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK.jpg" class="thumbnail">
-	<img src="https://cdn.mos.cms.futurecdn.net/Tu5e7r8fomUtT5WjaeWWuK.jpg" alt="Hades II October">
-</a>
-
-<a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/27f5ad360040bd3eee7134711cd6649cca4e8ac696b86e15.jpg" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0600/27f5ad360040bd3eee7134711cd6649cca4e8ac696b86e15.jpg" alt="Shin Megami Tensei Vengeance">
-</a>
-
-</div>
-
-<div alt="Retro games" align="center">
-    <a href="https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg" class="thumbnail">>
-        <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg" alt="Earthbound">
-    </a>
-
-    <a href="https://i.redd.it/i-described-chrono-trigger-characters-to-ai-v0-xx5qku843z1c1.jpg?width=1024&format=pjpg&auto=webp&s=b01f0924f7875c23495adfa9bd64f9ae0ff9c5cb" class="thumbnail">>
-        <img src="https://i.redd.it/i-described-chrono-trigger-characters-to-ai-v0-xx5qku843z1c1.jpg?width=1024&format=pjpg&auto=webp&s=b01f0924f7875c23495adfa9bd64f9ae0ff9c5cb" alt="Chrono Trigger">
-    </a>
 </div>
 
 

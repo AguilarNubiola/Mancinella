@@ -33,21 +33,13 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
-        </a>
 
      
-
-
 </div>
 
 
 <div alt="Next up" align="center">
 
-    <a href="https://cdn.imagecomics.com/assets/i/releases/675305/grrl-scouts-stone-ghost-1-of-6_45f9764921.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/675305/grrl-scouts-stone-ghost-1-of-6_45f9764921.jpg" alt="Grrrl Scouts">
-    </a>
 
 <a href="https://www.keen.com/wp-content/uploads/sites/2/2022/08/king-of-diamonds-meaning-e1659546200973.jpg" class="thumbnail">
     <img src="https://www.keen.com/wp-content/uploads/sites/2/2022/08/king-of-diamonds-meaning-e1659546200973.jpg" alt="King of Diamonds">
@@ -166,6 +158,11 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/675305/grrl-scouts-stone-ghost-1-of-6_45f9764921.jpg" alt="Grrrl Scouts">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
+        </a>
+
+
 
     
 </div>
@@ -173,9 +170,6 @@
 <div alt="Trades to read" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
-        </a>
 
 
 </div>

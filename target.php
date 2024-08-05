@@ -31,9 +31,6 @@
 </div>
 
 <div alt="Current target" align="center">
-    <a href="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
-    </a>
 
     <a href="https://cdn.bap-software.net/2023/10/softwaretesting1.jpg" class="thumbnail">
         <img src="https://cdn.bap-software.net/2023/10/softwaretesting1.jpg" alt="Software testing">
@@ -76,10 +73,6 @@
 
 
 <div alt="August targets" align="center">
-
-<a href="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" alt="Angel's Egg">
-</a>
 
 <a href="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" class="thumbnail">
         <img src="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" alt="My Neighbor Totoro">

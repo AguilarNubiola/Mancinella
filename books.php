@@ -32,6 +32,29 @@
 
 
 
+<div alt="reading now" align="center">
+
+    <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
+    </a>
+
+    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
+    </a>
+
+
+
+</div>
+
+<div alt="Next up" align="center">
+
+
+    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
+    </a>
+
+
+</div>
 
 
 
@@ -79,29 +102,6 @@
 </div>
 
 
-<div alt="reading now" align="center">
-
-    <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
-    </a>
-
-    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
-    </a>
-
-
-
-</div>
-
-<div alt="Next up" align="center">
-
-
-    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
-    </a>
-
-
-</div>
 
 
 
