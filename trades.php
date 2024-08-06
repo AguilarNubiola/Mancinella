@@ -162,6 +162,10 @@
            <img src="https://m.media-amazon.com/images/I/91Rw2x-38HL._SL1500_.jpg" alt="Uncanny X-Force">
         </a>
 
+    <a href="https://m.media-amazon.com/images/I/81gv1NEnxiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81gv1NEnxiL._AC_UF1000,1000_QL80_.jpg" alt="Marjorie Liu's X-23">
+    </a>
+
 
 
     
