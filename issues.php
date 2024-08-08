@@ -27,7 +27,6 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
@@ -35,25 +34,21 @@
 
 
 <div alt="next week" align="center">
-<a href="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" class="thumbnail">
-        <img src="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" alt="Uncanny X-men #1, August 7th">
+
+<a href="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th. Wait.">
     </a>
 
-    <a href="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" alt="Avengers #17, August 7th">
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th. Buy.">
     </a>
+
 
 </div>
 
 <div alt="August comics" align="center">
 
-    <a href="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th">
-    </a>
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th">
-    </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th">
@@ -147,7 +142,7 @@
 
 <div alt="November books" align="center">
     <a href="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke">
+        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke, November 13th">
     </a>
 </div>
 
@@ -179,6 +174,14 @@
         <img src="https://cdn.marvel.com/content/1x/xforce2024001_asrar.jpg" alt="X-Force #1, July 31st">
     </a>
 
+    <a href="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" class="thumbnail">
+        <img src="https://cdn.archonia.com/images/1-104363222-1-2-original1/uncanny-x-men-1-luciano-vecchio-rogue-variant.jpg" alt="Uncanny X-men #1, August 7th">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" alt="Avengers #17, August 7th">
+    </a>
+
 
 </div>
 
@@ -195,6 +198,54 @@
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2953305.jpg?1721923678" class="thumbnail">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2953305.jpg?1721923678" alt="Zatanna: Bring down the house #2">
     </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/962175/w0-rldtr33-1_0702bc6846.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/962175/w0-rldtr33-1_0702bc6846.jpg" alt="W0rldtr33 #1">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/965470/w0rldtr33-2_fa7b4097e8.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/965470/w0rldtr33-2_fa7b4097e8.jpg" alt="W0rldtr33 #2">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/984628/w0-rldtr33-3_b1ddc7651d.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/984628/w0-rldtr33-3_b1ddc7651d.jpg" alt="W0rldtr33 #3">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/994872/w0rldtr33-4_92ec6b432e.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/994872/w0rldtr33-4_92ec6b432e.jpg" alt="W0rldtr33 #4">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/999626/w0-rldtr33-5_caa0b79478.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/999626/w0-rldtr33-5_caa0b79478.jpg" alt="W0rldtr33 #5">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1011122/w0-rldtr33-6_5ee2e4b752.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1011122/w0-rldtr33-6_5ee2e4b752.jpg" alt="W0rldtr33 #6">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1013270/w0-rldtr33-7_7d4e873dd3.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1013270/w0-rldtr33-7_7d4e873dd3.jpg" alt="W0rldtr33 #7">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1014503/w0-rldtr33-8_531159d23d.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1014503/w0-rldtr33-8_531159d23d.jpg" alt="W0rldtr33 #8">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1018089/w0-rldtr33-9_ed00f3bb03.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1018089/w0-rldtr33-9_ed00f3bb03.jpg" alt="W0rldtr33 #9">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1025099/w0rldtr33-10_6ffff45e86.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1025099/w0rldtr33-10_6ffff45e86.jpg" alt="W0rldtr33 #10">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1031306/w0-rldtr33-11_c51481112f.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1031306/w0-rldtr33-11_c51481112f.jpg" alt="W0rldtr33 #11">
+    </a>
+
+
+
+
 
 </div>
 
