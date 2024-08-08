@@ -32,7 +32,6 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
@@ -105,13 +104,15 @@
     <img src="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" alt="Metropolis">
 </a>
 
+<a href="https://i.redd.it/z8ds7upfk7zc1.jpeg" class="thumbnail">
+    <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
+</a>
+
 </div>
 
 <div alt="movies in July" align="center">
 
-<a href="https://i.redd.it/z8ds7upfk7zc1.jpeg" class="thumbnail">
-    <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
-</a>
+
 
 
 </div>
@@ -198,9 +199,6 @@
     <img src="https://m.media-amazon.com/images/M/MV5BNTI0MjIwMDAtYWY1ZC00MDUyLWI0MzMtZGNjODRlN2Y3ZmE2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" alt="Joker 2">
 </a>
 
-<a href="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/21/AngelsEgg1985.jpg" alt="Angel's Egg">
-</a>
 
 <a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
     <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">

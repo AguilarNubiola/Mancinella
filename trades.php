@@ -27,11 +27,14 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
 <div alt="reading now" align="center">
+
+<a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF894,1000_QL80_.jpg" alt="Low">
+    </a>
 
 
      
@@ -86,8 +89,8 @@
         <img src="https://cdn.webshopapp.com/shops/244637/files/438269750/800x1024x1/invincible-red-sonja-hc-vol-01.jpg" alt="The Invincible Red Sonja">
     </a>
 
-    <a href="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" class="thumbnail">
-        <img src="https://www.usatoday.com/gcdn/-mm-/481bc819e38b3cd45c1712b163351743d818cfb3/c=0-984-2000-2111&r=2000x1127/local/-/media/USATODAY/USATODAY/2013/03/26/ewo_death.jpg" alt="East of West">
+    <a href="https://townsquare.media/site/622/files/2016/02/eastofwest-horsemen1.jpg" class="thumbnail">
+        <img src="https://townsquare.media/site/622/files/2016/02/eastofwest-horsemen1.jpg" alt="East of West">
     </a>
 
     <a href="https://media.s-bol.com/7MzRQ1W2Rwwy/XRRrKV/548x840.jpg" class="thumbnail">
@@ -172,6 +175,24 @@
 </div>
 
 <div alt="Trades to read" align="center">
+
+
+
+    <a href="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" class="thumbnail">
+        <img src="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" alt="Black Science">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF894,1000_QL80_.jpg" alt="Low">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81xP3c1ZwkL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81xP3c1ZwkL._AC_UF1000,1000_QL80_.jpg" alt="Monstress">
+    </a>
+
+    <a href="https://i.redd.it/sczao4f1ios11.jpg" class="thumbnail">
+        <img src="https://i.redd.it/sczao4f1ios11.jpg" alt="Kelly Thompson Captain Marvel">
+    </a>
 
 
 
