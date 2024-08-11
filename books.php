@@ -27,19 +27,19 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
 
 
 <div alt="reading now" align="center">
 
-    <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
-    </a>
 
     <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
+    </a>
+
+    <a href="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" alt="PHP & MYSQL">
     </a>
 
 
@@ -47,6 +47,10 @@
 </div>
 
 <div alt="Next up" align="center">
+
+<a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
+    </a>
 
 
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">

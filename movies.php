@@ -110,24 +110,20 @@
 
 </div>
 
-<div alt="movies in July" align="center">
-
-
-
-
-</div>
-
-<div class="tv shows in July" align="center">
 
 
 <a href="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" class="thumbnail">
     <img src="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" alt="Vivy Fluorite Eye Song">
 </a>
 
+<a href="https://static.wikia.nocookie.net/batman/images/a/a3/Batman_The_Caped_Crusader_poster.jpg/revision/latest?cb=20210519151442" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/batman/images/a/a3/Batman_The_Caped_Crusader_poster.jpg/revision/latest?cb=20210519151442" alt="Batman: Caped Crusader">
+</a>
+
 
 </div>
 
-<div class="August tv and movies" align="center">
+<div class="September tv and movies" align="center">
 
     <a href="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" class="thumbnail">
         <img src="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" alt="My Neighbor Totoro">

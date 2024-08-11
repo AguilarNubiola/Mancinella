@@ -29,7 +29,6 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
         
@@ -82,6 +81,14 @@
 	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure October">
 </a>
 
+<a href="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltcdfbdd3c14836a5e/650f146519d313133ac61494/hades_2.jpg?disable=upscale&width=1200&height=630&fit=crop" class="thumbnail">
+    <img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltcdfbdd3c14836a5e/650f146519d313133ac61494/hades_2.jpg?disable=upscale&width=1200&height=630&fit=crop" alt="Hades 2">
+</a>
+
+<a href="" class="thumnail">
+    <img src="" alt="">
+</a>
+
 
 </div>
 
@@ -89,17 +96,12 @@
 
 <div alt="Competitive games" align="center">
 
-    <a href="https://static.bandainamcoent.eu/high/tekken/tekken-8/01-news/tekken_season1_thumbnail.jpg" class="thumbnail">
-        <img src="https://static.bandainamcoent.eu/high/tekken/tekken-8/01-news/tekken_season1_thumbnail.jpg" alt="Tekken 8">
-    </a>
 
-    <a href="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" class="thumbnail">
-        <img src="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" alt="Street Fighter 6. Mai Shiranui in the winter of 2025">
-    </a>
 
 </div>
 
 <div alt="2025 and beyond games" align="center">
+
 
 <a href="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" class="thumbnail">
     <img src="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" alt="Persona 6">
@@ -122,6 +124,20 @@
 <a href="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" class="thumbnail">
     <img src="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" alt="Stellar Blade sequel">
 </a>
+
+
+</div>
+
+
+<div alt="Competitive games" align="center">
+
+<a href="https://static.bandainamcoent.eu/high/tekken/tekken-8/01-news/tekken_season1_thumbnail.jpg" class="thumbnail">
+        <img src="https://static.bandainamcoent.eu/high/tekken/tekken-8/01-news/tekken_season1_thumbnail.jpg" alt="Tekken 8">
+    </a>
+
+<a href="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" class="thumbnail">
+        <img src="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" alt="Street Fighter 6. Mai Shiranui in the winter of 2025">
+    </a>
 
 </div>
 
