@@ -85,8 +85,8 @@
     <img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltcdfbdd3c14836a5e/650f146519d313133ac61494/hades_2.jpg?disable=upscale&width=1200&height=630&fit=crop" alt="Hades 2">
 </a>
 
-<a href="" class="thumnail">
-    <img src="" alt="">
+<a href="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" class="thumbnail">
+    <img src="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" alt="Chrono Trigger">
 </a>
 
 

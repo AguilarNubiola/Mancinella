@@ -32,20 +32,20 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://images-eu.ssl-images-amazon.com/images/I/810xSf9-r7L._AC_UL600_SR600,600_.jpg" class="thumbnail">
-        <img src="https://images-eu.ssl-images-amazon.com/images/I/810xSf9-r7L._AC_UL600_SR600,600_.jpg" alt="Monstress vol 2">
+<a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" alt="Low 1">
     </a>
-
      
 </div>
 
 
 <div alt="Next up" align="center">
 
-
-    <a href="https://media.s-bol.com/mY7qk0RwoZ2r/0VKJ8Y3/550x834.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/mY7qk0RwoZ2r/0VKJ8Y3/550x834.jpg" alt="Monstress vol 3">
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446564726i/25732455.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446564726i/25732455.jpg" alt="Low 2">
     </a>
+
+
 
 </div>
 
@@ -172,32 +172,18 @@
         <img src="https://media.s-bol.com/Ym2PDzzXgARO/M81E5WQ/902x1200.jpg" alt="Monstress vol 1">
     </a>
 
-
-
-    
-</div>
-
-<div alt="Trades to read" align="center">
-
-
-
-    <a href="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" class="thumbnail">
-        <img src="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" alt="Black Science">
+    <a href="https://m.media-amazon.com/images/I/810xSf9-r7L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/810xSf9-r7L._AC_UF1000,1000_QL80_.jpg" alt="Monstress vol 2">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF894,1000_QL80_.jpg" alt="Low">
+    <a href="https://media.s-bol.com/mY7qk0RwoZ2r/0VKJ8Y3/550x834.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mY7qk0RwoZ2r/0VKJ8Y3/550x834.jpg" alt="Monstress vol 3">
     </a>
 
     <a href="https://m.media-amazon.com/images/I/81xP3c1ZwkL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81xP3c1ZwkL._AC_UF1000,1000_QL80_.jpg" alt="Monstress">
     </a>
 
-    <a href="https://i.redd.it/sczao4f1ios11.jpg" class="thumbnail">
-        <img src="https://i.redd.it/sczao4f1ios11.jpg" alt="Kelly Thompson Captain Marvel">
-    </a>
-
-    
     <a href="https://media.s-bol.com/D3AGJqKkWKA/791x1200.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/D3AGJqKkWKA/791x1200.jpg" alt="Monstress vol 4">
     </a>
@@ -210,6 +196,10 @@
         <img src="https://media.s-bol.com/7Wj4mOZPJEgA/ZVJrDp8/781x1200.jpg" alt="Monstress vol 6">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81oYYp0dEbL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81oYYp0dEbL._AC_UF894,1000_QL80_.jpg" alt="Monstress Book Two">
+    </a>
+
     <a href="https://api.bruna.nl/images/active/carrousel/fullsize/9781534323193_front.jpg" class="thumbnail">
         <img src="https://api.bruna.nl/images/active/carrousel/fullsize/9781534323193_front.jpg" alt="Monstress vol 7">
     </a>
@@ -217,6 +207,25 @@
     <a href="https://media.s-bol.com/qm7oq2R9ppNG/JLv5zP/780x1200.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/qm7oq2R9ppNG/JLv5zP/780x1200.jpg" alt="Monstress vol 8">
     </a>
+
+
+
+
+
+    
+</div>
+
+<div alt="Trades to read" align="center">
+
+
+    <a href="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" class="thumbnail">
+        <img src="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" alt="Black Science">
+    </a>
+
+    <a href="https://i.redd.it/sczao4f1ios11.jpg" class="thumbnail">
+        <img src="https://i.redd.it/sczao4f1ios11.jpg" alt="Kelly Thompson Captain Marvel">
+    </a>
+
 
     <a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" alt="Low 1">
@@ -226,7 +235,17 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446564726i/25732455.jpg" alt="Low 2">
     </a>
 
+    <a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781632157089/low-volume-3-shore-of-the-dying-light-9781632157089_xlg.jpg" class="thumbnail">
+        <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781632157089/low-volume-3-shore-of-the-dying-light-9781632157089_xlg.jpg" alt="Low 3">
+    </a>
 
+    <a href="https://m.media-amazon.com/images/I/81tYPBG2uqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81tYPBG2uqL._AC_UF1000,1000_QL80_.jpg" alt="Low 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/7195aFlfoKL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/7195aFlfoKL._AC_UF1000,1000_QL80_.jpg" alt="Low 5">
+    </a>
 
 
 

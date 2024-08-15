@@ -35,13 +35,9 @@
 
 <div alt="next week" align="center">
 
-<a href="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th. Wait.">
-    </a>
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th. Buy.">
-    </a>
+
+
 
 
 </div>
@@ -49,17 +45,22 @@
 <div alt="August comics" align="center">
 
 
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" alt="Monstress 54, august 28th. Pay.">
+    </a>
+
+
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th. Don't pay.">
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th. Pay.">
     </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" alt="Ultimate X_men #6 August 28th">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" alt="Ultimate X_men #6 August 28th. Pay.">
     </a>
 
 
@@ -76,10 +77,6 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/e0/6669b74cac71f/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/e0/6669b74cac71f/clean.jpg" alt="X-Factor #2, September 18th">
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" class="thumbnail">
@@ -126,9 +123,7 @@
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8504225.jpg?1721416207" alt="Absolute Wonder Woman #1 23rd of October">
     </a>
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFACT2024003_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFACT2024003_Cover-1-scaled.jpg" alt="X-Factor #3 23rd of October">
-    </a>
+
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6 23rd of October">
@@ -180,6 +175,14 @@
 
     <a href="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/content/2x/aven2023017_cov.jpg" alt="Avengers #17, August 7th">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th. Wait.">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th. Buy.">
     </a>
 
 
@@ -243,6 +246,26 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1031306/w0-rldtr33-11_c51481112f.jpg" alt="W0rldtr33 #11">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/51+9vYzGjvL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51+9vYzGjvL.jpg" alt="Monstress 49">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Monstress-50-2024.jpg" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Monstress-50-2024.jpg" alt="Monstress 50">
+    </a>
+
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/04/Monstress-51-2024.jpg" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/04/Monstress-51-2024.jpg" alt="Monstress 51">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Monstress-52-2024.jpg?fit=400%2C614&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Monstress-52-2024.jpg?fit=400%2C614&ssl=1" alt="Monstress 52">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Monstress-53-2024.jpg" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Monstress-53-2024.jpg" alt="Monstress 53">
+    </a>
 
 
 

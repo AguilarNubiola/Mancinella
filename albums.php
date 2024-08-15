@@ -39,11 +39,28 @@
     <img src="https://m.media-amazon.com/images/I/81SnS+LoVoL._UF1000,1000_QL80_.jpg" alt="Blueprint">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/718GXikrg7L._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/718GXikrg7L._UF1000,1000_QL80_.jpg" alt="God's Son">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/61P9pqHGD+L._AC_SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/61P9pqHGD+L._AC_SL1500_.jpg" alt="The W">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71h631BJGLL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71h631BJGLL._UF1000,1000_QL80_.jpg" alt="36 chambers">
+</a>
+
 
 </div>
 
-<div alt="albums july" align="center">
 
+
+<div alt="Albums august" align="center">
+
+<a href="https://m.media-amazon.com/images/I/71MjwPaAsWL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71MjwPaAsWL._UF1000,1000_QL80_.jpg" alt="Wu-Tang Forever">
+</a>
 
 <a href="https://www.sounds-venlo.nl/imager/images/product-images/880/265/2052840/0196292265880-1_b359f718fe1da39fcdba4ce0c97f5e4a.jpg" class="thumbnail">
     <img src="https://www.sounds-venlo.nl/imager/images/product-images/880/265/2052840/0196292265880-1_b359f718fe1da39fcdba4ce0c97f5e4a.jpg" alt="King's Disease 2">
@@ -52,22 +69,7 @@
 <a href="https://i.discogs.com/sa0MAmPlAtUdYqu8IdvBaKeH2t5-29P_EbUBuVD6ML0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMy/NDI5LTE2NjgxOTI3/MTctNDYxOC5qcGVn.jpeg" class="thumbnail">
     <img src="https://i.discogs.com/sa0MAmPlAtUdYqu8IdvBaKeH2t5-29P_EbUBuVD6ML0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMy/NDI5LTE2NjgxOTI3/MTctNDYxOC5qcGVn.jpeg" alt="King's Disease 3">
 </a>
-
-<a href="https://m.media-amazon.com/images/I/718GXikrg7L._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/718GXikrg7L._UF1000,1000_QL80_.jpg" alt="God's Son">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/71h631BJGLL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71h631BJGLL._UF1000,1000_QL80_.jpg" alt="36 chambers">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/61P9pqHGD+L._AC_SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/61P9pqHGD+L._AC_SL1500_.jpg" alt="The W">
-</a>
-
-</div>
-
-<div alt="Albums august" align="center">
+s
 
 
 
