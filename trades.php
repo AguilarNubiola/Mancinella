@@ -32,18 +32,60 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" alt="Low 1">
-    </a>
+<a href="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" alt="Tokyo Ghost vol 1">
+</a>
+
+<a href="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" alt="Tokyo Ghost vol 2">
+</a>
+
      
 </div>
 
 
 <div alt="Next up" align="center">
 
-<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446564726i/25732455.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446564726i/25732455.jpg" alt="Low 2">
-    </a>
+<a href="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" alt="Black Science vol 1">
+</a>
+
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/11935/black-science-vol-2-welcome-nowhere-tp_7a36360b61.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11935/black-science-vol-2-welcome-nowhere-tp_7a36360b61.jpg" alt="Black Science vol 2">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/11648/black-science-vol-3-vanishing-point-tp-3_29d6036a46.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11648/black-science-vol-3-vanishing-point-tp-3_29d6036a46.jpg" alt="Black Science vol 3">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/12317/black-science-vol-4-tp_b84fd1d68a.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/12317/black-science-vol-4-tp_b84fd1d68a.jpg" alt="Black Science vol 4">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/11934/black-science-vol-5-true-atonement-tp_f59b4910f5.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11934/black-science-vol-5-true-atonement-tp_f59b4910f5.jpg" alt="Black Science vol 5">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/12316/black-science-vol-6-tp_1473e14f2f.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/12316/black-science-vol-6-tp_1473e14f2f.jpg" alt="Black Science vol 6">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/27837/black-science-vol-7-extinction-is-the-rule-tp_b00e188236.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/27837/black-science-vol-7-extinction-is-the-rule-tp_b00e188236.jpg" alt="Black Science vol 7">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/256317/black-science-vol-8-later-than-you-think-tp_3db19e79b4.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/256317/black-science-vol-8-later-than-you-think-tp_3db19e79b4.jpg" alt="Black Science vol 8">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/458176/black-science-vol-9-no-authority-but-yourself-tp_662c4e3f6a.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/458176/black-science-vol-9-no-authority-but-yourself-tp_662c4e3f6a.jpg" alt="Black Science vol 9">
+</a>
+
+
+
+
 
 
 
@@ -208,25 +250,6 @@
         <img src="https://media.s-bol.com/qm7oq2R9ppNG/JLv5zP/780x1200.jpg" alt="Monstress vol 8">
     </a>
 
-
-
-
-
-    
-</div>
-
-<div alt="Trades to read" align="center">
-
-
-    <a href="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" class="thumbnail">
-        <img src="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" alt="Black Science">
-    </a>
-
-    <a href="https://i.redd.it/sczao4f1ios11.jpg" class="thumbnail">
-        <img src="https://i.redd.it/sczao4f1ios11.jpg" alt="Kelly Thompson Captain Marvel">
-    </a>
-
-
     <a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" alt="Low 1">
     </a>
@@ -246,6 +269,101 @@
     <a href="https://m.media-amazon.com/images/I/7195aFlfoKL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/7195aFlfoKL._AC_UF1000,1000_QL80_.jpg" alt="Low 5">
     </a>
+
+
+
+
+    
+</div>
+
+<div alt="Trades to read" align="center">
+
+<a href="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" alt="Tokyo Ghost vol 1">
+</a>
+
+<a href="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" alt="Tokyo Ghost vol 2">
+</a>
+
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" alt="Black Science vol 1">
+</a>
+
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/11935/black-science-vol-2-welcome-nowhere-tp_7a36360b61.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11935/black-science-vol-2-welcome-nowhere-tp_7a36360b61.jpg" alt="Black Science vol 2">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/11648/black-science-vol-3-vanishing-point-tp-3_29d6036a46.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11648/black-science-vol-3-vanishing-point-tp-3_29d6036a46.jpg" alt="Black Science vol 3">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/12317/black-science-vol-4-tp_b84fd1d68a.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/12317/black-science-vol-4-tp_b84fd1d68a.jpg" alt="Black Science vol 4">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/11934/black-science-vol-5-true-atonement-tp_f59b4910f5.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11934/black-science-vol-5-true-atonement-tp_f59b4910f5.jpg" alt="Black Science vol 5">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/12316/black-science-vol-6-tp_1473e14f2f.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/12316/black-science-vol-6-tp_1473e14f2f.jpg" alt="Black Science vol 6">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/27837/black-science-vol-7-extinction-is-the-rule-tp_b00e188236.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/27837/black-science-vol-7-extinction-is-the-rule-tp_b00e188236.jpg" alt="Black Science vol 7">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/256317/black-science-vol-8-later-than-you-think-tp_3db19e79b4.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/256317/black-science-vol-8-later-than-you-think-tp_3db19e79b4.jpg" alt="Black Science vol 8">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/458176/black-science-vol-9-no-authority-but-yourself-tp_662c4e3f6a.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/458176/black-science-vol-9-no-authority-but-yourself-tp_662c4e3f6a.jpg" alt="Black Science vol 9">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" alt="CM vol 1">
+</a>
+
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" class="thumbnail">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" alt="CM vol 2">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91eYbWl+9mL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91eYbWl+9mL._SL1500_.jpg" alt="CM vol 3">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91DNcMryxVL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91DNcMryxVL._SL1500_.jpg" alt="CM vol 4">
+</a>
+
+<a href="https://media.s-bol.com/7n8NKmNYLwAj/546x840.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/7n8NKmNYLwAj/546x840.jpg" alt="CM vol 5">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" alt="CM vol 6">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="CM vol 7">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/01/Captain-Marvel-Vol.-8-The-Trials-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/01/Captain-Marvel-Vol.-8-The-Trials-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="CM vol 8">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-9-Revenge-of-the-Brood-Part-1-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-9-Revenge-of-the-Brood-Part-1-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 9">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 10">
+</a>
 
 
 
