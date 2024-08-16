@@ -32,12 +32,8 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" alt="Tokyo Ghost vol 1">
-</a>
-
-<a href="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" alt="Tokyo Ghost vol 2">
+<a href="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" alt="Black Science vol 1">
 </a>
 
      
@@ -45,10 +41,6 @@
 
 
 <div alt="Next up" align="center">
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" alt="Black Science vol 1">
-</a>
 
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/11935/black-science-vol-2-welcome-nowhere-tp_7a36360b61.jpg" class="thumbnail">
@@ -210,33 +202,11 @@
         <img src="https://m.media-amazon.com/images/I/81gv1NEnxiL._AC_UF1000,1000_QL80_.jpg" alt="Marjorie Liu's X-23">
     </a>
 
-    <a href="https://media.s-bol.com/Ym2PDzzXgARO/M81E5WQ/902x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/Ym2PDzzXgARO/M81E5WQ/902x1200.jpg" alt="Monstress vol 1">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/810xSf9-r7L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/810xSf9-r7L._AC_UF1000,1000_QL80_.jpg" alt="Monstress vol 2">
-    </a>
-
-    <a href="https://media.s-bol.com/mY7qk0RwoZ2r/0VKJ8Y3/550x834.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/mY7qk0RwoZ2r/0VKJ8Y3/550x834.jpg" alt="Monstress vol 3">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/81xP3c1ZwkL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81xP3c1ZwkL._AC_UF1000,1000_QL80_.jpg" alt="Monstress">
     </a>
 
-    <a href="https://media.s-bol.com/D3AGJqKkWKA/791x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/D3AGJqKkWKA/791x1200.jpg" alt="Monstress vol 4">
-    </a>
-
-    <a href="https://media.s-bol.com/oyMjOmmznB1X/780x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/oyMjOmmznB1X/780x1200.jpg" alt="Monstress vol 5">
-    </a>
-
-    <a href="https://media.s-bol.com/7Wj4mOZPJEgA/ZVJrDp8/781x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/7Wj4mOZPJEgA/ZVJrDp8/781x1200.jpg" alt="Monstress vol 6">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/81oYYp0dEbL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81oYYp0dEbL._AC_UF894,1000_QL80_.jpg" alt="Monstress Book Two">
@@ -250,25 +220,17 @@
         <img src="https://media.s-bol.com/qm7oq2R9ppNG/JLv5zP/780x1200.jpg" alt="Monstress vol 8">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81pt8OWnaIL._AC_UF1000,1000_QL80_.jpg" alt="Low 1">
+    <a href="https://m.media-amazon.com/images/I/71Yx20mxdyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71Yx20mxdyL._AC_UF1000,1000_QL80_.jpg" alt="Low">
     </a>
 
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446564726i/25732455.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446564726i/25732455.jpg" alt="Low 2">
-    </a>
+    <a href="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" alt="CM vol 1">
+</a>
 
-    <a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781632157089/low-volume-3-shore-of-the-dying-light-9781632157089_xlg.jpg" class="thumbnail">
-        <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781632157089/low-volume-3-shore-of-the-dying-light-9781632157089_xlg.jpg" alt="Low 3">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81tYPBG2uqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81tYPBG2uqL._AC_UF1000,1000_QL80_.jpg" alt="Low 4">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/7195aFlfoKL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/7195aFlfoKL._AC_UF1000,1000_QL80_.jpg" alt="Low 5">
-    </a>
+<a href="https://m.media-amazon.com/images/I/81itqu3H0ML._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81itqu3H0ML._AC_UF1000,1000_QL80_.jpg" alt="Tokyo Ghost">
+</a>
 
 
 
@@ -278,13 +240,6 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/R5Q5WkX5PNwO/D9v30jA/546x840.jpg" alt="Tokyo Ghost vol 1">
-</a>
-
-<a href="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/mLg6ZlMj4w9/550x823.jpg" alt="Tokyo Ghost vol 2">
-</a>
 
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/444717/black-science-vol-1-how-to-fall-forever-tp_8c7f7a80e3.jpg" class="thumbnail">
@@ -325,10 +280,6 @@
 </a>
 
 
-<a href="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" alt="CM vol 1">
-</a>
-
 <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" class="thumbnail">
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" alt="CM vol 2">
 </a>
@@ -364,6 +315,50 @@
 <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 10">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" alt="Immortal Hulk vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91Iju6t3WrL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91Iju6t3WrL._SL1500_.jpg" alt="Immortal Hulk vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91X6+1nIIfL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91X6+1nIIfL._SL1500_.jpg" alt="Immortal Hulk vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91016nQLlUL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91016nQLlUL._SL1500_.jpg" alt="Immortal Hulk vol 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81ck05xrUOL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81ck05xrUOL._SL1500_.jpg" alt="Immortal Hulk vol 5">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91qkzLoI6XL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91qkzLoI6XL._SL1500_.jpg" alt="Immortal Hulk vol 6">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91JtYUkIjcL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91JtYUkIjcL._SL1500_.jpg" alt="Immortal Hulk vol 7">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91tg2RN1EeL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91tg2RN1EeL._SL1500_.jpg" alt="Immortal Hulk vol 8">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91bZE2P3IyL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91bZE2P3IyL._SL1500_.jpg" alt="Immortal Hulk vol 9">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/3/60/646d1bb293761/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/3/60/646d1bb293761/clean.jpg" alt="Immortal Hulk vol 10">
+    </a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642163894i/57653299.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642163894i/57653299.jpg" alt="Immortal Hulk vol 11">
+    </a>
 
 
 
