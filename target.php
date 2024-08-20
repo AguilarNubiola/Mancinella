@@ -44,11 +44,17 @@
         <img src="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" alt="PHP & MYSQL">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" alt="Immortal Hulk vol 1">
+    </a>
+
 </div>
 
 <div alt="Next up" align="center">
 
-
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" class="thumbnail">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" alt="CM vol 2">
+</a>
 
     <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" class="thumbnail">
         <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
