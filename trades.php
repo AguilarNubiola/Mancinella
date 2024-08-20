@@ -33,58 +33,14 @@
 <div alt="reading now" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" alt="Immortal Hulk vol 1">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91Iju6t3WrL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91Iju6t3WrL._SL1500_.jpg" alt="Immortal Hulk vol 2">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91X6+1nIIfL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91X6+1nIIfL._SL1500_.jpg" alt="Immortal Hulk vol 3">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91016nQLlUL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91016nQLlUL._SL1500_.jpg" alt="Immortal Hulk vol 4">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81ck05xrUOL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81ck05xrUOL._SL1500_.jpg" alt="Immortal Hulk vol 5">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91qkzLoI6XL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91qkzLoI6XL._SL1500_.jpg" alt="Immortal Hulk vol 6">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91JtYUkIjcL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91JtYUkIjcL._SL1500_.jpg" alt="Immortal Hulk vol 7">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91tg2RN1EeL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91tg2RN1EeL._SL1500_.jpg" alt="Immortal Hulk vol 8">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91bZE2P3IyL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91bZE2P3IyL._SL1500_.jpg" alt="Immortal Hulk vol 9">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/3/60/646d1bb293761/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/3/60/646d1bb293761/clean.jpg" alt="Immortal Hulk vol 10">
-    </a>
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642163894i/57653299.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642163894i/57653299.jpg" alt="Immortal Hulk vol 11">
-    </a>
+<a href="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" alt="BOP vol 1">
+</a>
 
 
-
-     
-</div>
-
-
-<div alt="Next up" align="center">
-
+<a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._AC_UF894,1000_QL80_.jpg" alt="BOP vol 2">
+</a>
 
 
 <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" class="thumbnail">
@@ -106,6 +62,14 @@
 <a href="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" alt="CM vol 6">
 </a>
+
+
+     
+</div>
+
+
+<div alt="Next up" align="center">
+
 
 <a href="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="CM vol 7">
@@ -293,9 +257,40 @@
     <img src="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" alt="CM vol 1">
 </a>
 
+<a href="https://geekinitiative.com/wp-content/uploads/2014/12/bitchplanet.jpg" class="thumbnail">
+    <img src="https://geekinitiative.com/wp-content/uploads/2014/12/bitchplanet.jpg" alt="Bitch Planet">
+</a>
+
+
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722026425i/48932526.jpg" class="thumbnail">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722026425i/48932526.jpg" alt="Primer">
+</a>
+
+<a href="https://qph.cf2.quoracdn.net/main-qimg-1ad20dd6a7de78af3db94218bb5b2720-lq"class=thumbnail>
+    <img src="https://qph.cf2.quoracdn.net/main-qimg-1ad20dd6a7de78af3db94218bb5b2720-lq" alt="Gamma Flight">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81vPW07i1sL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81vPW07i1sL._AC_UF1000,1000_QL80_.jpg" alt="Demon Wars">
+</a>
+
+<a href="https://www.vandalcomx.com/wp-content/uploads/2023/12/JAN240295-600x923.jpg" class="thumbnail">
+        <img src="https://www.vandalcomx.com/wp-content/uploads/2023/12/JAN240295-600x923.jpg" alt="Napalm Lullaby volume 1">
+    </a>
+
+
+    <a href="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" class="thumbnail">
+        <img src="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" alt="Immortal Hulk complete">
+    </a>
 
     
 </div>
+
+
+
+
+
+
 
 <div alt="Trades to read" align="center">
 
@@ -336,50 +331,6 @@
 <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 10">
 </a>
-
-<a href="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" alt="Immortal Hulk vol 1">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91Iju6t3WrL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91Iju6t3WrL._SL1500_.jpg" alt="Immortal Hulk vol 2">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91X6+1nIIfL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91X6+1nIIfL._SL1500_.jpg" alt="Immortal Hulk vol 3">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91016nQLlUL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91016nQLlUL._SL1500_.jpg" alt="Immortal Hulk vol 4">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81ck05xrUOL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81ck05xrUOL._SL1500_.jpg" alt="Immortal Hulk vol 5">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91qkzLoI6XL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91qkzLoI6XL._SL1500_.jpg" alt="Immortal Hulk vol 6">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91JtYUkIjcL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91JtYUkIjcL._SL1500_.jpg" alt="Immortal Hulk vol 7">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91tg2RN1EeL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91tg2RN1EeL._SL1500_.jpg" alt="Immortal Hulk vol 8">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91bZE2P3IyL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91bZE2P3IyL._SL1500_.jpg" alt="Immortal Hulk vol 9">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/3/60/646d1bb293761/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/3/60/646d1bb293761/clean.jpg" alt="Immortal Hulk vol 10">
-    </a>
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642163894i/57653299.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642163894i/57653299.jpg" alt="Immortal Hulk vol 11">
-    </a>
 
 
 

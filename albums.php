@@ -81,6 +81,35 @@
     <img src="https://media.pitchfork.com/photos/658d8c80f3c653a4dd7f73df/master/w_1280%2Cc_limit/Kendrick-Lamar-Mr-Morale-and-the-Big-Steppers.jpg" alt="Mr. Morale and Big Steppers">
 </a>
 
+<a href="https://media.pitchfork.com/photos/6307ca24d4bc41f168c74840/master/pass/JID-The-Forever-Story.jpg" class="thumbnail">
+    <img src="https://media.pitchfork.com/photos/6307ca24d4bc41f168c74840/master/pass/JID-The-Forever-Story.jpg" alt="The forever story">
+</a>
+
+<a href="https://i.ebayimg.com/images/g/edUAAOSwF~Vh5xLP/s-l1200.webp" class="thumbnail">
+    <img src="https://i.ebayimg.com/images/g/edUAAOSwF~Vh5xLP/s-l1200.webp" alt="Call me if you get lost">
+</a>
+
+<a href="https://i.scdn.co/image/ab67616d0000b2734f777199430e3016868b8503" class="thumbnail">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734f777199430e3016868b8503" alt="The Patience">
+</a>
+
+<a href="https://media.pitchfork.com/photos/6633ba4a463b4bc5668857fb/2:3/w_2000,h_3000,c_limit/Raekwon.jpg" class="thumbnail">
+    <img src="https://media.pitchfork.com/photos/6633ba4a463b4bc5668857fb/2:3/w_2000,h_3000,c_limit/Raekwon.jpg" alt="Only Built 4 Cuban Linx">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/61raI6mzEFL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/61raI6mzEFL._UF1000,1000_QL80_.jpg" alt="Appetite for Destruction">
+</a>
+
+<a href="https://www.hiphopinjesmoel.com/wp-content/uploads/2016/10/Ironmancoveritem03.jpg" class="thumbnail">
+    <img src="https://www.hiphopinjesmoel.com/wp-content/uploads/2016/10/Ironmancoveritem03.jpg" alt="Ironman">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/41TPZvXdqXL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/41TPZvXdqXL.jpg" alt="Me Against the World">
+</a>
+
+
 
 
 </div>
@@ -89,21 +118,11 @@
 
 <div alt="Albums august" align="center">
 
-<a href="https://media.pitchfork.com/photos/6307ca24d4bc41f168c74840/master/pass/JID-The-Forever-Story.jpg" class="thumbnail">
-    <img src="https://media.pitchfork.com/photos/6307ca24d4bc41f168c74840/master/pass/JID-The-Forever-Story.jpg" alt="The forever story">
+
+<a href="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" class="thumbnail">
+    <img src="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" alt="Supreme Clientele">
 </a>
 
-<a href="https://i.scdn.co/image/ab67616d0000b2734f777199430e3016868b8503" class="thumbnail">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734f777199430e3016868b8503" alt="The Patience">
-</a>
-
-<a href="https://i.ebayimg.com/images/g/edUAAOSwF~Vh5xLP/s-l1200.webp" class="thumbnail">
-    <img src="https://i.ebayimg.com/images/g/edUAAOSwF~Vh5xLP/s-l1200.webp" alt="Call me if you get lost">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 
 
@@ -117,3 +136,4 @@
 
 
 </body>
+</HTML>

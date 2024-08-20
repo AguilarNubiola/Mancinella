@@ -36,19 +36,9 @@
 <div alt="next week" align="center">
 
 
-
-
-
-
-</div>
-
-<div alt="August comics" align="center">
-
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" class="thumbnail">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" alt="Monstress 54, august 28th. Pay.">
     </a>
-
 
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
@@ -64,7 +54,10 @@
     </a>
 
 
+
 </div>
+
+
 
 <div alt="September comics" align="center">
     <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
@@ -129,15 +122,25 @@
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6 23rd of October">
     </a>
 
-    <a href="https://preview.redd.it/ultimate-x-men-variant-covers-by-taurin-clarke-and-ian-v0-pe1kuxx1vped1.jpg?width=1242&format=pjpg&auto=webp&s=3b38ed7263747bc00718bcb7c43efc943e1c6943" class="thumbnail">
-        <img src="https://preview.redd.it/ultimate-x-men-variant-covers-by-taurin-clarke-and-ian-v0-pe1kuxx1vped1.jpg?width=1242&format=pjpg&auto=webp&s=3b38ed7263747bc00718bcb7c43efc943e1c6943" alt="Ultimate X-men 30rth of October">
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" alt="Ultimate X-men 30th of October. Ian Bertram variant cover.">
     </a>
 
 </div>
 
 <div alt="November books" align="center">
+
+    <a href="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" class="thumbnail">
+        <img src="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" alt="Ultimates 6. 6th of November.">
+    </a>
+
+
     <a href="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke, November 13th">
+    </a>
+
+    <a href="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" class="thumbnail">
+        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimates 6. 20th of November.">
     </a>
 </div>
 
@@ -265,6 +268,34 @@
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Monstress-53-2024.jpg" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Monstress-53-2024.jpg" alt="Monstress 53">
+    </a>
+
+    <a href="https://weirdsciencemarvelcomics.com/wp-content/uploads/2020/09/img_3376.jpg" class="thumbnail">
+        <img src="https://weirdsciencemarvelcomics.com/wp-content/uploads/2020/09/img_3376.jpg" alt="Immortal She-hulk">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1016882/_61584ab99d.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1016882/_61584ab99d.jpg" alt="Napalm Lullaby 1">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1018141/_448afb4496.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1018141/_448afb4496.jpg" alt="Napalm Lullaby 2">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1025569/_5d434b2572.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1025569/_5d434b2572.jpg" alt="Napalm Lullaby 3">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1031427/napalm-lullaby-4_5a256169ba.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1031427/napalm-lullaby-4_5a256169ba.jpg" alt="Napalm Lullaby 4">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1034041/_685c64d47c.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1034041/_685c64d47c.jpg" alt="Napalm Lullaby 5">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1035797/_57dbc31e55.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1035797/_57dbc31e55.jpg" alt="Napalm Lullaby 6">
     </a>
 
 

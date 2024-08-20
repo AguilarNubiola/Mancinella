@@ -9,7 +9,7 @@
             }
 
         </style>
-    <title>Worth picking up</title>
+    <title>Progress. Satisfaction. Pleasure.</title>
 
     <link rel="stylesheet" href="styles.css">
     </head>
