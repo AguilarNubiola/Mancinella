@@ -33,35 +33,14 @@
 <div alt="reading now" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" alt="BOP vol 1">
+
+
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637549451i/58505977.jpg" class="thumbnail">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637549451i/58505977.jpg" alt="Fantastic Four: Nobody gets out alive.">
 </a>
 
 
-<a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._AC_UF894,1000_QL80_.jpg" alt="BOP vol 2">
-</a>
 
-
-<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" class="thumbnail">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" alt="CM vol 2">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91eYbWl+9mL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91eYbWl+9mL._SL1500_.jpg" alt="CM vol 3">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91DNcMryxVL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91DNcMryxVL._SL1500_.jpg" alt="CM vol 4">
-</a>
-
-<a href="https://media.s-bol.com/7n8NKmNYLwAj/546x840.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/7n8NKmNYLwAj/546x840.jpg" alt="CM vol 5">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" alt="CM vol 6">
-</a>
 
 
      
@@ -71,24 +50,14 @@
 <div alt="Next up" align="center">
 
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="CM vol 7">
+
+<a href="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9. August 28th.">
 </a>
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/01/Captain-Marvel-Vol.-8-The-Trials-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/01/Captain-Marvel-Vol.-8-The-Trials-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="CM vol 8">
+<a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2. September 4th 2024.">
 </a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-9-Revenge-of-the-Brood-Part-1-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-9-Revenge-of-the-Brood-Part-1-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 9">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 10">
-</a>
-
-
-
 
 
 
@@ -253,9 +222,6 @@
     <img src="https://9ekunst.nl/wp-content/uploads/2023/07/Black-Science-1.jpeg" alt="Black Science">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71+4mqEsjrL._AC_UF1000,1000_QL80_.jpg" alt="CM vol 1">
-</a>
 
 <a href="https://geekinitiative.com/wp-content/uploads/2014/12/bitchplanet.jpg" class="thumbnail">
     <img src="https://geekinitiative.com/wp-content/uploads/2014/12/bitchplanet.jpg" alt="Bitch Planet">
@@ -283,8 +249,23 @@
         <img src="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" alt="Immortal Hulk complete">
     </a>
 
-    
-</div>
+    <a href="https://m.media-amazon.com/images/I/511QZUPfXAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/511QZUPfXAL._AC_UF1000,1000_QL80_.jpg" alt="God Loves, Man Kills">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" alt="BOP vol 1">
+</a>
+
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642001727i/57796305.jpg" class="thumbnail">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642001727i/57796305.jpg" alt="Jonathan Hickman's X-men">
+</a>
+
+
+
+<a href="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/eijtri0woaaccof.jpg" class="thumbnail">
+    <img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/eijtri0woaaccof.jpg" alt="Captain Marvel Omnibus">
+</a>
 
 
 
@@ -295,42 +276,21 @@
 <div alt="Trades to read" align="center">
 
 
-
-<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" class="thumbnail">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" alt="CM vol 2">
+<a href="https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Epic_Collection_Fantastic_Four_Vol_1_23.jpg" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Epic_Collection_Fantastic_Four_Vol_1_23.jpg" alt="Fantastic Four: Nobody gets out alive">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/91eYbWl+9mL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91eYbWl+9mL._SL1500_.jpg" alt="CM vol 3">
+
+<a href="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/91DNcMryxVL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91DNcMryxVL._SL1500_.jpg" alt="CM vol 4">
+<a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2">
 </a>
 
-<a href="https://media.s-bol.com/7n8NKmNYLwAj/546x840.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/7n8NKmNYLwAj/546x840.jpg" alt="CM vol 5">
-</a>
 
-<a href="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91Xwo2cA3VL._SL1500_.jpg" alt="CM vol 6">
-</a>
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/07/Captain-Marvel-Vol.-7-The-Last-Of-The-Marvels-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="CM vol 7">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/01/Captain-Marvel-Vol.-8-The-Trials-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/01/Captain-Marvel-Vol.-8-The-Trials-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="CM vol 8">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-9-Revenge-of-the-Brood-Part-1-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-9-Revenge-of-the-Brood-Part-1-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 9">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/Captain-Marvel-Vol.-10-Revenge-Of-The-Brood-Part-2-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="CM vol 10">
-</a>
 
 
 

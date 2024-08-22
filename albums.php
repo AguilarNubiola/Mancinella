@@ -110,6 +110,9 @@
 </a>
 
 
+<a href="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" class="thumbnail">
+    <img src="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" alt="Supreme Clientele">
+</a>
 
 
 </div>
@@ -118,10 +121,6 @@
 
 <div alt="Albums august" align="center">
 
-
-<a href="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" class="thumbnail">
-    <img src="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" alt="Supreme Clientele">
-</a>
 
 
 
