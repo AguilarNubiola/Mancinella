@@ -111,7 +111,7 @@
 
 
 
-<div alt="August books to read" align="center">
+<div alt="September books to read" align="center">
 
 
     <a href="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" class="thumbnail">
@@ -135,7 +135,7 @@
 
 </div>
 
-<div alt="September Books" align='center'>
+<div alt="October Books" align='center'>
 
 <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius"/>
@@ -159,7 +159,7 @@
 
 </div>
 
-<div alt="August Books" align='center'>
+<div alt="November Books" align='center'>
 
 
 <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">

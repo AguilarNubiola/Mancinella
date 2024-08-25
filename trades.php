@@ -35,8 +35,8 @@
 
 
 
-<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637549451i/58505977.jpg" class="thumbnail">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637549451i/58505977.jpg" alt="Fantastic Four: Nobody gets out alive.">
+<a href="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9. August 28th.">
 </a>
 
 
@@ -49,11 +49,6 @@
 
 <div alt="Next up" align="center">
 
-
-
-<a href="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9. August 28th.">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2. September 4th 2024.">
@@ -267,6 +262,15 @@
     <img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/eijtri0woaaccof.jpg" alt="Captain Marvel Omnibus">
 </a>
 
+<a href="https://images.squarespace-cdn.com/content/v1/61cab2b6a80eb405199b1ea8/359c0e2c-4551-44f2-bc45-51e60edfd1e0/clean.jpeg" class="thumbnail">
+    <img src="https://images.squarespace-cdn.com/content/v1/61cab2b6a80eb405199b1ea8/359c0e2c-4551-44f2-bc45-51e60edfd1e0/clean.jpeg" alt="Judgment Day">
+</a>
+
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637549451i/58505977.jpg" class="thumbnail">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637549451i/58505977.jpg" alt="Fantastic Four: Nobody gets out alive.">
+</a>
+
+
 
 
 
@@ -276,10 +280,6 @@
 <div alt="Trades to read" align="center">
 
 
-<a href="https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Epic_Collection_Fantastic_Four_Vol_1_23.jpg" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Epic_Collection_Fantastic_Four_Vol_1_23.jpg" alt="Fantastic Four: Nobody gets out alive">
-</a>
-
 
 <a href="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" class="thumbnail">
     <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9">
@@ -288,6 +288,7 @@
 <a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2">
 </a>
+
 
 
 

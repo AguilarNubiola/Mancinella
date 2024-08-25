@@ -130,18 +130,50 @@
 
 <div alt="November books" align="center">
 
+
     <a href="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" class="thumbnail">
         <img src="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" alt="Ultimates 6. 6th of November.">
     </a>
 
+    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFACT2024004_cvr-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFACT2024004_cvr-scaled.jpg" alt="X-Factor 4. 6th of November.">
+    </a>
+
+    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" alt="X-Force 5. 6th of November.">
+    </a>
+
+    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" alt="X-Men 7. 6th of November.">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" alt="Ultimate X-men 9. November 13th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" alt="Uncanny X-men 5. November 13th">
+    </a>
+
+    
 
     <a href="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke, November 13th">
+        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke. November 13th">
+    </a>
+
+    <a href="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" class="thumbnail">
+        <img src="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" alt="Storm 2. November 20th">
     </a>
 
     <a href="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" class="thumbnail">
-        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimates 6. 20th of November.">
+        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimate Spider-man 11. 20th of November.">
     </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" alt="Uncanny X-men 6. November 27th">
+    </a>
+
+
 </div>
 
 

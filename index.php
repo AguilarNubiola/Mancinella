@@ -69,17 +69,7 @@
  
 </div>
 
-
-
-
-
-<div alt="Play these....maybe, if you're bored" align="center">
-
-
-
-<a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
-	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure October">
-</a>
+<div alt="Next up" align="center">
 
 <a href="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltcdfbdd3c14836a5e/650f146519d313133ac61494/hades_2.jpg?disable=upscale&width=1200&height=630&fit=crop" class="thumbnail">
     <img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltcdfbdd3c14836a5e/650f146519d313133ac61494/hades_2.jpg?disable=upscale&width=1200&height=630&fit=crop" alt="Hades 2">
@@ -88,6 +78,34 @@
 <a href="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" class="thumbnail">
     <img src="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" alt="Chrono Trigger">
 </a>
+
+<a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
+	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure October">
+</a>
+
+</div>
+
+
+
+
+
+<div alt="Play these....maybe, if you're bored" align="center">
+
+
+
+<a href="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" alt="Silent Hill 2">
+</a>
+
+<a href="https://sm.ign.com/ign_nl/screenshot/default/black-myth-wukong-dated-12-07-23_uncb.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nl/screenshot/default/black-myth-wukong-dated-12-07-23_uncb.jpg" alt="Black Myth Wukong">
+</a>
+
+<a href="https://images.pushsquare.com/84e29a6aefed1/smt-5-vengeance-ps5-ps4.large.jpg" class="thumbnail">
+    <img src="https://images.pushsquare.com/84e29a6aefed1/smt-5-vengeance-ps5-ps4.large.jpg" alt="Shin Megami Tensei Vengeance">
+</a>
+
+
 
 
 </div>
@@ -102,27 +120,31 @@
 
 <div alt="2025 and beyond games" align="center">
 
+<a href="https://sm.ign.com/ign_nl/photo/default/infinity-nikki-art-1-1669793987610_etgz.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nl/photo/default/infinity-nikki-art-1-1669793987610_etgz.jpg" alt="Infinite Nikki. 2025 confirmed.">
+</a>
+
 
 <a href="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" alt="Persona 6">
+    <img src="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" alt="Persona 6. Rumoured 2025.">
 </a>
 
 <a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" class="thumbnail">
-	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" alt="Expedition 33">
+	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" alt="Expedition 33. 2025 confirmed.">
 </a>
 
 
 <a href="https://i.pinimg.com/originals/e1/bf/64/e1bf640df96495a7adeb6bf2f57c1841.jpg" class="thumbnail">
-    <img src="https://i.pinimg.com/originals/e1/bf/64/e1bf640df96495a7adeb6bf2f57c1841.jpg" alt="Horizon III">
+    <img src="https://i.pinimg.com/originals/e1/bf/64/e1bf640df96495a7adeb6bf2f57c1841.jpg" alt="Horizon III. 2026 earliest.">
 </a>
 
 
 <a href="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" class="thumbnail">
-    <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk sequel">
+    <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk sequel. 2028 earliest.">
 </a>
 
 <a href="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" class="thumbnail">
-    <img src="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" alt="Stellar Blade sequel">
+    <img src="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" alt="Stellar Blade sequel. 2027 earliest.">
 </a>
 
 
