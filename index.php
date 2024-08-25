@@ -38,6 +38,25 @@
     <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/eve-looking-back-in-stellar-blade.jpg?q=49&fit=contain&w=750&h=415&dpr=2">
 </h1>
 
+
+<div alt="current game" align="center">
+
+<a href="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" class="thumbnail">
+    <img src="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" alt="Chrono Trigger. September.">
+</a>
+ 
+</div>
+
+<div alt="Next up" align="center">
+
+<a href="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" alt="Silent Hill 2. October.">
+</a>
+
+
+</div>
+
+
 <div class="Completed game" align="center">
 
 <a href="https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_TalesOfKenzeraZau.jpg" class="thumbnail">
@@ -58,71 +77,8 @@
 
 
 
-<div alt="current game" align="center">
-
-
-    <a href="https://cdn.mos.cms.futurecdn.net/jUzkZX6peuBa5BoMKofEDT.jpg" class="thumbnail">
-        <img src="https://cdn.mos.cms.futurecdn.net/jUzkZX6peuBa5BoMKofEDT.jpg" alt="Baldur's Gate 3">
-    </a>
-
-
- 
-</div>
-
-<div alt="Next up" align="center">
-
-<a href="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltcdfbdd3c14836a5e/650f146519d313133ac61494/hades_2.jpg?disable=upscale&width=1200&height=630&fit=crop" class="thumbnail">
-    <img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltcdfbdd3c14836a5e/650f146519d313133ac61494/hades_2.jpg?disable=upscale&width=1200&height=630&fit=crop" alt="Hades 2">
-</a>
-
-<a href="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" class="thumbnail">
-    <img src="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" alt="Chrono Trigger">
-</a>
-
-<a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" class="thumbnail">
-	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/Hero-e17b08808a857e872276.jpg" alt="Life is Strange Double Exposure October">
-</a>
-
-</div>
-
-
-
-
-
-<div alt="Play these....maybe, if you're bored" align="center">
-
-
-
-<a href="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" alt="Silent Hill 2">
-</a>
-
-<a href="https://sm.ign.com/ign_nl/screenshot/default/black-myth-wukong-dated-12-07-23_uncb.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/ign_nl/screenshot/default/black-myth-wukong-dated-12-07-23_uncb.jpg" alt="Black Myth Wukong">
-</a>
-
-<a href="https://images.pushsquare.com/84e29a6aefed1/smt-5-vengeance-ps5-ps4.large.jpg" class="thumbnail">
-    <img src="https://images.pushsquare.com/84e29a6aefed1/smt-5-vengeance-ps5-ps4.large.jpg" alt="Shin Megami Tensei Vengeance">
-</a>
-
-
-
-
-</div>
-
-
-
-<div alt="Competitive games" align="center">
-
-
-
-</div>
 
 <div alt="2025 and beyond games" align="center">
-
-<a href="https://sm.ign.com/ign_nl/photo/default/infinity-nikki-art-1-1669793987610_etgz.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/ign_nl/photo/default/infinity-nikki-art-1-1669793987610_etgz.jpg" alt="Infinite Nikki. 2025 confirmed.">
-</a>
 
 
 <a href="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" class="thumbnail">
