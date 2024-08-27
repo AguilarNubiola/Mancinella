@@ -41,13 +41,13 @@
 
 <div alt="current game" align="center">
 
-<a href="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" class="thumbnail">
-    <img src="https://i.etsystatic.com/10064703/r/il/5a9736/4076713467/il_fullxfull.4076713467_jf60.jpg" alt="Chrono Trigger. September.">
-</a>
+
  
 </div>
 
 <div alt="Next up" align="center">
+
+
 
 <a href="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" class="thumbnail">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" alt="Silent Hill 2. October.">
