@@ -29,29 +29,45 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<div alt="This week" align="center">
 
+
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2662813.jpg?1722696272" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2662813.jpg?1722696272" alt="Zatanna: Bring down the House 3 August 28th. Don't pay.">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1036097/remote-space-3-of-4_f1f07579e9.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1036097/remote-space-3-of-4_f1f07579e9.jpg" alt="Remote Space 3 August 28th. Don't pay.">
+    </a>
+
+
+</div>
 
 
 
 <div alt="next week" align="center">
 
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" alt="Monstress 54, august 28th. Pay.">
+    <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
+        <img src="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" alt="Exceptional X-Men #1, September 4th">
     </a>
 
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th. Don't pay.">
+    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL240731.jpg" class="thumbnail">
+        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL240731.jpg" alt="Ultimates #4. Don't pay.">
     </a>
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th. Pay.">
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" alt="Scarlett #4. Don't pay.">
     </a>
 
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" alt="Ultimate X_men #6 August 28th. Pay.">
+    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247019.jpg" class="thumbnail">
+        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247019.jpg" alt="Absolute Power #3. Don't pay.">
     </a>
+
+    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247098.jpg" class="thumbnail">
+        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247098.jpg" alt="Birds of Prey #13">
+    </a>
+
 
 
 
@@ -90,6 +106,10 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" alt="Uncanny X-men #3, September 25th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" alt="Ultimate X-Men #9">
     </a>
 
 
@@ -145,6 +165,15 @@
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" alt="X-Men 7. 6th of November.">
+    </a>
+
+    <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
+        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion">
+        <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
+        <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_A_COVER_DAVIDNAKAYAMA-600x910.jpg">
+        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_c_cover_ace_contunuado/">
+        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_e_cover_lesley_li/">
+
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
@@ -218,6 +247,18 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th. Buy.">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th. Don't pay.">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th. Pay.">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" alt="Ultimate X_men #6 August 28th. Pay.">
     </a>
 
 
@@ -329,6 +370,40 @@
     <a href="https://cdn.imagecomics.com/assets/i/releases/1035797/_57dbc31e55.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1035797/_57dbc31e55.jpg" alt="Napalm Lullaby 6">
     </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1035451/_17508cd038.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1035451/_17508cd038.jpg" alt="Remote Space 1">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1033745/remote-space-2-of-4_034082deeb.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1033745/remote-space-2-of-4_034082deeb.jpg" alt="Remote Space 2">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1031273/_396c410e8c.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1031273/_396c410e8c.jpg" alt="Scarlett #1">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1034172/_2019a8ed6c.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1034172/_2019a8ed6c.jpg" alt="Scarlett #2">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1035765/scarlett-3-of-5_9d4d60d286.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1035765/scarlett-3-of-5_9d4d60d286.jpg" alt="Scarlett #3">
+    </a>
+
+    <a href="https://assets.bigcartel.com/product_images/376593145/Front+cover.png?auto=format&fit=max&w=900" class="thumbnail">
+        <img src="https://assets.bigcartel.com/product_images/376593145/Front+cover.png?auto=format&fit=max&w=900" alt="Big Tiddie Goth Girlfriends on the moon #1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/51tnE1UhRML._SY1000_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51tnE1UhRML._SY1000_.jpg" alt="Big Tiddie Goth Girlfriends on the moon #2">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" alt="Monstress 54, august 28th. Pay.">
+    </a>
+
+
 
 
 

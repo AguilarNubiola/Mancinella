@@ -33,14 +33,9 @@
 <div alt="reading now" align="center">
 
 
-
-
-<a href="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9. August 28th.">
+<a href="https://m.media-amazon.com/images/I/91z9VUryMxL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91z9VUryMxL._AC_UF1000,1000_QL80_.jpg" alt="Hickman's Avengers">
 </a>
-
-
-
 
 
      
@@ -271,26 +266,27 @@
 </a>
 
 
-
-
-
-
-
-
-<div alt="Trades to read" align="center">
-
+<a href="https://m.media-amazon.com/images/I/91j0R4KznDL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91j0R4KznDL._AC_UF1000,1000_QL80_.jpg" alt="Kieron Gillen's Eternals">
+</a>
 
 
 <a href="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" class="thumbnail">
     <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9">
 </a>
 
+</div>
+
+
+<div alt="Trades to read" align="center">
+
 <a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2">
 </a>
 
-
-
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/12/Avengers-by-Jonathan-Hickman-Omnibus-Vol.-1-2-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/12/Avengers-by-Jonathan-Hickman-Omnibus-Vol.-1-2-2023.jpg?fit=400%2C615&ssl=1" alt="Hickman's Avengers">
+</a>
 
 
 

@@ -23,6 +23,7 @@
 
 
 
+
 <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
@@ -110,23 +111,16 @@
 
 </div>
 
-<div alt="August" align="center">
+<div alt="September" align="center">
 
 <a href="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" class="thumbnail">
     <img src="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" alt="Vivy Fluorite Eye Song">
-</a>
-
-<a href="https://static.wikia.nocookie.net/batman/images/a/a3/Batman_The_Caped_Crusader_poster.jpg" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/batman/images/a/a3/Batman_The_Caped_Crusader_poster.jpg" alt="Batman: Caped Crusader">
 </a>
 
 <a href="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" class="thumbnail">
         <img src="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" alt="My Neighbor Totoro">
     </a>
 
-    <a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
-        <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
-    </a>
 
 
 </div>
@@ -139,36 +133,9 @@
     <img src="https://m.media-amazon.com/images/M/MV5BZTM4Y2EwZjAtNzRjYS00NWJlLThkNzEtMTYxNDJjMTNhYjllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" alt="Unicorn Warriors Eternal">
 </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BNzI5ODk5MTMtMDE4OC00ZWM5LTg0MzYtNTJmZTY3OWY3NzEzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNzI5ODk5MTMtMDE4OC00ZWM5LTg0MzYtNTJmZTY3OWY3NzEzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" alt="King of the Hill">
-</a>
-
-<a href="https://m.media-amazon.com/images/M/MV5BMDc3OGNhYjUtZGYwNi00MjllLWE0MjYtNDFiYmVhNWI0MGJmXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMDc3OGNhYjUtZGYwNi00MjllLWE0MjYtNDFiYmVhNWI0MGJmXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg" alt="Star Trek Deep Space Nine">
-</a>
 
 
 </div>
-
-<div class="Not for me" align="center">
-
-<a href="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" alt="Jujutsu Kaisen">
-    </a>
-
-
-<a href="https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="Bob's Burgers">
-</a>
-
-<a href="https://image.volkskrant.nl/222549789/width/2480/jeremy-allen-white-in-the-bear" class="thumbnail">
-<img src="https://image.volkskrant.nl/222549789/width/2480/jeremy-allen-white-in-the-bear" alt="The Bear">
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Vinland_Saga_key_visual.png" alt="Vinland Saga 4 episodes">
-</a>
-
 
 
 </div>
@@ -191,10 +158,6 @@
     <img src="https://m.media-amazon.com/images/M/MV5BNTI0MjIwMDAtYWY1ZC00MDUyLWI0MzMtZGNjODRlN2Y3ZmE2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" alt="Joker 2">
 </a>
 
-
-<a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
-    <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
-</a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" alt="No hard feelings">
