@@ -81,27 +81,13 @@
 <div alt="2025 and beyond games" align="center">
 
 
-<a href="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/ign_nl/news/p/persona-3-/persona-3-4-and-5-were-blue-yellow-and-red-and-persona-6-wil_ryps.jpg" alt="Persona 6. Rumoured 2025.">
-</a>
 
-<a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" class="thumbnail">
-	<img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2024/06/E33-Hero-6dd18b4b4a20932fb140-1024x576.jpg" alt="Expedition 33. 2025 confirmed.">
-</a>
 
 
 <a href="https://i.pinimg.com/originals/e1/bf/64/e1bf640df96495a7adeb6bf2f57c1841.jpg" class="thumbnail">
     <img src="https://i.pinimg.com/originals/e1/bf/64/e1bf640df96495a7adeb6bf2f57c1841.jpg" alt="Horizon III. 2026 earliest.">
 </a>
 
-
-<a href="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" class="thumbnail">
-    <img src="https://staticdelivery.nexusmods.com/images/3333/12115323-1612029966.png" alt="Cyberpunk sequel. 2028 earliest.">
-</a>
-
-<a href="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" class="thumbnail">
-    <img src="https://www.gameworld.gr/media/reviews/photos/original/53/49/55/Stellar-Blade-new-summer-outfits-71-1722172490.jpg" alt="Stellar Blade sequel. 2027 earliest.">
-</a>
 
 
 </div>
