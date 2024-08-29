@@ -41,16 +41,31 @@
 
 <div alt="current game" align="center">
 
+<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, Eerste 2 weken September">
+</a>
+
 
  
 </div>
 
 <div alt="Next up" align="center">
 
+<a href="https://neverendingrealm.com/wp-content/uploads/2019/01/3072122-0612653297-chron.jpg" class="thumbnail">
+    <img src="https://neverendingrealm.com/wp-content/uploads/2019/01/3072122-0612653297-chron.jpg" alt="Chrono Trigger, derde week September">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/hades-2-key-art-melinoe.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-key-art-melinoe.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2, vierde week September">
+</a>
 
 
 <a href="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" alt="Silent Hill 2. October.">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" alt="Silent Hill 2. 8 Oktober.">
+</a>
+
+<a href="https://evilgamerz.com/wp-content/uploads/2024/06/Life-Is-Strange-Double-Exposure.jpg" class="thumbnail">
+    <img src="https://evilgamerz.com/wp-content/uploads/2024/06/Life-Is-Strange-Double-Exposure.jpg" alt="Life is Strange: Double Exposure. 29 Oktober.">
 </a>
 
 
@@ -82,7 +97,21 @@
 
 
 
+<a href="https://sportshub.cbsistatic.com/i/2024/07/25/9eaf99e8-fbd4-4e41-880b-8c337db7be80/stellar-blade.jpg" class="thumbnail">
+    <img src="https://sportshub.cbsistatic.com/i/2024/07/25/9eaf99e8-fbd4-4e41-880b-8c337db7be80/stellar-blade.jpg" alt="Stellar Blade sequel">
+</a>
 
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/persona-protage.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/persona-protage.jpg" alt="Persona 6">
+</a>
+
+<a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
+    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/cyberpunk-2077-new-v-crop.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/cyberpunk-2077-new-v-crop.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Cyberpunk sequel">
+</a>
 
 <a href="https://i.pinimg.com/originals/e1/bf/64/e1bf640df96495a7adeb6bf2f57c1841.jpg" class="thumbnail">
     <img src="https://i.pinimg.com/originals/e1/bf/64/e1bf640df96495a7adeb6bf2f57c1841.jpg" alt="Horizon III. 2026 earliest.">
