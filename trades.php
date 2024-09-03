@@ -33,10 +33,10 @@
 <div alt="reading now" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/91z9VUryMxL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91z9VUryMxL._AC_UF1000,1000_QL80_.jpg" alt="Hickman's Avengers">
-</a>
 
+<a href="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" alt="Casanova vol 2 Gula. Tweede week September">
+</a>
 
      
 </div>
@@ -45,10 +45,11 @@
 <div alt="Next up" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2. September 4th 2024.">
-</a>
 
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" alt="Casanova vol 3 Avaritia. Tweede week September">
+</a>
 
 
 
@@ -202,6 +203,9 @@
     <img src="https://m.media-amazon.com/images/I/81itqu3H0ML._AC_UF1000,1000_QL80_.jpg" alt="Tokyo Ghost">
 </a>
 
+<a href="https://cdn.archonia.com/images/1-104374509-2-1-original1/ultimate-x-men-by-peach-momoko-tp-vol-01-fears-and-hates-trade-paperback.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104374509-2-1-original1/ultimate-x-men-by-peach-momoko-tp-vol-01-fears-and-hates-trade-paperback.jpg" alt="Ultimate X-Men vol 1">
+</a>
 
 
 <a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*NBvcve_Rdwp2X8kHWFDwQQ.jpeg" class="thumbnail">
@@ -275,20 +279,100 @@
     <img src="https://cdn.archonia.com/images/1-104396115-1-1-original1/monstress-tp-vol-09-mr-trade-paperback.jpg" alt="Monstress vol 9">
 </a>
 
-</div>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1038309/the-last-mermaid-tp-vol-1_3df9c31548.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1038309/the-last-mermaid-tp-vol-1_3df9c31548.jpg" alt="The Last Mermaid vol 1">
+</a>
+
+<a href="https://freshcomics.s3.amazonaws.com/issue_covers/MAY240848.jpg" class="thumbnail">
+    <img src="https://freshcomics.s3.amazonaws.com/issue_covers/MAY240848.jpg" alt="Ultimate Spider-Man vol 1">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1025147/nights-tp-vol-1_bac2124d4d.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1025147/nights-tp-vol-1_bac2124d4d.jpg" alt="Nights vol 1, 1-6">
+</a>
+
+<a href="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/10/Avengers-World.jpg" class="thumbnail">
+    <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/10/Avengers-World.jpg" alt="Hickman's Avengers">
+</a>
+
+<a href="https://oyster.ignimgs.com/wordpress/stg.ign.com/2014/10/NMs9dmV.jpg" class="thumbnail">
+    <img src="https://oyster.ignimgs.com/wordpress/stg.ign.com/2014/10/NMs9dmV.jpg" alt="Secret Wars 3">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/3344/rose-vol-1-tp_65f5bec524.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/3344/rose-vol-1-tp_65f5bec524.jpg" alt="Rose">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/04/Murder-Inc.-Vol.-1-Valentines-Trust-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/04/Murder-Inc.-Vol.-1-Valentines-Trust-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Murder inc vol 1. Eerste week September">
+</a>
 
 
-<div alt="Trades to read" align="center">
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/12/Murder-Inc.-Vol.-2-Versus-America-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/12/Murder-Inc.-Vol.-2-Versus-America-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Murder inc vol 2. Eerste week September">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Murder-Inc.-Vol.-3-Jagger-Rose-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Murder-Inc.-Vol.-3-Jagger-Rose-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Murder inc vol 3. Eerste week September">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71V3kJQpniL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71V3kJQpniL._AC_UF1000,1000_QL80_.jpg" alt="SHIELD">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2019/05/Casanova-The-Complete-Edition-Vol.-1-3-2014-2015.jpg?fit=400%2C600&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2019/05/Casanova-The-Complete-Edition-Vol.-1-3-2014-2015.jpg?fit=400%2C600&ssl=1" alt="Casanova vol 1 Luxuria. Tweede week September">
+</a>
 
 <a href="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2">
 </a>
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/12/Avengers-by-Jonathan-Hickman-Omnibus-Vol.-1-2-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/12/Avengers-by-Jonathan-Hickman-Omnibus-Vol.-1-2-2023.jpg?fit=400%2C615&ssl=1" alt="Hickman's Avengers">
+
+
+
+</div>
+
+
+<div alt="Trades to read" align="center">
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" alt="Casanova vol 2 Gula. Tweede week September">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" alt="Casanova vol 3 Avaritia. Tweede week September">
 </a>
 
 
+
+
+</div>
+
+<div alt="Best books by each author" align="center">
+
+
+    <a href="https://upload.wikimedia.org/wikipedia/commons/a/a0/Gail_Simone_by_Gage_Skidmore.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Gail_Simone_by_Gage_Skidmore.jpg" alt="Gail Simone">
+        <img src="http://images2.fanpop.com/images/photos/5100000/Secret-Six-10-dc-comics-5113001-900-1385.jpg" alt="Secret Six">
+    </a>
+
+
+    <a href="https://upload.wikimedia.org/wikipedia/commons/1/14/Warren_Ellis_by_Gage_Skidmore.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Warren_Ellis_by_Gage_Skidmore.jpg" alt="Warren Ellis">
+        <img src="https://comichub.blob.core.windows.net/high/56948fe3-0757-47a8-a298-d7769926fa4d.jpg" alt="Planetary">
+    </a>
+
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rick_Remender_-_01.jpg/640px-Rick_Remender_-_01.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rick_Remender_-_01.jpg/640px-Rick_Remender_-_01.jpg" alt="Rick Remender">
+        <img src="https://m.media-amazon.com/images/I/71Yx20mxdyL._AC_UF894,1000_QL80_.jpg" alt="Low">
+    </a>
+
+    <a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/5.30.19MarjorieLiuByLuigiNovi10.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/5.30.19MarjorieLiuByLuigiNovi10.jpg" alt="Marjorie Liu">
+        <img src="https://m.media-amazon.com/images/I/81xP3c1ZwkL._AC_UF1000,1000_QL80_.jpg" alt="Monstress">
+    </a>
 
 
 </div>

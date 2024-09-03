@@ -42,19 +42,22 @@
         <img src="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" alt="PHP & MYSQL">
     </a>
 
+    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
+    </a>
+
+    
+
 
 
 </div>
 
 <div alt="Next up" align="center">
 
-<a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
-    </a>
 
 
-    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507457508i/36373723.jpg" class=thumbnail>
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507457508i/36373723.jpg" alt="Lukas the Trickster">
     </a>
 
 
@@ -99,6 +102,10 @@
 
     <a href="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81c9SSbG3OL._SL1500_.jpg" alt="I will teach you to be rich">
+    </a>
+
+    <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg"  class="thumbnail">
+        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
     </a>
 
 

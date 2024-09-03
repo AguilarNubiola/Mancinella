@@ -31,32 +31,7 @@
 
 <div alt="This week" align="center">
 
-
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2662813.jpg?1722696272" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2662813.jpg?1722696272" alt="Zatanna: Bring down the House 3 August 28th. Don't pay.">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1036097/remote-space-3-of-4_f1f07579e9.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1036097/remote-space-3-of-4_f1f07579e9.jpg" alt="Remote Space 3 August 28th. Don't pay.">
-    </a>
-
-
-</div>
-
-
-
-<div alt="next week" align="center">
-
-    <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
-        <img src="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" alt="Exceptional X-Men #1, September 4th">
-    </a>
-
-    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL240731.jpg" class="thumbnail">
-        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL240731.jpg" alt="Ultimates #4. Don't pay.">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" class="thumbnail">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" alt="Scarlett #4. Don't pay.">
     </a>
 
@@ -64,10 +39,16 @@
         <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247019.jpg" alt="Absolute Power #3. Don't pay.">
     </a>
 
-    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247098.jpg" class="thumbnail">
-        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247098.jpg" alt="Birds of Prey #13">
-    </a>
+</div>
 
+
+
+<div alt="next week" align="center">
+
+
+<a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" alt="Uncanny X-Men #2, September 11th">
+    </a>
 
 
 
@@ -76,13 +57,7 @@
 
 
 <div alt="September comics" align="center">
-    <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
-        <img src="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" alt="Exceptional X-Men #1, September 4th">
-    </a>
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" alt="Uncanny X-Men #2, September 11th">
-    </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
@@ -108,6 +83,10 @@
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" alt="Uncanny X-men #3, September 25th">
     </a>
 
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1038344/nights-11_699b6eca11.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1038344/nights-11_699b6eca11.jpg" alt="Nights #11">
+    </a>
+
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" alt="Ultimate X-Men #9">
     </a>
@@ -118,6 +97,10 @@
 <div alt="October books" align="center">
     <a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" alt="X-Men $5">
     </a>
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
@@ -140,6 +123,10 @@
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6 23rd of October">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" alt="Nights #12, 30th of October">
     </a>
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" class="thumbnail">
@@ -182,6 +169,10 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" alt="Uncanny X-men 5. November 13th">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 13th">
     </a>
 
     
@@ -242,23 +233,27 @@
     </a>
 
     <a href="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th. Wait.">
+        <img src="https://cdn.marvel.com/content/2x/xfact2024001_asrar.jpg" alt="X-Factor #1, august 14th.">
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th. Buy.">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/50/664cced171237/clean.jpg" alt="X-Men #2, August 14th. ">
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th. Don't pay.">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/30/664cced2eae24/clean.jpg" alt="X-Men #3, August 28th. ">
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th. Pay.">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/f0/664cced10ba8c/clean.jpg" alt="X-Force #2, August 28th. ">
     </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" alt="Ultimate X_men #6 August 28th. Pay.">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5396076.jpg" alt="Ultimate X_men #6 August 28th. ">
+    </a>
+
+    <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
+        <img src="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" alt="Exceptional X-Men #1">
     </a>
 
 
@@ -402,6 +397,47 @@
     <a href="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1036114/monstress-54_074c14fee7.jpg" alt="Monstress 54, august 28th. Pay.">
     </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1036097/remote-space-3-of-4_f1f07579e9.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1036097/remote-space-3-of-4_f1f07579e9.jpg" alt="Remote Space 3 August 28th. Pay.">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2662813.jpg?1722696272" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2662813.jpg?1722696272" alt="Zatanna: Bring down the House 3 August 28th. Don't pay.">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1025150/nights-7_e5ecde221a.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1025150/nights-7_e5ecde221a.jpg" alt="Nights #7">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1031664/nights-8_4d66f176a2.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1031664/nights-8_4d66f176a2.jpg" alt="Nights #8">
+    </a>
+
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1033766/nights-9_fd1c0dcb33.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1033766/nights-9_fd1c0dcb33.jpg" alt="Nights #9">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1036109/nights-10_b851158620.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1036109/nights-10_b851158620.jpg" alt="Nights #10">
+    </a>
+
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/Gunwork-1-2020.jpg?fit=400%2C601&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/Gunwork-1-2020.jpg?fit=400%2C601&ssl=1" alt="Gunwork">
+    </a>
+
+    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247098.jpg" class="thumbnail">
+        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247098.jpg" alt="Birds of Prey #13. Don't pay.">
+    </a>
+
+    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL240731.jpg" class="thumbnail">
+        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL240731.jpg" alt="Ultimates #4. Don't pay.">
+    </a>
+
+
+
 
 
 
