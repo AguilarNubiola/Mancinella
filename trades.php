@@ -34,22 +34,12 @@
 
 
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" alt="Casanova vol 2 Gula. Tweede week September">
-</a>
 
      
 </div>
 
 
 <div alt="Next up" align="center">
-
-
-
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" alt="Casanova vol 3 Avaritia. Tweede week September">
-</a>
 
 
 
@@ -329,6 +319,14 @@
     <img src="https://m.media-amazon.com/images/I/91Hp6xgSA3L._SL1500_.jpg" alt="Birds of Prey vol 2">
 </a>
 
+<a href="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" alt="Casanova vol 2 Gula. Tweede week September">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" alt="Casanova vol 3 Avaritia. Tweede week September">
+</a>
+
 
 
 
@@ -337,13 +335,6 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/11488/casanova-vol-2-gula-the-complete-edition-hc_cbfdeed407.jpg" alt="Casanova vol 2 Gula. Tweede week September">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" alt="Casanova vol 3 Avaritia. Tweede week September">
-</a>
 
 
 
