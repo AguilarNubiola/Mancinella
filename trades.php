@@ -32,6 +32,9 @@
 
 <div alt="reading now" align="center">
 
+<a href="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" alt="It’s Lonely at the Centre of the World">
+</a>
 
 
 
@@ -43,6 +46,17 @@
 
 
 
+<a href="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" class="thumbnail">
+    <img src="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" alt="Squadron Supreme">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" alt="Sleeper season 1. Saturday.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" alt="Sleeper season 2. Saturday.">
+</a>
 
 
 </div>
@@ -327,13 +341,36 @@
     <img src="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" alt="Casanova vol 3 Avaritia. Tweede week September">
 </a>
 
+<a href="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25439260/Gotham_City_Sirens_3__Dodson_.jpg" class="thumbnail">
+    <img src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25439260/Gotham_City_Sirens_3__Dodson_.jpg" alt="Gotham City Sirens">
+</a>
 
+<a href="https://m.media-amazon.com/images/I/71mzHuxUFSL._SL1400_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71mzHuxUFSL._SL1400_.jpg" alt="Nextwave">
+</a>
 
 
 </div>
 
 
 <div alt="Trades to read" align="center">
+
+
+<a href="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" alt="Sleeper season 1. Saturday.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" alt="Sleeper season 2. Saturday.">
+</a>
+
+<a href="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" class="thumbnail">
+    <img src="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" alt="Squadron Supreme. Friday.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" alt="It’s Lonely at the Centre of the World. Friday.">
+</a>
 
 
 
