@@ -111,19 +111,6 @@
 
 </div>
 
-<div alt="September" align="center">
-
-<a href="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" class="thumbnail">
-    <img src="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" alt="Vivy Fluorite Eye Song">
-</a>
-
-<a href="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" class="thumbnail">
-        <img src="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" alt="My Neighbor Totoro">
-    </a>
-
-
-
-</div>
 
 
 <div class="backburner" align="center">

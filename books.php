@@ -60,6 +60,10 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507457508i/36373723.jpg" alt="Lukas the Trickster">
     </a>
 
+    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" class="thumbnail">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" alt="Godslayers">
+    </a>
+
 
 </div>
 
@@ -120,8 +124,27 @@
 
 <div alt="September books to read" align="center">
 
+    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
+    </>
 
-    <a href="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" class="thumbnail">
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
+    </a>
+
+    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" class="thumbnail">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" alt="Godslayers">
+    </a>
+
+
+</div>
+
+</div>
+
+<div alt="October Books" align='center'>
+
+<a href="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" alt="Renegades">
     </a>
 
@@ -132,17 +155,6 @@
     <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
     </a>
-
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
-    </a>
-
-</div>
-
-</div>
-
-<div alt="October Books" align='center'>
 
 <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius"/>

@@ -32,13 +32,11 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" alt="It’s Lonely at the Centre of the World">
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" alt="Ed Brubaker's Winter Soldier">
 </a>
 
 
-
-     
 </div>
 
 
@@ -46,16 +44,8 @@
 
 
 
-<a href="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" class="thumbnail">
-    <img src="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" alt="Squadron Supreme">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" alt="Sleeper season 1. Saturday.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" alt="Sleeper season 2. Saturday.">
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" alt="Mutant Massacre">
 </a>
 
 
@@ -349,6 +339,39 @@
     <img src="https://m.media-amazon.com/images/I/71mzHuxUFSL._SL1400_.jpg" alt="Nextwave">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" alt="It’s Lonely at the Centre of the World">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71+LvIZDEvL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71+LvIZDEvL._AC_UF1000,1000_QL80_.jpg" alt="Impending Blindness of Billie Scott">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81CX-bfpPfL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81CX-bfpPfL._AC_UF894,1000_QL80_.jpg" alt="Hack and Slash Back to School">
+</a>
+
+<a href="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" class="thumbnail">
+    <img src="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" alt="Squadron Supreme.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91+znAGu26L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91+znAGu26L._AC_UF894,1000_QL80_.jpg" alt="Squadron Supreme Death of a Universe">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" alt="Sleeper season 1. ">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2017/03/X-Men-Lifedeath-2011.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/03/X-Men-Lifedeath-2011.jpg?fit=400%2C615&ssl=1" alt="Lifedeath">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" alt="Sleeper season 2. ">
+</a>
+
+
 
 </div>
 
@@ -356,20 +379,12 @@
 <div alt="Trades to read" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/51w34hWzqFL.jpg" alt="Sleeper season 1. Saturday.">
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" alt="Mutant Massacre">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" alt="Sleeper season 2. Saturday.">
-</a>
-
-<a href="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" class="thumbnail">
-    <img src="https://preview.redd.it/the-squadron-supreme-the-1997-1st-printing-tpb-which-had-a-v0-4rokx5lh046b1.jpg?width=1080&crop=smart&auto=webp&s=6c8ff7007480c95e5a129b9aa9bf1c41ba434aac" alt="Squadron Supreme. Friday.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/718WYT4FhGL._AC_UF894,1000_QL80_.jpg" alt="It’s Lonely at the Centre of the World. Friday.">
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" alt="Ed Brubaker's Winter Soldier">
 </a>
 
 
