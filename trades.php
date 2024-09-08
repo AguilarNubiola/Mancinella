@@ -44,11 +44,6 @@
 
 
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" alt="Mutant Massacre">
-</a>
-
-
 </div>
 
 <div alt="finished comics" align="Center">
@@ -371,6 +366,10 @@
     <img src="https://m.media-amazon.com/images/I/61N+NlfHPNL._AC_UF1000,1000_QL80_.jpg" alt="Sleeper season 2. ">
 </a>
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" alt="Mutant Massacre">
+</a>
+
 
 
 </div>
@@ -378,10 +377,6 @@
 
 <div alt="Trades to read" align="center">
 
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2018/08/X-Men-Mutant-Massacre-TPB-2010.jpg?fit=400%2C598&ssl=1" alt="Mutant Massacre">
-</a>
 
 <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" alt="Ed Brubaker's Winter Soldier">
