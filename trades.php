@@ -32,9 +32,10 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" alt="Ed Brubaker's Winter Soldier">
+<a href="https://m.media-amazon.com/images/I/71RgvfEIzlL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71RgvfEIzlL._AC_UF894,1000_QL80_.jpg" alt="All-Star Superman">
 </a>
+
 
 
 </div>
@@ -42,6 +43,9 @@
 
 <div alt="Next up" align="center">
 
+<a href="https://m.media-amazon.com/images/I/91vJgokFnlL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91vJgokFnlL._SL1500_.jpg" alt="New X-Men by Grant Morrison">
+</a>
 
 
 </div>
@@ -371,20 +375,52 @@
 </a>
 
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" alt="Ed Brubaker's Winter Soldier">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2020/02/Winter-Soldier-by-Ed-Brubaker-The-Complete-Collection-2014.jpg" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2020/02/Winter-Soldier-by-Ed-Brubaker-The-Complete-Collection-2014.jpg" alt="Winter Soldier">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2020/04/Black-Widow-The-Name-of-the-Rose-TPB-2010.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2020/04/Black-Widow-The-Name-of-the-Rose-TPB-2010.jpg?fit=400%2C615&ssl=1" alt="Black Widow in the name of the Rose">
+</a>
+
+<a href="https://images.squarespace-cdn.com/content/v1/5b208f56f8370a1da3540f8b/1616886088318-4EC8NDCTK9KBIDE6MFH3/Black+Widow+5+Hughes+Cover.jpg?format=1000w" class="thumbnail">
+    <img src="https://images.squarespace-cdn.com/content/v1/5b208f56f8370a1da3540f8b/1616886088318-4EC8NDCTK9KBIDE6MFH3/Black+Widow+5+Hughes+Cover.jpg?format=1000w" alt="Kelly Thompson's Black Widow">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/81DvEW7qEdL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81DvEW7qEdL._AC_UF1000,1000_QL80_.jpg" alt="Harley Quinn: Breaking Glass">
+</a>
+
+<a href="https://2.bp.blogspot.com/SPjmFGReDgOYmBZS9dkc7EnwkGeerclq8ZsKAEuEmfeTesg9rUvrVUEfFJWselYarSzYdy0iW06QwHUwXb_xyf-bN38GZKQq6yaeAPdwdePcTIsMDVw6EtL-JE0VFpYuQq7iYVZhfw=s0" class="thumbnail">
+    <img src="https://2.bp.blogspot.com/SPjmFGReDgOYmBZS9dkc7EnwkGeerclq8ZsKAEuEmfeTesg9rUvrVUEfFJWselYarSzYdy0iW06QwHUwXb_xyf-bN38GZKQq6yaeAPdwdePcTIsMDVw6EtL-JE0VFpYuQq7iYVZhfw=s0" alt="Catwoman: Under the Moon">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2019/08/Planetoid-Vol.-1-TPB-2013.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2019/08/Planetoid-Vol.-1-TPB-2013.jpg?fit=400%2C615&ssl=1" alt="Planetoid">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2019/08/Planetoid-Praxis-1-6-2017.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2019/08/Planetoid-Praxis-1-6-2017.jpg?fit=400%2C615&ssl=1" alt="Planetoid: Praxis">
+</a>
 
 </div>
 
 
 <div alt="Trades to read" align="center">
 
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/07/Captain-America-Modern-Era-Epic-Collection-Vol.-1-The-Winter-Soldier-2024.jpg?fit=400%2C615&ssl=1" alt="Ed Brubaker's Winter Soldier">
+<a href="https://m.media-amazon.com/images/I/71RgvfEIzlL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71RgvfEIzlL._AC_UF894,1000_QL80_.jpg" alt="All-Star Superman">
 </a>
 
 
-
-
+<a href="https://m.media-amazon.com/images/I/91vJgokFnlL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91vJgokFnlL._SL1500_.jpg" alt="New X-Men by Grant Morrison">
+</a>
 
 </div>
 
