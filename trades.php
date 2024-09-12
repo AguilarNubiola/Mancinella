@@ -408,6 +408,14 @@
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2019/08/Planetoid-Praxis-1-6-2017.jpg?fit=400%2C615&ssl=1" alt="Planetoid: Praxis">
 </a>
 
+<a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fozqztv55epha1.jpg" class="thumbnail">
+    <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fozqztv55epha1.jpg" alt="All-Star Superman">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81GvV7NQHVL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81GvV7NQHVL._AC_UF1000,1000_QL80_.jpg" alt="Black Widow: No Restraints Play">
+</a>
+
 </div>
 
 
