@@ -36,6 +36,10 @@
     <img src="https://m.media-amazon.com/images/I/91vJgokFnlL._SL1500_.jpg" alt="New X-Men by Grant Morrison">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/A184EVrwoZL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/A184EVrwoZL._AC_UF1000,1000_QL80_.jpg" alt="Black Widow: Coldest War">
+</a>
+
 
 
 </div>
