@@ -418,10 +418,6 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://m.media-amazon.com/images/I/71RgvfEIzlL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71RgvfEIzlL._AC_UF894,1000_QL80_.jpg" alt="All-Star Superman">
-</a>
-
 
 <a href="https://m.media-amazon.com/images/I/91vJgokFnlL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91vJgokFnlL._SL1500_.jpg" alt="New X-Men by Grant Morrison">
