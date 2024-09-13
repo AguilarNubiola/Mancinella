@@ -32,6 +32,9 @@
 
 <div alt="reading now" align="center">
 
+<a href="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" class="thumbnail">
+    <img src="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" alt="SWORD">
+</a>
 
 
 </div>
