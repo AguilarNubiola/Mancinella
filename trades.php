@@ -32,11 +32,6 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" class="thumbnail">
-    <img src="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" alt="SWORD">
-</a>
-
-
 </div>
 
 
@@ -427,6 +422,10 @@
 
 <a href="https://i0.wp.com/getcomics.org/share/uploads/2019/11/X-Force-Sex-and-Violence-1-3-2010.jpg?fit=400%2C615&ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2019/11/X-Force-Sex-and-Violence-1-3-2010.jpg?fit=400%2C615&ssl=1" alt="X-Force: Sex and Violence">
+</a>
+
+<a href="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" class="thumbnail">
+    <img src="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" alt="SWORD">
 </a>
 
 
