@@ -31,19 +31,7 @@
 
 <div alt="This week" align="center">
 
-<a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" alt="Uncanny X-Men #2, September 11th">
-    </a>
-
-
-</div>
-
-
-
-<div alt="next week" align="center">
-
-
-<a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
     </a>
 
@@ -59,13 +47,13 @@
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" alt="Dazzler #1, September 18th">
     </a>
 
+ 
 
 </div>
 
 
 
-<div alt="September comics" align="center">
-
+<div alt="next week" align="center">
 
 
     <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" class="thumbnail">
@@ -83,6 +71,19 @@
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" alt="Ultimate Spider-Man #9, September 25th">
     </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+
+</div>
+
+
+
+<div alt="September comics" align="center">
+
+
 
 
 </div>
@@ -247,6 +248,10 @@
 
     <a href="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" class="thumbnail">
         <img src="https://preview.redd.it/new-details-revealed-for-exceptional-x-men-coming-september-v0-j2f8dsd1zezc1.png?width=1012&format=png&auto=webp&s=aaaf4fcea9eecca76ef2d0e0ead616bc35a515dc" alt="Exceptional X-Men #1">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" alt="Uncanny X-Men #2, September 11th">
     </a>
 
 
@@ -476,6 +481,14 @@
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/Gunwork-1-2020.jpg?fit=400%2C601&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/Gunwork-1-2020.jpg?fit=400%2C601&ssl=1" alt="Gunwork">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Into-the-Unbeing-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Into-the-Unbeing-1-2024.jpg?fit=400%2C615&ssl=1" alt="Into the Unbeing #1">
+    </a>
+
+    <a href="https://madcavestudios.com/wp-content/uploads/2024/06/Dark-Empty-Void-1-Cover-A-437x668-1.jpg" class="thumbnail">
+        <img src="https://madcavestudios.com/wp-content/uploads/2024/06/Dark-Empty-Void-1-Cover-A-437x668-1.jpg" alt="Dark Empty Void #1">
     </a>
 
 
