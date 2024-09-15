@@ -14,6 +14,7 @@
 
 </head>
 
+
 <body>
 
 
@@ -32,13 +33,41 @@
 
 <div alt="reading now" align="center">
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="X-Factor Omnibus">
+</a>
+
 </div>
 
 
 <div alt="Next up" align="center">
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="Mutant Massacre Prelude">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" alt="Fall of the Mutants">
+</a>
 
 
+</div>
+
+<div alt="November books" align="center">
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="X-Factor Omnibus">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="Mutant Massacre Prelude">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" alt="Fall of the Mutants">
+</a>
+
+    
 
 </div>
 
@@ -434,7 +463,14 @@
 
 <div alt="Trades to read" align="center">
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="X-Factor Omnibus">
+</a>
 
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="Mutant Massacre Prelude">
+</a>
 
 
 </div>

@@ -38,9 +38,8 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-
-    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" class="thumbnail">
-        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" alt="Godslayers">
+    <a href="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" alt="Improve your Social Skills"/>
     </a>
 
     
@@ -271,6 +270,11 @@
     <a hreg="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
     </a>
+
+    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" class="thumbnail">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" alt="Godslayers">
+    </a>
+
 
 </div>
 
