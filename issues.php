@@ -35,10 +35,6 @@
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
     </a>
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" alt="Ultimate X-Men #7, September 18th">
-    </a>
-
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" alt="Avengers #18, September 18th">
     </a>
@@ -72,8 +68,8 @@
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" alt="Ultimate Spider-Man #9, September 25th">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" alt="Remote Space #4">
     </a>
 
 
@@ -252,6 +248,10 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/50/6669b83e91e26/clean.jpg" alt="Uncanny X-Men #2, September 11th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" alt="Ultimate X-Men #7, September 18th">
     </a>
 
 
@@ -457,6 +457,7 @@
     <a href="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" alt="Scarlett #4.">
     </a>
+
 
 
 
