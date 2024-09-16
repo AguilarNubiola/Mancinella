@@ -136,7 +136,6 @@
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
     </a>
 
-
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
@@ -149,9 +148,6 @@
         <img src="https://cdnb.artstation.com/p/assets/images/images/024/563/593/large/joseph-meehan-josephmeehan-jedi-final-small.jpg?1582817968" alt="Light of the Jedi">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" alt="Improve your Social Skills"/>
-    </a>
 
 
 </div>
@@ -160,9 +156,6 @@
 
 <div alt="October Books" align='center'>
 
-<a href="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" alt="Renegades">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/5101IFXo3+L._SL500_.jpg" alt="Old man's War"/>
@@ -172,12 +165,39 @@
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
     </a>
 
-<a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius"/>
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" alt="Improve your Social Skills"/>
+    </a>
+
+
+    <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" alt="Neuromancer"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91nhk-aO7lL._SL1500_.jpg" class="thumbnail"
+        <img src="https://m.media-amazon.com/images/I/91nhk-aO7lL._SL1500_.jpg" alt="Count Zero">
+    </a>
+
+    <a href="https://pictures.abebooks.com/isbn/9780553052503-us-300.jpg" class="thumbnail"
+        <img src="https://pictures.abebooks.com/isbn/9780553052503-us-300.jpg" alt="Mona Lisa Overdrive">
+    </a>
+    
+
+    <a href="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" alt="House of War"/>
+    </a>
+
+</div>
+
+<div alt="November books" align="cente">
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" alt="Trauma and Recovery"/>
     </a>
 
     <a href="https://m.media-amazon.com/images/I/8135QxIueIL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
@@ -188,24 +208,28 @@
         <img src="https://m.media-amazon.com/images/I/81hqu1dMckL._AC_UF894,1000_QL80_.jpg" alt="The Light Fantastic"/>
     </a>
 
-    <a href="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg" alt="Neuromancer"/>
+    <a href="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/jqv3rlpEMLj4/550x834.jpg" alt="Renegades">
     </a>
 
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals"/>
+    <a href="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/411MSvCZl7L.jpg" alt="Sanguinius"/>
     </a>
 
 </div>
 
-<div alt="November Books" align='center'>
+<div alt="December Books" align='center'>
 
-    <a href="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/51jgKXaj3tL._AC_UF894,1000_QL80_.jpg" alt="Trauma and Recovery"/>
+    <a href="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" class="thumbnail">
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" alt="War and Peace">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" alt="House of War"/>
+    <a href="https://m.media-amazon.com/images/I/41Rb-Kz6v1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/41Rb-Kz6v1L._AC_UF894,1000_QL80_.jpg" alt="Ulysses">
+    </a>
+
+    <a href="" class="">
+        <img src="" alt="">
     </a>
 
 
