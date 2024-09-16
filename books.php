@@ -276,9 +276,6 @@
         <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
     </a>
 
-    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" class="thumbnail">
-        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" alt="Godslayers">
-    </a>
 
 
 </div>
