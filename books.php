@@ -115,6 +115,11 @@
         <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
     </a>
 
+    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" class="thumbnail">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" alt="Godslayers">
+    </a>
+
+
 
 
 </div>
