@@ -49,36 +49,7 @@
  
 </div>
 
-<div alt="Next up" align="center">
 
-
-<a href="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg" alt="Silent Hill 2. 8 Oktober. 10-15 hours.">
-</a>
-
-<a href="https://evilgamerz.com/wp-content/uploads/2024/06/Life-Is-Strange-Double-Exposure.jpg" class="thumbnail">
-    <img src="https://evilgamerz.com/wp-content/uploads/2024/06/Life-Is-Strange-Double-Exposure.jpg" alt="Life is Strange: Double Exposure. 29 Oktober.">
-</a>
-
-
-</div>
-
-<div alt="Possible" align="center">
-    <a href="https://playsense.nl/wp-content/uploads/2023/12/Hades-2-banner.jpg" class="thumbnail">
-        <img src="https://playsense.nl/wp-content/uploads/2023/12/Hades-2-banner.jpg" alt="Hades II">
-    </a>
-
-    <a href="https://gh.cdn.sewest.net/assets/ident/GHAssets/ChronoTrigger/GamesIndex_GameListing_Artwork.jpg?quality=65" class="thumbnail">
-        <img src="https://gh.cdn.sewest.net/assets/ident/GHAssets/ChronoTrigger/GamesIndex_GameListing_Artwork.jpg?quality=65" alt="Chrono Trigger">
-    </a>
-
-    <a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
-        <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33">
-    </a>
-
-
-
-</div>
 
 
 <div class="Completed game" align="center">
@@ -99,11 +70,16 @@
     <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Erdtree">
 </a>
 
+</div>
+
 
 
 
 <div alt="Unknown and beyond games" align="center">
 
+<a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
+    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33">
+</a>
 
 
 <a href="https://sportshub.cbsistatic.com/i/2024/07/25/9eaf99e8-fbd4-4e41-880b-8c337db7be80/stellar-blade.jpg" class="thumbnail">
