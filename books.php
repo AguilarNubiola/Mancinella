@@ -38,9 +38,11 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" alt="Improve your Social Skills"/>
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
+
+    
 
     
 
@@ -52,10 +54,6 @@
 
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
-    </a>
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507457508i/36373723.jpg" class=thumbnail>
