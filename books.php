@@ -119,6 +119,10 @@
         <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630356742l/58484148.jpg" alt="Godslayers">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/516IRl0taeL._AC_UF1000,1000_QL80_.jpg" alt="Improve your Social Skills"/>
+    </a>
+
 
 
 
