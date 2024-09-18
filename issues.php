@@ -49,7 +49,7 @@
     </a>
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" alt="Remote Space #4">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" alt="Remote Space #4, September 25th">
     </a>
 
 </div>
@@ -72,17 +72,23 @@
 
 
 
-<div alt="September comics" align="center">
-
-
-
-</div>
-
 <div alt="October books" align="center">
   
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4, 9th of October">
+    </a>
+
+    <a href="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" class="thumbnail">
+        <img src="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" alt="Ultimates #5, 9th of October">
+    </a>
+
+    <a href="https://imagecomics.com/files/releases/0824IM426.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0824IM426.jpg" alt="Scarlett #5, 9th of October">
+    </a>
+
+    <a href="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" class="thumbnail">
+        <img src="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" alt="Exceptional X-Men #2, 9th of October">
     </a>
     
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
@@ -93,10 +99,17 @@
         <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
     </a>
 
+    <a href="https://imagecomics.com/files/releases/0824IM400.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0824IM400.jpg" alt="The Moon is Following us #2, 23rd of October">
+    </a>
+
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8504225.jpg?1721416207" class="thumbnail">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8504225.jpg?1721416207" alt="Absolute Wonder Woman #1, 23rd of October">
     </a>
 
+    <a href="https://imagecomics.com/files/releases/0824IM406.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0824IM406.jpg" alt="The Power Fantasy, 23rd of October">
+    </a>
 
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
@@ -166,6 +179,16 @@
     <a href="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" class="thumbnail">
         <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimate Spider-man 11. 20th of November.">
     </a>
+
+    <a href="https://imagecomics.com/files/releases/0924IM380.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0924IM380.jpg" alt="The Moon is Following us #3. 20th of November.">
+        <img src="https://imagecomics.com/files/releases/0924IM381.jpg" >
+    </a>
+
+    <a href="https://imagecomics.com/files/releases/0924IM388.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0924IM388.jpg" alt="Power Fantasy #4, 20th of November">
+    </a>
+
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" alt="Uncanny X-men 6. November 27th">
@@ -252,6 +275,10 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" alt="Dazzler #1, September 18th">
+    </a>
+
+    <a href="https://comicfever.ca/cdn/shop/files/202406-0000458818_659x.jpg?v=1726534088" class="thumbnail">
+        <img src="https://comicfever.ca/cdn/shop/files/202406-0000458818_659x.jpg?v=1726534088" alt="Avengers 18">
     </a>
 
 
@@ -456,6 +483,14 @@
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1038587/scarlett-4-of-5_e80cf97985.jpg" alt="Scarlett #4.">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1038476/the-moon-is-following-us-1-of-10_bcff760354.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1038476/the-moon-is-following-us-1-of-10_bcff760354.jpg" alt="The Moon is Following Us #1">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1038367/the-power-fantasy-2_2bc9c215be.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1038367/the-power-fantasy-2_2bc9c215be.jpg" alt="Power Fantasy #2">
     </a>
 
 
