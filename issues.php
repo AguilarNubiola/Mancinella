@@ -32,7 +32,7 @@
 <div alt="This week" align="center">
 
 
-<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" class="thumbnail">
+    <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" class="thumbnail">
         <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" alt="X-Force #3, September 25th">
     </a>
 
@@ -59,7 +59,7 @@
 <div alt="next week" align="center">
 
 
-<a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
+    <a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
     </a>
 
