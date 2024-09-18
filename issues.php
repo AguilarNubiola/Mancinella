@@ -31,28 +31,8 @@
 
 <div alt="This week" align="center">
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
-    </a>
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/90/6669b76a1fb04/clean.jpg" alt="Avengers #18, September 18th">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" alt="Dazzler #1, September 18th">
-    </a>
-
- 
-
-</div>
-
-
-
-<div alt="next week" align="center">
-
-
-    <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" class="thumbnail">
+<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" class="thumbnail">
         <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620919400321.jpg?v=1718986985&width=1200" alt="X-Force #3, September 25th">
     </a>
 
@@ -72,6 +52,21 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" alt="Remote Space #4">
     </a>
 
+</div>
+
+
+
+<div alt="next week" align="center">
+
+
+<a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" alt="X-Men #5, October 2nd">
+    </a>
+
 
 </div>
 
@@ -81,17 +76,10 @@
 
 
 
-
 </div>
 
 <div alt="October books" align="center">
-    <a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" alt="X-Men $5, October 2nd">
-    </a>
+  
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4, 9th of October">
@@ -252,6 +240,18 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/e0/6669b82d05b9b/clean.jpg" alt="Ultimate X-Men #7, September 18th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/50/6669b7685eac4/clean.jpg" alt="X-Men #4, September 18th">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6712108.jpg?1726447684" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6712108.jpg?1726447684" alt="X-Factor #2, September 18th">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/40/6669b78a594ca/clean.jpg" alt="Dazzler #1, September 18th">
     </a>
 
 
