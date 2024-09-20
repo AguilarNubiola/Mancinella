@@ -53,21 +53,27 @@
 
 </div>
 
-<div alt="November books" align="center">
+<div alt="October trades" align="center">
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="X-Factor Omnibus">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" alt="Remote Space">
 </a>
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="Mutant Massacre Prelude">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1018091/_35ebe80db5.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1018091/_35ebe80db5.jpg" alt="Rook Exodus vol 1">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" alt="Fall of the Mutants">
+<a href="https://scontent-ams2-1.cdninstagram.com/v/t51.29350-15/446220654_795073412593848_4780919595955191431_n.jpg" class="thumbnail">
+    <img src="https://goldenapplecomics.com/cdn/shop/files/126223-hr.jpg?v=1722029521" alt="X-Men vol 1 by Jed Mackay">
 </a>
 
-    
+<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" class="thumbnail">
+    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" alt="Kelly Thompson's Scarlett">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" alt="Nights vol 2">
+</a>
 
 </div>
 
@@ -455,6 +461,10 @@
 
 <a href="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" class="thumbnail">
     <img src="https://aiptcomics.com/wp-content/uploads/2021/10/SWORD-vol-1-e1633547751583.jpg" alt="SWORD">
+</a>
+
+<a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/603035694ca02/clean.jpg" class="thumbnail">
+    <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/603035694ca02/clean.jpg" alt="America Chavez: Made in the USA">
 </a>
 
 

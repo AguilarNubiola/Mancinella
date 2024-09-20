@@ -493,26 +493,6 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1038367/the-power-fantasy-2_2bc9c215be.jpg" alt="Power Fantasy #2">
     </a>
 
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1018090/rook-exodus-1_92a8647d61.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1018090/rook-exodus-1_92a8647d61.jpg" alt="Rook Exodus #1">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1025139/rook-exodus-2_e84dfb111b.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1025139/rook-exodus-2_e84dfb111b.jpg" alt="Rook Exodus #2">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1031543/rook-exodus-3_3fbe722f61.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1031543/rook-exodus-3_3fbe722f61.jpg" alt="Rook Exodus #3">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1033736/rook-exodus-4_e989973a51.jpg" class="thumbnail">
-        <img src=https://cdn.imagecomics.com/assets/i/releases/1033736/rook-exodus-4_e989973a51.jpg"" alt="Rook Exodus #4">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1035904/rook-exodus-5_9e224f12e0.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1035904/rook-exodus-5_9e224f12e0.jpg" alt="Rook Exodus #5">
-    </a>
-
 
 
 
