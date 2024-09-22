@@ -62,7 +62,15 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507457508i/36373723.jpg" alt="Lukas the Trickster">
     </a>
 
-    
+    <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="thumbnail">
+        <img src="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" alt="Assassinorum: Kingmaker">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71wCxOMukyL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wCxOMukyL._AC_UF894,1000_QL80_.jpg" alt="The Infinite and the Divine">
+    </a>
+
+
 
 
 </div>

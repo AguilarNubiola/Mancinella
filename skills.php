@@ -38,6 +38,20 @@
 
 <h1 align="center" class="What I wish to become"><img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/cyberpunk-red-netrunning-1.jpg"><img src="https://static.wikia.nocookie.net/marveldatabase/images/0/02/X-Treme_X-Men_Vol_1_4_Textless.jpg"></h1>
 
+<div alt="skills handled" align="center">
+
+        <a href="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg" class="thumbnail">
+        <img src="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg" alt="XAMPP">
+        </a>
+
+        <a href="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" class="thumbnail">
+        <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="HTML CSS">
+</a>
+
+
+
+</div>
+
 <div alt="Priority 1 skills" align="center">
 
 
@@ -45,9 +59,6 @@
     <img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2016/06/how-to-change-your-php-version.webp" alt="PHP">
 </a>
 
-<a href="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" class="thumbnail">
-        <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="HTML CSS">
-</a>
 
 <a href="https://www.datasciencecentral.com/wp-content/uploads/2021/10/8667507462.jpeg" class="thumbnail">
     <img src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/8667507462.jpeg" alt="Java">
@@ -73,9 +84,6 @@
         <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="JavaScript">
         </a>
 
-        <a href="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg" class="thumbnail">
-        <img src="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg" alt="XAMPP">
-        </a>
 
 </div>
 
@@ -89,12 +97,12 @@
 
         <a href="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" class="thumbnail">
             <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" alt="Github">
+        </a>
 
-	<a href="https://www.theiceway.com/hubfs/Why%20is%20Software%20Testing%20So%20Important.jpg" class="thumbnail">
-		<img src="https://www.theiceway.com/hubfs/Why%20is%20Software%20Testing%20So%20Important.jpg" alt="Software testing">
-
+	
         <a href="https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_680,h_680/https://www.gallerysystems.com/wp-content/uploads/SQL-server.jpg" class="thumbnail">
             <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_680,h_680/https://www.gallerysystems.com/wp-content/uploads/SQL-server.jpg" alt="sql">
+        </a>
 
 	</div>
 

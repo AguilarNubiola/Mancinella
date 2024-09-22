@@ -35,6 +35,18 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<div alt="Current marks" align="center">
+
+<a href="https://files.yande.re/image/ce6acfb5a69e9861cd86a4bbf6312d6d/yande.re%20750550%20cleavage%20dress%20heels%20leotard%20loundraw%20pantyhose%20thighhighs%20vivy%20vivy_-fluorite_eye%27s_song-.jpg" class="thumbnail">
+    <img src="https://files.yande.re/image/ce6acfb5a69e9861cd86a4bbf6312d6d/yande.re%20750550%20cleavage%20dress%20heels%20leotard%20loundraw%20pantyhose%20thighhighs%20vivy%20vivy_-fluorite_eye%27s_song-.jpg" alt="Vivy: Fluorite Eye Song">
+</a>
+
+<a href="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" class="thumbnail">
+    <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
+</a>
+
+</div>
+
 
 <div alt="Best movie and tv show so far" align="center">
 
@@ -114,11 +126,6 @@
 
 
 <div class="backburner" align="center">
-
-
-<a href="https://m.media-amazon.com/images/M/MV5BZTM4Y2EwZjAtNzRjYS00NWJlLThkNzEtMTYxNDJjMTNhYjllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BZTM4Y2EwZjAtNzRjYS00NWJlLThkNzEtMTYxNDJjMTNhYjllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" alt="Unicorn Warriors Eternal">
-</a>
 
 
 
