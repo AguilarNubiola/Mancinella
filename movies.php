@@ -37,12 +37,28 @@
 
 <div alt="Current marks" align="center">
 
-<a href="https://files.yande.re/image/ce6acfb5a69e9861cd86a4bbf6312d6d/yande.re%20750550%20cleavage%20dress%20heels%20leotard%20loundraw%20pantyhose%20thighhighs%20vivy%20vivy_-fluorite_eye%27s_song-.jpg" class="thumbnail">
-    <img src="https://files.yande.re/image/ce6acfb5a69e9861cd86a4bbf6312d6d/yande.re%20750550%20cleavage%20dress%20heels%20leotard%20loundraw%20pantyhose%20thighhighs%20vivy%20vivy_-fluorite_eye%27s_song-.jpg" alt="Vivy: Fluorite Eye Song">
-</a>
 
 <a href="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" class="thumbnail">
     <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
+</a>
+
+
+
+</div>
+
+<div alt="Next marks" align="center">
+
+<a href="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" alt="No hard feelings">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
+</a>
+
+
+<a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
+    <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
 </a>
 
 </div>
@@ -119,6 +135,10 @@
 
 <a href="https://i.redd.it/z8ds7upfk7zc1.jpeg" class="thumbnail">
     <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
+</a>
+
+<a href="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest/scale-to-width-down/1200?cb=20210209135843" class="thumbnail">
+    <img src="https://i.redd.it/u9p8gwgnqgb61.jpg" alt="Vivy: Fluorite Eye Song">
 </a>
 
 </div>
