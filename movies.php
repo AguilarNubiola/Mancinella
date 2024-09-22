@@ -37,6 +37,10 @@
 
 <div alt="Current marks" align="center">
 
+<a href="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" alt="My neighbor Totoro">
+</a>
+
 
 <a href="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" class="thumbnail">
     <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
