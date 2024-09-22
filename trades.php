@@ -33,34 +33,25 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="X-Factor Omnibus">
-</a>
 
 </div>
 
 
 <div alt="Next up" align="center">
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="Mutant Massacre Prelude">
-</a>
 
-<a href="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71sFzmKSd2L._AC_UF894,1000_QL80_.jpg" alt="Fall of the Mutants">
-</a>
 
 
 </div>
 
 <div alt="October trades" align="center">
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1038389/remote-space-4-of-4_f7e01641e4.jpg" alt="Remote Space">
+<a href="https://pbs.twimg.com/media/EdUCqQGXoAABZ8c?format=jpg&name=large" class="thumbnail">
+    <img src="https://pbs.twimg.com/media/EdUCqQGXoAABZ8c?format=jpg&name=large" alt="Remote Space">
 </a>
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/1018091/_35ebe80db5.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1018091/_35ebe80db5.jpg" alt="Rook Exodus vol 1">
+<a href="https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/391621184_841206307457535_5056273837358566071_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d6fNu8i5TMMQ7kNvgGgzczD&_nc_ht=scontent-ams4-1.xx&oh=00_AYDX5vhMKS_jX0DaSEQW-pzOMOzYp7c8O2MUVUreuVZibQ&oe=66F6292C" class="thumbnail">
+    <img src="https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/391621184_841206307457535_5056273837358566071_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d6fNu8i5TMMQ7kNvgGgzczD&_nc_ht=scontent-ams4-1.xx&oh=00_AYDX5vhMKS_jX0DaSEQW-pzOMOzYp7c8O2MUVUreuVZibQ&oe=66F6292C" alt="Rook Exodus vol 1">
 </a>
 
 <a href="https://scontent-ams2-1.cdninstagram.com/v/t51.29350-15/446220654_795073412593848_4780919595955191431_n.jpg" class="thumbnail">
@@ -73,6 +64,10 @@
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" alt="Nights vol 2">
+</a>
+
+<a href="https://i.ebayimg.com/images/g/atgAAOSwA2RmXPex/s-l1600.webp" class="thumbnail">
+    <img src="https://i.ebayimg.com/images/g/atgAAOSwA2RmXPex/s-l1600.webp" alt="Zatanna: Bring Down the House">
 </a>
 
 </div>
@@ -473,14 +468,7 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Factor-The-Original-X-Men-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="X-Factor Omnibus">
-</a>
 
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/X-Men-Mutant-Massacre-Prelude-Omnibus-Vol.-1-2024.jpg?fit=400%2C615&ssl=1" alt="Mutant Massacre Prelude">
-</a>
 
 
 </div>
@@ -512,7 +500,15 @@
 
 </div>
 
+        <footer>
+            <div class="container">
+                <div class="section x">
+                    <h2></h2>
+                    <p>All my friends are heathens, take it slow</p>
+                    <ul class="
 
+
+        </footer>
 
 
 </body>
