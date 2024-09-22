@@ -49,6 +49,10 @@
         <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="HTML CSS">
 </a>
 
+<a href="https://www.datasciencecentral.com/wp-content/uploads/2021/10/8667507462.jpeg" class="thumbnail">
+    <img src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/8667507462.jpeg" alt="Java">
+</a>
+
 <a href="https://www.nurturepods.com/wp-content/uploads/2021/10/Social-Skills-Nurture-Pods.jpg" class="thumbnail">
     <img src="https://www.nurturepods.com/wp-content/uploads/2021/10/Social-Skills-Nurture-Pods.jpg" alt="social skills">
 </a>
@@ -60,14 +64,18 @@
 </div>
 
 <div alt="Priority 2 skills" align="center">
-    <a href="https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo.jpg" class="thumbnail">
+
+        <a href="https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo.jpg" class="thumbnail">
         <img src="https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo.jpg" alt="Python">
+        </a>
 
         <a href="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" class="thumbnail">
         <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="JavaScript">
+        </a>
 
         <a href="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg" class="thumbnail">
         <img src="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg" alt="XAMPP">
+        </a>
 
 </div>
 
