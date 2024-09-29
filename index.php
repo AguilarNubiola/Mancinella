@@ -39,14 +39,44 @@
 </h1>
 
 
+
+
+
 <div alt="current game" align="center">
 
 <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
     <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
 </a>
 
+<a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" class="thumbnail">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" alt="Fear and Hunger">
+</a>
+
 
  
+</div>
+
+<div alt="Other games" align="center">
+
+<a href="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" class="thumbnail">
+    <img src="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" alt="Metaphor Re:Fantazio">
+</a>
+
+<a href="https://gh.cdn.sewest.net/assets/ident/news/6abbb7d1/01-Max-Caulfield-Hero-Shot-2mkwl79i0.jpg?quality=65" class="thumbnail">
+    <img src="https://gh.cdn.sewest.net/assets/ident/news/6abbb7d1/01-Max-Caulfield-Hero-Shot-2mkwl79i0.jpg?quality=65" alt="Life is Strange: Double Exposure">
+</a>
+
+<a href="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/How-Long-Does-It-Takes-To-Beat-Chrono-Trigger.jpg" class="thumbnail">
+    <img src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/How-Long-Does-It-Takes-To-Beat-Chrono-Trigger.jpg" alt="Chrono Trigger">
+</a>
+
+<a href="https://sm.ign.com/ign_nl/photo/h/hades-2-te/hades-2-technical-test-announced-heres-how-to-join_7x4j.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nl/photo/h/hades-2-te/hades-2-technical-test-announced-heres-how-to-join_7x4j.jpg" alt="Hades II">
+</a>
+
+
+
+
 </div>
 
 
@@ -112,6 +142,111 @@
 <a href="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" class="thumbnail">
         <img src="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" alt="Street Fighter 6. Mai Shiranui in the winter of 2025">
     </a>
+
+</div>
+
+<div alt="Playstation generation Rushmore" align="center">
+
+<a href="https://gamemusic.bn-ent.net/W4vE39ckQu/wp-content/uploads/2024/01/%E9%89%84%E6%8B%B3%EF%BC%91_3000%C3%973000%EF%BC%88NT%E9%85%8D%E4%BF%A1%EF%BC%89-scaled.jpg" class="thumbnail">
+    <img src="https://gamemusic.bn-ent.net/W4vE39ckQu/wp-content/uploads/2024/01/%E9%89%84%E6%8B%B3%EF%BC%91_3000%C3%973000%EF%BC%88NT%E9%85%8D%E4%BF%A1%EF%BC%89-scaled.jpg" alt="Tekken">
+</a>
+
+<a href="https://www.giantbomb.com/a/uploads/scale_small/16/164924/3375794-6525538345-sIUqS.png" class="thumbnail">
+    <img src="https://www.giantbomb.com/a/uploads/scale_small/16/164924/3375794-6525538345-sIUqS.png" alt="Tekken 2">
+</a>
+
+<a href="https://sm.ign.com/ign_nordic/cover/t/tekken-3/tekken-3_bz7d.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nordic/cover/t/tekken-3/tekken-3_bz7d.jpg" alt="Tekken 3">
+</a>
+
+<a href="https://image.api.playstation.com/cdn/UP0082/CUSA08877_00/w5Qz9UKNBvTZBSRZlV2jeG2BLOJ1u7Jw.png" class="thumbnail">
+    <img src="https://image.api.playstation.com/cdn/UP0082/CUSA08877_00/w5Qz9UKNBvTZBSRZlV2jeG2BLOJ1u7Jw.png" alt="Final Fantasy IX">
+</a>
+
+
+</div>
+
+<div alt="PS2 Generation Rushmore" align="center">
+
+<a href="https://assetsio.gnwcdn.com/co1tr1.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/co1tr1.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" alt="Final Fantasy X">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91fc4SvMR9L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91fc4SvMR9L._SL1500_.jpg" alt="Persona 4">
+</a>
+
+<a href="https://assets-prd.ignimgs.com/2022/01/19/final-fantasy-x-2-button-1642629050234.jpg" class="thumbnail">
+    <img src="https://assets-prd.ignimgs.com/2022/01/19/final-fantasy-x-2-button-1642629050234.jpg" alt="Final Fantasy X-2">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71QvZhY2TVL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71QvZhY2TVL._AC_UF1000,1000_QL80_.jpg" alt="Digital Devil Saga 2">
+</a>
+
+
+</div>
+
+<div alt="XBOX360 generation Rushmore" align="center">
+
+<a href="https://m.media-amazon.com/images/I/71XQcMKeK7L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71XQcMKeK7L._AC_UF894,1000_QL80_.jpg" alt="Mass Effect 2">
+</a>
+
+<a href="https://image.api.playstation.com/vulcan/img/cfn/11307VzfHDoq24F89EtY5LZn9jT8DzCKWBNbVzCxLx59GEkUTXwGk6z4CNzVuKe-y45B3rfaB4GQcmhSmBlyZv2epYwRIvXX.png?w=440" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/img/cfn/11307VzfHDoq24F89EtY5LZn9jT8DzCKWBNbVzCxLx59GEkUTXwGk6z4CNzVuKe-y45B3rfaB4GQcmhSmBlyZv2epYwRIvXX.png?w=440" alt="Bayonetta">
+</a>
+
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/mass-effect-3-poster.jpg?q=50&fit=crop&w=480&dpr=1.5" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/mass-effect-3-poster.jpg?q=50&fit=crop&w=480&dpr=1.5" alt="Mass Effect 3">
+</a>
+
+<a href="https://www.retroxboxkopen.nl/assets/products/3002482.jpg" class="thumbnail">
+    <img src="https://www.retroxboxkopen.nl/assets/products/3002482.jpg" alt="Portal 2">
+</a>
+
+
+</div>
+
+<div alt="PS4 generation Rushmore" align="center">
+
+<a href="https://image.api.playstation.com/vulcan/img/rnd/202010/2614/DbHk1vfm0crso6MJZevAqfLA.png" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/img/rnd/202010/2614/DbHk1vfm0crso6MJZevAqfLA.png" alt="Bloodborne">
+</a>
+
+<a href="https://image.api.playstation.com/vulcan/img/rnd/202011/0204/z1pq3XZqNdzOMreUCbJhaCN3.png" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/img/rnd/202011/0204/z1pq3XZqNdzOMreUCbJhaCN3.png" alt="Persona 5">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/pc-versie-horizon-zero-dawn-releasedatum-bekend-1593800220137.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/pc-versie-horizon-zero-dawn-releasedatum-bekend-1593800220137.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webpHorizon: Zero Dawn">
+</a>
+
+<a href="https://img.goodfon.com/original/3010x1197/7/ef/nier-automata-2b-ass-butt-sword-panties-girl-game.jpg" class="thumbnail">
+    <img src="https://newsboilerstorage.blob.core.windows.net/news/2002729_0_lg.jpg" alt="Nier Automata">
+</a>
+
+
+</div>
+
+<div alt="PS5 generation  Rushmore" align="center">
+
+<a href="https://cdn.shopify.com/s/files/1/0423/6686/1477/files/1366_2000_1_1024x1024.jpg?v=1696013527" class="thumbnail">
+    <img src="https://cdn.shopify.com/s/files/1/0423/6686/1477/files/1366_2000_1_1024x1024.jpg?v=1696013527" alt="Cyberpunk 2077">
+</a>
+
+<a href="https://playsense.nl/wp-content/uploads/2024/05/Eve-Stellar-Blade.jpeg" class="thumbnail">
+    <img src="https://playsense.nl/wp-content/uploads/2024/05/Eve-Stellar-Blade.jpeg" alt="Stellar Blade">
+</a>
+
+<a href="https://s3-newsifier.ams3.digitaloceanspaces.com/xgn.nl/images/2024-01/horizon-forbidden-westf1675161467-659d6cd687c42.jpg" class="thumbnail">
+    <img src="https://s3-newsifier.ams3.digitaloceanspaces.com/xgn.nl/images/2024-01/horizon-forbidden-westf1675161467-659d6cd687c42.jpg" alt="Horizon: Forbidden West">
+</a>
+
+<a href="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" class="thumbnail">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Elden Ring">
+</a>
+
 
 </div>
 
