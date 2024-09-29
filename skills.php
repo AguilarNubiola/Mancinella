@@ -46,6 +46,7 @@
 
         <a href="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" class="thumbnail">
         <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="HTML CSS">
+
 </a>
 
 
@@ -70,6 +71,10 @@
 
 <a href="https://www.science.org/do/10.1126/science.caredit.aau1320/abs/Path_16x9.jpg" class="thumbnail">
     <img src="https://www.science.org/do/10.1126/science.caredit.aau1320/abs/Path_16x9.jpg" alt="Taking the hard path">
+</a>
+
+<a href="https://i.imgur.com/ETbQvFB.png" class="thumbnail">
+    <img src="https://i.imgur.com/ETbQvFB.png" alt="Math fundamentals">
 </a>
 
 </div>

@@ -31,13 +31,32 @@
 </div>
 
 
+
+
 <div alt="reading now" align="center">
+
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
+</a>
+
+
 
 
 </div>
 
 
 <div alt="Next up" align="center">
+
+<a href="https://m.media-amazon.com/images/I/81bexQgvesL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81bexQgvesL._AC_UF894,1000_QL80_.jpg" alt="Metabarons">
+</a>
+
+<a href="https://cdn2.humanoids.com/assets/CatalogueArticle/721/Metabaron1_11456_R400.jpg" class="thumbnail">
+    <img src="https://cdn2.humanoids.com/assets/CatalogueArticle/721/Metabaron1_11456_R400.jpg" alt="Metabaron">
+</a>
+
+
+
 
 
 
@@ -46,12 +65,9 @@
 
 <div alt="October trades" align="center">
 
-<a href="https://pbs.twimg.com/media/EdUCqQGXoAABZ8c?format=jpg&name=large" class="thumbnail">
-    <img src="https://pbs.twimg.com/media/EdUCqQGXoAABZ8c?format=jpg&name=large" alt="Remote Space">
-</a>
 
-<a href="https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/391621184_841206307457535_5056273837358566071_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d6fNu8i5TMMQ7kNvgGgzczD&_nc_ht=scontent-ams4-1.xx&oh=00_AYDX5vhMKS_jX0DaSEQW-pzOMOzYp7c8O2MUVUreuVZibQ&oe=66F6292C" class="thumbnail">
-    <img src="https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/391621184_841206307457535_5056273837358566071_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d6fNu8i5TMMQ7kNvgGgzczD&_nc_ht=scontent-ams4-1.xx&oh=00_AYDX5vhMKS_jX0DaSEQW-pzOMOzYp7c8O2MUVUreuVZibQ&oe=66F6292C" alt="Rook Exodus vol 1">
+<a href="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" alt="Rook Exodus vol 1">
 </a>
 
 <a href="https://scontent-ams2-1.cdninstagram.com/v/t51.29350-15/446220654_795073412593848_4780919595955191431_n.jpg" class="thumbnail">
@@ -461,6 +477,27 @@
 <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/603035694ca02/clean.jpg" class="thumbnail">
     <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/603035694ca02/clean.jpg" alt="America Chavez: Made in the USA">
 </a>
+
+<a href="https://pbs.twimg.com/media/EdUCqQGXoAABZ8c?format=jpg&name=large" class="thumbnail">
+    <img src="https://pbs.twimg.com/media/EdUCqQGXoAABZ8c?format=jpg&name=large" alt="Remote Space">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1025194/aint-no-grave-1-of-5_2402ddd72d.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1025194/aint-no-grave-1-of-5_2402ddd72d.jpg" alt="Ain't no Grave">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/966120/kaya-tp_4e8ae350be.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/966120/kaya-tp_4e8ae350be.jpg" alt="Kaya vol 1">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1011705/kaya-tp-vol-2-2_d2bede1014.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1011705/kaya-tp-vol-2-2_d2bede1014.jpg" alt="Kaya vol 2">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1031694/kaya-tp-3_ae6ace55d0.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1031694/kaya-tp-3_ae6ace55d0.jpg" alt="Kaya vol 3">
+</a>
+
 
 
 </div>

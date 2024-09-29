@@ -32,6 +32,7 @@
 
 
 
+
 <div alt="This week" align="center">
 
 
@@ -76,7 +77,7 @@
     </a>
 
     <a href="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" class="thumbnail">
-        <img src="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" alt="Zatanna Bring Down the House #5">
+        <img src="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" alt="Zatanna Bring Down the House #5, 23rd of October">
     </a>
 
     <a href="https://imagecomics.com/files/releases/0824IM400.jpg" class="thumbnail">
@@ -653,6 +654,118 @@
 
 
 </div>
+
+<div alt="Favourite 4 so far" align="center">
+
+     <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" class="thumbnail">
+        <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" alt="Uncanny X-Men">
+     </a>
+
+     <a href="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" class="thumbnail">
+        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" alt="Nights">
+     </a>
+
+     <a href="https://m.media-amazon.com/images/I/81mN9nwk1jL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81mN9nwk1jL._AC_UF1000,1000_QL80_.jpg" alt="Ultimates">
+     </a>
+
+     <a href="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" class="thumbnail">
+        <img src="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" alt="The Moon is Following Us">
+     </a>
+
+
+
+</div>
+
+<div alt="Titles to follow" align="center">
+
+<a href="https://m.media-amazon.com/images/I/81bGs636lzL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81bGs636lzL._AC_UF894,1000_QL80_.jpg" alt="Monstress">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/893535/kaya-1_961b0bdf99.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/893535/kaya-1_961b0bdf99.jpg" alt="Kaya">
+</a>
+
+<a href="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" class="thumbnail">
+    <img src="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" alt="Nights">
+</a>
+
+<a href="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" class="thumbnail">
+    <img src="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" alt="The Moon is Following us">
+</a>
+
+<a href="https://www.previewsworld.com/SiteImage/MainImage/STL344343.jpg" class="thumbnail">
+    <img src="https://www.previewsworld.com/SiteImage/MainImage/STL344343.jpg" alt="Napalm Lullaby">
+</a>
+
+<a href="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" alt="Rook: Exodus">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1039263/the-power-fantasy-1_90c905c432.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1039263/the-power-fantasy-1_90c905c432.jpg" alt="The Power Fantasy">
+</a>
+
+<a href="https://goldenapplecomics.com/cdn/shop/files/126189-hr.jpg?v=1722029047" class="thumbnail">
+    <img src="https://goldenapplecomics.com/cdn/shop/files/126189-hr.jpg?v=1722029047" alt="Uncanny X-Men">
+</a>
+
+<a href="https://cdn.powered-by-nitrosell.com/product_images/14/3286/large-DCDL325942.jpg" class="thumbnail">
+    <img src="https://cdn.powered-by-nitrosell.com/product_images/14/3286/large-DCDL325942.jpg" alt="X-Men">
+</a>
+
+<a href="https://cdn.shopify.com/s/files/1/2090/1179/files/202404-0000453806.jpg?v=1724908069" class="thumbnail">
+    <img src="https://cdn.shopify.com/s/files/1/2090/1179/files/202404-0000453806.jpg?v=1724908069" alt="X-Force">
+</a>
+
+<a href="https://aiptcomics.com/wp-content/uploads/2024/05/EXCEPTIONALXMEN2024001_Torque-1.jpg" class="thumbnail">
+    <img src="https://aiptcomics.com/wp-content/uploads/2024/05/EXCEPTIONALXMEN2024001_Torque-1.jpg" alt="Exceptional X-Men">
+</a>
+
+<a href="https://goldenapplecomics.com/cdn/shop/products/STL308290.jpg?v=1703266146" class="thumbnail">
+    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620798500821.jpg?v=1722033774" alt="Ultimate X-Men">
+</a>
+
+<a href="https://i.redd.it/78atblhr15fd1.jpeg" class="thumbnail">
+    <img src="https://i.redd.it/78atblhr15fd1.jpeg" alt="Psylocke">
+</a>
+
+<a href="https://goldenapplecomics.com/cdn/shop/files/STL340849.jpg?v=1724436868" class="thumbnail">
+    <img src="https://goldenapplecomics.com/cdn/shop/files/STL340849.jpg?v=1724436868" alt="Mystique">
+</a>
+
+<a href="https://comicvine.gamespot.com/a/uploads/scale_small/11161/111612243/9363494-9126157633-GNuHsVVWkAALg7M.jpg" class="thumbnail">
+    <img src="https://comicvine.gamespot.com/a/uploads/scale_small/11161/111612243/9363494-9126157633-GNuHsVVWkAALg7M.jpg" alt="Storm">
+</a>
+
+<a href="https://cdn.shopify.com/s/files/1/2090/1179/files/202405-0000456544.jpg?v=1726896482" class="thumbnail">
+    <img src="https://cdn.shopify.com/s/files/1/2090/1179/files/202405-0000456544.jpg?v=1726896482" alt="Phoenix, 2 more">
+</a>
+
+<a href="https://pbs.twimg.com/media/GXR-7CxXEAAax8d?format=jpg&name=4096x4096" class="thumbnail">
+    <img src="https://pbs.twimg.com/media/GXR-7CxXEAAax8d?format=jpg&name=4096x4096" alt="Magik">
+</a>
+
+<a href="https://everythingcomics.ca/cdn/shop/files/75960620830200321.jpg?v=1723227826&width=1400" class="thumbnail">
+    <img src="https://everythingcomics.ca/cdn/shop/files/75960620830200321.jpg?v=1723227826&width=1400" alt="Ultimates">
+</a>
+
+<a href="https://goldenapplecomics.com/cdn/shop/files/GVmj4FBbgAc7azd.jpg?v=1724351390&width=1946" class="thumbnail">
+    <img src="https://goldenapplecomics.com/cdn/shop/files/GVmj4FBbgAc7azd.jpg?v=1724351390&width=1946" alt="Absolute Wonder Woman">
+</a>
+
+<a href="https://bleedingcool.com/wp-content/uploads/2024/07/absolute-green-lantern-a-2000x1125.jpg" class="thumbnail">
+    <img src="https://bleedingcool.com/wp-content/uploads/2024/07/absolute-green-lantern-a-2000x1125.jpg" alt="Absolute Green Lantern">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2550888.jpg?1727292993" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2550888.jpg?1727292993" alt="Zatanna: Bring Down the House">
+</a>
+
+
+</div>
+
 
 
 
