@@ -498,6 +498,9 @@
     <img src="https://cdn.imagecomics.com/assets/i/releases/1031694/kaya-tp-3_ae6ace55d0.jpg" alt="Kaya vol 3">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/817LL5O6inL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/817LL5O6inL._AC_UF894,1000_QL80_.jpg" alt="Flex Mentallo">
+</a>
 
 
 </div>
