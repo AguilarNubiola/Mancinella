@@ -36,22 +36,6 @@
 <div alt="This week" align="center">
 
 
-    <a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" alt="X-Men #5, October 2nd">
-    </a>
-
-
-</div>
-
-
-
-<div alt="October books" align="center">
-  
-
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4, 9th of October">
     </a>
@@ -67,6 +51,15 @@
     <a href="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" class="thumbnail">
         <img src="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" alt="Exceptional X-Men #2, 9th of October">
     </a>
+
+
+</div>
+
+
+
+<div alt="October books" align="center">
+  
+
     
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4, 16th of October">
@@ -139,6 +132,10 @@
 
     </a>
 
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" alt="November 13th, 2024">
+    </a>
+
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" alt="Ultimate X-men 9. November 13th">
     </a>
@@ -200,6 +197,10 @@
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th">
 </a>
 
+<a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024">
+    </a>
+
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" alt="Absolute Wonder WOman #3, December 17th">
@@ -259,7 +260,6 @@
 </a>
 
 
-
 <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/f67c88b5-198a-4658-b9df-72b945d11932.jpeg?q=70&fit=crop&w=750&dpr=1" class="thumbnail">
     <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/f67c88b5-198a-4658-b9df-72b945d11932.jpeg?q=70&fit=crop&w=750&dpr=1" alt="Exceptional X-men #4. 25th of December.">
 </a>
@@ -271,6 +271,10 @@
 <a href="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/75960620426702211.jpg" class="thumbnail">
     <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/75960620426702211.jpg" alt="Avengers #22">
 </a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" alt="Kaya #24, Jan 8th 2025">
+    </a>
 
 </div>
 
@@ -364,6 +368,14 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/7/b0/6669b83ee92e8/clean.jpg" alt="Uncanny X-men #3, September 25th">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/2x/storm2024001_werneck.jpg" alt="Storm #1, October 2nd">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" alt="X-Men #5, October 2nd">
     </a>
 
 
@@ -662,7 +674,7 @@
      </a>
 
      <a href="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" class="thumbnail">
-        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" alt="Nights">
+        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" alt="Nights, break after 27th of November">
      </a>
 
      <a href="https://m.media-amazon.com/images/I/81mN9nwk1jL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
