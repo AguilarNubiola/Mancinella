@@ -120,11 +120,11 @@
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" alt="Avengers vs Aliens #2. DP.">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" alt="Avengers vs Aliens #2. 6th of November. DP.">
     </a>
 
     <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
-        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion">
+        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion. 13th of November.">
         <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
         <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_A_COVER_DAVIDNAKAYAMA-600x910.jpg">
         <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_c_cover_ace_contunuado/">
@@ -276,7 +276,7 @@
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" alt="Kaya #24, Jan 8th 2025. DP.">
-    </a>
+</a>
 
 </div>
 
