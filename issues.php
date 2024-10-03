@@ -70,19 +70,19 @@
     </a>
 
     <a href="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" class="thumbnail">
-        <img src="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" alt="Zatanna Bring Down the House #5, 23rd of October">
+        <img src="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" alt="Zatanna Bring Down the House #5, 23rd of October. DP.">
     </a>
 
     <a href="https://imagecomics.com/files/releases/0824IM400.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0824IM400.jpg" alt="The Moon is Following us #2, 23rd of October">
+        <img src="https://imagecomics.com/files/releases/0824IM400.jpg" alt="The Moon is Following us #2, 23rd of October. Pay.">
     </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8504225.jpg?1721416207" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8504225.jpg?1721416207" alt="Absolute Wonder Woman #1, 23rd of October">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8504225.jpg?1721416207" alt="Absolute Wonder Woman #1, 23rd of October. Pay.">
     </a>
 
     <a href="https://imagecomics.com/files/releases/0824IM406.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0824IM406.jpg" alt="The Power Fantasy, 23rd of October">
+        <img src="https://imagecomics.com/files/releases/0824IM406.jpg" alt="The Power Fantasy, 23rd of October. DP.">
     </a>
 
 
@@ -108,7 +108,7 @@
     </a>
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFACT2024004_cvr-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFACT2024004_cvr-scaled.jpg" alt="X-Factor 4. 6th of November.">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFACT2024004_cvr-scaled.jpg" alt="X-Factor 4. 6th of November. DP.">
     </a>
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" class="thumbnail">
@@ -120,7 +120,7 @@
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" alt="Avengers vs Aliens #2">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" alt="Avengers vs Aliens #2. DP.">
     </a>
 
     <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
@@ -133,7 +133,7 @@
     </a>
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" alt="November 13th, 2024">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" alt="Kaya #22. November 13th, 2024. DP.">
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
@@ -145,13 +145,13 @@
     </a>
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 13th">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 13th. DP.">
     </a>
 
     
 
     <a href="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke. November 13th">
+        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke #1. November 13th">
     </a>
 
     <a href="https://pbs.twimg.com/media/GTh480DWwAAGs7m?format=jpg&name=4096x4096" class="thumbnail">
@@ -163,7 +163,7 @@
     </a>
 
     <a href="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" class="thumbnail">
-        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimate Spider-man 11. 20th of November.">
+        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimate Spider-man 11. 20th of November. DP.">
     </a>
 
     <a href="https://imagecomics.com/files/releases/0924IM380.jpg" class="thumbnail">
@@ -172,7 +172,7 @@
     </a>
 
     <a href="https://imagecomics.com/files/releases/0924IM388.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0924IM388.jpg" alt="Power Fantasy #4, 20th of November">
+        <img src="https://imagecomics.com/files/releases/0924IM388.jpg" alt="Power Fantasy #4, 20th of November. DP.">
     </a>
 
 
@@ -191,6 +191,18 @@
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" class="thumbnai">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 4th">
+</a>
+
+<a href="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" class="thumbnail">
+    <img src="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" alt="Avengers #21. 4th of December.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" alt="X-Force #6. 4th of December.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" alt="Ultimates #7. 4th of December.">
 </a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
@@ -239,17 +251,9 @@
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 18th of December.">
 </a>
 
-<a href="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" class="thumbnail">
-    <img src="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" alt="Avengers #21. 4th of December.">
-</a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" alt="X-Force #6. 4th of December.">
-</a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" alt="Ultimates #7. 4th of December.">
-</a>
+
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" class="thumbnail">
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" alt="Ultimate X-Men #10. 11th of December.">
@@ -269,11 +273,11 @@
 <div alt="January books" align="center">
 
 <a href="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/75960620426702211.jpg" class="thumbnail">
-    <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/75960620426702211.jpg" alt="Avengers #22">
+    <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/75960620426702211.jpg" alt="Avengers #22. DP.">
 </a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" alt="Kaya #24, Jan 8th 2025">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" alt="Kaya #24, Jan 8th 2025. DP.">
     </a>
 
 </div>
@@ -443,6 +447,10 @@
 
     <a href="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247207.jpg" class="thumbnail">
         <img src="https://freshcomics.s3.amazonaws.com/issue_covers/JUL247207.jpg" alt="Zatanna: Bring Down the House #4">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/09/Birds-of-Prey-14-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/09/Birds-of-Prey-14-2024.jpg?fit=400%2C615&ssl=1" alt="Birds of Prey #14">
     </a>
 
 
@@ -654,6 +662,46 @@
 
     <a href="https://madcavestudios.com/wp-content/uploads/2024/06/Dark-Empty-Void-1-Cover-A-437x668-1.jpg" class="thumbnail">
         <img src="https://madcavestudios.com/wp-content/uploads/2024/06/Dark-Empty-Void-1-Cover-A-437x668-1.jpg" alt="Dark Empty Void #1">
+    </a>
+
+    <a href="https://media.s-bol.com/DRYWgDLL5Dxy/908x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/DRYWgDLL5Dxy/908x1200.jpg" alt="Metabarons: Castaka #1">
+    </a>
+
+    <a href="https://media.s-bol.com/k5wX3kByp1Y6/904x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/k5wX3kByp1Y6/904x1200.jpg" alt="Metabarons: Castaka #2">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 1">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 2">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 3">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 4">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 5">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 6">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 7">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Metabarons vol 8">
     </a>
 
 
