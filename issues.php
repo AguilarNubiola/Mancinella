@@ -190,7 +190,7 @@
 <div alt="December books" align="center">
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" class="thumbnai">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 4th">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 4th.">
 </a>
 
 <a href="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" class="thumbnail">
@@ -210,7 +210,7 @@
 </a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th.">
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" class="thumbnail">
@@ -218,16 +218,29 @@
 </a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024">
-    </a>
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024.">
+</a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" class="thumbnail">
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December.">
 </a>
 
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" alt="Ultimate X-Men #10. 11th of December.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" alt="Ultimate Universe: One Year in #1. December 11.">
+</a>
+
+
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" alt="Absolute Wonder WOman #3, December 17th">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" alt="Absolute Wonder WOman #3, December 17th.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 18th of December.">
 </a>
 
 
@@ -240,37 +253,17 @@
 </a>
 
 
-
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" class="thumbnail">
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" alt="Mystique #3. 25th of December.">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" class="thumbnai">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. December 26th">
-</a>
-
-
-
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 18th of December.">
-</a>
-
-
-
-
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" alt="Ultimate X-Men #10. 11th of December.">
-</a>
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" alt="Ultimate Universe: One Year in #1">
 </a>
 
 
 <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/f67c88b5-198a-4658-b9df-72b945d11932.jpeg?q=70&fit=crop&w=750&dpr=1" class="thumbnail">
     <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/f67c88b5-198a-4658-b9df-72b945d11932.jpeg?q=70&fit=crop&w=750&dpr=1" alt="Exceptional X-men #4. 25th of December.">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" class="thumbnai">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. December 26th.">
 </a>
 
 </div>
