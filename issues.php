@@ -205,13 +205,25 @@
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" alt="Ultimates #7. 4th of December.">
 </a>
 
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" alt="X-Men #8. 4th of December.">
+</a>
+
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" alt="Storm #3. 11th of December.">
 </a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024">
     </a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December.">
+</a>
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" class="thumbnail">
@@ -227,9 +239,7 @@
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. December 26th">
 </a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" alt="Storm #3. 11th of December.">
-</a>
+
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/psylocke2024002_lee.jpg" class="thumbnail">
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/psylocke2024002_lee.jpg" alt="Psylocke #2. 18th of December.">
@@ -239,13 +249,8 @@
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" alt="Mystique #3. 25th of December.">
 </a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" alt="X-Men #8. 4th of December.">
-</a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December.">
-</a>
+
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" class="thumbnail">
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 18th of December.">
