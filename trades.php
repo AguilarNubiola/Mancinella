@@ -47,14 +47,17 @@
 
 <div alt="Next up" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81bexQgvesL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81bexQgvesL._AC_UF894,1000_QL80_.jpg" alt="Metabarons">
-</a>
-
 <a href="https://cdn2.humanoids.com/assets/CatalogueArticle/721/Metabaron1_11456_R400.jpg" class="thumbnail">
     <img src="https://cdn2.humanoids.com/assets/CatalogueArticle/721/Metabaron1_11456_R400.jpg" alt="Metabaron">
 </a>
 
+<a href="https://www.akim.nl/Images/Dynamic/full/Stripshop.Publication/46220/15860-ayako-1-een-meisje-om-van-te-houden-hardcover-uitgeverij-l.jpg" class="thumbnail">
+    <img src="https://www.akim.nl/Images/Dynamic/full/Stripshop.Publication/46220/15860-ayako-1-een-meisje-om-van-te-houden-hardcover-uitgeverij-l.jpg" alt="Ayako: Meisje om van te houden">
+</a>
+
+<a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
+    <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
+</a>
 
 
 
@@ -502,12 +505,31 @@
     <img src="https://m.media-amazon.com/images/I/817LL5O6inL._AC_UF894,1000_QL80_.jpg" alt="Flex Mentallo">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81bexQgvesL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81bexQgvesL._AC_UF894,1000_QL80_.jpg" alt="Metabarons">
+</a>
+
 
 </div>
 
 
 <div alt="Trades to read" align="center">
 
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
+</a>
+
+<a href="https://cdn2.humanoids.com/assets/CatalogueArticle/721/Metabaron1_11456_R400.jpg" class="thumbnail">
+    <img src="https://cdn2.humanoids.com/assets/CatalogueArticle/721/Metabaron1_11456_R400.jpg" alt="Metabaron">
+</a>
+
+<a href="https://www.akim.nl/Images/Dynamic/full/Stripshop.Publication/46220/15860-ayako-1-een-meisje-om-van-te-houden-hardcover-uitgeverij-l.jpg" class="thumbnail">
+    <img src="https://www.akim.nl/Images/Dynamic/full/Stripshop.Publication/46220/15860-ayako-1-een-meisje-om-van-te-houden-hardcover-uitgeverij-l.jpg" alt="Ayako: Meisje om van te houden">
+</a>
+
+<a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
+    <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
+</a>
 
 
 
