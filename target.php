@@ -44,25 +44,13 @@
         <img src="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" alt="PHP & MYSQL">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91FAH-UNSML._SL1500_.jpg" alt="Immortal Hulk vol 1">
-    </a>
+
 
 </div>
 
 <div alt="Next up" align="center">
 
-<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" class="thumbnail">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578353355l/51200732.jpg" alt="CM vol 2">
-</a>
 
-    <a href="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" class="thumbnail">
-        <img src="https://cdn.kobo.com/book-images/faa00c63-2f95-402e-9426-fc58cbe66029/1200/1200/False/gearbreakers.jpg" alt="Gearbreakers">
-    </a>
-
-    <a href="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" class="thumbnail">
-        <img src="https://preview.redd.it/u9p8gwgnqgb61.jpg?auto=webp&s=44d6e95987bb4a2274d3efd90e1e71c4bc905471" alt="Vivy: Fluorite Eye Song">
-    </a>
 
     <a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
     <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
@@ -78,9 +66,6 @@
 
 <div alt="August targets" align="center">
 
-<a href="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" class="thumbnail">
-        <img src="https://www.chestnuthilllocal.com/uploads/original/20240403-211625-totoro.jpeg" alt="My Neighbor Totoro">
-    </a>
 
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
