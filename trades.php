@@ -35,8 +35,8 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" alt="Metabaron book 4">
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
 </a>
 
 </div>
@@ -49,9 +49,6 @@
 </a>
 
 
-<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
-</a>
 
 
 
@@ -521,6 +518,10 @@
     <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781594658532/the-metabaron-vol-3-9781594658532_hr.jpg" alt="Metabaron book 3">
 </a>
 
+<a href="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" alt="Metabaron book 4">
+</a>
+
 
 
 </div>
@@ -528,14 +529,8 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781594658532/the-metabaron-vol-3-9781594658532_hr.jpg" class="thumbnail">
-    <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781594658532/the-metabaron-vol-3-9781594658532_hr.jpg" alt="Metabaron book 3">
-</a>
 
 
-<a href="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" alt="Metabaron book 4">
-</a>
 
 
 <a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
@@ -547,6 +542,10 @@
 <a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
     <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
 </a>
+
+
+
+
 
 
 
