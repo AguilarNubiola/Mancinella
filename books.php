@@ -38,8 +38,8 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-    <a href="https://cdnb.artstation.com/p/assets/images/images/024/563/593/large/joseph-meehan-josephmeehan-jedi-final-small.jpg?1582817968" class="thumbnail">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/024/563/593/large/joseph-meehan-josephmeehan-jedi-final-small.jpg?1582817968" alt="Light of the Jedi">
+    <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
     </a>
 
     
@@ -54,10 +54,13 @@
 
 <div alt="Next up" align="center">
 
+    <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
+    </a>
+
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
     </a>
-
   
 
     <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="thumbnail">
@@ -130,6 +133,10 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419196845i/23998360.jpg" alt="Open Her"/>
     </a>
 
+    <a href="https://cdnb.artstation.com/p/assets/images/images/024/563/593/large/joseph-meehan-josephmeehan-jedi-final-small.jpg?1582817968" class="thumbnail">
+        <img src="https://cdnb.artstation.com/p/assets/images/images/024/563/593/large/joseph-meehan-josephmeehan-jedi-final-small.jpg?1582817968" alt="Light of the Jedi">
+    </a>
+
 
 
 
@@ -151,12 +158,6 @@
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
     </a>
 
-
-
-    <a href="https://cdnb.artstation.com/p/assets/images/images/024/563/593/large/joseph-meehan-josephmeehan-jedi-final-small.jpg?1582817968" class="thumbnail">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/024/563/593/large/joseph-meehan-josephmeehan-jedi-final-small.jpg?1582817968" alt="Light of the Jedi">
-    </a>
-
     <a href="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" alt="She comes first">
     </a>
@@ -168,6 +169,10 @@
 
     <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
+    </a>
+
+    <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
     </a>
 
 
