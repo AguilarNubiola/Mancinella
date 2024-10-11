@@ -156,6 +156,14 @@
     <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
 </a>
 
+<a href="https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg" class="thumbnail">
+    <img src="https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg" alt="The Substance">
+</a>
+
+<a href="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" class="thumbnail">
+    <img src="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" alt="The Substance">
+</a>
+
 
 </div>
 
@@ -163,12 +171,13 @@
 
 <div class="backburner" align="center">
 
+<a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" alt="Lust/Caution">
+</a>
 
-
-</div>
-
-
-</div>
+<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
+</a>
 
 <div class="tv shows" align="center">
 
@@ -183,10 +192,15 @@
 
 <div class="movies" align="center">
 
-
-<a href="https://m.media-amazon.com/images/M/MV5BNTI0MjIwMDAtYWY1ZC00MDUyLWI0MzMtZGNjODRlN2Y3ZmE2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNTI0MjIwMDAtYWY1ZC00MDUyLWI0MzMtZGNjODRlN2Y3ZmE2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" alt="Joker 2">
+<a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" alt="Lust/Caution">
 </a>
+
+<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
+</a>
+
+
 
 
 <a href="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" class="thumbnail">
