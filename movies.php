@@ -37,24 +37,27 @@
 
 <div alt="Current marks" align="center">
 
-<a href="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" alt="My neighbor Totoro">
+
+<a href="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" alt="No hard feelings">
 </a>
-
-
-<a href="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" class="thumbnail">
-    <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
-</a>
-
-
 
 </div>
 
 <div alt="Next marks" align="center">
 
-<a href="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" alt="No hard feelings">
+<a href="https://static.wikia.nocookie.net/dubbing9585/images/1/18/Megazone23-Part1.jpg/revision/latest?cb=20171014040004" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/dubbing9585/images/1/18/Megazone23-Part1.jpg/revision/latest?cb=20171014040004" alt="Megazone23 Part 1">
 </a>
+
+<a href="https://static.wikia.nocookie.net/dubbing9585/images/f/fb/Megazone23-part2.jpg/revision/latest?cb=20171014040329" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/dubbing9585/images/f/fb/Megazone23-part2.jpg/revision/latest?cb=20171014040329" alt="Megazone23 part 2">
+</a>
+
+<a href="https://static.wikia.nocookie.net/dubbing9585/images/c/c5/Megazone23-part3.jpg/revision/latest?cb=20171014040341" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/dubbing9585/images/c/c5/Megazone23-part3.jpg/revision/latest?cb=20171014040341" alt="Megazone23 part 3">
+</a>
+
 
 <a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
@@ -144,6 +147,15 @@
 <a href="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest/scale-to-width-down/1200?cb=20210209135843" class="thumbnail">
     <img src="https://i.redd.it/u9p8gwgnqgb61.jpg" alt="Vivy: Fluorite Eye Song">
 </a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" alt="My neighbor Totoro">
+</a>
+
+<a href="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" class="thumbnail">
+    <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
+</a>
+
 
 </div>
 
