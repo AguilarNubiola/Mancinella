@@ -36,22 +36,15 @@
 <div alt="This week" align="center">
 
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4, 9th of October">
+<a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4, 16th of October">
     </a>
 
-    <a href="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" class="thumbnail">
-        <img src="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" alt="Ultimates #5, 9th of October">
+    <a href="https://i.redd.it/rqnya2dc2d9d1.jpeg" class="thumbnail">
+        <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
     </a>
 
-    <a href="https://imagecomics.com/files/releases/0824IM426.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0824IM426.jpg" alt="Scarlett #5, 9th of October">
-    </a>
-
-    <a href="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" class="thumbnail">
-        <img src="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" alt="Exceptional X-Men #2, 9th of October">
-    </a>
-
+    
 
 </div>
 
@@ -59,15 +52,6 @@
 
 <div alt="October books" align="center">
   
-
-    
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4, 16th of October">
-    </a>
-
-    <a href="https://i.redd.it/rqnya2dc2d9d1.jpeg" class="thumbnail">
-        <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
-    </a>
 
     <a href="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" class="thumbnail">
         <img src="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" alt="Zatanna Bring Down the House #5, 23rd of October. DP.">
@@ -262,6 +246,7 @@
     <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/f67c88b5-198a-4658-b9df-72b945d11932.jpeg?q=70&fit=crop&w=750&dpr=1" alt="Exceptional X-men #4. 25th of December.">
 </a>
 
+
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" class="thumbnai">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. December 26th.">
 </a>
@@ -379,6 +364,14 @@
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" alt="X-Men #5, October 2nd">
     </a>
+    
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4, 9th of October">
+    </a>
+
+    <a href="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" class="thumbnail">
+        <img src="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" alt="Exceptional X-Men #2, 9th of October">
+    </a>
 
 
 </div>
@@ -399,6 +392,10 @@
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/6669b82aa0d3d/clean.jpg" alt="Ultimate Spider-Man #9, September 25th">
+    </a>
+
+    <a href="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" class="thumbnail">
+        <img src="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" alt="Ultimates #5, 9th of October">
     </a>
 
 
@@ -628,6 +625,10 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1038344/nights-11_699b6eca11.jpg" alt="Nights #11, September 25th">
     </a>
 
+    <a href="https://imagecomics.com/files/releases/0824IM426.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0824IM426.jpg" alt="Scarlett #5, 9th of October">
+    </a>
+
 
 
 
@@ -670,37 +671,6 @@
         <img src="https://media.s-bol.com/k5wX3kByp1Y6/904x1200.jpg" alt="Metabarons: Castaka #2">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 1">
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 2">
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 3">
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 4">
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 5">
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 6">
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 7">
-    </a>
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Metabarons vol 8">
-    </a>
 
 
 
@@ -730,6 +700,8 @@
      <a href="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" class="thumbnail">
         <img src="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" alt="The Moon is Following Us">
      </a>
+
+     
 
 
 
