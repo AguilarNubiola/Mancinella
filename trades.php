@@ -68,9 +68,6 @@
     <img src="https://goldenapplecomics.com/cdn/shop/files/126223-hr.jpg?v=1722029521" alt="X-Men vol 1 by Jed Mackay">
 </a>
 
-<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" class="thumbnail">
-    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" alt="Kelly Thompson's Scarlett">
-</a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" alt="Nights vol 2">
@@ -522,7 +519,9 @@
     <img src="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" alt="Metabaron book 4">
 </a>
 
-
+<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" class="thumbnail">
+    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" alt="Kelly Thompson's Scarlett">
+</a>
 
 </div>
 

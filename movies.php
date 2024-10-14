@@ -64,10 +64,6 @@
 </a>
 
 
-<a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
-    <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
-</a>
-
 </div>
 
 
@@ -161,7 +157,15 @@
 </a>
 
 <a href="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" class="thumbnail">
-    <img src="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" alt="The Substance">
+    <img src="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" alt="The Wild Robot">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BMzM5ZDllZWItODBkMy00M2Y0LTk2MDgtMTJmYTk4MGQwNGIxXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMzM5ZDllZWItODBkMy00M2Y0LTk2MDgtMTJmYTk4MGQwNGIxXkEyXkFqcGc@._V1_.jpg" alt="Upgrade">
+</a>
+
+<a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
+    <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
 </a>
 
 
