@@ -36,7 +36,40 @@
 
 
 
-<h1 align="center" class="What I wish to become"><img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/cyberpunk-red-netrunning-1.jpg"><img src="https://static.wikia.nocookie.net/marveldatabase/images/0/02/X-Treme_X-Men_Vol_1_4_Textless.jpg"></h1>
+<h1 align="center" class="What I wish to become"><img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/cyberpunk-red-netrunning-1.jpg"><img src="https://qph.cf2.quoracdn.net/main-qimg-8f23b84e56aa20025f3ae3601517344f-lq"></h1>
+
+<div alt="Paragon" align="center">
+<a href="https://i.redd.it/ie9vmnpnsuud1.jpeg" class="thumbnail">
+<img src="https://i.redd.it/ie9vmnpnsuud1.jpeg" alt="Paragon">
+</a>
+</div>
+
+<div alt="" align="center">
+
+      <a href="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" class="thumbnail">
+        <img src="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" alt="Weight-lifting">
+      </a>
+
+      <a href="https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg" class="thumbnail">
+        <img src="https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg" alt="Math">
+      </a>
+
+      <a href="https://www.southwestledger.news/sites/southwestledger.news/files/styles/article_420/public/2023-01/languages-we-speak-in-united-states.jpeg?itok=nDRIV16i" class="thumbnail">
+        <img src="https://www.southwestledger.news/sites/southwestledger.news/files/styles/article_420/public/2023-01/languages-we-speak-in-united-states.jpeg?itok=nDRIV16i" alt="Study languages">
+      </a>
+
+      <a href="https://www.kulkul.tech/wp-content/uploads/2022/06/java-programming-what-is-it.jpg" class="thumbnail">
+        <img src="https://www.kulkul.tech/wp-content/uploads/2022/06/java-programming-what-is-it.jpg" alt="Programming">
+      </a>
+
+      <a href="https://i0.wp.com/apeejay.news/wp-content/uploads/2023/10/281023-10-most-read-books-Blog.jpg?resize=740%2C524&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/apeejay.news/wp-content/uploads/2023/10/281023-10-most-read-books-Blog.jpg?resize=740%2C524&ssl=1" alt="Reading">
+      </a>
+
+
+
+</div>
+
 
 <div alt="skills handled" align="center">
 

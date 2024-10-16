@@ -55,13 +55,16 @@
 
 <div alt="Other games" align="center">
 
-<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
-    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
+<a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" class="thumbnail">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" alt="Fear and Hunger, October">
 </a>
 
-<a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" class="thumbnail">
-    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" alt="Fear and Hunger">
+
+<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, November">
 </a>
+
+
 
 
 
@@ -211,6 +214,22 @@
     <img src="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Elden Ring">
 </a>
 
+
+</div>
+
+<div alt="Shut up and take my money" align="center">
+
+<a href="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" class="thumbnail">
+    <img src="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" alt="Stellar Blade: Nier Automata">
+</a>
+
+<a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
+    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expediiton 33">
+</a>
+
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/horizon.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/horizon.jpg" alt="Horizon III">
+</a>
 
 </div>
 

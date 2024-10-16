@@ -36,13 +36,9 @@
 <div alt="This week" align="center">
 
 
-<a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4, 16th of October">
-    </a>
-
     <a href="https://i.redd.it/rqnya2dc2d9d1.jpeg" class="thumbnail">
-        <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
-    </a>
+        <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 23rd">
+    </a> 
 
     
 
@@ -51,6 +47,8 @@
 
 
 <div alt="October books" align="center">
+
+
   
 
     <a href="https://i.ebayimg.com/images/g/SMYAAOSw4dJmn918/s-l1600.webp" class="thumbnail">
@@ -58,7 +56,7 @@
     </a>
 
     <a href="https://imagecomics.com/files/releases/0824IM400.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0824IM400.jpg" alt="The Moon is Following us #2, 23rd of October. Pay.">
+        <img src="https://imagecomics.com/files/releases/0824IM400.jpg" alt="The Moon is Following us #2, 23rd of October.">
     </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8504225.jpg?1721416207" class="thumbnail">
@@ -66,7 +64,7 @@
     </a>
 
     <a href="https://imagecomics.com/files/releases/0824IM406.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0824IM406.jpg" alt="The Power Fantasy, 23rd of October. DP.">
+        <img src="https://imagecomics.com/files/releases/0824IM406.jpg" alt="The Power Fantasy, 23rd of October.">
     </a>
 
 
@@ -371,6 +369,10 @@
 
     <a href="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" class="thumbnail">
         <img src="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" alt="Exceptional X-Men #2, 9th of October">
+    </a>
+
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4, 16th of October">
     </a>
 
 
