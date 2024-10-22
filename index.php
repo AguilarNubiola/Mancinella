@@ -46,7 +46,7 @@
 
 
 <a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" class="thumbnail">
-    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" alt="Fear and Hunger, October">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" alt="Fear and Hunger">
 </a>
 
  
@@ -201,6 +201,11 @@
 
 <div alt="PS5 generation  Rushmore" align="center">
 
+<a href="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" class="thumbnail">
+    <img src="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" alt="Metaphor Re:Fantazio">
+</a>
+
+
 <a href="https://cdn.shopify.com/s/files/1/0423/6686/1477/files/1366_2000_1_1024x1024.jpg?v=1696013527" class="thumbnail">
     <img src="https://cdn.shopify.com/s/files/1/0423/6686/1477/files/1366_2000_1_1024x1024.jpg?v=1696013527" alt="Cyberpunk 2077">
 </a>
@@ -209,9 +214,6 @@
     <img src="https://playsense.nl/wp-content/uploads/2024/05/Eve-Stellar-Blade.jpeg" alt="Stellar Blade">
 </a>
 
-<a href="https://s3-newsifier.ams3.digitaloceanspaces.com/xgn.nl/images/2024-01/horizon-forbidden-westf1675161467-659d6cd687c42.jpg" class="thumbnail">
-    <img src="https://s3-newsifier.ams3.digitaloceanspaces.com/xgn.nl/images/2024-01/horizon-forbidden-westf1675161467-659d6cd687c42.jpg" alt="Horizon: Forbidden West">
-</a>
 
 <a href="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" class="thumbnail">
     <img src="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Elden Ring">
