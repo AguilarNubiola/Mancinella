@@ -44,26 +44,25 @@
 
 <div alt="current game" align="center">
 
-<a href="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" class="thumbnail">
-    <img src="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" alt="Metaphor Re:Fantazio, October">
+
+<a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" class="thumbnail">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" alt="Fear and Hunger, October">
 </a>
-
-
 
  
 </div>
 
 <div alt="Other games" align="center">
 
-<a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" class="thumbnail">
-    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_616x353.jpg?t=1621853752" alt="Fear and Hunger, October">
-</a>
 
 
 <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
     <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, November">
 </a>
 
+<a href="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" class="thumbnail">
+    <img src="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" alt="Chrono Trigger">
+</a>
 
 
 
@@ -91,6 +90,10 @@
 
 <a href="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" class="thumbnail">
     <img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/5eec986de2675a1514f58d8ba40f3ee13a6faeefc4cf6d30.png" alt="Erdtree">
+</a>
+
+<a href="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" class="thumbnail">
+    <img src="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" alt="Metaphor Re:Fantazio">
 </a>
 
 </div>
@@ -224,7 +227,7 @@
 </a>
 
 <a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
-    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expediiton 33">
+    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33">
 </a>
 
 <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/horizon.jpg" class="thumbnail">
