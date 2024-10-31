@@ -130,54 +130,6 @@
 
 
 
-<div alt="Albums August" align="center">
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-
-
-</div>
-
-<div alt="Albums September" align="center">
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-
-
-</div>
-
-
-</div>
-
-
 
 
 
