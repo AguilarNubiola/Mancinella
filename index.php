@@ -48,8 +48,8 @@
 
 <div alt="current game" align="center">
 
-    <a href="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" class="thumbnail">
-    <img src="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" alt="Chrono Trigger">
+    <a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" class="thumbnail">
+    <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" alt="Metaphor ReFantazio">
     </a>
 
  
