@@ -49,7 +49,7 @@
 <div alt="current game" align="center">
 
     <a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" class="thumbnail">
-    <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" alt="Metaphor ReFantazio">
+      <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" alt="Metaphor ReFantazio">
     </a>
 
  
@@ -60,27 +60,27 @@
 
 
     <a href="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" class="thumbnail">
-    <img src="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" alt="Chrono Trigger">
+      <img src="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" alt="Chrono Trigger">
     </a>
 
     <a href="https://m.media-amazon.com/images/M/MV5BYjY1Mzk1ZTYtODkxMy00M2QwLTliOGEtOWVjMDU5ZTJlZTI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BYjY1Mzk1ZTYtODkxMy00M2QwLTliOGEtOWVjMDU5ZTJlZTI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  alt="Terranigma">
+      <img src="https://m.media-amazon.com/images/M/MV5BYjY1Mzk1ZTYtODkxMy00M2QwLTliOGEtOWVjMDU5ZTJlZTI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  alt="Terranigma">
     </a>
 
     <a href="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/b/baldurs-gate-dark-alliance-switch/hero" class="thumbnail">
-    <img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/b/baldurs-gate-dark-alliance-switch/hero"  alt="Baldur's Gate Dark Alliance">
+      <img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/b/baldurs-gate-dark-alliance-switch/hero"  alt="Baldur's Gate Dark Alliance">
     </a>
 
     <a href="https://image.api.playstation.com/vulcan/ap/rnd/202205/1606/KADWTngfT3MRlLKPj9VsyJfX.png" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202205/1606/KADWTngfT3MRlLKPj9VsyJfX.png"  alt="Baldur's Gate Dark Alliance II">
+      <img src="https://image.api.playstation.com/vulcan/ap/rnd/202205/1606/KADWTngfT3MRlLKPj9VsyJfX.png"  alt="Baldur's Gate Dark Alliance II">
     </a>
 
     <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
-    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, November">
+      <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, November">
     </a>
 
     <a href="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg"  alt="Hades II">
+      <img src="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg"  alt="Hades II">
     </a>
 
     
