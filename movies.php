@@ -37,34 +37,21 @@
 
 <div alt="Current marks" align="center">
 
-<a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
+<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
 </a>
-
-
 
 </div>
 
 <div alt="Next marks" align="center">
 
-<a href="https://static.wikia.nocookie.net/dubbing9585/images/1/18/Megazone23-Part1.jpg/revision/latest?cb=20171014040004" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/dubbing9585/images/1/18/Megazone23-Part1.jpg/revision/latest?cb=20171014040004" alt="Megazone23 Part 1">
-</a>
-
-<a href="https://static.wikia.nocookie.net/dubbing9585/images/f/fb/Megazone23-part2.jpg/revision/latest?cb=20171014040329" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/dubbing9585/images/f/fb/Megazone23-part2.jpg/revision/latest?cb=20171014040329" alt="Megazone23 part 2">
-</a>
-
-<a href="https://static.wikia.nocookie.net/dubbing9585/images/c/c5/Megazone23-part3.jpg/revision/latest?cb=20171014040341" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/dubbing9585/images/c/c5/Megazone23-part3.jpg/revision/latest?cb=20171014040341" alt="Megazone23 part 3">
-</a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" alt="Lust/Caution">
 </a>
 
-<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
+<a href="https://filmhallen.nl/content/uploads/sites/4/2024/07/Gladiator-II_st_2_jpg_sd-high_2024-Paramount-Pictures-All-Rights-Reserverd-1080x720.jpg" class="thumbnails">
+    <img src="https://filmhallen.nl/content/uploads/sites/4/2024/07/Gladiator-II_st_2_jpg_sd-high_2024-Paramount-Pictures-All-Rights-Reserverd-1080x720.jpg" alt="Gladiator II">
 </a>
 
 
