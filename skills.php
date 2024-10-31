@@ -44,7 +44,7 @@
 </a>
 </div>
 
-<div alt="" align="center">
+<div alt="Big 4 habits" align="center">
 
       <a href="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" class="thumbnail">
         <img src="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" alt="Weight-lifting">
