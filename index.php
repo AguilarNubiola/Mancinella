@@ -83,6 +83,14 @@
       <img src="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg"  alt="Hades II">
     </a>
 
+    <a href="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/ss_9e050e6a61a4d9f4fe54bc62c8c73da38e9a63b0.1920x1080.jpg?t=1730202484" class="thumbnail">
+        <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/ss_9e050e6a61a4d9f4fe54bc62c8c73da38e9a63b0.1920x1080.jpg?t=1730202484" alt="Expedition 33">
+    </a>
+
+    <a href="https://i.ytimg.com/vi/LSKjCBVx_QM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBm6HaXI5upwSzEI0raUVD5BiUu8w" class="thumbnail">
+        <img src="https://i.ytimg.com/vi/LSKjCBVx_QM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBm6HaXI5upwSzEI0raUVD5BiUu8w" alt="Persona 6">
+    </a>
+
     
 
 
