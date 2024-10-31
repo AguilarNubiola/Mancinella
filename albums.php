@@ -29,6 +29,14 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<div alt="Targets" align="center">
+
+    <a href="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" class="thumbnail">
+        <img src="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" alt="Hell Hath no Fury">
+    </a>
+
+</div>
+
 <div alt="Albums finished" align="center">
 
 <a href="https://audioxide.com/api/images/album-artwork/kings-disease-nas-medium-square.jpg" class="thumbnail">
