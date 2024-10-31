@@ -52,8 +52,8 @@
         <img src="https://images-eu.ssl-images-amazon.com/images/I/91WLf3QOBiL._AC_UL600_SR600,600_.jpg" alt="X-Factor Omnibus">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
+        <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
     </a>
 
     
