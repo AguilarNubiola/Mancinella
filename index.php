@@ -76,7 +76,11 @@
     </a>
 
     <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
-      <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, November">
+      <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
+    </a>
+
+    <a href="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" class="thumbnail">
+      <img src="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" alt="Stellar Blade: Nier Automata">
     </a>
 
     <a href="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg" class="thumbnail">
