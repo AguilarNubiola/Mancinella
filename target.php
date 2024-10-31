@@ -36,13 +36,11 @@
         <img src="https://cdn.bap-software.net/2023/10/softwaretesting1.jpg" alt="Software testing">
     </a>
 
-    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
+    <a href="https://www.marketingfacts.nl/wp-content/uploads/2023/09/Odido-Logo-aspect-ratio-943-471.5-1.png" class="thumbnail">
+        <img src="https://www.marketingfacts.nl/wp-content/uploads/2023/09/Odido-Logo-aspect-ratio-943-471.5-1.png" alt="Odido">
     </a>
+    
 
-    <a href="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" alt="PHP & MYSQL">
-    </a>
 
 
 
@@ -50,7 +48,13 @@
 
 <div alt="Next up" align="center">
 
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+        <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
+    </a>
 
+    <a href="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" alt="PHP & MYSQL">
+    </a>
 
     <a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
     <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
