@@ -31,9 +31,7 @@
 
 <div alt="Targets" align="center">
 
-    <a href="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" class="thumbnail">
-        <img src="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" alt="Hell Hath no Fury">
-    </a>
+
 
 </div>
 
@@ -121,6 +119,11 @@
 <a href="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" class="thumbnail">
     <img src="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" alt="Supreme Clientele">
 </a>
+
+<a href="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" class="thumbnail">
+    <img src="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" alt="Hell Hath no Fury">
+</a>
+
 
 
 </div>
