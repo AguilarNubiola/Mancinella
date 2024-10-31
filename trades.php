@@ -57,21 +57,7 @@
 
 </div>
 
-<div alt="October trades" align="center">
 
-
-<a href="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" alt="Rook Exodus vol 1">
-</a>
-
-<a href="https://scontent-ams2-1.cdninstagram.com/v/t51.29350-15/446220654_795073412593848_4780919595955191431_n.jpg" class="thumbnail">
-    <img src="https://goldenapplecomics.com/cdn/shop/files/126223-hr.jpg?v=1722029521" alt="X-Men vol 1 by Jed Mackay">
-</a>
-
-
-<a href="https://i.ebayimg.com/images/g/atgAAOSwA2RmXPex/s-l1600.webp" class="thumbnail">
-    <img src="https://i.ebayimg.com/images/g/atgAAOSwA2RmXPex/s-l1600.webp" alt="Zatanna: Bring Down the House">
-</a>
 
 </div>
 
