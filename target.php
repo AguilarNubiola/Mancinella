@@ -44,18 +44,6 @@
         <img src="https://images-3.rakuten.tv/storage/snapshot/shot/a2431a65-c873-4b6b-a83d-dd2cb50f1b3c-snapshot-1590665896.jpeg" alt="Lust Caution">
     </a>
 
-    <a href="https://ew.com/thmb/uhFZz2n0Wgr9Zq_zebe1SypeZA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-handmaiden-review-ew-906481c7a21f4aa8b6f19849f86c97eb.jpg" class="thumbnail">
-        <img src="https://ew.com/thmb/uhFZz2n0Wgr9Zq_zebe1SypeZA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-handmaiden-review-ew-906481c7a21f4aa8b6f19849f86c97eb.jpg" alt="The Handmaiden">
-    </a>
-
-    <a href="https://images-eu.ssl-images-amazon.com/images/I/91WLf3QOBiL._AC_UL600_SR600,600_.jpg" class="thumbnail">
-        <img src="https://images-eu.ssl-images-amazon.com/images/I/91WLf3QOBiL._AC_UL600_SR600,600_.jpg" alt="X-Factor Omnibus">
-    </a>
-
-    <a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
-        <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
-    </a>
-
     
 
     
@@ -68,7 +56,7 @@
 
 <div alt="Next up" align="center">
 
-<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+    <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
     </a>
 
@@ -77,18 +65,30 @@
     </a>
 
     <a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
-    <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
-</a>
+        <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
+    </a>
 
-<a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
+    <a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
         <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
+     </a>
+
+    <a href="https://ew.com/thmb/uhFZz2n0Wgr9Zq_zebe1SypeZA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-handmaiden-review-ew-906481c7a21f4aa8b6f19849f86c97eb.jpg" class="thumbnail">
+        <img src="https://ew.com/thmb/uhFZz2n0Wgr9Zq_zebe1SypeZA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-handmaiden-review-ew-906481c7a21f4aa8b6f19849f86c97eb.jpg" alt="The Handmaiden">
+    </a>
+
+    <a href="https://images-eu.ssl-images-amazon.com/images/I/91WLf3QOBiL._AC_UL600_SR600,600_.jpg" class="thumbnail">
+        <img src="https://images-eu.ssl-images-amazon.com/images/I/91WLf3QOBiL._AC_UL600_SR600,600_.jpg" alt="X-Factor Omnibus">
+    </a>
+
+    <a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
+        <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
     </a>
 </div>
 
 
 
 
-<div alt="August targets" align="center">
+<div alt="November targets" align="center">
 
 
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
@@ -98,21 +98,21 @@
     <a href="https://cdn.mos.cms.futurecdn.net/jUzkZX6peuBa5BoMKofEDT.jpg" class="thumbnail">
         <img src="https://cdn.mos.cms.futurecdn.net/jUzkZX6peuBa5BoMKofEDT.jpg" alt="Baldur's Gate 3">
     </a>
-
-
+< div alt="trophies" class="thumbnail">
+    
     <a href="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" alt="No hard feelings">
-</a>
+        <img src="https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" alt="No hard feelings">
+    </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
-</a>
+    <a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
+    </a>
 
-
-<a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
-    <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
-</a>
-
+    <a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
+       <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
+    </a>
+    
+</div>
 
 </div>
 
