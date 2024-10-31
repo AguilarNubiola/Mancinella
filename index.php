@@ -42,7 +42,18 @@
 </div>
 
 
+<div alt="teams" align="center">
+    <a href="https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NYG_wbg.png" class="thumbnail">
+        <img src="https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NYG_wbg.png" alt="New York Giants">
+    </a>
 
+    <a href="https://yt3.googleusercontent.com/cRfRvdqkt8UFmvTerPdkMouNVUxUDxCKvzXw33s3e9Cfw4yaf9TN1UzEQ8FwwFylT9wCm4WN=s900-c-k-c0x00ffffff-no-rj" class="thumbnail">
+        <img src="https://yt3.googleusercontent.com/cRfRvdqkt8UFmvTerPdkMouNVUxUDxCKvzXw33s3e9Cfw4yaf9TN1UzEQ8FwwFylT9wCm4WN=s900-c-k-c0x00ffffff-no-rj" alt="Los Angeles Lakers">
+    </a>
+
+    
+
+</div>
 
 
 
