@@ -31,12 +31,16 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
-        
+<h1 align="center" class="Game of the year">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/metaphor-refantazio-key-art.jpg">
+</h1>        
 
-<h1 align="center" class="Runner-up">
-    <img src="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/eve-looking-back-in-stellar-blade.jpg?q=49&fit=contain&w=750&h=415&dpr=2">
-</h1>
+<div alt="Runner-up of the year" align="center">
+      <a href="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
+      <img src="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
+      <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/eve-looking-back-in-stellar-blade.jpg?q=49&fit=contain&w=750&h=415&dpr=2">
+</div>
+
 
 
 
