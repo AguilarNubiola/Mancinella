@@ -39,6 +39,26 @@
     <a href="https://www.marketingfacts.nl/wp-content/uploads/2023/09/Odido-Logo-aspect-ratio-943-471.5-1.png" class="thumbnail">
         <img src="https://www.marketingfacts.nl/wp-content/uploads/2023/09/Odido-Logo-aspect-ratio-943-471.5-1.png" alt="Odido">
     </a>
+
+    <a href="https://images-3.rakuten.tv/storage/snapshot/shot/a2431a65-c873-4b6b-a83d-dd2cb50f1b3c-snapshot-1590665896.jpeg" class="thumbnail">
+        <img src="https://images-3.rakuten.tv/storage/snapshot/shot/a2431a65-c873-4b6b-a83d-dd2cb50f1b3c-snapshot-1590665896.jpeg" alt="Lust Caution">
+    </a>
+
+    <a href="https://ew.com/thmb/uhFZz2n0Wgr9Zq_zebe1SypeZA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-handmaiden-review-ew-906481c7a21f4aa8b6f19849f86c97eb.jpg" class="thumbnail">
+        <img src="https://ew.com/thmb/uhFZz2n0Wgr9Zq_zebe1SypeZA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-handmaiden-review-ew-906481c7a21f4aa8b6f19849f86c97eb.jpg" alt="The Handmaiden">
+    </a>
+
+    <a href="https://images-eu.ssl-images-amazon.com/images/I/91WLf3QOBiL._AC_UL600_SR600,600_.jpg" class="thumbnail">
+        <img src="https://images-eu.ssl-images-amazon.com/images/I/91WLf3QOBiL._AC_UL600_SR600,600_.jpg" alt="X-Factor Omnibus">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+    
+
+    
     
 
 
