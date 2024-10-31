@@ -49,7 +49,7 @@
 <div alt="current game" align="center">
 
     <a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" class="thumbnail">
-      <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" alt="Metaphor ReFantazio">
+      <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" alt="Metaphor ReFantazio New Game Plus">
     </a>
 
  
