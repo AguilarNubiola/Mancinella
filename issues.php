@@ -58,39 +58,10 @@
 <div alt="This week" align="center">
 
 
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" alt="Nights #12, 30th of October">
-    </a>
-
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" alt="Ultimate X-men #8 30th of October. Ian Bertram variant cover.">
-    </a>
-
-    
-
-</div>
-
-
-
-<div alt="October books" align="center">
-
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" alt="Ultimate X-men #8 30th of October. Ian Bertram variant cover.">
-    </a>
-
-</div>
-
-<div alt="November books" align="center">
-
-
     <a href="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" class="thumbnail">
         <img src="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" alt="Ultimates 6. 6th of November.">
     </a>
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFACT2024004_cvr-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFACT2024004_cvr-scaled.jpg" alt="X-Factor 4. 6th of November. DP.">
-    </a>
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" alt="X-Force 5. 6th of November.">
@@ -104,6 +75,15 @@
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" alt="Avengers vs Aliens #2. 6th of November. DP.">
     </a>
 
+    
+
+</div>
+
+
+
+<div alt="November books" align="center">
+
+
     <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
         <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion. 13th of November.">
         <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
@@ -113,9 +93,6 @@
 
     </a>
 
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" alt="Kaya #22. November 13th, 2024. DP.">
-    </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" alt="Ultimate X-men 9. November 13th">
@@ -135,9 +112,6 @@
         <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke #1. November 13th">
     </a>
 
-    <a href="https://pbs.twimg.com/media/GTh480DWwAAGs7m?format=jpg&name=4096x4096" class="thumbnail">
-        <img src="https://pbs.twimg.com/media/GTh480DWwAAGs7m?format=jpg&name=4096x4096" alt="Exceptional X-men #3. November 20th.">
-    </a>
 
     <a href="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" class="thumbnail">
         <img src="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" alt="Storm 2. November 20th">
@@ -238,10 +212,6 @@
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" alt="Mystique #3. 25th of December.">
 </a>
 
-
-<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/f67c88b5-198a-4658-b9df-72b945d11932.jpeg?q=70&fit=crop&w=750&dpr=1" class="thumbnail">
-    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/f67c88b5-198a-4658-b9df-72b945d11932.jpeg?q=70&fit=crop&w=750&dpr=1" alt="Exceptional X-men #4. 25th of December.">
-</a>
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" class="thumbnai">
@@ -454,6 +424,10 @@
 
     <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6, 23rd of October">
+    </a>
+
+    <a href="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" alt="Ultimate X-men #8 30th of October. Ian Bertram variant cover.">
     </a>
 
 
@@ -703,7 +677,7 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1031543/rook-exodus-3_3fbe722f61.jpg" alt="Rook Exodus #3">
     </a>
     <a href="https://cdn.imagecomics.com/assets/i/releases/1033736/rook-exodus-4_e989973a51.jpg" class="thumbnail">
-        <img src=https://cdn.imagecomics.com/assets/i/releases/1033736/rook-exodus-4_e989973a51.jpg"" alt="Rook Exodus #4">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1033736/rook-exodus-4_e989973a51.jpg" alt="Rook Exodus #4">
     </a>
     <a href="https://cdn.imagecomics.com/assets/i/releases/1035904/rook-exodus-5_9e224f12e0.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1035904/rook-exodus-5_9e224f12e0.jpg" alt="Rook Exodus #5">
@@ -731,6 +705,10 @@
 
     <a href="https://imagecomics.com/files/releases/0824IM406.jpg" class="thumbnail">
         <img src="https://imagecomics.com/files/releases/0824IM406.jpg" alt="The Power Fantasy #3, 23rd of October.">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" alt="Kaya #22.">
     </a>
 
 
@@ -890,7 +868,25 @@
 
 </div>
 
+<div alt="unknown date" align="center">
 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3120023.jpg?1727910591" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6420642.jpg?1727910629" alt="Heat Seeker: Combustion #2">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3174791.jpg?1727897867">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3737693.jpg?1727910575">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6799177.jpg?1727910522">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3120023.jpg?1727910591">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4328717.jpg?1727910659">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3590543.jpg?1729906100" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2154658.jpg?1729906074" alt="Heat Seeker: Combustion #3">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1370140.jpg?1729905888">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7744736.jpg?1729905777">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4575676.jpg?1729905716">
+    </a>
+
+</div>
 
 
 

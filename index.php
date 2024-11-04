@@ -31,37 +31,29 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
-<h1 align="center" class="Game of the year">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/metaphor-refantazio-key-art.jpg">
-</h1>        
+        
 
-<div alt="Runner-up of the year" align="center">
-      <a href="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
-      <img src="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
-      <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/eve-looking-back-in-stellar-blade.jpg?q=49&fit=contain&w=750&h=415&dpr=2">
+<h1 align="center" class="current game of the year">
+    <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg">
+</h1>
+
+
+<div alt="runner up" align="center">
+    <a href="Stellar Blade" class="thumbnail">
+<img src="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/eve-looking-back-in-stellar-blade.jpg?q=49&fit=contain&w=750&h=415&dpr=2">
 </div>
 
 
-<div alt="teams" align="center">
-    <a href="https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NYG_wbg.png" class="thumbnail">
-        <img src="https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_NYG_wbg.png" alt="New York Giants">
-    </a>
-
-    <a href="https://yt3.googleusercontent.com/cRfRvdqkt8UFmvTerPdkMouNVUxUDxCKvzXw33s3e9Cfw4yaf9TN1UzEQ8FwwFylT9wCm4WN=s900-c-k-c0x00ffffff-no-rj" class="thumbnail">
-        <img src="https://yt3.googleusercontent.com/cRfRvdqkt8UFmvTerPdkMouNVUxUDxCKvzXw33s3e9Cfw4yaf9TN1UzEQ8FwwFylT9wCm4WN=s900-c-k-c0x00ffffff-no-rj" alt="Los Angeles Lakers">
-    </a>
-
-    
-
-</div>
 
 
 
 <div alt="current game" align="center">
 
-    <a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" class="thumbnail">
-      <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg?quality=90&strip=all&crop=8.3597464342314,0,83.280507131537,100" alt="Metaphor ReFantazio New Game Plus">
-    </a>
+<a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Hades II">
+</a>
+
 
  
 </div>
@@ -69,44 +61,18 @@
 <div alt="Other games" align="center">
 
 
+<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, November">
+</a>
 
-    <a href="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" class="thumbnail">
-      <img src="https://inside.gamer.nl/wp-content/uploads/2023/02/chrono-trigger-blogroll-1604620571428_160w.jpg" alt="Chrono Trigger">
-    </a>
+<a href="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" class="thumbnail">
+    <img src="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" alt="Terranigma">
+</a>
 
-    <a href="https://m.media-amazon.com/images/M/MV5BYjY1Mzk1ZTYtODkxMy00M2QwLTliOGEtOWVjMDU5ZTJlZTI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-      <img src="https://m.media-amazon.com/images/M/MV5BYjY1Mzk1ZTYtODkxMy00M2QwLTliOGEtOWVjMDU5ZTJlZTI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  alt="Terranigma">
-    </a>
+<a href="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/How-Long-Does-It-Takes-To-Beat-Chrono-Trigger.jpg" class="thumbnail">
+    <img src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/How-Long-Does-It-Takes-To-Beat-Chrono-Trigger.jpg" alt="Chrono Trigger">
+</a>
 
-    <a href="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/b/baldurs-gate-dark-alliance-switch/hero" class="thumbnail">
-      <img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/b/baldurs-gate-dark-alliance-switch/hero"  alt="Baldur's Gate Dark Alliance">
-    </a>
-
-    <a href="https://image.api.playstation.com/vulcan/ap/rnd/202205/1606/KADWTngfT3MRlLKPj9VsyJfX.png" class="thumbnail">
-      <img src="https://image.api.playstation.com/vulcan/ap/rnd/202205/1606/KADWTngfT3MRlLKPj9VsyJfX.png"  alt="Baldur's Gate Dark Alliance II">
-    </a>
-
-    <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
-      <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
-    </a>
-
-    <a href="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" class="thumbnail">
-      <img src="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" alt="Stellar Blade: Nier Automata">
-    </a>
-
-    <a href="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg" class="thumbnail">
-      <img src="https://i.ytimg.com/vi/l-iHDj3EwdI/maxresdefault.jpg"  alt="Hades II">
-    </a>
-
-    <a href="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/ss_9e050e6a61a4d9f4fe54bc62c8c73da38e9a63b0.1920x1080.jpg?t=1730202484" class="thumbnail">
-        <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/ss_9e050e6a61a4d9f4fe54bc62c8c73da38e9a63b0.1920x1080.jpg?t=1730202484" alt="Expedition 33">
-    </a>
-
-    <a href="https://i.ytimg.com/vi/LSKjCBVx_QM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBm6HaXI5upwSzEI0raUVD5BiUu8w" class="thumbnail">
-        <img src="https://i.ytimg.com/vi/LSKjCBVx_QM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBm6HaXI5upwSzEI0raUVD5BiUu8w" alt="Persona 6">
-    </a>
-
-    
 
 
 
@@ -139,6 +105,7 @@
 <a href="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" class="thumbnail">
     <img src="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" alt="Metaphor Re:Fantazio">
 </a>
+
 
 </div>
 

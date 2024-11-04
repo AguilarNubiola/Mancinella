@@ -57,32 +57,36 @@
 
 </div>
 
+
+
 <div alt="November trades" align="center">
 
-	<a href="https://i.redd.it/uncanny-x-men-2024-variant-covers-v0-4m9h3iyssvwc1.jpg?width=2100&format=pjpg&auto=webp&s=35a3332247b01880ddbdad4c1cf73542fb5d2cf2" class="thumbnail">
-		<img src="https://i.redd.it/uncanny-x-men-2024-variant-covers-v0-4m9h3iyssvwc1.jpg?width=2100&format=pjpg&auto=webp&s=35a3332247b01880ddbdad4c1cf73542fb5d2cf2" alt="Uncanny X-Men vol 1">
-	</a>
 
-	<a href="https://comicbook.com/wp-content/uploads/sites/4/2024/08/b8eab86a-965b-4ccd-84a4-9ee6f6df865b.jpg" class="thumbnail">
-		<img src="https://comicbook.com/wp-content/uploads/sites/4/2024/08/b8eab86a-965b-4ccd-84a4-9ee6f6df865b.jpg" alt="Ultimates vol 1">
-	</a>
+<a href="https://m.media-amazon.com/images/I/81mN9nwk1jL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81mN9nwk1jL._SL1500_.jpg" alt="Ultimates vol 1">
+</a>
 
-	<a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
-                <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
-        </a>
+<a href="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" alt="Uncanny X-Men vol 1">
+</a>
 
-	<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
-        </a>
+<a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
+    <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
+</a>
 
-	
-
-</div>
-	
-
-
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
+</a>
 
 </div>
+
+<div alt="December trades" align="center">
+
+
+</div>
+
+
+
 
 <div alt="finished comics" align="Center">
 
@@ -535,7 +539,6 @@
 <a href="https://scontent-ams2-1.cdninstagram.com/v/t51.29350-15/446220654_795073412593848_4780919595955191431_n.jpg" class="thumbnail">
     <img src="https://goldenapplecomics.com/cdn/shop/files/126223-hr.jpg?v=1722029521" alt="X-Men vol 1 by Jed Mackay">
 </a>
-
 
 <a href="https://i.ebayimg.com/images/g/atgAAOSwA2RmXPex/s-l1600.webp" class="thumbnail">
     <img src="https://i.ebayimg.com/images/g/atgAAOSwA2RmXPex/s-l1600.webp" alt="Zatanna: Bring Down the House">

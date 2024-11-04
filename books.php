@@ -152,7 +152,7 @@
 
 </div>
 
-<div alt="November Books" align='center'>
+<div alt="October Books" align='center'>
 
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
@@ -196,7 +196,7 @@
 
 </div>
 
-<div alt="December books" align="cente">
+<div alt="November books" align="cente">
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals"/>
@@ -224,7 +224,7 @@
 
 </div>
 
-<div alt="January Books" align='center'>
+<div alt="December Books" align='center'>
 
     <a href="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" class="thumbnail">
         <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" alt="War and Peace">

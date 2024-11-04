@@ -37,6 +37,7 @@
 
 <div alt="Current marks" align="center">
 
+
 <a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
     <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
 </a>
@@ -45,16 +46,14 @@
 
 <div alt="Next marks" align="center">
 
+<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
+</a>
+
 
 <a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" alt="Lust/Caution">
 </a>
-
-<a href="https://filmhallen.nl/content/uploads/sites/4/2024/07/Gladiator-II_st_2_jpg_sd-high_2024-Paramount-Pictures-All-Rights-Reserverd-1080x720.jpg" class="thumbnails">
-    <img src="https://filmhallen.nl/content/uploads/sites/4/2024/07/Gladiator-II_st_2_jpg_sd-high_2024-Paramount-Pictures-All-Rights-Reserverd-1080x720.jpg" alt="Gladiator II">
-</a>
-
-
 
 
 </div>
@@ -197,11 +196,6 @@
     <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
 </a>
 
-
-
-<a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
-</a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" alt="Lust/Caution">

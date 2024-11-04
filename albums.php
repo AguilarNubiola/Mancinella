@@ -29,12 +29,6 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
-<div alt="Targets" align="center">
-
-
-
-</div>
-
 <div alt="Albums finished" align="center">
 
 <a href="https://audioxide.com/api/images/album-artwork/kings-disease-nas-medium-square.jpg" class="thumbnail">
@@ -120,14 +114,29 @@
     <img src="https://www.okayplayer.com/media-library/386-2000.jpg?id=33159836&width=1200&height=600&coordinates=0%2C188%2C0%2C297" alt="Supreme Clientele">
 </a>
 
-<a href="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" class="thumbnail">
-    <img src="https://media.pitchfork.com/photos/5929ae33b1335d7bf1699d25/master/pass/d018bb5e.jpg" alt="Hell Hath no Fury">
+<a href="https://m.media-amazon.com/images/I/81Pxme2wwDL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Pxme2wwDL._UF1000,1000_QL80_.jpg" alt="Hell Hath No Fury">
 </a>
+
+
+</div>
+
+
+
+=
+
+
+</div>
+
+<div alt="Albums September" align="center">
+
 
 
 
 </div>
 
+
+</div>
 
 
 

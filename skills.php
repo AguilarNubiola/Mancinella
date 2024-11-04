@@ -44,7 +44,7 @@
 </a>
 </div>
 
-<div alt="Big 4 habits" align="center">
+<div alt="" align="center">
 
       <a href="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" class="thumbnail">
         <img src="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" alt="Weight-lifting">
@@ -62,6 +62,9 @@
         <img src="https://www.kulkul.tech/wp-content/uploads/2022/06/java-programming-what-is-it.jpg" alt="Programming">
       </a>
 
+      <a href="https://i0.wp.com/apeejay.news/wp-content/uploads/2023/10/281023-10-most-read-books-Blog.jpg?resize=740%2C524&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/apeejay.news/wp-content/uploads/2023/10/281023-10-most-read-books-Blog.jpg?resize=740%2C524&ssl=1" alt="Reading">
+      </a>
 
 
 
