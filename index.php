@@ -124,7 +124,17 @@
 
 <a href="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" class="thumbnail">
         <img src="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" alt="Street Fighter 6. Mai Shiranui in the winter of 2025">
-    </a>
+</a>
+
+<a href="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" class="">
+    <img src="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" alt="Java">
+</a>
+
+<a href="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg" class="thumbnail">
+    <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg" alt="Programming">
+</a>
+
+
 
 </div>
 
