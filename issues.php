@@ -57,33 +57,6 @@
 
 <div alt="This week" align="center">
 
-
-    <a href="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" class="thumbnail">
-        <img src="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" alt="Ultimates 6. 6th of November.">
-    </a>
-
-
-    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" alt="X-Force 5. 6th of November.">
-    </a>
-
-    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" alt="X-Men 7. 6th of November.">
-    </a>
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" alt="Avengers vs Aliens #2. 6th of November. DP.">
-    </a>
-
-    
-
-</div>
-
-
-
-<div alt="November books" align="center">
-
-
     <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
         <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion. 13th of November.">
         <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
@@ -106,11 +79,18 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 13th. DP.">
     </a>
 
-    
-
     <a href="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke #1. November 13th">
     </a>
+
+    
+
+</div>
+
+
+
+<div alt="November books" align="center">
+
 
 
     <a href="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" class="thumbnail">
@@ -430,6 +410,14 @@
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" alt="Ultimate X-men #8 30th of October. Ian Bertram variant cover.">
     </a>
 
+    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" alt="X-Force 5. 6th of November.">
+    </a>
+
+    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" alt="X-Men 7. 6th of November.">
+    </a>
+
 
 
 </div>
@@ -454,6 +442,14 @@
 
     <a href="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" class="thumbnail">
         <img src="https://goldenapplecomics.com/cdn/shop/files/126479-hr.jpg?v=1722029012" alt="Ultimates #5, 9th of October">
+    </a>
+
+    <a href="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" class="thumbnail">
+        <img src="https://cdn.mos.cms.futurecdn.net/vAffCyTZPxoCrScxF96EfU.jpg" alt="Ultimates 6. 6th of November.">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/e/10/66c7218289831/clean.jpg" alt="Avengers vs Aliens #2. 6th of November. DP.">
     </a>
 
 
