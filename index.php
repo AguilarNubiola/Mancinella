@@ -62,9 +62,19 @@
 
 
 <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
-    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3, November">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
 </a>
 
+
+<a href="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" class="thumbnail">
+    <img src="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" alt="Terranigma">
+</a>
+
+<a href="https://gh.cdn.sewest.net/assets/ident/GHAssets/ChronoTrigger/GamesIndex_GameListing_Artwork.jpg?quality=65" class="thumbnail">
+    <img src="https://gh.cdn.sewest.net/assets/ident/GHAssets/ChronoTrigger/GamesIndex_GameListing_Artwork.jpg?quality=65" alt="Chrono Trigger">
+</a>
+
+    
 
 
 
