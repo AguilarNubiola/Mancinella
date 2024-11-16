@@ -29,6 +29,22 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<div alt="The enemies" align="center">
+
+<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
+    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
+</a>
+
+<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
+    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
+</a>
+
+
+
+
+
+</div>
+
 
 
 <div alt="reading now" align="center">

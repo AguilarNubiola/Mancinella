@@ -29,6 +29,22 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<div alt="The enemies" align="center">
+
+<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
+    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
+</a>
+
+<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
+    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
+</a>
+
+
+
+
+
+</div>
+
 
 <div alt="" align="center">
 
@@ -54,36 +70,43 @@
 
 
 
-
 <div alt="This week" align="center">
 
-    <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
-        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion. 13th of November.">
-        <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
-        <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_A_COVER_DAVIDNAKAYAMA-600x910.jpg">
-        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_c_cover_ace_contunuado/">
-        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_e_cover_lesley_li/">
-
+<a href="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" class="thumbnail">
+        <img src="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" alt="Storm 2. November 20th. PAY.">
     </a>
 
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" alt="Ultimate X-men 9. November 13th">
+    <a href="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" class="thumbnail">
+        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimate Spider-man 11. 20th of November.">
     </a>
 
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" alt="Uncanny X-men 5. November 13th">
+    <a href="https://imagecomics.com/files/releases/0924IM380.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0924IM380.jpg" alt="The Moon is Following us #3. 20th of November. PAY.">
+        <img src="https://imagecomics.com/files/releases/0924IM381.jpg" >
+    </a>
+
+    <a href="https://imagecomics.com/files/releases/0924IM388.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0924IM388.jpg" alt="Power Fantasy #4, 20th of November. ">
+    </a>
+ 
+
+</div>
+
+<div alt="next week" align="center">
+
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" alt="Uncanny X-men 6. November 27th. PAY.">
     </a>
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 13th. DP.">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 27th. ">
     </a>
 
-    <a href="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke #1. November 13th">
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6278246.jpg?1723842905" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6278246.jpg?1723842905" alt="Absolute Wonder Woman #2, 27th of November">
     </a>
 
-    
 
 </div>
 
@@ -92,27 +115,12 @@
 <div alt="November books" align="center">
 
 
-
-    <a href="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" class="thumbnail">
-        <img src="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" alt="Storm 2. November 20th">
-    </a>
-
-    <a href="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" class="thumbnail">
-        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimate Spider-man 11. 20th of November. DP.">
-    </a>
-
-    <a href="https://imagecomics.com/files/releases/0924IM380.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0924IM380.jpg" alt="The Moon is Following us #3. 20th of November.">
-        <img src="https://imagecomics.com/files/releases/0924IM381.jpg" >
-    </a>
-
-    <a href="https://imagecomics.com/files/releases/0924IM388.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0924IM388.jpg" alt="Power Fantasy #4, 20th of November. DP.">
-    </a>
-
-
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" alt="Uncanny X-men 6. November 27th">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" alt="Uncanny X-men 6. November 27th. PAY.">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 27th. ">
     </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6278246.jpg?1723842905" class="thumbnail">
@@ -129,7 +137,7 @@
 </a>
 
 <a href="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" class="thumbnail">
-    <img src="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" alt="Avengers #21. 4th of December.">
+    <img src="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" alt="Avengers #21. 4th of December. PAY.">
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" class="thumbnail">
@@ -137,11 +145,11 @@
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" alt="Ultimates #7. 4th of December.">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" alt="Ultimates #7. 4th of December. PAY.">
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" alt="X-Men #8. 4th of December.">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" alt="X-Men #8. 4th of December. PAY.">
 </a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
@@ -149,15 +157,15 @@
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" alt="Storm #3. 11th of December.">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" alt="Storm #3. 11th of December. PAY.">
 </a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024.">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024. PAY.">
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December.">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December. PAY.">
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" class="thumbnail">
@@ -410,12 +418,25 @@
         <img src="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" alt="Ultimate X-men #8 30th of October. Ian Bertram variant cover.">
     </a>
 
+    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" class="thumbnail">
+        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" alt="X-Men 7. 6th of November.">
+    </a>
+
     <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" class="thumbnail">
         <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" alt="X-Force 5. 6th of November.">
     </a>
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" alt="X-Men 7. 6th of November.">
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" alt="Ultimate X-men 9. November 13th. ">
+    </a>
+
+    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/66c7225e20a8c/clean.jpg" alt="Uncanny X-men 5. November 13th">
+    </a>
+    
+
+    <a href="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke #1. November 13th">
     </a>
 
 
@@ -747,6 +768,15 @@
 
     <a href="https://media.s-bol.com/k5wX3kByp1Y6/904x1200.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/k5wX3kByp1Y6/904x1200.jpg" alt="Metabarons: Castaka #2">
+    </a>
+
+    <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
+        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion. 13th of November.">
+        <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
+        <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_A_COVER_DAVIDNAKAYAMA-600x910.jpg">
+        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_c_cover_ace_contunuado/">
+        <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_e_cover_lesley_li/">
+
     </a>
 
 

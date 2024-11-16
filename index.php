@@ -31,6 +31,22 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+
+<div alt="The enemies" align="center">
+
+<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
+    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
+</a>
+
+<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
+    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
+</a>
+
+
+
+
+
+</div>
         
 
 <h1 align="center" class="current game of the year">
@@ -50,9 +66,6 @@
 
 <div alt="current game" align="center">
 
-<a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Hades II">
-</a>
 
 
  
@@ -65,19 +78,17 @@
     <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
 </a>
 
-
-<a href="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" class="thumbnail">
-    <img src="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" alt="Terranigma">
+<a href="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" class="thumbnail">
+    <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" alt="Terranigma">
 </a>
 
-<a href="https://gh.cdn.sewest.net/assets/ident/GHAssets/ChronoTrigger/GamesIndex_GameListing_Artwork.jpg?quality=65" class="thumbnail">
-    <img src="https://gh.cdn.sewest.net/assets/ident/GHAssets/ChronoTrigger/GamesIndex_GameListing_Artwork.jpg?quality=65" alt="Chrono Trigger">
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" alt="Chrono Trigger">
 </a>
 
-    
-
-
-
+<a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Hades II">
+</a>
 
 
 </div>
@@ -124,17 +135,7 @@
 
 <a href="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" class="thumbnail">
         <img src="https://assets-prd.ignimgs.com/2024/06/07/street-fighter-6-fatal-fury-1717796398674.png" alt="Street Fighter 6. Mai Shiranui in the winter of 2025">
-</a>
-
-<a href="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" class="">
-    <img src="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png" alt="Java">
-</a>
-
-<a href="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg" class="thumbnail">
-    <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg" alt="Programming">
-</a>
-
-
+    </a>
 
 </div>
 

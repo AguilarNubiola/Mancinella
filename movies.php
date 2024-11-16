@@ -38,22 +38,12 @@
 <div alt="Current marks" align="center">
 
 
-<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
-</a>
 
 </div>
 
 <div alt="Next marks" align="center">
 
-<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
-</a>
 
-
-<a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" alt="Lust/Caution">
-</a>
 
 
 </div>
@@ -69,6 +59,35 @@
 <a href="https://m.media-amazon.com/images/M/MV5BOTBhYWRhMzMtMGY1Mi00YjJkLWIxN2EtNjAxMmQzYTk2NTNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BOTBhYWRhMzMtMGY1Mi00YjJkLWIxN2EtNjAxMmQzYTk2NTNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="Best tv show so far">
 </a>
+
+</div>
+
+<div alt="2025 films" align="center">
+
+<a href="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" alt="Mickey 17">
+</a>
+
+<a href="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" class="thumbnail">
+    <img src="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" alt="No Other Choice">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_America_Brave_New_World_poster.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_America_Brave_New_World_poster.jpg" alt="Captain America: Brave New World">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" alt="Zootopia 2">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/0/06/JohnWickBallerinaTitleLogo.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/06/JohnWickBallerinaTitleLogo.jpg" alt="Ballerina">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+    
 
 </div>
 
@@ -170,6 +189,27 @@
 </a>
 
 
+<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81tHXxCkU1L.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81tHXxCkU1L.jpg" alt="I want to eat your pancreas">
+</a>
+
+<a href="https://resizing.flixster.com/wcbVN8dLAaBaH-uNHQnYn5l5chk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNTA2ZTA4ZWYtZjQ2Yy00YTIzLWFkMjgtYzczZjFkZjhkMDVmLmpwZw==" class="thumbnail">
+    <img src="https://resizing.flixster.com/wcbVN8dLAaBaH-uNHQnYn5l5chk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNTA2ZTA4ZWYtZjQ2Yy00YTIzLWFkMjgtYzczZjFkZjhkMDVmLmpwZw==" alt="Special Ops Lioness season 1">
+</a>
+
+<a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/kwon-tory-and-the-cobra-kai-team-looking-at-someone-while-on-the-sekai-taikai-floor-in-cobra-kai-season-6-part-2.jpg" class="thumbnail">
+    <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/kwon-tory-and-the-cobra-kai-team-looking-at-someone-while-on-the-sekai-taikai-floor-in-cobra-kai-season-6-part-2.jpg" alt="Cobra Kai season 6 part 2">
+</a>
+
+<a href="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" class="thumbnail">
+    <img src="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" alt="Arcane season 2 part 2">
+</a>
+
+
 </div>
 
 
@@ -190,11 +230,6 @@
 
 
 <div class="movies" align="center">
-
-
-<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
-</a>
 
 
 <a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
