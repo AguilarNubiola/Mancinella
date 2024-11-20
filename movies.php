@@ -48,6 +48,8 @@
 
 </div>
 
+<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Best film and tv show so far</h3>
+
 
 <div alt="Best movie and tv show so far" align="center">
 
@@ -61,6 +63,8 @@
 </a>
 
 </div>
+
+<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Movies coming in 2025</h3>
 
 <div alt="2025 films" align="center">
 
@@ -80,18 +84,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" alt="Zootopia 2">
 </a>
 
-<a href="https://upload.wikimedia.org/wikipedia/en/0/06/JohnWickBallerinaTitleLogo.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/06/JohnWickBallerinaTitleLogo.jpg" alt="Ballerina">
+<a href="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" class="thumbnail">
+    <img src="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" alt="Thunderbolts">
 </a>
     
 
 </div>
 
-
+<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">tv shows and movies finished in 2024</h3>
 <div class='tv shows and movies finished' align="center">
 
 <a href="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" class="thumbnail">
@@ -188,6 +192,9 @@
     <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
 </a>
 
+<a href="https://www.cineworld.nl/media/ilxeyyur/transformers-one-nl-_ps_1_jpg_sd-low_2024-paramount-animation-a-division-of-paramount-pictures-hasbro-transformers-and-all-related-characters-are-trademarks-of-hasbro-2024-hasbro.jpg?width=750&height=1112&v=1dae12615775580" class="thumbnail">
+    <img src="https://www.cineworld.nl/media/ilxeyyur/transformers-one-nl-_ps_1_jpg_sd-low_2024-paramount-animation-a-division-of-paramount-pictures-hasbro-transformers-and-all-related-characters-are-trademarks-of-hasbro-2024-hasbro.jpg?width=750&height=1112&v=1dae12615775580" alt="Transformers One">
+</a>
 
 <a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
     <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
@@ -218,6 +225,7 @@
 
 </div>
 
+<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px;">TV show backlog</h3>
 <div class="tv shows" align="center">
 
 <a href="https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" class="thumbnail">
@@ -229,13 +237,59 @@
 </div>
 
 
+<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px;">Movie backlog</h3>
 <div class="movies" align="center">
 
 
-<a href="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_.jpg" alt="Lust/Caution">
+
+
+
+</div>
+
+<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Movie Mount Rushmore</h3>
+
+<div class="Movie Rushmore" align="center">
+
+<a href="https://www.justwatch.com/images/poster/76832017/s718/logan.jpg" class="thumbnail">
+    <img src="https://www.justwatch.com/images/poster/76832017/s718/logan.jpg" alt="Logan">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/91vIFNZafAL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91vIFNZafAL.jpg" alt="Across the Spider-verse">
+</a>
+
+<a href=https://m.media-amazon.com/images/M/MV5BOWQ2MzY5OWMtNDVlMi00NTUyLTljY2QtYzQ4MzkxMjhhMThkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BOWQ2MzY5OWMtNDVlMi00NTUyLTljY2QtYzQ4MzkxMjhhMThkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Weathering with you">
+</a>
+
+<a href="https://i.guim.co.uk/img/media/97e6c0379c58f76328a3fc19d97486e9e90289aa/29_0_1713_1028/master/1713.jpg?width=620&quality=85&auto=format&fit=max&s=264d5c8782d24ce96ca220e3ad20fab3" class="thumbnail">
+    <img src="https://i.guim.co.uk/img/media/97e6c0379c58f76328a3fc19d97486e9e90289aa/29_0_1713_1028/master/1713.jpg?width=620&quality=85&auto=format&fit=max&s=264d5c8782d24ce96ca220e3ad20fab3" alt="Perfect Blue">
+</a>
+
+
+
+
+</div>
+
+<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">TV Mount Rushmore</h3>
+
+<div class="TV Rushmore" align="center">
+
+<a href="https://m.media-amazon.com/images/M/MV5BM2UxMDkxM2ItYTNmNS00MjJjLWEyZDQtOTdhNDRhMTg1ZTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BM2UxMDkxM2ItYTNmNS00MjJjLWEyZDQtOTdhNDRhMTg1ZTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Legend of the Galactic Heroes">
+</a>
+
+<a href="https://sm.ign.com/ign_nl/news/a/arcane-sea/arcane-season-2-to-debut-in-november-2024_s9jd.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nl/news/a/arcane-sea/arcane-season-2-to-debut-in-november-2024_s9jd.jpg" alt="Arcane">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BMTJhZmY4ZjAtYzBhZC00OTgzLTg3ZTUtMmIwYWRlNGYwY2Y0XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BMTJhZmY4ZjAtYzBhZC00OTgzLTg3ZTUtMmIwYWRlNGYwY2Y0XkEyXkFqcGc@._V1_.jpg" alt="X-Men 97">
+</a>
+
+<a href="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/10/Bojack-Horseman.jpg" class="thumbnail">
+    <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/10/Bojack-Horseman.jpg" alt="Bojack Horseman">
+</a>
 
 </div>
 
