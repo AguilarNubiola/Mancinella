@@ -50,16 +50,8 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://cdn.archonia.com/images/1-52866403-1-1-original1/goodnight-punpun-vol-02-gn.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-52866403-1-1-original1/goodnight-punpun-vol-02-gn.jpg" alt="Oyasumi Punpun vol 2">
-</a>
-
-<a href="https://media.s-bol.com/gW2wqx59oYk3/YErERG0/836x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/gW2wqx59oYk3/YErERG0/836x1200.jpg" alt="Oyasumi Punpun vol 3">
-</a>
-
-<a href="https://image.s-bol.com/i/HHHOSh0jgV4XePKE/0jVKlqzXZ5mG=w550-h840" class="thumbnail">
-    <img src="https://image.s-bol.com/i/HHHOSh0jgV4XePKE/0jVKlqzXZ5mG=w550-h840" alt="Oyasumi Punpun vol 4">
+<a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan so far">
 </a>
 
 </div>
@@ -68,41 +60,9 @@
 <div alt="Next up" align="center">
 
 
-<a href="https://cdn.archonia.com/images/1-57259403-1-1-original1/goodnight-punpun-vol-05-gn-manga.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-57259403-1-1-original1/goodnight-punpun-vol-05-gn-manga.jpg" alt="Oyasumi Punpun vol 5">
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
 </a>
-
-<a href="https://cdn.archonia.com/images/1-58706203-1-1-original1/goodnight-punpun-vol-06-gn-manga.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-58706203-1-1-original1/goodnight-punpun-vol-06-gn-manga.jpg" alt="Oyasumi Punpun vol 6">
-</a>
-
-<a href="https://image.s-bol.com/i/JB_yicKVAslZXHOY/zgXW8gLnEwE5=w550-h840" class="thumbnail">
-    <img src="https://image.s-bol.com/i/JB_yicKVAslZXHOY/zgXW8gLnEwE5=w550-h840" alt="Oyasumi Punpun vol 7">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="Oyasumi Punpun vol 8">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="Oyasumi Punpun vol 9">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="Oyasumi Punpun vol 10">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="Oyasumi Punpun vol 11">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="Oyasumi Punpun vol 12">
-</a>
-
-
-
-
 
 
 </div>
@@ -112,18 +72,14 @@
 <div alt="November trades" align="center">
 
 
-<a href="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" class="thumbnail">
-    <img src="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" alt="Oyasumi Punpun">
-</a>
-
 
 <a href="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" alt="Uncanny X-Men vol 1">
 </a>
 
 
-<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
+<a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan so far">
 </a>
 
 
@@ -140,8 +96,9 @@
     <img src="https://m.media-amazon.com/images/I/719shIU19XL.jpg" alt="Blame!">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan so far">
+
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
 </a>
 
 
@@ -645,8 +602,8 @@
     <img src="https://cdn.archonia.com/images/1-104422640-1-1-original1/tank-chair-vol-03-gn-manga.jpg" alt="Tank Chair vol 3">
 </a>
 
-<a href="https://dyn.media.forbiddenplanet.com/bc1q95nh6vrusju7k683kv9c3m4duj6elddgpvv9zd=/fit-in/1500x1500/https://media.forbiddenplanet.com/products/0b/8b/d45f2eb1423881f3b331ba34a54fe8d9b475.jpg" class="thumbnail">
-    <img src="https://dyn.media.forbiddenplanet.com/bc1q95nh6vrusju7k683kv9c3m4duj6elddgpvv9zd=/fit-in/1500x1500/https://media.forbiddenplanet.com/products/0b/8b/d45f2eb1423881f3b331ba34a54fe8d9b475.jpg" alt="Tank Chair vol 4">
+<a href="https://m.media-amazon.com/images/I/71vDnGgAEHL._AC_SL1080_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71vDnGgAEHL._AC_SL1080_.jpg" alt="Tank Chair vol 4">
 </a>
 
 <a href="https://www.manga-news.com/public/images/vols/Sensha-Isu-Tank-Chair-5-jp.webp" class="thumbnail">
@@ -656,11 +613,11 @@
     <img src="https://cdn.suruga-ya.com/database/pics_webp/game/503154002.jpg.webp" alt="Tank Chair vol 6">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/917IJDfk36L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/917IJDfk36L._AC_UF1000,1000_QL80_.jpg" alt="Oyasumi Punpun vol 1">
+
+
+<a href="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" class="thumbnail">
+    <img src="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" alt="Oyasumi Punpun">
 </a>
-
-
 
 </div>
 
@@ -696,7 +653,7 @@
 </div>
 
 
-<div alt="Ongoing series" class="thumbnail">
+<div alt="Ongoing series" align="center">
 
 <a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan so far">
@@ -706,6 +663,25 @@
     <img src="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" alt="Tank Chair 1-47">
 </a>
 
+</div>
+
+<div alt="Comic Rushmore" align="center">
+
+<a href="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" alt="Low">
+</a>
+
+</a><a href="https://m.media-amazon.com/images/I/81zdukgApzL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81zdukgApzL._UF1000,1000_QL80_.jpg" alt="Nights Wyatt Kennedy">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" alt="Monstress">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
+</a>
 
 
 </div>

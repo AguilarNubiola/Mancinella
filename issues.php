@@ -45,12 +45,14 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:40px"><b>The four habits</b></p>
 
 <div alt="" align="center">
 
    <a href="https://burnabyphysiocare.com/wp-content/uploads/2021/01/Why-See-a-Physiotherapist-Before-Going-to-the-Gym-1-1.jpg" class="thumbnail">
     <img src="https://burnabyphysiocare.com/wp-content/uploads/2021/01/Why-See-a-Physiotherapist-Before-Going-to-the-Gym-1-1.jpg" alt="Working out">
    </a>
+
    
    <a href="https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg" class="thumbnail">
     <img src="https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg" alt="Math">
@@ -69,33 +71,12 @@
 
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>20 November</b></p>
 
 <div alt="This week" align="center">
 
-<a href="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" class="thumbnail">
-        <img src="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" alt="Storm 2. November 20th. PAY.">
-    </a>
 
-    <a href="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" class="thumbnail">
-        <img src="https://cdn.mos.cms.futurecdn.net/FytxX8qfoEeW3XuWbbNaEV.jpg" alt="Ultimate Spider-man 11. 20th of November.">
-    </a>
-
-    <a href="https://imagecomics.com/files/releases/0924IM380.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0924IM380.jpg" alt="The Moon is Following us #3. 20th of November. PAY.">
-        <img src="https://imagecomics.com/files/releases/0924IM381.jpg" >
-    </a>
-
-    <a href="https://imagecomics.com/files/releases/0924IM388.jpg" class="thumbnail">
-        <img src="https://imagecomics.com/files/releases/0924IM388.jpg" alt="Power Fantasy #4, 20th of November. ">
-    </a>
- 
-
-</div>
-
-<div alt="next week" align="center">
-
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" class="thumbnail">
+<a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" class="thumbnail">
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" alt="Uncanny X-men 6. November 27th. PAY.">
     </a>
 
@@ -110,6 +91,32 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>27 November</b></p>
+
+<div alt="next week" align="center">
+
+
+<a href="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" class="thumbnail">
+    <img src="https://mutation.store/cdn/shop/files/75960620426702111.jpg?v=1724426313" alt="Avengers #21. 4th of December. PAY.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" alt="X-Force #6. 4th of December.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultmts2024007_cov.jpg" alt="Ultimates #7. 4th of December. PAY.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024008_cov.jpg" alt="X-Men #8. 4th of December. PAY.">
+</a>
+
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>November</b></p>
 
 
 <div alt="November books" align="center">
@@ -129,6 +136,8 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December</b></p>
 
 <div alt="December books" align="center">
 
@@ -176,7 +185,9 @@
     <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" alt="Ultimate Universe: One Year in #1. December 11.">
 </a>
 
-
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" class="thumbnai">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 18th.">
+</a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6931787.jpg?1726851354" alt="Absolute Wonder WOman #3, December 17th.">
@@ -207,6 +218,9 @@
 </a>
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>January</b></p>
+
 
 <div alt="January books" align="center">
 
@@ -294,7 +308,47 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
+<div alt="February issues" align="center">
 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" alt="The Moon is following us #6. 12th of February 2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" alt="Kaya #25. 5th of February.">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="W0rldtr33 #14. 12th of February 2025">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" alt="Nights #13, 266th of February">
+</a>
+
+<a href="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" class="thumbnail">
+    <img src="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" alt="Monstress #55, 26th of February">
+</a>
+
+
+</div>
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>X-Men issues read</b></p>
 
 <div alt="X-men Issues read" align="center">
 
@@ -439,9 +493,15 @@
         <img src="https://cdn.marvel.com/content/1x/psylocke2024001_artgerm_var.jpg" alt="Psylocke #1. November 13th">
     </a>
 
+    <a href="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" class="thumbnail">
+        <img src="https://goldenapplecomics.com/cdn/shop/files/STL340748_b3e40ae4-d27e-45f1-b31f-e294800bfea2.jpg" alt="Storm 2. November 20th. PAY.">
+    </a>
+
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Non-X Marvel titles</b></p>
 
 <div alt="Non-X Marvel" align="center">
 
@@ -476,6 +536,8 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>DC Comics</b></p>
 
 <div alt="DC" align="center">
 
@@ -534,6 +596,8 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Image Comics</b></p>
 
 <div alt="Image" align="center">
 
@@ -728,10 +792,22 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1040619/kaya-22_edb295e8e0.jpg" alt="Kaya #22.">
     </a>
 
+    <a href="https://imagecomics.com/files/releases/0924IM380.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0924IM380.jpg" alt="The Moon is Following us #3. 20th of November. PAY.">
+        <img src="https://imagecomics.com/files/releases/0924IM381.jpg" >
+    </a>
+
+    <a href="https://imagecomics.com/files/releases/0924IM388.jpg" class="thumbnail">
+        <img src="https://imagecomics.com/files/releases/0924IM388.jpg" alt="Power Fantasy #4, 20th of November. ">
+    </a>
+ 
+
 
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The rest</b></p>
 
 <div alt="The rest" align="center">
 
@@ -791,6 +867,8 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Favourite four so far</b></p>
+
 <div alt="Favourite 4 so far" align="center">
 
      <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" class="thumbnail">
@@ -814,6 +892,8 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Titles to follow</b></p>
 
 <div alt="Titles to follow" align="center">
 
