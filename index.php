@@ -74,21 +74,6 @@
 <div alt="Other games" align="center">
 
 
-<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
-    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
-</a>
-
-<a href="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" class="thumbnail">
-    <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" alt="Terranigma">
-</a>
-
-<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" alt="Chrono Trigger">
-</a>
-
-<a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Hades II">
-</a>
 
 
 </div>
@@ -241,6 +226,28 @@
 
 <a href="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" class="thumbnail">
     <img src="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Elden Ring">
+</a>
+
+
+</div>
+
+<div alt="Backburner" align="center">
+
+
+<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
+</a>
+
+<a href="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" class="thumbnail">
+    <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" alt="Terranigma">
+</a>
+
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" alt="Chrono Trigger">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Hades II">
 </a>
 
 
