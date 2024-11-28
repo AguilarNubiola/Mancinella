@@ -50,18 +50,20 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan so far">
+
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus. 29 November 2024.">
 </a>
+
+
 
 </div>
 
 
 <div alt="Next up" align="center">
 
-
-<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
+<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
 </a>
 
 
@@ -72,40 +74,33 @@
 <div alt="November trades" align="center">
 
 
-
-<a href="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" alt="Uncanny X-Men vol 1">
+<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
 </a>
-
-
-<a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan so far">
-</a>
-
-
-
-
 
 
 </div>
 
 <div alt="December trades" align="center">
 
-
-<a href="https://m.media-amazon.com/images/I/719shIU19XL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/719shIU19XL.jpg" alt="Blame!">
+<a href="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" alt="X-Force vol 1. 4 December.">
 </a>
-
-
-<a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
-</a>
-
-
 
 
 </div>
 
+<div alt="January trades" align="center">
+
+<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
+</a>
+
+<a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" class="thumbnail">
+    <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" alt="Nights vol 2">
+</a>
+
+</div>
 
 
 
@@ -590,34 +585,46 @@
     <img src="https://m.media-amazon.com/images/I/81z0gmh4XhL.jpg" alt="Animal Man Book Two">
 </a>
 
-<a href="https://cdn.archonia.com/images/1-104364648-1-1-original1/tank-chair-vol-01-gn-manga.jpg?_gl=1*1fvkp9*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAouG5BhDBARIsAOc08RQulgft0uw1ltwLwcLOkvjr1eO9mkxMEc35k-Sk52OOgcsLFb3GO5QaAi_GEALw_wcB" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104364648-1-1-original1/tank-chair-vol-01-gn-manga.jpg?_gl=1*1fvkp9*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAouG5BhDBARIsAOc08RQulgft0uw1ltwLwcLOkvjr1eO9mkxMEc35k-Sk52OOgcsLFb3GO5QaAi_GEALw_wcB" alt="Tank Chair volume 1">
+<a href="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" class="thumbnail">
+    <img src="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" alt="Tank Chair 1-47">
+</a>
+<a href="https://cdn.imagecomics.com/assets/i/releases/1010410/w0-rldtr33-vol-1_82c7ead2e4.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1010410/w0-rldtr33-vol-1_82c7ead2e4.jpg" alt="W0rldtr33 vol 1">
 </a>
 
-<a href="https://cdn.archonia.com/images/1-104392355-1-1-original1/tank-chair-vol-02-gn-manga.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104392355-1-1-original1/tank-chair-vol-02-gn-manga.jpg" alt="Tank Chair vol 2">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1038498/w0-rldtr33-tp-vol-2_8c9f91912b.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1038498/w0-rldtr33-tp-vol-2_8c9f91912b.jpg" alt="W0rldtr33 vol 2">
 </a>
-
-<a href="https://cdn.archonia.com/images/1-104422640-1-1-original1/tank-chair-vol-03-gn-manga.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104422640-1-1-original1/tank-chair-vol-03-gn-manga.jpg" alt="Tank Chair vol 3">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/71vDnGgAEHL._AC_SL1080_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71vDnGgAEHL._AC_SL1080_.jpg" alt="Tank Chair vol 4">
-</a>
-
-<a href="https://www.manga-news.com/public/images/vols/Sensha-Isu-Tank-Chair-5-jp.webp" class="thumbnail">
-    <img src="https://www.manga-news.com/public/images/vols/Sensha-Isu-Tank-Chair-5-jp.webp" alt="Tank Chair vol 5">
-</a>
-<a href="https://cdn.suruga-ya.com/database/pics_webp/game/503154002.jpg.webp" class="thumbnail">
-    <img src="https://cdn.suruga-ya.com/database/pics_webp/game/503154002.jpg.webp" alt="Tank Chair vol 6">
-</a>
-
 
 
 <a href="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" class="thumbnail">
     <img src="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" alt="Oyasumi Punpun">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan 1-175">
+</a>
+
+<a href="https://media.s-bol.com/B7kKnQ95Evzk/V3kQo5/550x827.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/B7kKnQ95Evzk/V3kQo5/550x827.jpg" alt="Batwoman Hydrologie">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71MRfNBA60L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71MRfNBA60L._AC_UF894,1000_QL80_.jpg" alt="Citrus vol 1">
+</a>
+
+<a href="https://media.s-bol.com/q9mRzm511rKy/kyKmPx/550x743.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/q9mRzm511rKy/kyKmPx/550x743.jpg" alt="Technovaders integraal 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91INKYhbfoL._SL1500_.jpg" alt="Uncanny X-Men vol 1. ">
+</a>
+
+<a href="https://cdn2.humanoids.com/assets/CatalogueArticle/915/THE_FOURTH_POWER_OD_COVER_13645_R400.jpg" class="thumbnail">
+    <img src="https://cdn2.humanoids.com/assets/CatalogueArticle/915/THE_FOURTH_POWER_OD_COVER_13645_R400.jpg" alt="Fourth Power">
+</a>
+
 
 </div>
 
@@ -635,20 +642,9 @@
     <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus">
 </a>
 
-<a href="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" class="thumbnail">
-    <img src="https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/6213839e-2b72-470f-b243-6c856885e491/IMG_1083+%281%29.jpg" alt="Oyasumi Punpun">
+<a href="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" alt="X-Force vol 1">
 </a>
-
-
-
-<a href="https://m.media-amazon.com/images/I/719shIU19XL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/719shIU19XL.jpg" alt="Blame!">
-</a>
-
-
-
-
-
 
 </div>
 
@@ -656,12 +652,17 @@
 <div alt="Ongoing series" align="center">
 
 <a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan so far">
+    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan">
 </a>
 
 <a href="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" class="thumbnail">
-    <img src="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" alt="Tank Chair 1-47">
+    <img src="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" alt="Tank Chair">
 </a>
+
+<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk">
+</a>
+
 
 </div>
 

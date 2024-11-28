@@ -71,7 +71,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>20 November</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>27 November</b></p>
 
 <div alt="This week" align="center">
 
@@ -91,7 +91,7 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>27 November</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>4 December</b></p>
 
 <div alt="next week" align="center">
 
@@ -116,26 +116,7 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>November</b></p>
 
-
-<div alt="November books" align="center">
-
-
-    <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" class="thumbnail">
-        <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/6/a0/66c72272de57a/clean.jpg" alt="Uncanny X-men 6. November 27th. PAY.">
-    </a>
-
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 27th. ">
-    </a>
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6278246.jpg?1723842905" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6278246.jpg?1723842905" alt="Absolute Wonder Woman #2, 27th of November">
-    </a>
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December</b></p>
 
@@ -319,21 +300,18 @@
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" alt="Kaya #25. 5th of February.">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="W0rldtr33 #14. 12th of February 2025">
+<a href="https://previewsworld.com/SiteImage/MainImage/STL354705.jpg" class="thumbnail">
+    <img src="https://previewsworld.com/SiteImage/MainImage/STL354705.jpg" alt="W0rldtr33 #14. 12th of February 2025">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" alt="Ultimates #9">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" alt="Avengers #23">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" alt="Nights #13, 266th of February">
@@ -341,6 +319,39 @@
 
 <a href="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" class="thumbnail">
     <img src="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" alt="Monstress #55, 26th of February">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTXM2024012_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTXM2024012_cov-scaled.jpg?ssl=1" alt="Ultimate X-Men #12">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" alt="Psylocke #4">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" alt="X-Men #11">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024012_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024012_cov-scaled.jpg?ssl=1" alt="X-Men #12">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/MYST2024005_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/MYST2024005_cov-scaled.jpg?ssl=1" alt="Mystique #5">
+</a>
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #10">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" alt="Ultimate Wolverine #2">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" alt="Storm #5">
 </a>
 
 
