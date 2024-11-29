@@ -54,8 +54,8 @@
 
 
 
-<a href="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3012687.jpg" class="thumbnail">
-    <img src="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3012687.jpg" alt="Minor Threats vol 2">
+<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
 </a>
 
 
@@ -66,15 +66,6 @@
 
 
 <div alt="Next up" align="center">
-
-
-
-
-
-<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
-</a>
-
 
 
 
@@ -90,7 +81,6 @@
 </a>
 
 
-
 </div>
 
 <div alt="January trades" align="center">
@@ -103,13 +93,15 @@
     <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" alt="Nights vol 2">
 </a>
 
+
+
 </div>
 
 
 
 <div alt="finished comics" align="Center">
 
-<a href="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" class="thumbnail">
+    <a href="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" alt="Defenders: Beyond"/>
     </a>
 
@@ -118,7 +110,7 @@
     </a>
 
 
-<a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
+    <a href="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" class="thumbnail">
 		<img src="https://cdn.marvel.com/content/1x/gods2023003_cover.jpg" alt="Jonathan Hickman's G.O.D.S"/>
 	</a>
 
@@ -135,10 +127,10 @@
     </a>
 
     <a href="https://i.pinimg.com/736x/76/d2/ed/76d2ed977df8744c575f21d82fe42395.jpg" class="thumbnail">
-    <img src="https://i.pinimg.com/736x/76/d2/ed/76d2ed977df8744c575f21d82fe42395.jpg" alt="We3">
-</a>
+        <img src="https://i.pinimg.com/736x/76/d2/ed/76d2ed977df8744c575f21d82fe42395.jpg" alt="We3">
+    </a>
 
-<a href="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <a href="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" alt="Secret Six">
     </a>
 
@@ -286,18 +278,18 @@
 
 <a href="https://www.vandalcomx.com/wp-content/uploads/2023/12/JAN240295-600x923.jpg" class="thumbnail">
         <img src="https://www.vandalcomx.com/wp-content/uploads/2023/12/JAN240295-600x923.jpg" alt="Napalm Lullaby volume 1">
-    </a>
+</a>
 
 
-    <a href="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" class="thumbnail">
+<a href="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" class="thumbnail">
         <img src="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" alt="Immortal Hulk complete">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/511QZUPfXAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+<a href="https://m.media-amazon.com/images/I/511QZUPfXAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/511QZUPfXAL._AC_UF1000,1000_QL80_.jpg" alt="God Loves, Man Kills">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+<a href="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91LS0CztQlL._AC_UF1000,1000_QL80_.jpg" alt="BOP vol 1">
 </a>
 
@@ -630,6 +622,11 @@
 
 <a href="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91WLf3QOBiL._AC_UF1000,1000_QL80_.jpg" alt="X-Factor Omnibus.">
+</a>
+
+
+<a href="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3012687.jpg" class="thumbnail">
+    <img src="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3012687.jpg" alt="Minor Threats vol 2">
 </a>
 
 
