@@ -32,10 +32,16 @@
 
     <body>
 
+       <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The absolute best</h3>
+
+
         <div alt="Absolute favourite" align="center">
             <a href="https://i.pinimg.com/736x/5b/3b/73/5b3b73959d509c1efe1618a9ff92f202.jpg" class="thumbnail">
                 <img src="https://i.pinimg.com/736x/5b/3b/73/5b3b73959d509c1efe1618a9ff92f202.jpg" alt="Storm">
         </div>
+
+        <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The rest of Mount Rushmore</h3>
+
 
         <div alt="Rest of Mount Rushmore" align="center">
             <a href="https://i.redd.it/8t7y09h7mzc71.jpg" class="thumbnail">
@@ -47,6 +53,9 @@
             <a href="https://cafans.b-cdn.net/images/Category_4247/subcat_176995/CS9GID2O_2808182000251gpadd.JPG" class="thumbnail">
                 <img src="https://cafans.b-cdn.net/images/Category_4247/subcat_176995/CS9GID2O_2808182000251gpadd.JPG" alt="Emma Frost">       
         </div>
+
+        <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The rest of the top 10</h3>
+
 
         <div alt="Rest of the top 10" align="center">
             <a href="https://i.pinimg.com/736x/9c/66/f1/9c66f1b956eaf93f4f8d21e34d2a4f5b.jpg" class="thumbnail">
@@ -73,6 +82,9 @@
                 <img src="https://gentlemanvillian.wordpress.com/wp-content/uploads/2013/03/tumblr_lqm6fg8pel1qihd3b.jpg" alt="Sage now in the top 10">
             </a>
 
+        <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Top 20</h3>
+
+
         <div alt="Out of the top 10" align="center">
             <a href="https://i.redd.it/rcbkhbhfd9s91.jpg" class="thumbnail">
                 <img src="https://i.redd.it/rcbkhbhfd9s91.jpg" alt="Apocalypse out of the top 10">
@@ -89,7 +101,32 @@
             <a href="https://uncannyxmen.net/sites/default/files/images/costume/shadowcat-bigcostume4.jpg" class="thumbnail">
                 <img src="https://uncannyxmen.net/sites/default/files/images/costume/shadowcat-bigcostume4.jpg" alt="Shadowcat out of the top 10">
             </a>
+
+            <a href="https://static.wikia.nocookie.net/x-men/images/0/0e/Hellfire_Gala_Jean_Grey_Variant.jpg/revision/latest?cb=20220714183402" class="thumbnail">
+                <img src="https://static.wikia.nocookie.net/x-men/images/0/0e/Hellfire_Gala_Jean_Grey_Variant.jpg/revision/latest?cb=20220714183402" alt="Jean">
+            </a>
+
+            <a href="https://i.pinimg.com/736x/da/cb/90/dacb9062989b835eed0f888b784e1b93.jpg" class="thumbnail">
+                <img src="https://i.pinimg.com/736x/da/cb/90/dacb9062989b835eed0f888b784e1b93.jpg" alt="Northstar">
+            </a>
+
+            <a href="https://i.pinimg.com/474x/76/1c/2d/761c2d9e2175aa1575edd6410eae63fb.jpg" class="thumbnail">
+                <img src="https://i.pinimg.com/474x/76/1c/2d/761c2d9e2175aa1575edd6410eae63fb.jpg" alt="Sunspot">
+            </a>
+
+            <a href="https://static.wikia.nocookie.net/heroes-and-villain/images/2/28/Kwannon.png/revision/latest?cb=20230214211529" class="thumbnail">
+                <img src="https://static.wikia.nocookie.net/heroes-and-villain/images/2/28/Kwannon.png/revision/latest?cb=20230214211529" alt="Kwannon">
+            </a>
+
+            <a href="https://cdn.marvel.com/content/1x/myst2024001_cover.jpg" class="thumbnail">
+                <img src="https://cdn.marvel.com/content/1x/myst2024001_cover.jpg" alt="Mystique">
+            </a>
+
+            <a href="https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg" class="thumbnail">
+                <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg" alt="Callisto">
+            </a>
             
+        <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The mutants who did the most for mutantkind</h3>
 
 
 
