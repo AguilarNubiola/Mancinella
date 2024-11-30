@@ -38,12 +38,18 @@
 <div alt="Current marks" align="center">
 
 
+<a href="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" class="thumbnail">
+    <img src="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" alt="Falling Down">
+</a>
+
 
 </div>
 
 <div alt="Next marks" align="center">
 
-
+<a href="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" class="thumbnail">
+    <img src="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" alt="Lust/Caution">
+</a>
 
 
 </div>
