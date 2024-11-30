@@ -51,15 +51,9 @@
 <div alt="reading now" align="center">
 
 
-
-
-
 <a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
     <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
 </a>
-
-
-
 
 
 </div>
@@ -67,7 +61,9 @@
 
 <div alt="Next up" align="center">
 
-
+<a href="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12">
+</a>
 
 
 </div>
@@ -76,8 +72,17 @@
 
 <div alt="December trades" align="center">
 
+
+<a href="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12. 3 December">
+</a>
+
 <a href="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" alt="X-Force vol 1. 4 December.">
+</a>
+
+<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375. 11 December">
 </a>
 
 
@@ -629,6 +634,9 @@
     <img src="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3012687.jpg" alt="Minor Threats vol 2">
 </a>
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Transplants-2024.jpg" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Transplants-2024.jpg" alt="Transplants">
+</a>
 
 
 </div>
