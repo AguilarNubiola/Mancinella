@@ -35,6 +35,9 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current marks</b></p>
+
+
 <div alt="Current marks" align="center">
 
 
@@ -44,6 +47,9 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next marks</b></p>
+
 
 <div alt="Next marks" align="center">
 
@@ -220,6 +226,10 @@
 
 <a href="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" class="thumbnail">
     <img src="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" alt="Arcane season 2 part 2">
+</a>
+
+<a href="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" class="thumbnail">
+    <img src="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" alt="Falling Down">
 </a>
 
 
