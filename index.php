@@ -48,10 +48,13 @@
 
 </div>
         
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current 2024 game of the year</b></p>
 
 <h1 align="center" class="current game of the year">
     <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg">
 </h1>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current 2024 runner up of the year</b></p>
 
 
 <div alt="runner up" align="center">
@@ -61,24 +64,32 @@
 </div>
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current game</b></p>
 
 
 
 <div alt="current game" align="center">
 
-
+<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">
+</a>
 
  
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Other games</b></p>
+
 <div alt="Other games" align="center">
 
-
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3">
+</a>
 
 
 </div>
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Games completed in 2024</b></p>
 
 
 
@@ -109,6 +120,7 @@
 
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Competitive games</b></p>
 
 
 
@@ -123,6 +135,9 @@
     </a>
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Playstation Rushmore</b></p>
+
 
 <div alt="Playstation generation Rushmore" align="center">
 
@@ -141,6 +156,8 @@
 <a href="https://image.api.playstation.com/cdn/UP0082/CUSA08877_00/w5Qz9UKNBvTZBSRZlV2jeG2BLOJ1u7Jw.png" class="thumbnail">
     <img src="https://image.api.playstation.com/cdn/UP0082/CUSA08877_00/w5Qz9UKNBvTZBSRZlV2jeG2BLOJ1u7Jw.png" alt="Final Fantasy IX">
 </a>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Playstation 2 Rushmore</b></p>
 
 
 </div>
@@ -163,6 +180,8 @@
     <img src="https://m.media-amazon.com/images/I/71QvZhY2TVL._AC_UF1000,1000_QL80_.jpg" alt="Digital Devil Saga 2">
 </a>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Xbox360 Rushmore</b></p>
+
 
 </div>
 
@@ -184,6 +203,8 @@
     <img src="https://www.retroxboxkopen.nl/assets/products/3002482.jpg" alt="Portal 2">
 </a>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Playstation 4 Rushmore</b></p>
+
 
 </div>
 
@@ -204,6 +225,9 @@
 <a href="https://img.goodfon.com/original/3010x1197/7/ef/nier-automata-2b-ass-butt-sword-panties-girl-game.jpg" class="thumbnail">
     <img src="https://newsboilerstorage.blob.core.windows.net/news/2002729_0_lg.jpg" alt="Nier Automata">
 </a>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Playstation 5 Rushmore</b></p>
+
 
 
 </div>
@@ -231,6 +255,9 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Backburner</b></p>
+
+
 <div alt="Backburner" align="center">
 
 
@@ -238,13 +265,6 @@
     <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
 </a>
 
-<a href="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" class="thumbnail">
-    <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/04/terranigma.jpg?tf=3840x" alt="Terranigma">
-</a>
-
-<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/Chrono-Trigger-Party-Members-Ranked.jpg" alt="Chrono Trigger">
-</a>
 
 <a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
     <img src="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Hades II">
@@ -253,11 +273,11 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Shut up and take my money</b></p>
+
+
 <div alt="Shut up and take my money" align="center">
 
-<a href="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" class="thumbnail">
-    <img src="https://www.gematsu.com/wp-content/uploads/2024/09/Stellar-Blade-Nier_09-24-24.jpg" alt="Stellar Blade: Nier Automata">
-</a>
 
 <a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
     <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33">
@@ -266,6 +286,11 @@
 <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/horizon.jpg" class="thumbnail">
     <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/horizon.jpg" alt="Horizon III">
 </a>
+
+<a href="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" class="thumbnail">
+    <img src="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" alt="Persona 6">
+</a>
+
 
 </div>
 

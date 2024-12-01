@@ -44,7 +44,27 @@
 </a>
 </div>
 
-<div alt="" align="center">
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
+
+
+<div alt="The enemies" align="center">
+
+<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
+    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
+</a>
+
+<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
+    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
+</a>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Habits</b></p>
+
+
+
+</div>
+
+<div alt="The habits" align="center">
 
       <a href="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" class="thumbnail">
         <img src="https://www.elitesfn.com/weight-room-slideshow/weight-room-banner.jpg" alt="Weight-lifting">
@@ -62,13 +82,13 @@
         <img src="https://www.kulkul.tech/wp-content/uploads/2022/06/java-programming-what-is-it.jpg" alt="Programming">
       </a>
 
-      <a href="https://i0.wp.com/apeejay.news/wp-content/uploads/2023/10/281023-10-most-read-books-Blog.jpg?resize=740%2C524&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/apeejay.news/wp-content/uploads/2023/10/281023-10-most-read-books-Blog.jpg?resize=740%2C524&ssl=1" alt="Reading">
-      </a>
 
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Skills handled</b></p>
+
 
 
 <div alt="skills handled" align="center">
@@ -82,6 +102,7 @@
 
 </a>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Priority 1 skills</b></p>
 
 
 </div>
@@ -112,6 +133,9 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Priority 2 skills</b></p>
+
+
 <div alt="Priority 2 skills" align="center">
 
         <a href="https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo.jpg" class="thumbnail">
@@ -124,6 +148,9 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Priority 3 skills</b></p>
+
 
 <div alt="Priority 3 skils" align="center">
 
@@ -144,6 +171,9 @@
 
 	</div>
 
+    <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Priority 4 skills</b></p>
+
+
 <div alt="priority 4 skills" align="center">
 
 	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC98oXZ6ajal-_yCwhEYlqlQwy68nR_TQkLw&s" class="thumbnail">
@@ -158,7 +188,7 @@
     <a href="https://www.betterinvesting.org/getmedia/003bddb5-372a-4623-98d5-40b45d0f696b/investing_101_naic.jpg?width=1281&height=721&ext=.jpg" class="thumbnail">
         <img src="https://www.betterinvesting.org/getmedia/003bddb5-372a-4623-98d5-40b45d0f696b/investing_101_naic.jpg?width=1281&height=721&ext=.jpg" alt="Investing">
 	
-
+</div>
 
 
 </body>

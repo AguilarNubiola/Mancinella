@@ -30,6 +30,9 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
+
+
 
 <div alt="The enemies" align="center">
 
@@ -47,6 +50,8 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
+
 
 <div alt="reading now" align="center">
 
@@ -58,6 +63,8 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next week</b></p>
+
 
 <div alt="Next up" align="center">
 
@@ -68,6 +75,7 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
 
 
 <div alt="December trades" align="center">
@@ -88,11 +96,11 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>January trades</b></p>
+
+
 <div alt="January trades" align="center">
 
-<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
-</a>
 
 <a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" class="thumbnail">
     <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" alt="Nights vol 2">
@@ -102,6 +110,7 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comics and trades finished in 2024</b></p>
 
 
 <div alt="finished comics" align="Center">
@@ -641,16 +650,19 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Trades to read</b></p>
+
+
 
 <div alt="Trades to read" align="center">
 
 
 
-<a href="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" alt="X-Force vol 1">
-</a>
-
 </div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Ongoing series</b></p>
+
 
 
 <div alt="Ongoing series" align="center">
@@ -669,6 +681,9 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comic Rushmore</b></p>
+
 
 <div alt="Comic Rushmore" align="center">
 
@@ -690,6 +705,9 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Best book by certain authors</b></p>
+
 
 <div alt="Best books by each author" align="center">
 
