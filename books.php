@@ -29,6 +29,9 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
+
+
 <div alt="The enemies" align="center">
 
 <a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
@@ -45,6 +48,7 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
 
 <div alt="reading now" align="center">
@@ -52,10 +56,6 @@
 
     <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
-    </a>
-
-    <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
     </a>
 
     
@@ -68,24 +68,21 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
+
+
 <div alt="Next up" align="center">
 
-    <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
+     <a href="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" class="thumbnail">
+        <img src="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" alt="Heavenly Tyrant">
     </a>
 
-    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
-    </a>
   
 
     <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="thumbnail">
         <img src="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" alt="Assassinorum: Kingmaker">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71wCxOMukyL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71wCxOMukyL._AC_UF894,1000_QL80_.jpg" alt="The Infinite and the Divine">
-    </a>
 
 
 
@@ -168,7 +165,144 @@
 
 </div>
 
-<div alt="October Books" align='center'>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February books</b></p>
+
+
+<div alt="February Books" align='center'>
+
+    <a href="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" class="thumbnail">
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" alt="War and Peace">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/41Rb-Kz6v1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/41Rb-Kz6v1L._AC_UF894,1000_QL80_.jpg" alt="Ulysses">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/519GeuoQldL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/519GeuoQldL.jpg" alt="Wilt Chamberlain: Larger than life">
+    </a>
+
+    <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="">
+        <img src="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" alt="Assassinorum: Kingmaker">
+    </a>
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March books</b></p>
+
+
+<div alt="March books" align="center">
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526668679i/35425827.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526668679i/35425827.jpg" alt="Marissa Meyer Archenemies">
+    </a>
+
+    <a href="https://media.s-bol.com/9Er8XG9DBzPz/mZyxnEO/550x833.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/9Er8XG9DBzPz/mZyxnEO/550x833.jpg" alt="Marissa Meyer Supernova">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81p-kNMCkfL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81p-kNMCkfL._AC_UF1000,1000_QL80_.jpg" alt="Terminal Alliance"/>
+    </a>
+
+    <a href="https://media.s-bol.com/YNOrn4jjoWq9/n5ZZxn4/794x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/YNOrn4jjoWq9/n5ZZxn4/794x1200.jpg" alt="Old Man's War"/>
+    </a>
+
+
+    
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April books</b></p>
+
+
+<div alt="April books" align="center">
+
+     <a href="https://media.s-bol.com/mVO50kEOW4MG/B53rJx/771x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mVO50kEOW4MG/B53rJx/771x1200.jpg" alt="On War"/>
+    </a>
+
+    <a href="https://media.s-bol.com/733ONXDrR81y/2vRD14z/693x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/733ONXDrR81y/2vRD14z/693x1200.jpg" alt="The Prince"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81DFDGzHZqL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81DFDGzHZqL._AC_UF894,1000_QL80_.jpg" alt="Meditations"/>
+    </a>
+
+    <a href="https://media.s-bol.com/By6GZ6VJwVJX/2jJlyv/546x840.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/By6GZ6VJwVJX/2jJlyv/546x840.jpg" alt="Dreams from my father"/>
+    </a>
+
+
+
+    
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May books</b></p>
+
+
+    <div alt="May books" align="center">
+
+    
+    <a href="https://media.s-bol.com/G9LLYNgM6N68/811x1200.jpg" class="'thumbnail">
+        <img src="https://media.s-bol.com/G9LLYNgM6N68/811x1200.jpg" alt="Warriors of God"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71o3pRTuY+L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71o3pRTuY+L._AC_UF894,1000_QL80_.jpg" alt="Assassin's Apprentice"/>
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81SZzGUi3sL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81SZzGUi3sL._AC_UF1000,1000_QL80_.jpg" alt="Washington the Indispensable Man"/>
+    </a>
+
+    <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
+    </a>
+
+    
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June books</b></p>
+
+
+<div alt="june books" align="center">
+
+
+    <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
+    </a>
+
+    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71wCxOMukyL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wCxOMukyL._AC_UF894,1000_QL80_.jpg" alt="The Infinite and the Divine">
+    </a>
+
+    <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
+    </a>
+
+
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July books</b></p>
+
+
+<div alt="July Books" align='center'>
 
     <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
@@ -212,7 +346,10 @@
 
 </div>
 
-<div alt="November books" align="cente">
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>August books</b></p>
+
+
+<div alt="August books" align="center">
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals"/>
@@ -240,103 +377,31 @@
 
 </div>
 
-<div alt="December Books" align='center'>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Rushmore of books</b></p>
 
-    <a href="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" class="thumbnail">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" alt="War and Peace">
-    </a>
 
-    <a href="https://m.media-amazon.com/images/I/41Rb-Kz6v1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/41Rb-Kz6v1L._AC_UF894,1000_QL80_.jpg" alt="Ulysses">
-    </a>
+<div alt="Rushmore of books" align="center">
 
-    <a href="https://m.media-amazon.com/images/I/519GeuoQldL.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/519GeuoQldL.jpg" alt="Wilt Chamberlain: Larger than life">
-    </a>
 
-    <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="">
-        <img src="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" alt="Assassinorum: Kingmaker">
-    </a>
+<a href="https://m.media-amazon.com/images/I/6190YfxCPQL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/6190YfxCPQL._AC_UF1000,1000_QL80_.jpg" alt="Talent is overrated">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71A5oIoXYqS.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71A5oIoXYqS.jpg" alt="Models">
+</a>
+
+<a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c101c5e-714e-4036-9f69-910a2b86cb7c_648x1000.jpeg" class="thumbnail">
+    <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c101c5e-714e-4036-9f69-910a2b86cb7c_648x1000.jpeg" alt="Andre Agassi's Open">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/418qiy-baoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/418qiy-baoL._AC_UF1000,1000_QL80_.jpg" alt="Cognitive Therapy">
+</a>
+
 
 
 </div>
-
-
-
-<div alt="January books" align="center">
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526668679i/35425827.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526668679i/35425827.jpg" alt="Marissa Meyer Archenemies">
-    </a>
-
-    <a href="https://media.s-bol.com/9Er8XG9DBzPz/mZyxnEO/550x833.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/9Er8XG9DBzPz/mZyxnEO/550x833.jpg" alt="Marissa Meyer Supernova">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81p-kNMCkfL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81p-kNMCkfL._AC_UF1000,1000_QL80_.jpg" alt="Terminal Alliance"/>
-    </a>
-
-    <a href="https://media.s-bol.com/YNOrn4jjoWq9/n5ZZxn4/794x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/YNOrn4jjoWq9/n5ZZxn4/794x1200.jpg" alt="Old Man's War"/>
-    </a>
-
-
-    
-
-
-</div>
-
-    <div alt="February books" align="center">
-
-     <a href="https://media.s-bol.com/mVO50kEOW4MG/B53rJx/771x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/mVO50kEOW4MG/B53rJx/771x1200.jpg" alt="On War"/>
-    </a>
-
-    <a href="https://media.s-bol.com/733ONXDrR81y/2vRD14z/693x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/733ONXDrR81y/2vRD14z/693x1200.jpg" alt="The Prince"/>
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81DFDGzHZqL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81DFDGzHZqL._AC_UF894,1000_QL80_.jpg" alt="Meditations"/>
-    </a>
-
-    <a href="https://media.s-bol.com/By6GZ6VJwVJX/2jJlyv/546x840.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/By6GZ6VJwVJX/2jJlyv/546x840.jpg" alt="Dreams from my father"/>
-    </a>
-
-
-
-    
-
-
-</div>
-
-    <div alt="March books" align="center">
-
-    
-    <a href="https://media.s-bol.com/G9LLYNgM6N68/811x1200.jpg" class="'thumbnail">
-        <img src="https://media.s-bol.com/G9LLYNgM6N68/811x1200.jpg" alt="Warriors of God"/>
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71o3pRTuY+L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71o3pRTuY+L._AC_UF894,1000_QL80_.jpg" alt="Assassin's Apprentice"/>
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81SZzGUi3sL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81SZzGUi3sL._AC_UF1000,1000_QL80_.jpg" alt="Washington the Indispensable Man"/>
-    </a>
-
-    <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
-    </a>
-
-    
-
-
-</div>
-
-
 
 
 
