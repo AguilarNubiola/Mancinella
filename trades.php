@@ -30,6 +30,10 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<h1 align="center" class="symbol">
+    <img src="https://m.media-amazon.com/images/I/71Yx20mxdyL.jpg" alt="Low">
+</h1>
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
 
 
@@ -85,9 +89,6 @@
     <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12. 3 December">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" alt="X-Force vol 1. 4 December.">
-</a>
 
 <a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
     <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375. 11 December">
@@ -583,6 +584,10 @@
 
 <a href="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" class="thumbnail">
     <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" alt="X-Force vol 1. ">
 </a>
 
 
