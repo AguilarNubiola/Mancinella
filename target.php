@@ -30,6 +30,9 @@
 <a href="http://localhost/arakko/target.php">Target</a>
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current target</b></p>
+
+
 <div alt="Current target" align="center">
 
     <a href="https://cdn.bap-software.net/2023/10/softwaretesting1.jpg" class="thumbnail">
@@ -48,6 +51,9 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
+
+
 <div alt="Next up" align="center">
 
 <a href="https://media.s-bol.com/gKjkMlJjgVG3/WG1lvv/964x1200.jpg" class="thumbnail">
@@ -55,13 +61,13 @@
     </a>
 
 
-    <a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
+<a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
     <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
 </a>
 
 <a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
         <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
-    </a>
+</a>
 </div>
 
 

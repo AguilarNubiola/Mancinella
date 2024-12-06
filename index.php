@@ -61,6 +61,7 @@
     <a href="Stellar Blade" class="thumbnail">
 <img src="https://playsense.nl/wp-content/uploads/2024/05/stellar-blade-eve-kijkt-zwoel.jpg">
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/eve-looking-back-in-stellar-blade.jpg?q=49&fit=contain&w=750&h=415&dpr=2">
+    </a>
 </div>
 
 

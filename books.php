@@ -29,6 +29,10 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
+<h1 align="center" class="The symbol">
+    <img src="https://static.tvtropes.org/pmwiki/pub/images/justice_league_vol_4_18_textless_9.jpg">
+</h1>
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
 
 

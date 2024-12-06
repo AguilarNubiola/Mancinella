@@ -54,40 +54,45 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current and temporary interests</b></p>
+
+
+<div alt="Current and temporary interests" align="center">
+
+
+<a href="https://preview.redd.it/cg5j44y0d0nb1.jpg?width=640&crop=smart&auto=webp&s=05dba388cad4996b8ef552b6d60ddc8b4723e12d" class="thumbnail">
+    <img src="https://preview.redd.it/cg5j44y0d0nb1.jpg?width=640&crop=smart&auto=webp&s=05dba388cad4996b8ef552b6d60ddc8b4723e12d" alt="Berserk">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">
+</a>
+
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+    <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
+</a>
+
+<a href="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" class="thumbnail">
+    <img src="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" alt="Contract">
+</a>
+
+</div>
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12">
+
+
+<a href="https://m.media-amazon.com/images/I/71+FKYMvohL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71+FKYMvohL._AC_UF1000,1000_QL80_.jpg" alt="Berserk vol 11 to 20">
 </a>
-
-
 
 <a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
     <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
 </a>
 
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next week</b></p>
-
-
-<div alt="Next up" align="center">
-
-<a href="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12">
-</a>
-
-<a href="https://media.s-bol.com/DPlR2XxrLlXK/0YV233V/550x781.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/DPlR2XxrLlXK/0YV233V/550x781.jpg" alt="Berserk volume 1 to 10">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/71+FKYMvohL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71+FKYMvohL._AC_UF1000,1000_QL80_.jpg" alt="Berserk vol 11 to 20">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" alt="Berserk vol 21 to 30">
@@ -97,8 +102,23 @@
     <img src="https://media.s-bol.com/mwVD23PqwxXG/550x777.jpg" alt="Berserk vol 31 to 40">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/81mrOhyvbhL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81mrOhyvbhL._AC_UF894,1000_QL80_.jpg" alt="Berserk vol 41 and 42">
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next week</b></p>
+
+
+<div alt="Next up" align="center">
+
+
+
+<a href="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" alt="Berserk vol 21 to 30">
+</a>
+
+<a href="https://media.s-bol.com/mwVD23PqwxXG/550x777.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/mwVD23PqwxXG/550x777.jpg" alt="Berserk vol 31 to 40">
 </a>
 
 
@@ -109,10 +129,6 @@
 
 <div alt="December trades" align="center">
 
-
-<a href="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12. 3 December">
-</a>
 
 
 <a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
@@ -687,6 +703,22 @@
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Transplants-2024.jpg" alt="Transplants">
 </a>
 
+<a href="https://media.s-bol.com/DPlR2XxrLlXK/0YV233V/550x781.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/DPlR2XxrLlXK/0YV233V/550x781.jpg" alt="Berserk volume 1 to 10">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81mrOhyvbhL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81mrOhyvbhL._AC_UF894,1000_QL80_.jpg" alt="Berserk vol 41 and 42, plus chapters 374-378">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81KdOBJ4GsL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81KdOBJ4GsL._UF1000,1000_QL80_.jpg" alt="NYX">
+</a>
+
 
 </div>
 
@@ -696,7 +728,9 @@
 
 <div alt="Trades to read" align="center">
 
-
+<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
+</a>
 
 </div>
 

@@ -32,12 +32,13 @@
 
     <body>
 
-       <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The absolute best</h3>
+       <h3 align="center" style="font-family:'Courier New'; color:white; font-size:40px">The absolute best</h3>
 
 
         <div alt="Absolute favourite" align="center">
             <a href="https://i.pinimg.com/736x/5b/3b/73/5b3b73959d509c1efe1618a9ff92f202.jpg" class="thumbnail">
                 <img src="https://i.pinimg.com/736x/5b/3b/73/5b3b73959d509c1efe1618a9ff92f202.jpg" alt="Storm">
+            </a>      
         </div>
 
         <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The rest of Mount Rushmore</h3>
@@ -46,12 +47,15 @@
         <div alt="Rest of Mount Rushmore" align="center">
             <a href="https://i.redd.it/8t7y09h7mzc71.jpg" class="thumbnail">
                 <img src="https://i.redd.it/8t7y09h7mzc71.jpg" alt="Magneto">
-            
+            </a>   
+            </a>    </a>    </a>    </a>   
             <a href="https://preview.redd.it/8twwf413aehb1.jpg?width=640&crop=smart&auto=webp&s=76cc547b44ae27adb1558f7b42d8e56e2f67d7b7" class="thumbnail">
                 <img src="https://preview.redd.it/8twwf413aehb1.jpg?width=640&crop=smart&auto=webp&s=76cc547b44ae27adb1558f7b42d8e56e2f67d7b7" alt="Cyclops">
+            </a>   
 
             <a href="https://cafans.b-cdn.net/images/Category_4247/subcat_176995/CS9GID2O_2808182000251gpadd.JPG" class="thumbnail">
-                <img src="https://cafans.b-cdn.net/images/Category_4247/subcat_176995/CS9GID2O_2808182000251gpadd.JPG" alt="Emma Frost">       
+                <img src="https://cafans.b-cdn.net/images/Category_4247/subcat_176995/CS9GID2O_2808182000251gpadd.JPG" alt="Emma Frost">    
+            </a>   
         </div>
 
         <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The rest of the top 10</h3>
@@ -74,9 +78,9 @@
                 <img src="https://the616comics.com/cdn/shop/products/image_1cae950e-08f5-4a67-8f54-d046a19a9589_1200x1200.jpg?v=1677679312" alt="Juggernaut now in the top 10">
             </a>
 
-            /*<a href="https://64.media.tumblr.com/ef8eeeace24e93c38666f5fa38723e5e/6aee5a075e7f430b-72/s540x810/0790e64eafe3d1a89cafb34d9283e7e75fd87356.png" class="thumbnail">
+            <a href="https://64.media.tumblr.com/ef8eeeace24e93c38666f5fa38723e5e/6aee5a075e7f430b-72/s540x810/0790e64eafe3d1a89cafb34d9283e7e75fd87356.png" class="thumbnail">
                 <img src="https://64.media.tumblr.com/ef8eeeace24e93c38666f5fa38723e5e/6aee5a075e7f430b-72/s540x810/0790e64eafe3d1a89cafb34d9283e7e75fd87356.png" alt="Rogue now in the top 10">
-            </a>*/
+            </a>
 
             <a href="https://gentlemanvillian.wordpress.com/wp-content/uploads/2013/03/tumblr_lqm6fg8pel1qihd3b.jpg" class="thumbnail">
                 <img src="https://gentlemanvillian.wordpress.com/wp-content/uploads/2013/03/tumblr_lqm6fg8pel1qihd3b.jpg" alt="Sage now in the top 10">
@@ -102,8 +106,8 @@
                 <img src="https://uncannyxmen.net/sites/default/files/images/costume/shadowcat-bigcostume4.jpg" alt="Shadowcat out of the top 10">
             </a>
 
-            <a href="https://static.wikia.nocookie.net/x-men/images/0/0e/Hellfire_Gala_Jean_Grey_Variant.jpg/revision/latest?cb=20220714183402" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/x-men/images/0/0e/Hellfire_Gala_Jean_Grey_Variant.jpg/revision/latest?cb=20220714183402" alt="Jean">
+            <a href="https://preview.redd.it/jane-levy-as-jean-grey-v0-zzy2zzzfffkc1.jpg?width=856&format=pjpg&auto=webp&s=ee20ac671b292886a262694e89a420baf4a8442a" class="thumbnail">
+                <img src="https://preview.redd.it/jane-levy-as-jean-grey-v0-zzy2zzzfffkc1.jpg?width=856&format=pjpg&auto=webp&s=ee20ac671b292886a262694e89a420baf4a8442a" alt="Jean">
             </a>
 
             <a href="https://i.pinimg.com/736x/da/cb/90/dacb9062989b835eed0f888b784e1b93.jpg" class="thumbnail">
@@ -114,16 +118,16 @@
                 <img src="https://i.pinimg.com/474x/76/1c/2d/761c2d9e2175aa1575edd6410eae63fb.jpg" alt="Sunspot">
             </a>
 
-            <a href="https://static.wikia.nocookie.net/heroes-and-villain/images/2/28/Kwannon.png/revision/latest?cb=20230214211529" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/heroes-and-villain/images/2/28/Kwannon.png/revision/latest?cb=20230214211529" alt="Kwannon">
+            <a href="https://davidnakayama.com/cdn/shop/files/PSYLOCKE2024001_DC30_b2a43e56-b228-483a-8ef9-f47da72c4819.jpg?v=1728076815" class="thumbnail">
+                <img src="https://davidnakayama.com/cdn/shop/files/PSYLOCKE2024001_DC30_b2a43e56-b228-483a-8ef9-f47da72c4819.jpg?v=1728076815" alt="Kwannon">
             </a>
 
             <a href="https://cdn.marvel.com/content/1x/myst2024001_cover.jpg" class="thumbnail">
                 <img src="https://cdn.marvel.com/content/1x/myst2024001_cover.jpg" alt="Mystique">
             </a>
 
-            <a href="https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg" class="thumbnail">
-                <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg" alt="Callisto">
+            <a href="https://bleedingcool.com/wp-content/uploads/2020/02/marauders7-1-copy-1200x900.jpg" class="thumbnail">
+                <img src="https://bleedingcool.com/wp-content/uploads/2020/02/marauders7-1-copy-1200x900.jpg" alt="Callisto">
             </a>
             
         <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">The mutants who did the most for mutantkind</h3>
@@ -133,15 +137,19 @@
         <div alt="The canon Mount Rushmore" align="center">
             <a href="https://preview.redd.it/jellc6aa1rlb1.jpg?auto=webp&s=21be4a3c6b475902a08dee167930e6f1ccc1c557" class="thumbnail">
                 <img src="https://preview.redd.it/jellc6aa1rlb1.jpg?auto=webp&s=21be4a3c6b475902a08dee167930e6f1ccc1c557" alt="Xavier">
-            
+            </a>   
+
             <a href="https://preview.redd.it/holy-shit-magneto-is-a-total-hunk-right-now-so-he-is-v0-mvu3i94ck8uc1.png?width=464&format=png&auto=webp&s=73af7d9de83a80ad791300cb467359c34e818c35" class="thumbnail">
                 <img src="https://preview.redd.it/holy-shit-magneto-is-a-total-hunk-right-now-so-he-is-v0-mvu3i94ck8uc1.png?width=464&format=png&auto=webp&s=73af7d9de83a80ad791300cb467359c34e818c35" alt="Magneto">
+            </a> 
 
             <a href="https://blacknerdproblems.com/wp-content/uploads/2014/09/Cable_and_X-Force_Vol_1_7_Textless-1.jpg" class="thumbnail">
                 <img src="https://blacknerdproblems.com/wp-content/uploads/2014/09/Cable_and_X-Force_Vol_1_7_Textless-1.jpg" alt="Cyclops"> 
+            </a>   
 
-            <a href="https://pbs.twimg.com/media/FOuQw0VXEBk1j3t.jpg" class="thumbnail">
-                <img src="https://pbs.twimg.com/media/FOuQw0VXEBk1j3t.jpg" alt="Storm">
+            <a href="https://comicbook.com/wp-content/uploads/sites/4/2024/10/7549cfd9-09a9-4ce7-ad48-b94661d65f1d.jpg?w=1024" class="thumbnail">
+                <img src="https://comicbook.com/wp-content/uploads/sites/4/2024/10/7549cfd9-09a9-4ce7-ad48-b94661d65f1d.jpg?w=1024" alt="Storm">
+            </a>   
         </div>
 
 

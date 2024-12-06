@@ -32,28 +32,15 @@
 
 <div alt="Current demons" align="center">
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current Demons</b></p>
 
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" class="thumbnail">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" alt="Voo flow">
 </a>
 
-<a href="https://cdn.archonia.com/images/1-104402751-1-2-original1/x-factor-the-original-x-men-omnibus-hc-vol-01-hardcover.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104402751-1-2-original1/x-factor-the-original-x-men-omnibus-hc-vol-01-hardcover.jpg" alt="X-Factor Omnibus">
-</a>
-
-
-
-</div>
-
-<div alt="Next demons" align="center">
-
-<a href="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" alt="Berserk">
-</a>
-
-<a href="https://cdn.verasia.eu/18202-big_default_2x/citrus-vol1-new-edition.jpg" class="thumbnail">
-    <img src="https://cdn.verasia.eu/18202-big_default_2x/citrus-vol1-new-edition.jpg" alt="Citrus manga">
+<a href="https://sitescdn.wearevennture.co.uk/public/csg/mediahub/adobestock_448626984small-eb8f30bc91a34e8fb77af2f81c551da2.jpeg" class="thumbnail">
+    <img src="https://sitescdn.wearevennture.co.uk/public/csg/mediahub/adobestock_448626984small-eb8f30bc91a34e8fb77af2f81c551da2.jpeg" alt="New contract">
 </a>
 
 <a href="https://merk.odido.nl/_next/image?url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fmillen-prod-media%2FLogo_colour_options_primary_logo_with_glow_one_black-1600x900.png&w=3840&q=100" class="thumbnail">
@@ -64,29 +51,67 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next Demons</b></p>
+
+
+<div alt="Next demons" align="center">
+
+<a href="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" alt="Berserk">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">
+</a>
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December Demons</b></p>
+
+
 <div alt="December demons" align="center">
 
-<a href="https://play-lh.googleusercontent.com/b5uFWAKeFF6udnQB60HGln9JpbR4ndqff-eevDPlPTPvU_cqU2EuPq9FoZ6OqSKDNA=w526-h296-rw" class="thumbnail">
-    <img src="https://play-lh.googleusercontent.com/b5uFWAKeFF6udnQB60HGln9JpbR4ndqff-eevDPlPTPvU_cqU2EuPq9FoZ6OqSKDNA=w526-h296-rw" alt="Chrono Trigger">
+<a href="https://sitescdn.wearevennture.co.uk/public/csg/mediahub/adobestock_448626984small-eb8f30bc91a34e8fb77af2f81c551da2.jpeg" class="thumbnail">
+    <img src="https://sitescdn.wearevennture.co.uk/public/csg/mediahub/adobestock_448626984small-eb8f30bc91a34e8fb77af2f81c551da2.jpeg" alt="New contract">
 </a>
 
-<a href="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" class="thumbnail">
-    <img src="https://images.timeextension.com/e2ee622f8a208/terranigma.large.jpg" alt="Terranigma">
+<a href="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" alt="Berserk">
 </a>
 
-<a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/2751125722f24b12702413ce7d1bc1736fa2aa68.png?quality=90&strip=all&crop=1.484375,0,97.03125,100" class="thumbnail">
-    <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/2751125722f24b12702413ce7d1bc1736fa2aa68.png?quality=90&strip=all&crop=1.484375,0,97.03125,100" alt="Hades II">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" alt="Voo flow">
 </a>
 
-<a href="https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png" alt="Baldur's Gate 3">
+<a href="https://merk.odido.nl/_next/image?url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fmillen-prod-media%2FLogo_colour_options_primary_logo_with_glow_one_black-1600x900.png&w=3840&q=100" class="thumbnail">
+    <img src="https://merk.odido.nl/_next/image?url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fmillen-prod-media%2FLogo_colour_options_primary_logo_with_glow_one_black-1600x900.png&w=3840&q=100" alt="Odido flow">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">
 </a>
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>January Demons</b></p>
 
 
-<div alt="Inner demons" asign="center">
+<div alt="January demons" align="center">
+
+
+<a href="https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/0/05/Backstory_Karlach.png?width=1280" class="thumbnail">
+    <img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/0/05/Backstory_Karlach.png?width=1280" alt="Baldur's Gate 3">
+</a>
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Inner Demons</b></p>
+
+
+<div alt="Inner demons" align="center">
+
+
     <a href="https://mpowerminds.com/assetOLD/images/low-self-esteem.jpg" class="thumbnail">
         <img src="https://mpowerminds.com/assetOLD/images/low-self-esteem.jpg" alt="Low-self esteem">
     </a>
@@ -96,12 +121,12 @@
     </a>
 
 
-
-
-
 </div>
 
-<div alt="dragons slain" asign="center">
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Dragons slain</b></p>
+
+
+<div alt="dragons slain" align="center">
 
     <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKY6Hvmw6b4pTnKLyPjL2ewxKaCvpFdt9HpK2uCW4oqMUKx4kl6UypsVS_-wZd5Y-dnU&usqp=CAU" class="thumbnail">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKY6Hvmw6b4pTnKLyPjL2ewxKaCvpFdt9HpK2uCW4oqMUKx4kl6UypsVS_-wZd5Y-dnU&usqp=CAU" alt="RPA testing">

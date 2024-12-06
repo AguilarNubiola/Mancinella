@@ -52,12 +52,29 @@
 
 <div alt="Next marks" align="center">
 
+
+<a href="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" alt="Last American Virgin">
+</a>
+
 <a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
     <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
 </a>
 
 <a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
         <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
+</a>
+
+<a href="https://www.hollywoud.nl/uploads/Products/product_1466/SonicTheHedgehog3NL_133734535788513789_big.jpg" class="thumbnail">
+    <img src="https://www.hollywoud.nl/uploads/Products/product_1466/SonicTheHedgehog3NL_133734535788513789_big.jpg" alt="Sonic 3">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" alt="Kraven">
+</a>
+
+<a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
+    <img src="https://i.redd.it/ye2x2qep8cnd1.jpeg" alt="Placeholder">
 </a>
 
 </div>
