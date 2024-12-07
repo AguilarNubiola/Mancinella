@@ -118,6 +118,21 @@
     <img src="https://m.media-amazon.com/images/I/81Pxme2wwDL._UF1000,1000_QL80_.jpg" alt="Hell Hath No Fury">
 </a>
 
+<a href="https://media.pitchfork.com/photos/66d070068a7ef80640569e23/2:3/w_2000,h_3000,c_limit/Doechii.jpg" class="thumbnail">
+    <img src="https://media.pitchfork.com/photos/66d070068a7ef80640569e23/2:3/w_2000,h_3000,c_limit/Doechii.jpg" alt="Alligator Bites Never Heal">
+</a>
+
+<a href="https://media.pitchfork.com/photos/6740bc83a906f31c38618d15/master/w_1280%2Cc_limit/Kendrick-Lamar-GNX.jpeg" class="thumbnail">
+    <img src="https://media.pitchfork.com/photos/6740bc83a906f31c38618d15/master/w_1280%2Cc_limit/Kendrick-Lamar-GNX.jpeg" alt="GNX">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/5/5b/Chromakopia_CD_cover.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Chromakopia_CD_cover.jpg" alt="Chromakopia">
+</a>
+
+<a href="https://miro.medium.com/v2/resize:fit:1400/1*ZXLQ6Kuix4oeIaoZdRIa2g@2x.jpeg" class="thumbnail">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*ZXLQ6Kuix4oeIaoZdRIa2g@2x.jpeg" alt="Glorious">
+</a>
 
 </div>
 

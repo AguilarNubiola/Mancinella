@@ -35,37 +35,26 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current Demons</b></p>
 
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" alt="Voo flow">
+
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+    <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
 </a>
 
-<a href="https://sitescdn.wearevennture.co.uk/public/csg/mediahub/adobestock_448626984small-eb8f30bc91a34e8fb77af2f81c551da2.jpeg" class="thumbnail">
-    <img src="https://sitescdn.wearevennture.co.uk/public/csg/mediahub/adobestock_448626984small-eb8f30bc91a34e8fb77af2f81c551da2.jpeg" alt="New contract">
+<a href="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" class="thumbnail">
+    <img src="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" alt="Contract">
 </a>
 
-<a href="https://merk.odido.nl/_next/image?url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fmillen-prod-media%2FLogo_colour_options_primary_logo_with_glow_one_black-1600x900.png&w=3840&q=100" class="thumbnail">
-    <img src="https://merk.odido.nl/_next/image?url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fmillen-prod-media%2FLogo_colour_options_primary_logo_with_glow_one_black-1600x900.png&w=3840&q=100" alt="Odido flow">
+<a href="https://s3-eu-west-1.amazonaws.com/tpd/logos/64f76ff67b782062676cb1df/0x0.png" class="thumbnail">
+    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/64f76ff67b782062676cb1df/0x0.png" alt="Odido flow">
 </a>
 
-
+<a href="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" class="thumbnail">
+    <img src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" alt="Programming.">
+</a>
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next Demons</b></p>
 
-
-<div alt="Next demons" align="center">
-
-<a href="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" alt="Berserk">
-</a>
-
-<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">
-</a>
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December Demons</b></p>
 
@@ -76,17 +65,6 @@
     <img src="https://sitescdn.wearevennture.co.uk/public/csg/mediahub/adobestock_448626984small-eb8f30bc91a34e8fb77af2f81c551da2.jpeg" alt="New contract">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81nnnoI1Z4L._AC_UF894,1000_QL80_.jpg" alt="Berserk">
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png" alt="Voo flow">
-</a>
-
-<a href="https://merk.odido.nl/_next/image?url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fmillen-prod-media%2FLogo_colour_options_primary_logo_with_glow_one_black-1600x900.png&w=3840&q=100" class="thumbnail">
-    <img src="https://merk.odido.nl/_next/image?url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fmillen-prod-media%2FLogo_colour_options_primary_logo_with_glow_one_black-1600x900.png&w=3840&q=100" alt="Odido flow">
-</a>
 
 <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
     <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">

@@ -59,13 +59,13 @@
 
 <div alt="Current and temporary interests" align="center">
 
-
-<a href="https://preview.redd.it/cg5j44y0d0nb1.jpg?width=640&crop=smart&auto=webp&s=05dba388cad4996b8ef552b6d60ddc8b4723e12d" class="thumbnail">
-    <img src="https://preview.redd.it/cg5j44y0d0nb1.jpg?width=640&crop=smart&auto=webp&s=05dba388cad4996b8ef552b6d60ddc8b4723e12d" alt="Berserk">
+<a href="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" class="thumbnail">
+    <img src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" alt="Programming.">
 </a>
 
-<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">
+
+<a href="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" class="thumbnail">
+    <img src="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" alt="Espanol Colombiano">
 </a>
 
 <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
@@ -78,6 +78,30 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Later interests</b></p>
+
+
+<div alt="Later interests" align="center">
+
+
+<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. Replacing contract.">
+</a>
+
+<a href="https://www.examenoverzicht.nl/media/wysiwyg/Wiskunde/De_illustratie_van_de_integraal.jpg" class="thumbnail">
+    <img src="https://www.examenoverzicht.nl/media/wysiwyg/Wiskunde/De_illustratie_van_de_integraal.jpg" alt="Integraal. Replacing Basiskennis Wiskunde.">
+</a>
+
+<a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/99da469fd8b58906dec46d6b29c47bf333ae3b30ef54cf41.jpg" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/99da469fd8b58906dec46d6b29c47bf333ae3b30ef54cf41.jpg" alt="Baldur's Gate 3. Replacing Hades 2.">
+</a>
+
+<a href="https://i.ytimg.com/vi/CxGSnA-RTsA/maxresdefault.jpg" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/CxGSnA-RTsA/maxresdefault.jpg" alt="Computer science. Replacing integraal wiskunde">
+</a>
+
+</div>
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
 
@@ -85,22 +109,6 @@
 
 
 
-<a href="https://m.media-amazon.com/images/I/71+FKYMvohL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71+FKYMvohL._AC_UF1000,1000_QL80_.jpg" alt="Berserk vol 11 to 20">
-</a>
-
-<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
-</a>
-
-
-<a href="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" alt="Berserk vol 21 to 30">
-</a>
-
-<a href="https://media.s-bol.com/mwVD23PqwxXG/550x777.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/mwVD23PqwxXG/550x777.jpg" alt="Berserk vol 31 to 40">
-</a>
 
 
 
@@ -113,14 +121,6 @@
 
 
 
-<a href="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71B2JxXcVCL.jpg" alt="Berserk vol 21 to 30">
-</a>
-
-<a href="https://media.s-bol.com/mwVD23PqwxXG/550x777.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/mwVD23PqwxXG/550x777.jpg" alt="Berserk vol 31 to 40">
-</a>
-
 
 </div>
 
@@ -130,10 +130,6 @@
 <div alt="December trades" align="center">
 
 
-
-<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375. 11 December">
-</a>
 
 
 </div>
@@ -703,22 +699,21 @@
     <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Transplants-2024.jpg" alt="Transplants">
 </a>
 
-<a href="https://media.s-bol.com/DPlR2XxrLlXK/0YV233V/550x781.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/DPlR2XxrLlXK/0YV233V/550x781.jpg" alt="Berserk volume 1 to 10">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91Q8cULnEAL._SL1500_.jpg" alt="Empowered vol 12">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/81mrOhyvbhL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81mrOhyvbhL._AC_UF894,1000_QL80_.jpg" alt="Berserk vol 41 and 42, plus chapters 374-378">
-</a>
+
 
 <a href="https://m.media-amazon.com/images/I/81KdOBJ4GsL._UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81KdOBJ4GsL._UF1000,1000_QL80_.jpg" alt="NYX">
 </a>
 
+
+<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-378. Vol 1-42.">
+</a>
 
 </div>
 
