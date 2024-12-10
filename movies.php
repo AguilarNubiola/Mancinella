@@ -35,38 +35,30 @@
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current marks</b></p>
+<p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Current marks</b></p>
 
 
 <div alt="Current marks" align="center">
 
-
-<a href="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" class="thumbnail">
-    <img src="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" alt="Lust/Caution">
+<a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" class="thumbnail">
+    <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" alt="Legend of Vox Machina season 1">
 </a>
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next marks</b></p>
+<p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next marks</b></p>
 
 
 <div alt="Next marks" align="center">
 
 
-<a href="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" alt="Last American Virgin">
+<a href="https://m.media-amazon.com/images/S/pv-target-images/f6b330b838b9efee0d844f99e47ec618d5aa42b371a6dfa288a063de07c7be33.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/S/pv-target-images/f6b330b838b9efee0d844f99e47ec618d5aa42b371a6dfa288a063de07c7be33.jpg" alt="Doom Patrol season 1">
 </a>
 
-<a href="https://media.timeout.com/images/105804574/image.jpg" class="thumbnail">
-    <img src="https://media.timeout.com/images/105804574/image.jpg" alt="Rebuild of Evangelion">
-</a>
 
 <a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
         <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
-</a>
-
-<a href="https://www.hollywoud.nl/uploads/Products/product_1466/SonicTheHedgehog3NL_133734535788513789_big.jpg" class="thumbnail">
-    <img src="https://www.hollywoud.nl/uploads/Products/product_1466/SonicTheHedgehog3NL_133734535788513789_big.jpg" alt="Sonic 3">
 </a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
@@ -79,7 +71,7 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Best film and tv show so far</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show so far</h3>
 
 
 <div alt="Best movie and tv show so far" align="center">
@@ -95,7 +87,7 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Movies coming in 2025</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movies coming in 2025</h3>
 
 <div alt="2025 films" align="center">
 
@@ -126,7 +118,26 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">tv shows and movies finished in 2024</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Tv seasons coming in 2025</h3>
+
+<div alt="2025 shows" align="center">
+
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" alt="Castlevania Nocturne">
+</a>
+
+<a href="https://pyxis.nymag.com/v1/imgs/264/0aa/47e0d00b757c472bef81f63d6a2e0b2d20-COB-Unit-01534R.rsquare.w400.jpg" class="thumbnail">
+    <img src="https://pyxis.nymag.com/v1/imgs/264/0aa/47e0d00b757c472bef81f63d6a2e0b2d20-COB-Unit-01534R.rsquare.w400.jpg" alt="Cobra kai finale. 13th of February.">
+</a>
+
+<a href="https://i0.wp.com/invader.be/wp-content/uploads/2024/09/devil-may-cry-netflix-2.jpg?fit=686%2C386&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/invader.be/wp-content/uploads/2024/09/devil-may-cry-netflix-2.jpg?fit=686%2C386&ssl=1" alt="Devil May Cry. April.">
+</a>
+
+
+</div>
+
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2024</h3>
 <div class='tv shows and movies finished' align="center">
 
 <a href="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" class="thumbnail">
@@ -251,6 +262,14 @@
     <img src="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" alt="Falling Down">
 </a>
 
+<a href="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" alt="Last American Virgin">
+</a>
+
+<a href="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" class="thumbnail">
+    <img src="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" alt="Lust/Caution">
+</a>
+
 
 </div>
 
@@ -260,7 +279,7 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px;">TV show backlog</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px;">TV show backlog</h3>
 <div class="tv shows" align="center">
 
 <a href="https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" class="thumbnail">
@@ -268,11 +287,27 @@
     <img src="https://assets.teenvogue.com/photos/5b96594d8456e12b6d72a624/16:9/w_2560%2Cc_limit/she-ra-lede.jpg" alt="She-ra">
 </a>
 
+<a href="https://m.media-amazon.com/images/M/MV5BNGM2NjRjMzAtZjY5Ni00MWVkLWJlMTQtMWVmOWE1N2M2ZWM0XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNGM2NjRjMzAtZjY5Ni00MWVkLWJlMTQtMWVmOWE1N2M2ZWM0XkEyXkFqcGc@._V1_.jpg" alt="Pantheon">
+</a>
+
+<a href="https://sm.ign.com/ign_nl/news/t/the-legend/the-legend-of-vox-machina-renewed-for-season-three_es6b.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nl/news/t/the-legend/the-legend-of-vox-machina-renewed-for-season-three_es6b.jpg" alt="Vox Machina">
+</a>
+
+<a href="https://variety.com/wp-content/uploads/2024/12/nina-mazursky-gi-robot-the-bride-rick-flag-sr-dr-phosphorus-weasel.jpg?w=1000&h=667&crop=1" class="thumbnail">
+    <img src="https://variety.com/wp-content/uploads/2024/12/nina-mazursky-gi-robot-the-bride-rick-flag-sr-dr-phosphorus-weasel.jpg?w=1000&h=667&crop=1" alt="Creature Commandos">
+</a>
+
+<a href="https://i0.wp.com/thenerddaily.com/wp-content/uploads/2019/10/Doom-Patrol-TV-Series.jpg?fit=1000%2C742&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/thenerddaily.com/wp-content/uploads/2019/10/Doom-Patrol-TV-Series.jpg?fit=1000%2C742&ssl=1" alt="Doom Patrol">
+</a>
+
 
 </div>
 
 
-<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px;">Movie backlog</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px;">Movie backlog</h3>
 <div class="movies" align="center">
 
 
@@ -281,7 +316,7 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Movie Mount Rushmore</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movie Mount Rushmore</h3>
 
 <div class="Movie Rushmore" align="center">
 
@@ -306,7 +341,7 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">TV Mount Rushmore</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">TV Mount Rushmore</h3>
 
 <div class="TV Rushmore" align="center">
 
