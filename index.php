@@ -71,19 +71,29 @@
 
 <div alt="current game" align="center">
 
-<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2">
-</a>
+
 
  
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Other games</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2025 games</b></p>
 
-<div alt="Other games" align="center">
+<div alt="2025 games" align="center">
 
 <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3. December-January.">
+</a>
+
+<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. February-March.">
+</a>
+
+<a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
+    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33. April-May.">
+</a>
+
+<a href="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" class="thumbnail">
+    <img src="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" alt="Persona 6. November-December.">
 </a>
 
 

@@ -69,6 +69,26 @@
 
 </div>
 
+<div alt="Current big 4" align="center">
+
+<a href="https://m.media-amazon.com/images/I/91WfpHoOF2L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91WfpHoOF2L._AC_UF1000,1000_QL80_.jpg" alt="Uncanny X-Men">
+</a>
+
+<a href="https://i.redd.it/dd6319sitthc1.jpeg" class="thumbnail">
+    <img src="https://i.redd.it/dd6319sitthc1.jpeg" alt="Ultimate X-Men">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91iCy9vtrzL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91iCy9vtrzL._UF1000,1000_QL80_.jpg" alt="X-Men">
+</a>
+
+<a href="https://pbs.twimg.com/media/GO2M5y3XcAEQagW?format=jpg" class="thumbnail">
+    <img src="https://pbs.twimg.com/media/GO2M5y3XcAEQagW?format=jpg" alt="Storm">
+</a>
+
+</div>
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Raid on Graymalkin</b></p>
 
 
@@ -84,7 +104,7 @@
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 18th of December.">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 25th of December.">
 </a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024008_cov-scaled.jpg?ssl=1" class="thumbnail">
@@ -105,25 +125,11 @@
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th.">
 </a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" alt="Storm #3. 11th of December. PAY.">
-</a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024. PAY.">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024. ">
 </a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December. PAY.">
-</a>
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" alt="Ultimate X-Men #10. 11th of December.">
-</a>
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" alt="Ultimate Universe: One Year in #1. December 11.">
-</a>
 
 
 </div>
@@ -134,12 +140,12 @@
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 18th.">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 18th. CW.">
 </a>
 
 
 <a href="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/STL344341.jpg" class="thumbnail">
-    <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/STL344341.jpg" alt="The Moon is following us #4, December 18th.">
+    <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/STL344341.jpg" alt="The Moon is following us #4, December 18th. CW.">
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/psylocke2024002_lee.jpg" class="thumbnail">
@@ -147,7 +153,7 @@
 </a>
 
 <a href="https://bigtimecollectibles.com/cdn/shop/files/75960620796101211_663a7741-63a6-4fce-8d3b-e034b439e813_600x600_crop_center.jpg?v=1730303656" class="thumbnail">
-    <img src="https://bigtimecollectibles.com/cdn/shop/files/75960620796101211_663a7741-63a6-4fce-8d3b-e034b439e813_600x600_crop_center.jpg?v=1730303656" alt="Ultimate Spider-Man #12. 18th of December">
+    <img src="https://bigtimecollectibles.com/cdn/shop/files/75960620796101211_663a7741-63a6-4fce-8d3b-e034b439e813_600x600_crop_center.jpg?v=1730303656" alt="Ultimate Spider-Man #12. 18th of December. CW.">
 </a>
 
 
@@ -167,29 +173,10 @@
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th.">
 </a>
 
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" alt="Storm #3. 11th of December. PAY.">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024. PAY.">
-</a>
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December. PAY.">
-</a>
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" alt="Ultimate X-Men #10. 11th of December.">
-</a>
-
-<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" alt="Ultimate Universe: One Year in #1. December 11.">
-</a>
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 18th.">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 18th. CW">
 </a>
 
 
@@ -206,7 +193,7 @@
 </a>
 
 <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" class="thumbnail">
-    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" alt="Mystique #3. 25th of December.">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" alt="Mystique #3. 25th of December. CW">
 </a>
 
 
@@ -232,12 +219,12 @@
 
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" alt="Kaya #24, Jan 8th 2025. DP.">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" alt="Kaya #24, Jan 8th 2025. CW">
 </a>
 
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" alt="Napalm Lullaby #9. 15th of January.">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" alt="Napalm Lullaby #9. 15th of January. CW">
 </a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORM2024004_Cov-scaled.jpg?ssl=1" class="thumbnail">
@@ -254,7 +241,7 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORMLIFED2025001_Werneck-2-scaled.jpg?ssl=1" alt="Storm: Lifedream">
 
 </a><a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" class="thumbnail">
-    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" alt="Ultimate Spider-Men #13">
+    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" alt="Ultimate Spider-Men #13. CW">
 </a>
 
 <a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/MAGIK2025001_Jeehyung-Lee.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" class="thumbnail">
@@ -262,16 +249,16 @@
 </a>
 
 <a href="https://animesuperhero.com/wp-content/uploads/2024/10/Absolute-Batman-4-2.webp" class="thumbnail">
-    <img src="https://animesuperhero.com/wp-content/uploads/2024/10/Absolute-Batman-4-2.webp" alt="Absolute Batman #4">
+    <img src="https://animesuperhero.com/wp-content/uploads/2024/10/Absolute-Batman-4-2.webp" alt="Absolute Batman #4. CW">
 </a>
 
 <a href="https://animesuperhero.com/wp-content/uploads/2024/10/Birds-of-Prey-17-1.webp" class="thumbnail">
-    <img src="https://animesuperhero.com/wp-content/uploads/2024/10/Birds-of-Prey-17-1.webp" alt="Birds of Prey #17">
+    <img src="https://animesuperhero.com/wp-content/uploads/2024/10/Birds-of-Prey-17-1.webp" alt="Birds of Prey #17. CW">
 </a>
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. 22 januari.">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. 22 januari. CW">
 </a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024009_cov-scaled.jpg?ssl=1" class="thumbnail">
@@ -361,6 +348,20 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March</b></p>
+
+<div alt="March comics" align="center">
+
+<a href="https://i.imgur.com/WjCshcb.jpeg" class="thumbnail">
+    <img src="https://i.imgur.com/WjCshcb.jpeg" alt="Absolute Green Lantern">
+</a>
+
+<a href="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" class="thumbnail">
+    <img src="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" alt="Absolute Martian Manhunter">
+</a>
+
+
+</div>
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>X-Men issues read</b></p>
@@ -527,6 +528,28 @@
     <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" class="thumbnail">
         <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xforce2024006_gomez.jpg" alt="X-Force #6. 4th of December.">
     </a>
+
+    <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultxm2024010_cov.jpg" alt="Ultimate X-Men #10. 11th of December.">
+    </a>
+
+    <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/ultuniv2024001_peachmomoko_var.jpg" alt="Ultimate Universe: One Year in #1. December 11.">
+    </a>
+
+    <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/uncx2024007_cov.jpg" alt="Uncanny X-Men #7. 11th of December. ">
+    </a>
+
+    <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/storm2024003_cov.jpg" alt="Storm #3. 11th of December.">
+    </a>
+
+    
+    <a href="https://cdn.archonia.com/images/1-104399132-1-1-original1/laura-kinney-wolverine-1-jay-anacleto-variant.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104399132-1-1-original1/laura-kinney-wolverine-1-jay-anacleto-variant.jpg" alt="Laura Kinney: Wolverine #1">
+    </a>
+
 
 
 
@@ -849,7 +872,13 @@
         <img src="https://cdn.imagecomics.com/assets/i/releases/1045175/_3b2b4ebee7.jpg" alt="Napalm Lullaby 7. November 27th. ">
     </a>
  
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
+         <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024. ">
+    </a>
 
+    <a href="https://www.previewsworld.com/SiteImage/MainImage/STL344151.jpg" class="thumbnail">
+        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL344151.jpg" alt="Doll Parts: Lovesick #1">
+    </a>
 
 
 
@@ -955,7 +984,7 @@
 </a>
 
 <a href="https://comicbook.com/wp-content/uploads/sites/4/2024/10/7549cfd9-09a9-4ce7-ad48-b94661d65f1d.jpg" class="thumbnail">
-    <img src="https://comicbook.com/wp-content/uploads/sites/4/2024/10/7549cfd9-09a9-4ce7-ad48-b94661d65f1d.jpg" alt="Storm">
+    <img src="https://pbs.twimg.com/media/GO2M5y3XcAEQagW?format=jpg&name=4096x4096" alt="Storm">
 </a>
 
 <a href="https://aiptcomics.com/wp-content/uploads/2024/07/ultimate-xmen-5-1.jpg" class="thumbnail">
@@ -978,6 +1007,10 @@
     <img src="https://i1.whakoom.com/large/1c/09/007235b6472c48b882c995520612f3eb.jpg" alt="Laura Kinney: Wolverine">
 </a>
 
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTWOV2025001_Melnikov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTWOV2025001_Melnikov-scaled.jpg?ssl=1" alt="Ultimate Wolverine">
+</a>
+
 
 </div>
 
@@ -988,10 +1021,6 @@
 
 <a href="https://cdnb.artstation.com/p/assets/images/images/064/632/985/large/vincenzo-riccardi-w0rld-tr33-cover.jpg?1688402724" class="thumbnail">
     <img src="https://cdnb.artstation.com/p/assets/images/images/064/632/985/large/vincenzo-riccardi-w0rld-tr33-cover.jpg?1688402724" alt="W0rldtr33">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/893535/kaya-1_961b0bdf99.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/893535/kaya-1_961b0bdf99.jpg" alt="Kaya">
 </a>
 
 
@@ -1009,6 +1038,18 @@
 
 <a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534397743/nights-volume-1-9781534397743_hr.jpg" class="thumbnail">
     <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534397743/nights-volume-1-9781534397743_hr.jpg" alt="Nights">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1051980/doll-parts-a-lovesick-tale-1-of-4_8f6a893c5e.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1051980/doll-parts-a-lovesick-tale-1-of-4_8f6a893c5e.jpg" alt="Doll parts">
+</a>
+
+<a href="https://media.s-bol.com/GNJK3VWYK1ZK/R6jXYjK/546x840.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/GNJK3VWYK1ZK/R6jXYjK/546x840.jpg" alt="Tin Can Society">
+</a>
+
+<a href="https://bleedingcool.com/wp-content/uploads/2022/07/Kaya1-1200x900.jpeg" class="thumbnail">
+    <img src="https://bleedingcool.com/wp-content/uploads/2022/07/Kaya1-1200x900.jpeg" alt="Kaya">
 </a>
 
 </div>

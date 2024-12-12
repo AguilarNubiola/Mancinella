@@ -3,10 +3,10 @@
         <style>
 
             body{
-                background-image: url("https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/07/dawn-of-x-teaser-header.jpg");
+                background-image: url("https://wallpapers-clan.com/wp-content/uploads/2024/12/x-men-logo-minimalist-wallpaper.jpg");
                 background-repeat: no-repeat;
-                background-attachment: fixed;
                 background-size: 100%;
+                //background-attachment: //fixed;//
             }
 
         
@@ -71,7 +71,7 @@
             </a>
 
             <a href="https://i.pinimg.com/736x/21/40/0e/21400e7825489fc28b6d3f3d05e01a29.jpg" class="thumbnail">
-                <img src="https://i.pinimg.com/736x/21/40/0e/21400e7825489fc28b6d3f3d05e01a29.jpg" alt="Monet now in the top 10">
+                <img src="https://i.pinimg.com/736x/21/40/0e/21400e7825489fc28b6d3f3d05e01a29.jpg" alt="Monet">
             </a>
 
             <a href="https://the616comics.com/cdn/shop/products/image_1cae950e-08f5-4a67-8f54-d046a19a9589_1200x1200.jpg?v=1677679312" class="thumbnail">
@@ -90,8 +90,8 @@
 
 
         <div alt="Out of the top 10" align="center">
-            <a href="https://i.redd.it/rcbkhbhfd9s91.jpg" class="thumbnail">
-                <img src="https://i.redd.it/rcbkhbhfd9s91.jpg" alt="Apocalypse out of the top 10">
+            <a href="https://pbs.twimg.com/media/GZIEyRKWsAAwk9U?format=jpg&name=4096x4096" class="thumbnail">
+                <img src="https://pbs.twimg.com/media/GZIEyRKWsAAwk9U?format=jpg&name=4096x4096" alt="Calico">
             </a>
 
             <a href="https://sportshub.cbsistatic.com/i/2024/05/09/d315504e-9122-4a96-9497-a2a4209e6b63/wolverine-x-men-from-the-ashes-header.jpg" class="thumbnail">

@@ -62,6 +62,10 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" alt="Assassinorum: Kingmaker">
+    </a>
+
     
 
     
@@ -79,12 +83,6 @@
 
      <a href="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" class="thumbnail">
         <img src="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" alt="Heavenly Tyrant">
-    </a>
-
-  
-
-    <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="thumbnail">
-        <img src="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" alt="Assassinorum: Kingmaker">
     </a>
 
 
