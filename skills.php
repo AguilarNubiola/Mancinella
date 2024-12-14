@@ -46,6 +46,15 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
 
+<div alt="Current skill" align="center">
+
+<a href="https://static.agconnect.nl/cropped/63d910b2-a80c-5ddb-9cab-c5a8c79c50be/article/00/80/0080c4a9-da5f-4cdb-9403-4929dcee18e5/opening_image/opening_image_hero/java%20logo.jpg" class="thumbnail">
+    <img src="https://static.agconnect.nl/cropped/63d910b2-a80c-5ddb-9cab-c5a8c79c50be/article/00/80/0080c4a9-da5f-4cdb-9403-4929dcee18e5/opening_image/opening_image_hero/java%20logo.jpg" alt="Java">
+</a>
+
+
+</div>
+
 
 <div alt="The enemies" align="center">
 

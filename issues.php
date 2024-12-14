@@ -120,25 +120,6 @@
 <div alt="This week" align="center">
 
 
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th.">
-</a>
-
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1045127/kaya-23_089673765d.jpg" alt="Kaya #23, December 11th 2024. ">
-</a>
-
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>18 December</b></p>
-
-<div alt="next week" align="center">
-
-
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9974067.jpg?1726840157" alt="The Power Fantasy #5. December 18th. CW.">
 </a>
@@ -161,17 +142,32 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>18 December</b></p>
+
+<div alt="next week" align="center">
+
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 25th of December.">
+</a>
+
+<a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" class="thumbnail">
+    <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" alt="Mystique #3. 25th of December. CW">
+</a>
+
+
+
+
+
+
+</div>
+
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December</b></p>
 
 <div alt="December books" align="center">
  
-
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, December 11th.">
-</a>
 
 
 
@@ -221,6 +217,11 @@
 <a href="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1052180/kaya-24_3a6628934e.jpg" alt="Kaya #24, Jan 8th 2025. CW">
 </a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, 8 de janeiro.">
+</a>
+
 
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" class="thumbnail">
@@ -313,7 +314,7 @@
 </a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/MYST2024005_cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/MYST2024005_cov-scaled.jpg?ssl=1" alt="Mystique #. 19th of February.">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/MYST2024005_cov-scaled.jpg?ssl=1" alt="Mystique #5. 19th of February.">
 </a>
 
 
@@ -878,6 +879,10 @@
 
     <a href="https://www.previewsworld.com/SiteImage/MainImage/STL344151.jpg" class="thumbnail">
         <img src="https://www.previewsworld.com/SiteImage/MainImage/STL344151.jpg" alt="Doll Parts: Lovesick #1">
+    </a>
+
+    <a href="https://dstlry.co/cdn/shop/files/CBHF01-CVR-F-Lotay-Front.webp?v=1729820817&width=1000" class="thumbnail">
+        <img src="https://dstlry.co/cdn/shop/files/CBHF01-CVR-F-Lotay-Front.webp?v=1729820817&width=1000" alt="The City Beneath her Feet #1">
     </a>
 
 

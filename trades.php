@@ -107,7 +107,9 @@
 
 <div alt="reading now" align="center">
 
-
+<a href="https://m.media-amazon.com/images/I/81LpsVIzkWL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81LpsVIzkWL._AC_UF1000,1000_QL80_.jpg" alt="Lovesick">
+</a>
 
 
 
@@ -147,6 +149,25 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
+
+
+<div alt="February trades" align="center">
+
+
+<a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2">
+</a>
+
+<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
+    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2">
+</a>
+
+
+</div>
+
+
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comics and trades finished in 2025</b></p>
 
@@ -713,6 +734,10 @@
 
 <a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
     <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-378. Vol 1-42.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71UxqmDkYKL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71UxqmDkYKL._AC_UF1000,1000_QL80_.jpg" alt="Fantastic Four: Full Circle">
 </a>
 
 </div>

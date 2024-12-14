@@ -58,12 +58,9 @@
 
 
 <a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
-        <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamamoto">
+        <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamato">
 </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" alt="Kraven">
-</a>
 
 <a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
     <img src="https://i.redd.it/ye2x2qep8cnd1.jpeg" alt="Placeholder">
@@ -268,6 +265,10 @@
 
 <a href="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" class="thumbnail">
     <img src="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" alt="Lust/Caution">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" alt="Kraven">
 </a>
 
 

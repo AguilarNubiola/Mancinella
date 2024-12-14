@@ -81,24 +81,43 @@
 <div alt="2025 games" align="center">
 
 <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3. December-January.">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3. January">
 </a>
 
 <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. February-March.">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. December">
 </a>
 
 <a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
     <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33. April-May.">
 </a>
 
-<a href="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" class="thumbnail">
-    <img src="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" alt="Persona 6. November-December.">
-</a>
+
 
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>After 2025</b></p>
+
+<div alt="After 2025" align="center">
+
+<a href="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" class="thumbnail">
+    <img src="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" alt="Persona 6. November-December.">
+</a>
+
+<a href="https://mp1st.com/wp-content/uploads/2024/12/Okami-2.jpg.webp" class="thumbnail">
+    <img src="https://mp1st.com/wp-content/uploads/2024/12/Okami-2.jpg.webp" alt="Okami 2">
+</a>
+
+<a href="https://i.ytimg.com/vi/o7TVPoxwi74/maxresdefault.jpg" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/o7TVPoxwi74/maxresdefault.jpg" alt="Intergalactic: The Heretic Prophet. Unknown.">
+</a>
+
+<a href="https://img.youtube.com/vi/KOiJGLZDnFw/maxresdefault.jpg" class="thumbnail">
+    <img src="https://img.youtube.com/vi/KOiJGLZDnFw/maxresdefault.jpg" alt="Onimusha. 2026">
+</a>
+
+</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Games completed in 2024</b></p>
 
