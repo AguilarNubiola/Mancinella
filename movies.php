@@ -20,10 +20,6 @@
 
 
 
-
-
-
-
 <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
@@ -33,6 +29,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Current marks</b></p>
@@ -40,9 +37,11 @@
 
 <div alt="Current marks" align="center">
 
+
 <a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" class="thumbnail">
     <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" alt="Legend of Vox Machina season 1">
 </a>
+
 
 </div>
 
@@ -52,14 +51,14 @@
 <div alt="Next marks" align="center">
 
 
-<a href="https://m.media-amazon.com/images/S/pv-target-images/f6b330b838b9efee0d844f99e47ec618d5aa42b371a6dfa288a063de07c7be33.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/S/pv-target-images/f6b330b838b9efee0d844f99e47ec618d5aa42b371a6dfa288a063de07c7be33.jpg" alt="Doom Patrol season 1">
+<a href="https://static.wikia.nocookie.net/criticalrole/images/d/d2/LoVM_Season_2.jpg/revision/latest?cb=20230109191604" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/criticalrole/images/d/d2/LoVM_Season_2.jpg/revision/latest?cb=20230109191604" alt="Vox Machina season 2">
 </a>
 
-
-<a href="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" class="thumbnail">
-        <img src="https://pbs.twimg.com/media/EcLdRTvX0AEMwt3?format=jpg&name=4096x4096" alt="Yamato">
+<a href="https://static.wikia.nocookie.net/criticalrole/images/0/09/LoVM_S3_Key_art.jpg/revision/latest?cb=20240828155419" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/criticalrole/images/0/09/LoVM_S3_Key_art.jpg/revision/latest?cb=20240828155419" alt="Vox Machina season 3">
 </a>
+
 
 
 <a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
@@ -271,6 +270,13 @@
     <img src="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" alt="Kraven">
 </a>
 
+<a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/Jentry_Chau_vs_the_Underworld_n_S1_E6_00_03_07_10.jpg" class="thumbnail">
+    <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/Jentry_Chau_vs_the_Underworld_n_S1_E6_00_03_07_10.jpg" alt="Jentry Chau">
+</a>
+
+<a href="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" class="thumbnail">
+    <img src="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" alt="Anora">
+</a>
 
 </div>
 
@@ -288,9 +294,6 @@
     <img src="https://assets.teenvogue.com/photos/5b96594d8456e12b6d72a624/16:9/w_2560%2Cc_limit/she-ra-lede.jpg" alt="She-ra">
 </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BNGM2NjRjMzAtZjY5Ni00MWVkLWJlMTQtMWVmOWE1N2M2ZWM0XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNGM2NjRjMzAtZjY5Ni00MWVkLWJlMTQtMWVmOWE1N2M2ZWM0XkEyXkFqcGc@._V1_.jpg" alt="Pantheon">
-</a>
 
 <a href="https://sm.ign.com/ign_nl/news/t/the-legend/the-legend-of-vox-machina-renewed-for-season-three_es6b.jpg" class="thumbnail">
     <img src="https://sm.ign.com/ign_nl/news/t/the-legend/the-legend-of-vox-machina-renewed-for-season-three_es6b.jpg" alt="Vox Machina">
@@ -300,9 +303,6 @@
     <img src="https://variety.com/wp-content/uploads/2024/12/nina-mazursky-gi-robot-the-bride-rick-flag-sr-dr-phosphorus-weasel.jpg?w=1000&h=667&crop=1" alt="Creature Commandos">
 </a>
 
-<a href="https://i0.wp.com/thenerddaily.com/wp-content/uploads/2019/10/Doom-Patrol-TV-Series.jpg?fit=1000%2C742&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/thenerddaily.com/wp-content/uploads/2019/10/Doom-Patrol-TV-Series.jpg?fit=1000%2C742&ssl=1" alt="Doom Patrol">
-</a>
 
 
 </div>
