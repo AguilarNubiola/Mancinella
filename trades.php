@@ -28,6 +28,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
 <h1 align="center" class="symbol">
@@ -68,9 +69,6 @@
     <img src="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" alt="Espanol Colombiano">
 </a>
 
-<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-    <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
-</a>
 
 <a href="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" class="thumbnail">
     <img src="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" alt="Contract">
@@ -82,6 +80,11 @@
 
 
 <div alt="Later interests" align="center">
+
+<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+    <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
+</a>
+
 
 
 <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
@@ -105,18 +108,20 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
 
+
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81LpsVIzkWL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81LpsVIzkWL._AC_UF1000,1000_QL80_.jpg" alt="Lovesick">
+<a href="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" alt="Legion of Super-Heroes: Great Darkness Saga">
 </a>
 
-
-
+<a href="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" alt="Akira">
+</a>
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next week</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
 
 
 <div alt="Next up" align="center">
@@ -126,15 +131,6 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
-
-
-<div alt="December trades" align="center">
-
-
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>January trades</b></p>
 
@@ -151,7 +147,6 @@
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
-
 
 <div alt="February trades" align="center">
 
@@ -182,7 +177,7 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comics and trades finished in 2024</b></p>
 
 
-<div alt="finished comics" align="Center">
+<div alt="finished comics 2024" align="Center">
 
     <a href="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" alt="Defenders: Beyond"/>
@@ -654,6 +649,10 @@
     <img src="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2018/6/22/5/5/d/pdf_55d76a06-760c-11e8-9273-d6543d870e1d.jpg" alt="Fables deel 10">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81eIWKLxMXL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81eIWKLxMXL._SL1500_.jpg" alt="I heart Skull-Crusher vol 1">
+</a>
+
 <a href="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91O3-9B8ahL._SL1500_.jpg" alt="X-Force vol 1. ">
 </a>
@@ -740,6 +739,56 @@
     <img src="https://m.media-amazon.com/images/I/71UxqmDkYKL._AC_UF1000,1000_QL80_.jpg" alt="Fantastic Four: Full Circle">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81LpsVIzkWL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81LpsVIzkWL._AC_UF1000,1000_QL80_.jpg" alt="Lovesick">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/819feHlJ4OL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/819feHlJ4OL._SL1500_.jpg" alt="Immortal Thor vol 1. 1-5.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91OOzssXGYL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91OOzssXGYL._SL1500_.jpg" alt="Immortal Thor vol 2. 6-10. ROXXON PRESENTS:THOR.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81IsmwlTkIL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81IsmwlTkIL._SL1500_.jpg" alt="Immortal Thor vol 3. 11-15.">
+</a>
+
+<a href="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3006649.jpg" class="thumbnail">
+    <img src="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3006649.jpg" alt="Savage Hearts">
+</a>
+
+<a href="Ultimate Spider-Man vol 2" class="thumbnail">
+    <img src="https://comichub.blob.core.windows.net/high/7a5e1b87-00aa-46f3-8e31-a891268899d4.jpg" alt="Ultimate Spider-Man vol 2">
+</a>
+
+<a href="https://media.s-bol.com/9vOyQxmpNErP/Z6vpJBJ/780x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/9vOyQxmpNErP/Z6vpJBJ/780x1200.jpg" alt="The Power Fantasy vol 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/817Yp80sQRL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/817Yp80sQRL._AC_UF1000,1000_QL80_.jpg" alt="Wonder Woman vol 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/816bkNIShnL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/816bkNIShnL._AC_UF1000,1000_QL80_.jpg" alt="Wonder Woman vol 2">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81x6H5hzxOL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81x6H5hzxOL._UF1000,1000_QL80_.jpg" alt="Ultimate Black Panther vol 1">
+</a>
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comics and trades finished in 2025</b></p>
+
+
+<div alt="finished comics 2025" align="Center">
+
+
+
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Trades to read</b></p>
@@ -748,9 +797,7 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk 1-375">
-</a>
+
 
 </div>
 
