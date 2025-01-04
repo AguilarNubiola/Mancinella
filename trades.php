@@ -111,9 +111,6 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" alt="Legion of Super-Heroes: Great Darkness Saga">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" alt="Akira">
@@ -787,7 +784,9 @@
 
 <div alt="finished comics 2025" align="Center">
 
-
+<a href="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" alt="Legion of Super-Heroes: Great Darkness Saga">
+</a>
 
 </div>
 
@@ -797,6 +796,9 @@
 
 <div alt="Trades to read" align="center">
 
+<a href="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" alt="Akira">
+</a>
 
 
 </div>
