@@ -111,10 +111,9 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/71SKqtvjBAL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL.jpg" alt="Akira volume 1">
+<a href="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" alt="Akira volume 2">
 </a>
-
 
 </div>
 
@@ -123,9 +122,8 @@
 
 <div alt="Next up" align="center">
 
-
-<a href="https://m.media-amazon.com/images/I/61mr+jNTixL._SL1200_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/61mr+jNTixL._SL1200_.jpg" alt="Akira volume 2">
+<a href="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" alt="Akira volume 2">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
@@ -232,8 +230,8 @@
         <img src="https://cdn.webshopapp.com/shops/244637/files/438269750/800x1024x1/invincible-red-sonja-hc-vol-01.jpg" alt="The Invincible Red Sonja">
     </a>
 
-    <a href="https://townsquare.media/site/622/files/2016/02/eastofwest-horsemen1.jpg" class="thumbnail">
-        <img src="https://townsquare.media/site/622/files/2016/02/eastofwest-horsemen1.jpg" alt="East of West">
+    <a href="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/04/Hickman-East-of-West.jpg" class="thumbnail">
+        <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/04/Hickman-East-of-West.jpg" alt="East of West">
     </a>
 
     <a href="https://media.s-bol.com/7MzRQ1W2Rwwy/XRRrKV/548x840.jpg" class="thumbnail">
@@ -353,8 +351,8 @@
 </a>
 
 
-<a href="https://geekinitiative.com/wp-content/uploads/2014/12/bitchplanet.jpg" class="thumbnail">
-    <img src="https://geekinitiative.com/wp-content/uploads/2014/12/bitchplanet.jpg" alt="Bitch Planet">
+<a href="https://m.media-amazon.com/images/I/919o7WwIIML._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/919o7WwIIML._UF1000,1000_QL80_.jpg" alt="Bitch Planet">
 </a>
 
 
@@ -806,6 +804,35 @@
 <a href="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91ue33YbOqL._AC_UF1000,1000_QL80_.jpg" alt="Legion of Super-Heroes: Great Darkness Saga">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/91OjBx3hSNL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91OjBx3hSNL._AC_UF1000,1000_QL80_.jpg" alt="The Killing Joke">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71SKqtvjBAL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL.jpg" alt="Akira volume 1">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
 
 </div>
 

@@ -121,7 +121,7 @@
 <div alt="This week" align="center">
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024008_cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024008_cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #8. January 8th.">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024008_cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #8. January 8th. Buy.">
 </a>
 
 
@@ -134,7 +134,7 @@
 </a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/09/MAGIK2025001_Ruan_Foil.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/09/MAGIK2025001_Ruan_Foil.jpg?ssl=1" alt="Magik #1. January 8th.">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/09/MAGIK2025001_Ruan_Foil.jpg?ssl=1" alt="Magik #1. January 8th. Buy.">
 </a>
 
 <a href="https://animesuperhero.com/wp-content/uploads/2024/10/Absolute-Batman-4-2.webp" class="thumbnail">
