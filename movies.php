@@ -38,10 +38,6 @@
 <div alt="Current marks" align="center">
 
 
-<a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" class="thumbnail">
-    <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" alt="Legend of Vox Machina season 1">
-</a>
-
 
 </div>
 
@@ -50,6 +46,9 @@
 
 <div alt="Next marks" align="center">
 
+<a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" class="thumbnail">
+    <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" alt="Legend of Vox Machina season 1">
+</a>
 
 <a href="https://static.wikia.nocookie.net/criticalrole/images/d/d2/LoVM_Season_2.jpg/revision/latest?cb=20230109191604" class="thumbnail">
     <img src="https://static.wikia.nocookie.net/criticalrole/images/d/d2/LoVM_Season_2.jpg/revision/latest?cb=20230109191604" alt="Vox Machina season 2">
@@ -364,8 +363,28 @@
 
 </div>
 
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Content creator Mount Rushmore</h3>
+
+<div class="Content creator Rushmore" align="center">
+
+<a href="https://i.pinimg.com/originals/ce/9f/4b/ce9f4b4e48ea7841754d5e76e3b04a10.jpg" class="thumbnail">
+    <img src="https://i.pinimg.com/originals/ce/9f/4b/ce9f4b4e48ea7841754d5e76e3b04a10.jpg" alt="Noel Deyzel">
+</a>
+
+<a href="https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b142551a06e445f874a11b_Hero%20DrK%20placeholder.webp" class="thumbnail">
+    <img src="https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b142551a06e445f874a11b_Hero%20DrK%20placeholder.webp" alt="Healthygamergg">
+</a>
+
+<a href="https://static.wikia.nocookie.net/youtube/images/e/e0/Abaandpreachfaces.webp/revision/latest/scale-to-width-down/1200?cb=20210604142731" class="thumbnail">
+    <img src="https://static.wikia.nocookie.net/youtube/images/e/e0/Abaandpreachfaces.webp/revision/latest/scale-to-width-down/1200?cb=20210604142731" alt="Aba n Preach">
+</a>
+
+<a href="https://amplify.nabshow.com/wp-content/uploads/sites/12/2024/02/Coffeezilla02.png" class="thumbnail">
+    <img src="https://amplify.nabshow.com/wp-content/uploads/sites/12/2024/02/Coffeezilla02.png" alt="Coffeezilla">
+</a>
 
 
+</div>
 
 </body>
 </HTML>
