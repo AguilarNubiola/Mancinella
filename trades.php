@@ -111,10 +111,10 @@
 
 <div alt="reading now" align="center">
 
-
-<a href="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" alt="Akira">
+<a href="https://m.media-amazon.com/images/I/71SKqtvjBAL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL.jpg" alt="Akira volume 1">
 </a>
+
 
 </div>
 
@@ -124,6 +124,25 @@
 <div alt="Next up" align="center">
 
 
+<a href="https://m.media-amazon.com/images/I/61mr+jNTixL._SL1200_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/61mr+jNTixL._SL1200_.jpg" alt="Akira volume 2">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" alt="Akira volume 3">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71-vUN36BpL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71-vUN36BpL._AC_UF1000,1000_QL80_.jpg" alt="Akira volume 4">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71lFRlZ-DjL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71lFRlZ-DjL._AC_UF1000,1000_QL80_.jpg" alt="Akira volume 5">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71yMgcRnZOL._SL1200_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71yMgcRnZOL._SL1200_.jpg" alt="Akira volume 6">
+</a>
 
 
 </div>
