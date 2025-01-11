@@ -1,4 +1,4 @@
-<DOCTYPE HTML>
+ <DOCTYPE HTML>
     <head>
         <style>
 
@@ -29,6 +29,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
 
@@ -48,13 +49,13 @@
 
 </div>
         
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current 2024 game of the year</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2024 game of the year</b></p>
 
 <h1 align="center" class="current game of the year">
     <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/metaphorrefantaziohero.jpg">
 </h1>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current 2024 runner up of the year</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2024 runner up</b></p>
 
 
 <div alt="runner up" align="center">
@@ -81,15 +82,19 @@
 <div alt="2025 games" align="center">
 
 <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3. January">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3.">
 </a>
 
 <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. December">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2.">
 </a>
 
 <a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
-    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33. April-May.">
+    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33.">
+</a>
+
+<a href="https://playsense.nl/wp-content/uploads/2023/06/the-outer-worlds-2-pc-game-cover.jpg" class="thumbnail">
+    <img src="https://playsense.nl/wp-content/uploads/2023/06/the-outer-worlds-2-pc-game-cover.jpg" alt="Outer Worlds 2.">
 </a>
 
 
