@@ -38,24 +38,45 @@
 <div alt="Current marks" align="center">
 
 
+<a href="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" class="thumbnail">
+    <img src="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" alt="Vox Machina season 3">
+</a>
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next marks</b></p>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2025</h3>
+<div class='tv shows and movies finished in 2025' align="center">
 
-
-<div alt="Next marks" align="center">
+<a href="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" class="thumbnail">
+    <img src="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" alt="Nosferatu.">
+</a>
 
 <a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" class="thumbnail">
     <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" alt="Legend of Vox Machina season 1">
 </a>
 
-<a href="https://static.wikia.nocookie.net/criticalrole/images/d/d2/LoVM_Season_2.jpg/revision/latest?cb=20230109191604" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/criticalrole/images/d/d2/LoVM_Season_2.jpg/revision/latest?cb=20230109191604" alt="Vox Machina season 2">
+<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" class="thumbnail">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" alt="Creature Commandos.">
 </a>
 
-<a href="https://static.wikia.nocookie.net/criticalrole/images/0/09/LoVM_S3_Key_art.jpg/revision/latest?cb=20240828155419" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/criticalrole/images/0/09/LoVM_S3_Key_art.jpg/revision/latest?cb=20240828155419" alt="Vox Machina season 3">
+<a href="https://sm.ign.com/ign_nl/gallery/s/squid-game/squid-game-season-2-new-key-art-and-teaser-images_7df6.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nl/gallery/s/squid-game/squid-game-season-2-new-key-art-and-teaser-images_7df6.jpg" alt="Squid Game Season 2">
+</a>
+
+<a href="https://assets-prd.ignimgs.com/2022/10/06/image2-1665099853688.jpg" class="thumbnail">
+    <img src="https://assets-prd.ignimgs.com/2022/10/06/image2-1665099853688.jpg" alt="Vox Machina season 2">
+</a>
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next marks</b></p>
+
+<div alt="Next marks" align="center">
+
+
+<a href="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" class="thumbnail">
+    <img src="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" alt="Vox Machina season 3">
 </a>
 
 
@@ -66,21 +87,36 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show so far</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show of 2024</h3>
 
 
-<div alt="Best movie and tv show so far" align="center">
+<div alt="Best movie and tv show of 2024" align="center">
 
 <a href="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" class="thumbnail">
-    <img src="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" alt="Best film so far">
+    <img src="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" alt="Best film. The Wild Robot.">
 </a>
 
 
-<a href="https://m.media-amazon.com/images/M/MV5BOTBhYWRhMzMtMGY1Mi00YjJkLWIxN2EtNjAxMmQzYTk2NTNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BOTBhYWRhMzMtMGY1Mi00YjJkLWIxN2EtNjAxMmQzYTk2NTNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="Best tv show so far">
+<a href="https://static01.nyt.com/images/2024/04/01/multimedia/22xmen-tzpw/22xmen-tzpw-googleFourByThree.jpg" class="thumbnail">
+    <img src="https://static01.nyt.com/images/2024/04/01/multimedia/22xmen-tzpw/22xmen-tzpw-googleFourByThree.jpg" alt="Best tv show. X-Men 97 season 1.">
 </a>
 
 </div>
+
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show of 2025 so far</h3>
+
+<div alt="Best movie and tv show so far" align="center">
+
+<a href="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" class="thumbnail">
+    <img src="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" alt="Best film so far. Nosferatu.">
+</a>
+
+<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" class="thumbnail">
+    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" alt="Best tv show so far. Creature Commandos.">
+</a>
+
+</div>
+
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movies coming in 2025</h3>
 
@@ -132,6 +168,7 @@
 
 </div>
 
+
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2024</h3>
 <div class='tv shows and movies finished' align="center">
 
@@ -139,8 +176,8 @@
     <img src="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" alt="X-Men 97">
 </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNDMwZDA1ZDgtOWUyMi00NDBlLTkxODktYWNiODExZTQzMjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" alt="Hit-Monkey">
+<a href="https://cdn.marvel.com/content/2x/marvelshitmonkeys2_lob_crd_01.jpg" class="thumbnail">
+    <img src="https://cdn.marvel.com/content/2x/marvelshitmonkeys2_lob_crd_01.jpg" alt="Hit-Monkey">
 </a>
 
 
@@ -298,9 +335,6 @@
     <img src="https://sm.ign.com/ign_nl/news/t/the-legend/the-legend-of-vox-machina-renewed-for-season-three_es6b.jpg" alt="Vox Machina">
 </a>
 
-<a href="https://variety.com/wp-content/uploads/2024/12/nina-mazursky-gi-robot-the-bride-rick-flag-sr-dr-phosphorus-weasel.jpg?w=1000&h=667&crop=1" class="thumbnail">
-    <img src="https://variety.com/wp-content/uploads/2024/12/nina-mazursky-gi-robot-the-bride-rick-flag-sr-dr-phosphorus-weasel.jpg?w=1000&h=667&crop=1" alt="Creature Commandos">
-</a>
 
 
 
@@ -375,12 +409,8 @@
     <img src="https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b142551a06e445f874a11b_Hero%20DrK%20placeholder.webp" alt="Healthygamergg">
 </a>
 
-<a href="https://static.wikia.nocookie.net/youtube/images/e/e0/Abaandpreachfaces.webp/revision/latest/scale-to-width-down/1200?cb=20210604142731" class="thumbnail">
-    <img src="https://static.wikia.nocookie.net/youtube/images/e/e0/Abaandpreachfaces.webp/revision/latest/scale-to-width-down/1200?cb=20210604142731" alt="Aba n Preach">
-</a>
-
-<a href="https://amplify.nabshow.com/wp-content/uploads/sites/12/2024/02/Coffeezilla02.png" class="thumbnail">
-    <img src="https://amplify.nabshow.com/wp-content/uploads/sites/12/2024/02/Coffeezilla02.png" alt="Coffeezilla">
+<a href="https://preview.redd.it/you-know-what-would-be-funny-an-aba-silently-disagreeing-v0-j8vf4im7ldxc1.jpeg?auto=webp&s=feff2b9069fc5a4c0f3bfe3aa079dffef1b68c55" class="thumbnail">
+    <img src="https://preview.redd.it/you-know-what-would-be-funny-an-aba-silently-disagreeing-v0-j8vf4im7ldxc1.jpeg?auto=webp&s=feff2b9069fc5a4c0f3bfe3aa079dffef1b68c55" alt="Aba & Preach">
 </a>
 
 

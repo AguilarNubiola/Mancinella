@@ -122,9 +122,6 @@
 
 <div alt="Next up" align="center">
 
-<a href="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" alt="Akira volume 2">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" alt="Akira volume 3">
@@ -813,16 +810,21 @@
     <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL.jpg" alt="Akira volume 1">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534329454/kaya-book-four-9781534329454_xlg.jpg" class="thumbnail">
+    <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534329454/kaya-book-four-9781534329454_xlg.jpg" alt="Kaya vol 4">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://m.media-amazon.com/images/I/81f7Kkf2bUL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81f7Kkf2bUL._SL1500_.jpg" alt="Ultimate Black Panther vol 2">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+
+<a href="https://m.media-amazon.com/images/I/81Qf0M-OMaL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Qf0M-OMaL._SL1500_.jpg" alt="Transformers volume 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81Cg1qj82jL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Cg1qj82jL._SL1500_.jpg" alt="Transformers volume 2">
 </a>
 
 <a href="" class="thumbnail">
