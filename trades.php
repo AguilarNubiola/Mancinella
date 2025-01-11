@@ -111,8 +111,8 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" alt="Akira volume 2">
+<a href="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" alt="Akira volume 3">
 </a>
 
 </div>
@@ -121,11 +121,6 @@
 
 
 <div alt="Next up" align="center">
-
-
-<a href="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71uTk3jzdoL._AC_UF1000,1000_QL80_.jpg" alt="Akira volume 3">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/71-vUN36BpL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71-vUN36BpL._AC_UF1000,1000_QL80_.jpg" alt="Akira volume 4">
@@ -137,6 +132,14 @@
 
 <a href="https://m.media-amazon.com/images/I/71yMgcRnZOL._SL1200_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71yMgcRnZOL._SL1200_.jpg" alt="Akira volume 6">
+</a>
+
+<a href="https://media.s-bol.com/72QY0gkKknlQ/31ll60M/550x821.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/72QY0gkKknlQ/31ll60M/550x821.jpg" alt="Doom Patrol">
+</a>
+
+<a href="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" alt="The Invisibles">
 </a>
 
 
@@ -826,6 +829,11 @@
 <a href="https://m.media-amazon.com/images/I/81Cg1qj82jL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81Cg1qj82jL._SL1500_.jpg" alt="Transformers volume 2">
 </a>
+
+<a href="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/LWwRQD5KpQpp/OYLMB4R/841x1200.jpg" alt="Akira volume 2">
+</a>
+
 
 <a href="" class="thumbnail">
     <img src="" alt="">
