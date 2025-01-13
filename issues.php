@@ -92,7 +92,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>8 Januari</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>15 Januari</b></p>
 
 <div alt="This week" align="center">
 
@@ -121,7 +121,7 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>15 Januari</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>22 Januari</b></p>
 
 <div alt="next week" align="center">
 
