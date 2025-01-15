@@ -107,15 +107,13 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
-
+<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1">
+</a>
 
 <div alt="reading now" align="center">
 
 
-
-<a href="https://m.media-amazon.com/images/I/71yMgcRnZOL._SL1200_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71yMgcRnZOL._SL1200_.jpg" alt="Akira volume 6">
-</a>
 
 </div>
 
@@ -124,18 +122,32 @@
 
 <div alt="Next up" align="center">
 
-<a href="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" alt="Nights vol 2">
-</a>
 
-
-<a href="https://media.s-bol.com/72QY0gkKknlQ/31ll60M/550x821.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/72QY0gkKknlQ/31ll60M/550x821.jpg" alt="Doom Patrol">
-</a>
 
 <a href="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" class="thumbnail">
     <img src="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" alt="The Invisibles">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/71QytBIga-L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71QytBIga-L._AC_UF1000,1000_QL80_.jpg" alt="Annihilation">
+</a>
+
+<a href="https://www.akim.nl/Images/Dynamic/full/Stripshop.Album/702826/132520-annihilation-1-conquest-book-one.jpg" class="thumbnail">
+    <img src="https://www.akim.nl/Images/Dynamic/full/Stripshop.Album/702826/132520-annihilation-1-conquest-book-one.jpg" alt="Annihilation: Conquest">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81CoKGoLmIL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81CoKGoLmIL._AC_UF894,1000_QL80_.jpg" alt="Jojolands">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" alt="Wicked + Divine">
+</a>
+
 
 
 </div>
@@ -147,9 +159,6 @@
 <div alt="January trades" align="center">
 
 
-<a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" class="thumbnail">
-    <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" alt="Nights vol 2">
-</a>
 
 
 
@@ -170,12 +179,6 @@
 
 
 </div>
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comics and trades finished in 2025</b></p>
-
-<div alt="Comics and trades finished in 2025" align="center">
 
 
 
@@ -848,6 +851,10 @@
     <img src="https://m.media-amazon.com/images/I/71yMgcRnZOL._SL1200_.jpg" alt="Akira volume 6">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" alt="Nights vol 2">
+</a>
+
 
 </div>
 
@@ -857,8 +864,13 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71SKqtvjBAL._AC_UF1000,1000_QL80_.jpg" alt="Akira">
+<a href="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" alt="Nights vol 2">
+</a>
+
+
+<a href="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" alt="The Invisibles">
 </a>
 
 
