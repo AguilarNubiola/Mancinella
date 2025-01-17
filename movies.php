@@ -37,7 +37,9 @@
 
 <div alt="Current marks" align="center">
 
-
+<a href="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" class="thumbnail">
+    <img src="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" alt="Gladiator II">
+</a>
 
 </div>
 

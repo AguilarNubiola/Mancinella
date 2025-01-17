@@ -97,6 +97,10 @@
     <img src="https://playsense.nl/wp-content/uploads/2023/06/the-outer-worlds-2-pc-game-cover.jpg" alt="Outer Worlds 2.">
 </a>
 
+<a href="https://blog.playstation.com/tachyon/2024/09/f7baf6d0e047d9a9ca2e7b85241b233195041daa.jpg" class="thumbnail">
+    <img src="https://blog.playstation.com/tachyon/2024/09/f7baf6d0e047d9a9ca2e7b85241b233195041daa.jpg" alt="Ghost of Yotei">
+</a>
+
 
 
 

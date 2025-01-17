@@ -41,8 +41,8 @@
 
 <div alt="The enemies" align="center">
 
-<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
-    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
+<a href="https://miro.medium.com/v2/resize:fit:1000/0*SKEzFz55Dcg7aDwz" class="thumbnail">
+    <img src="https://miro.medium.com/v2/resize:fit:1000/0*SKEzFz55Dcg7aDwz" alt="Atelophobia">
 </a>
 
 <a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
@@ -70,8 +70,8 @@
 </a>
 
 
-<a href="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" class="thumbnail">
-    <img src="https://bebconsultancy.co.uk/wp-content/uploads/2017/11/contractandpen.jpg" alt="Contract">
+<a href="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" alt="Self-reliance">
 </a>
 
 </div>
@@ -107,11 +107,14 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
-<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1">
-</a>
+
 
 <div alt="reading now" align="center">
+
+
+<a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
+</a>
 
 
 
@@ -124,29 +127,8 @@
 
 
 
-<a href="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" alt="The Invisibles">
-</a>
 
-<a href="https://m.media-amazon.com/images/I/71QytBIga-L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71QytBIga-L._AC_UF1000,1000_QL80_.jpg" alt="Annihilation">
-</a>
 
-<a href="https://www.akim.nl/Images/Dynamic/full/Stripshop.Album/702826/132520-annihilation-1-conquest-book-one.jpg" class="thumbnail">
-    <img src="https://www.akim.nl/Images/Dynamic/full/Stripshop.Album/702826/132520-annihilation-1-conquest-book-one.jpg" alt="Annihilation: Conquest">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81CoKGoLmIL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81CoKGoLmIL._AC_UF894,1000_QL80_.jpg" alt="Jojolands">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" alt="Wicked + Divine">
-</a>
 
 
 
@@ -855,6 +837,13 @@
     <img src="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" alt="Nights vol 2">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" alt="Wicked + Divine">
+</a>
 
 </div>
 
@@ -864,14 +853,7 @@
 
 <div alt="Trades to read" align="center">
 
-<a href="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" alt="Nights vol 2">
-</a>
 
-
-<a href="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/gE4m46kmBj7k/0R0mN95/770x1200.jpg" alt="The Invisibles">
-</a>
 
 
 </div>
