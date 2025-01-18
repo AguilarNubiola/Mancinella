@@ -37,9 +37,6 @@
 
 <div alt="Current marks" align="center">
 
-<a href="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" class="thumbnail">
-    <img src="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" alt="Gladiator II">
-</a>
 
 </div>
 
@@ -313,6 +310,10 @@
 
 <a href="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" class="thumbnail">
     <img src="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" alt="Anora">
+</a>
+
+<a href="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" class="thumbnail">
+    <img src="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" alt="Gladiator II">
 </a>
 
 </div>
