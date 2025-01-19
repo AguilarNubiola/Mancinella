@@ -71,6 +71,14 @@
     <img src="https://m.media-amazon.com/images/M/MV5BNjI5ZmZkNDktZDliMS00ZjlmLWE2MTUtMWVlZjU2YWQ3ZDYxXkEyXkFqcGc@._V1_.jpg" alt="Fallout season 1">
 </a>
 
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" alt="Castlevania Nocturne season 2">
+</a>
+
+<a href="https://www.slashfilm.com/img/gallery/only-two-actors-from-the-first-gladiator-return-for-the-sequel/intro-1731618671.jpg" class="thumbnail">
+    <img src="https://www.slashfilm.com/img/gallery/only-two-actors-from-the-first-gladiator-return-for-the-sequel/intro-1731618671.jpg" alt="Gladiator II">
+</a>
+
 
 </div>
 
@@ -150,10 +158,6 @@
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Tv seasons coming in 2025</h3>
 
 <div alt="2025 shows" align="center">
-
-<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" alt="Castlevania Nocturne">
-</a>
 
 <a href="https://pyxis.nymag.com/v1/imgs/264/0aa/47e0d00b757c472bef81f63d6a2e0b2d20-COB-Unit-01534R.rsquare.w400.jpg" class="thumbnail">
     <img src="https://pyxis.nymag.com/v1/imgs/264/0aa/47e0d00b757c472bef81f63d6a2e0b2d20-COB-Unit-01534R.rsquare.w400.jpg" alt="Cobra kai finale. 13th of February.">
@@ -312,10 +316,6 @@
     <img src="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" alt="Anora">
 </a>
 
-<a href="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" class="thumbnail">
-    <img src="https://cdn.sortiraparis.com/images/80/69688/1094465-gladiator-2-paul-mescal-est-lucius.jpg" alt="Gladiator II">
-</a>
-
 </div>
 
 
@@ -330,11 +330,6 @@
 <a href="https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt="She-Ra Princesses of Power">
     <img src="https://assets.teenvogue.com/photos/5b96594d8456e12b6d72a624/16:9/w_2560%2Cc_limit/she-ra-lede.jpg" alt="She-ra">
-</a>
-
-
-<a href="https://sm.ign.com/ign_nl/news/t/the-legend/the-legend-of-vox-machina-renewed-for-season-three_es6b.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/ign_nl/news/t/the-legend/the-legend-of-vox-machina-renewed-for-season-three_es6b.jpg" alt="Vox Machina">
 </a>
 
 
@@ -399,7 +394,7 @@
 
 </div>
 
-<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Content creator Mount Rushmore</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Content creators</h3>
 
 <div class="Content creator Rushmore" align="center">
 

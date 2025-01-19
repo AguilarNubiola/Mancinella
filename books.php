@@ -17,7 +17,6 @@
 <body>
 
 
-
 <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
@@ -27,6 +26,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
 <h1 align="center" class="The symbol">
@@ -62,15 +62,11 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" alt="Assassinorum: Kingmaker">
+    <a href="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" class="thumbnail">
+        <img src="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" alt="Heavenly Tyrant">
     </a>
 
-    
-
-    
-
-    
+      
 
 
 
@@ -81,11 +77,31 @@
 
 <div alt="Next up" align="center">
 
-     <a href="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" class="thumbnail">
-        <img src="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" alt="Heavenly Tyrant">
+
+    <a href="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" alt="Assassinorum: Kingmaker">
     </a>
 
 
+
+    <a href="https://m.media-amazon.com/images/I/71On1Jf2LoL._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71On1Jf2LoL._UF1000,1000_QL80_.jpg" alt="Leman Russ">
+    </a>
+
+    <a href="https://media.s-bol.com/JZD30w0JMRgo/550x778.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/JZD30w0JMRgo/550x778.jpg" alt="Integraal Wiskunde">
+    </a>
+
+
+
+
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Finished in 2025</b></p>
+
+<div alt="finished books 2025" align="center">
 
 
 
@@ -94,8 +110,11 @@
 
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Finished in 2024</b></p>
 
-<div alt="finished books" align="center">
+
+
+<div alt="finished books 2024" align="center">
     <a href="https://m.media-amazon.com/images/I/81uuRYwTwbL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81uuRYwTwbL._AC_UF894,1000_QL80_.jpg" alt="Unconquerable Sun"/>
     </a>

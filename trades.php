@@ -150,6 +150,10 @@
 
 <div alt="February trades" align="center">
 
+<a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
+</a>
+
 
 <a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2">
@@ -158,6 +162,47 @@
 <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
     <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2">
 </a>
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March trades</b></p>
+
+
+<div alt="March trades" align="center">
+
+<a href="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" alt="Uncanny X-Men vol 2">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" alt="Storm vol 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" alt="Steel Ball Run">
+</a>
+
+<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
+    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+</a>
+
+<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
+    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+</a>
+
+<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
+    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+</a>
+
+<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
+    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+</a>
+
+<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
+    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+</a>
+
 
 
 </div>
@@ -843,6 +888,10 @@
 
 <a href="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" alt="Wicked + Divine">
+</a>
+
+<a href="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?width=640&crop=smart&auto=webp&s=06d7cbd20c85d326b42828ac3b6ee362ce892ef3" class="thumbnail">
+    <img src="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?width=640&crop=smart&auto=webp&s=06d7cbd20c85d326b42828ac3b6ee362ce892ef3" alt="Jojolands 1-22">
 </a>
 
 </div>
