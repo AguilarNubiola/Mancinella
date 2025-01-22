@@ -23,13 +23,10 @@
 <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
-<a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
 <a href="http://localhost/arakko/albums.php">Albums</a>
-<a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Current marks</b></p>
@@ -37,6 +34,13 @@
 
 <div alt="Current marks" align="center">
 
+<a href="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" alt="In Our Prime">
+</a>
+
+<a href="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" class="thumbnail">
+    <img src="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" alt="Shogun">
+</a>
 
 </div>
 
@@ -79,6 +83,9 @@
     <img src="https://www.slashfilm.com/img/gallery/only-two-actors-from-the-first-gladiator-return-for-the-sequel/intro-1731618671.jpg" alt="Gladiator II">
 </a>
 
+<a href="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" class="thumbnail">
+    <img src="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" alt="Back in Action">
+</a>
 
 </div>
 

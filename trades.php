@@ -22,38 +22,17 @@
 <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
-<a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
 <a href="http://localhost/arakko/albums.php">Albums</a>
-<a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
 <h1 align="center" class="symbol">
     <img src="https://m.media-amazon.com/images/I/71Yx20mxdyL.jpg" alt="Low">
 </h1>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
 
-
-
-<div alt="The enemies" align="center">
-
-<a href="https://miro.medium.com/v2/resize:fit:1000/0*SKEzFz55Dcg7aDwz" class="thumbnail">
-    <img src="https://miro.medium.com/v2/resize:fit:1000/0*SKEzFz55Dcg7aDwz" alt="Atelophobia">
-</a>
-
-<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
-    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
-</a>
-
-
-
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current and temporary interests</b></p>
 
@@ -76,34 +55,7 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Later interests</b></p>
 
-
-<div alt="Later interests" align="center">
-
-<a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-    <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde">
-</a>
-
-
-
-<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. Replacing contract.">
-</a>
-
-<a href="https://www.examenoverzicht.nl/media/wysiwyg/Wiskunde/De_illustratie_van_de_integraal.jpg" class="thumbnail">
-    <img src="https://www.examenoverzicht.nl/media/wysiwyg/Wiskunde/De_illustratie_van_de_integraal.jpg" alt="Integraal. Replacing Basiskennis Wiskunde.">
-</a>
-
-<a href="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/99da469fd8b58906dec46d6b29c47bf333ae3b30ef54cf41.jpg" class="thumbnail">
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/99da469fd8b58906dec46d6b29c47bf333ae3b30ef54cf41.jpg" alt="Baldur's Gate 3. Replacing Hades 2.">
-</a>
-
-<a href="https://i.ytimg.com/vi/CxGSnA-RTsA/maxresdefault.jpg" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/CxGSnA-RTsA/maxresdefault.jpg" alt="Computer science. Replacing integraal wiskunde">
-</a>
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
@@ -153,7 +105,6 @@
 <a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
 </a>
-
 
 <a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2">

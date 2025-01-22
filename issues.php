@@ -21,30 +21,12 @@
 <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
-<a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
 <a href="http://localhost/arakko/albums.php">Albums</a>
-<a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
-<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
-<div alt="The enemies" align="center">
-
-<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
-    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
-</a>
-
-<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
-    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
-</a>
-
-
-
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:40px"><b>The four habits</b></p>
 
@@ -59,8 +41,8 @@
     <img src="https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg" alt="Math">
    </a>
 
-   <a href="https://www.starkcloud.com/hubfs/Futuro%20del%20Desarrollo%20de%20Software.webp" class="thumbnail">
-    <img src="https://www.starkcloud.com/hubfs/Futuro%20del%20Desarrollo%20de%20Software.webp" alt="Development">
+   <a href="https://ncube.com/wp-content/uploads/2020/02/Top-8-Software-Development-Models.jpg" class="thumbnail">
+    <img src="https://ncube.com/wp-content/uploads/2020/02/Top-8-Software-Development-Models.jpg" alt="Development">
    </a>
 
    <a href="https://gurmentor.com/wp-content/uploads/2020/11/gurmentor.com-best-language-learning-methods-and-teaching-approaches-explained-2020-11-17_16-21-09_140956.png" class="thumbnail">
@@ -69,6 +51,9 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:40px"><b>Current big 4</b></p>
+
 
 <div alt="Current big 4" align="center">
 
@@ -92,64 +77,13 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>15 Januari</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>29 Januari</b></p>
 
 <div alt="This week" align="center">
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORM2024004_Cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORM2024004_Cov-scaled.jpg?ssl=1" alt="Storm #4. 15th of January.">
-</a>
-
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" alt="Nights #12. 15th of January.">
-</a>
-
-<a href="https://www.previewsworld.com/SiteImage/MainImage/STL349492.jpg" class="thumbnail">
-    <img src="https://www.previewsworld.com/SiteImage/MainImage/STL349492.jpg" alt="Ultimate Wolverine #1. 15th of January.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91VK1BoesPL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91VK1BoesPL._SL1500_.jpg" alt="Laura Kinney: Wolverine #2. 15th of January.">
-</a>
-
-
-<a href="https://freshcomics.s3.amazonaws.com/issue_covers/NOV247041.jpg" class="thumbnail">
-    <img src="https://freshcomics.s3.amazonaws.com/issue_covers/NOV247041.jpg" alt="Wonder Woman #17. 15th of January.">
-</a>
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>22 Januari</b></p>
-
-<div alt="next week" align="center">
-
-
 </a><a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" class="thumbnail">
-    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" alt="Ultimate Spider-Men #13. 22nd January">
+    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" alt="Ultimate Spider-Men #13. 22nd January. Wait.">
 </a>
-
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. 22 januari. CW">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024009_cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024009_cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #9. January 22nd">
-</a>
-
-
-</div>
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>January</b></p>
-
-
-<div alt="January books" align="center">
-
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/PSYLOCKE2024003_CarloPagulayanVar-min.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/PSYLOCKE2024003_CarloPagulayanVar-min.jpg?ssl=1" alt="Psylocke #3. 29th of January.">
@@ -167,10 +101,12 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORMLIFED2025001_Werneck-2-scaled.jpg?ssl=1" alt="Storm: Lifedream. 29th of January.">
 </a>
 
+
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
-<div alt="February issues" align="center">
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>5 February</b></p>
+
+<div alt="next week" align="center">
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" alt="Napalm Lullaby #9. 5th of February. CW">
@@ -187,6 +123,12 @@
 <a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" alt="Avengers #23. 5th of February.">
 </a>
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
+<div alt="February issues" align="center">
+
 
 <a href="https://previewsworld.com/SiteImage/MainImage/STL354705.jpg" class="thumbnail">
     <img src="https://previewsworld.com/SiteImage/MainImage/STL354705.jpg" alt="W0rldtr33 #14. 12th of February 2025">
@@ -515,6 +457,24 @@
          <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024008_cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #8. January 8th.">
     </a>
 
+    <a href="https://www.previewsworld.com/SiteImage/MainImage/STL349492.jpg" class="thumbnail">
+        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL349492.jpg" alt="Ultimate Wolverine #1. 15th of January.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORM2024004_Cov-scaled.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORM2024004_Cov-scaled.jpg?ssl=1" alt="Storm #4. 15th of January.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91VK1BoesPL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91VK1BoesPL._SL1500_.jpg" alt="Laura Kinney: Wolverine #2. 15th of January.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024009_cov-scaled.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/UNCX2024009_cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #9. January 22nd.">
+    </a>
+
+
+
 
 
 
@@ -648,6 +608,10 @@
 
     <a href="https://animesuperhero.com/wp-content/uploads/2024/10/Absolute-Batman-4-2.webp" class="thumbnail">
         <img src="https://animesuperhero.com/wp-content/uploads/2024/10/Absolute-Batman-4-2.webp" alt="Absolute Batman #4. January 8th">
+    </a>
+
+    <a href="https://freshcomics.s3.amazonaws.com/issue_covers/NOV247041.jpg" class="thumbnail">
+        <img src="https://freshcomics.s3.amazonaws.com/issue_covers/NOV247041.jpg" alt="Wonder Woman #17. 22nd of January. ">
     </a>
 
 
@@ -889,6 +853,18 @@
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" class="thumbnai">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1529238.jpg?1726851060" alt="Napalm Lullaby #8, 8th of January.">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1040629/nights-12_4ca1b1521e.jpg" alt="Nights #12. 15th of January.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61HtDFyJs0L._SL1076_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/61HtDFyJs0L._SL1076_.jpg" alt="The Moon is Following Us #5. 15th of January.">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. 22 januari. Wait.">
     </a>
 
 
