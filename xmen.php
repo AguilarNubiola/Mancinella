@@ -17,7 +17,7 @@
     </head>
 
     
-<div class="topnav" align="center">
+    <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
 <a href="http://localhost/arakko/skills.php">Skills</a>
@@ -26,6 +26,7 @@
 <a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/image.php">Image</a>
 </div>
 
 
@@ -75,15 +76,15 @@
             </a>
 
             <a href="https://the616comics.com/cdn/shop/products/image_1cae950e-08f5-4a67-8f54-d046a19a9589_1200x1200.jpg?v=1677679312" class="thumbnail">
-                <img src="https://the616comics.com/cdn/shop/products/image_1cae950e-08f5-4a67-8f54-d046a19a9589_1200x1200.jpg?v=1677679312" alt="Juggernaut now in the top 10">
+                <img src="https://the616comics.com/cdn/shop/products/image_1cae950e-08f5-4a67-8f54-d046a19a9589_1200x1200.jpg?v=1677679312" alt="Juggernaut">
             </a>
 
             <a href="https://64.media.tumblr.com/ef8eeeace24e93c38666f5fa38723e5e/6aee5a075e7f430b-72/s540x810/0790e64eafe3d1a89cafb34d9283e7e75fd87356.png" class="thumbnail">
-                <img src="https://64.media.tumblr.com/ef8eeeace24e93c38666f5fa38723e5e/6aee5a075e7f430b-72/s540x810/0790e64eafe3d1a89cafb34d9283e7e75fd87356.png" alt="Rogue now in the top 10">
+                <img src="https://64.media.tumblr.com/ef8eeeace24e93c38666f5fa38723e5e/6aee5a075e7f430b-72/s540x810/0790e64eafe3d1a89cafb34d9283e7e75fd87356.png" alt="Rogue">
             </a>
 
-            <a href="https://gentlemanvillian.wordpress.com/wp-content/uploads/2013/03/tumblr_lqm6fg8pel1qihd3b.jpg" class="thumbnail">
-                <img src="https://gentlemanvillian.wordpress.com/wp-content/uploads/2013/03/tumblr_lqm6fg8pel1qihd3b.jpg" alt="Sage now in the top 10">
+            <a href="https://davidnakayama.com/cdn/shop/files/PSYLOCKE2024001_DC30_b2a43e56-b228-483a-8ef9-f47da72c4819.jpg?v=1728076815" class="thumbnail">
+                <img src="https://davidnakayama.com/cdn/shop/files/PSYLOCKE2024001_DC30_b2a43e56-b228-483a-8ef9-f47da72c4819.jpg?v=1728076815" alt="Kwannon">
             </a>
 
         <h3 align="center" style="font-family:'Courier New'; color:white; font-size:30px">Top 20</h3>
@@ -118,8 +119,8 @@
                 <img src="https://i.pinimg.com/474x/76/1c/2d/761c2d9e2175aa1575edd6410eae63fb.jpg" alt="Sunspot">
             </a>
 
-            <a href="https://davidnakayama.com/cdn/shop/files/PSYLOCKE2024001_DC30_b2a43e56-b228-483a-8ef9-f47da72c4819.jpg?v=1728076815" class="thumbnail">
-                <img src="https://davidnakayama.com/cdn/shop/files/PSYLOCKE2024001_DC30_b2a43e56-b228-483a-8ef9-f47da72c4819.jpg?v=1728076815" alt="Kwannon">
+            <a href="https://gentlemanvillian.wordpress.com/wp-content/uploads/2013/03/tumblr_lqm6fg8pel1qihd3b.jpg" class="thumbnail">
+                <img src="https://gentlemanvillian.wordpress.com/wp-content/uploads/2013/03/tumblr_lqm6fg8pel1qihd3b.jpg" alt="Sage">
             </a>
 
             <a href="https://cdn.marvel.com/content/1x/myst2024001_cover.jpg" class="thumbnail">

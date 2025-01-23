@@ -114,6 +114,10 @@
     <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" alt="Steel Ball Run">
+</a>
+
 
 </div>
 
@@ -130,9 +134,6 @@
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" alt="Storm vol 1">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" alt="Steel Ball Run">
-</a>
 
 <a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
     <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
@@ -843,6 +844,10 @@
 
 <a href="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?width=640&crop=smart&auto=webp&s=06d7cbd20c85d326b42828ac3b6ee362ce892ef3" class="thumbnail">
     <img src="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?width=640&crop=smart&auto=webp&s=06d7cbd20c85d326b42828ac3b6ee362ce892ef3" alt="Jojolands 1-22">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91oSGO66KJL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91oSGO66KJL.jpg" alt="Wonder Woman: Year One">
 </a>
 
 </div>

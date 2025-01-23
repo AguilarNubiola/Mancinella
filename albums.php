@@ -2,7 +2,7 @@
     <head>
         <style>
             body {
-                background-image: url("https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/04/Dark-Phoenix-Saga-X-Men-space.jpg") ;
+                background-image: url("https://wbssmedia.com/artist_images/full_thumb/2027189930SARAHVAUGHANB1.jpg") ;
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-size: 100%;
@@ -21,18 +21,16 @@
 <div class="topnav" align="center">
 <a href="http://localhost/arakko">Games</a>
 <a href="http://localhost/arakko/books.php">Books</a>
-<a href="http://localhost/arakko/skills.php">Skills</a>
 <a href="http://localhost/arakko/movies.php">TV & movies</a>
 <a href="http://localhost/arakko/albums.php">Albums</a>
-<a href="http://localhost/arakko/xmen.php">X-Men</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
 </div>
 
 <div alt="Albums finished" align="center">
 
-<a href="https://audioxide.com/api/images/album-artwork/kings-disease-nas-medium-square.jpg" class="thumbnail">
-    <img src="https://audioxide.com/api/images/album-artwork/kings-disease-nas-medium-square.jpg" alt="King's Disease">
+<a href="https://images.squarespace-cdn.com/content/v1/53bad273e4b04332c190511a/1598564125726-56A4BEY8D0FPMQLNGP1Z/Nas+King%27s+Disease+album+review.jpg" class="thumbnail">
+    <img src="https://images.squarespace-cdn.com/content/v1/53bad273e4b04332c190511a/1598564125726-56A4BEY8D0FPMQLNGP1Z/Nas+King%27s+Disease+album+review.jpg" alt="King's Disease">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81SnS+LoVoL._UF1000,1000_QL80_.jpg" class="thumbnail">
@@ -132,6 +130,34 @@
 
 <a href="https://miro.medium.com/v2/resize:fit:1400/1*ZXLQ6Kuix4oeIaoZdRIa2g@2x.jpeg" class="thumbnail">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*ZXLQ6Kuix4oeIaoZdRIa2g@2x.jpeg" alt="Glorious">
+</a>
+
+<a href="https://www.kenworthy.org/wp-content/uploads/poster-40-scaled.jpg" class="thumbnail">
+    <img src="https://www.kenworthy.org/wp-content/uploads/poster-40-scaled.jpg" alt="Purple Rain">
+</a>
+
+<a href="https://assets.vogue.com/photos/5f5a3aa59217fa8911d09211/master/w_2560%2Cc_limit/unnamed%2520(3).jpg" class="thumbnail">
+    <img src="https://assets.vogue.com/photos/5f5a3aa59217fa8911d09211/master/w_2560%2Cc_limit/unnamed%2520(3).jpg" alt="Sign 'O' the Times">
+</a>
+
+<a href="https://discography-static.princeestate.com/storage/album/7/regular_cover-2aec6501b233ed8cb924a018e2548325.jpg" class="thumbnail">
+    <img src="https://discography-static.princeestate.com/storage/album/7/regular_cover-2aec6501b233ed8cb924a018e2548325.jpg" alt="around the day in a world">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
 </a>
 
 </div>
