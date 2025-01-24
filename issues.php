@@ -81,9 +81,6 @@
 
 <div alt="This week" align="center">
 
-</a><a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" class="thumbnail">
-    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTSM2024013_cover-1-scaled.jpg?resize=675%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" alt="Ultimate Spider-Men #13. 22nd January. Wait.">
-</a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/PSYLOCKE2024003_CarloPagulayanVar-min.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/PSYLOCKE2024003_CarloPagulayanVar-min.jpg?ssl=1" alt="Psylocke #3. 29th of January.">
@@ -97,10 +94,6 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTXM2024011_cover-1-scaled.jpg?ssl=1" alt="Ultimate X-Men #11. 29th of January." >
 </a>
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORMLIFED2025001_Werneck-2-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/STORMLIFED2025001_Werneck-2-scaled.jpg?ssl=1" alt="Storm: Lifedream. 29th of January.">
-</a>
-
 
 </div>
 
@@ -108,9 +101,6 @@
 
 <div alt="next week" align="center">
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1054934/_211c5b3e4f.jpg" alt="Napalm Lullaby #9. 5th of February. CW">
-</a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" alt="Kaya #25. 5th of February.">
@@ -144,10 +134,6 @@
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" alt="The Moon is following us #6. 12th of February 2025">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/MYST2024005_cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/MYST2024005_cov-scaled.jpg?ssl=1" alt="Mystique #5. 19th of February.">
 </a>
 
 

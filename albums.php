@@ -141,7 +141,31 @@
 </a>
 
 <a href="https://discography-static.princeestate.com/storage/album/7/regular_cover-2aec6501b233ed8cb924a018e2548325.jpg" class="thumbnail">
-    <img src="https://discography-static.princeestate.com/storage/album/7/regular_cover-2aec6501b233ed8cb924a018e2548325.jpg" alt="around the day in a world">
+    <img src="https://discography-static.princeestate.com/storage/album/7/regular_cover-2aec6501b233ed8cb924a018e2548325.jpg" alt="Around the day in a world">
+</a>
+
+<a href="https://media.s-bol.com/Yr80xBzxwkpO/WPL1PLg/550x550.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/Yr80xBzxwkpO/WPL1PLg/550x550.jpg" alt="Parade">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/2/2e/Prince_-_Dirty_Mind.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Prince_-_Dirty_Mind.jpg" alt="Dirty Mind">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="1999">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="The Gold Experience">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
 </a>
 
 <a href="" class="thumbnail">
