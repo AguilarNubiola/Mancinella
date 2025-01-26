@@ -92,19 +92,23 @@
 
 
 <a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2">
+    <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2. 26 Februari.">
 </a>
 
 <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
-    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2">
+    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1">
+    <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1. 19 Februari.">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4">
+    <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4. 5 Februari.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1. 19 Februari.">
 </a>
 
 
@@ -138,7 +142,7 @@
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1">
+    <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1. March 19.">
 </a>
 
 <a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
@@ -155,11 +159,11 @@
 <div alt="April trades" align="center">
 
 <a href="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" alt="Psylocke vol 1">
+    <img src="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" alt="Psylocke vol 1. 2 April.">
 </a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1.">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1. 23 April.">
 </a>
 
 </div>
@@ -834,9 +838,6 @@
     <img src="https://m.media-amazon.com/images/I/813XJ8GKDcL._SL1500_.jpg" alt="Nights vol 2">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91vCQYwh5rL._UF1000,1000_QL80_.jpg" alt="Wicked + Divine">
