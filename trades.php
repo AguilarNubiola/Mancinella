@@ -117,24 +117,28 @@
 <div alt="March trades" align="center">
 
 <a href="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" alt="Uncanny X-Men vol 2">
+    <img src="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" alt="Uncanny X-Men vol 2. March 26.">
 </a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" alt="Storm vol 1">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" alt="Storm vol 1. March 5.">
 </a>
 
 
 <a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
-    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19)">
+    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
 </a>
 
-<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
-    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" alt="Doll Parts: A Lovesick Tale. March 26.">
 </a>
 
-<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
-    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets vol 1. March 26.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1">
 </a>
 
 <a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
@@ -154,6 +158,9 @@
     <img src="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" alt="Psylocke vol 1">
 </a>
 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1.">
+</a>
 
 </div>
 
