@@ -39,19 +39,19 @@
 
 <div alt="Current and temporary interests" align="center">
 
-<a href="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" class="thumbnail">
-    <img src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" alt="Programming.">
-</a>
+  <a href="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" class="thumbnail">
+       <img src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" alt="Programming.">
+  </a>
 
 
-<a href="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" class="thumbnail">
-    <img src="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" alt="Espanol Colombiano">
-</a>
+  <a href="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" class="thumbnail">
+      <img src="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" alt="Espanol Colombiano">
+  </a>
 
 
-<a href="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" alt="Self-reliance">
-</a>
+  <a href="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" class="thumbnail">
+      <img src="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" alt="Self-reliance">
+  </a>
 
 </div>
 
@@ -64,10 +64,9 @@
 <div alt="reading now" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
+<a href="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" alt="Steel Ball Run">
 </a>
-
 
 
 </div>
@@ -83,28 +82,14 @@
 
 
 
-
 </div>
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>January trades</b></p>
-
-
-<div alt="January trades" align="center">
-
-
-
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
 
 <div alt="February trades" align="center">
 
-<a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
-</a>
 
 <a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2">
@@ -114,9 +99,14 @@
     <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" alt="Steel Ball Run">
+<a href="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4">
+</a>
+
 
 
 </div>
@@ -135,12 +125,8 @@
 </a>
 
 
-<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
-    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
-</a>
-
-<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
-    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
+<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
+    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19)">
 </a>
 
 <a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
@@ -159,7 +145,14 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April trades</b></p>
 
+
+<div alt="April trades" align="center">
+
+<a href="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" alt="Psylocke vol 1">
+</a>
 
 
 </div>
@@ -848,6 +841,10 @@
 
 <a href="https://m.media-amazon.com/images/I/91oSGO66KJL.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91oSGO66KJL.jpg" alt="Wonder Woman: Year One">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
 </a>
 
 </div>

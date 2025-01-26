@@ -114,6 +114,10 @@
     <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" alt="Avengers #23. 5th of February.">
 </a>
 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" alt="Birds of Prey #18">
+</a>
+
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
@@ -153,6 +157,10 @@
     <img src="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" alt="W0rldtr33 #13. 19th of February.">
 </a>
 
+<a href="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" class="thumbnail">
+    <img src="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" alt="Catwoman #73. 19th of February.">
+</a>
+
 <a href="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" alt="Tin Can Society #6. 25th of February.">
 </a>
@@ -180,16 +188,12 @@
 
 <div alt="March comics" align="center">
 
-<a href="https://i.imgur.com/WjCshcb.jpeg" class="thumbnail">
-    <img src="https://i.imgur.com/WjCshcb.jpeg" alt="Absolute Green Lantern">
-</a>
-
-<a href="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" class="thumbnail">
-    <img src="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" alt="Absolute Martian Manhunter">
-</a>
-
 <a href="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" class="thumbnail">
     <img src="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" alt="Ultimates #10. 5th of March 2025.">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" alt="Birds of Prey #19. 5th of March.">
 </a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/UNCX2024011_Cover_XMH1-scaled.jpg?ssl=1" class="thumbnail">
@@ -218,8 +222,13 @@
 </a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1058562/w0-rldtr33-14_229a1f835c.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1058562/w0-rldtr33-14_229a1f835c.jpg" alt="W0rldtr33 #14">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1058562/w0-rldtr33-14_229a1f835c.jpg" alt="W0rldtr33 #14. 19th of March.">
 </a>
+
+<a href="https://krscomics.com/cdn/shop/files/0125DC151-scaled.jpg?v=1737491681" class="thumbnail">
+    <img src="https://krscomics.com/cdn/shop/files/0125DC151-scaled.jpg?v=1737491681" alt="Catwoman #74. 19th of March.">
+</a>
+
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" alt="X-Manhunt Omega #1. 26th of March 2025. Pay.">
@@ -228,6 +237,118 @@
 <a href="https://cdn.marvel.com/content/1x/ultwolv2025003_cover.jpg" class="thumbnail">
     <img src="https://cdn.marvel.com/content/1x/ultwolv2025003_cover.jpg" alt="Ultimate Wolverine #3. 26th of March.">
 </a>
+
+<a href="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" class="thumbnail">
+    <img src="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" alt="Absolute Martian Manhunter. 26th of March 2025.">
+</a>
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April book</b></p>
+
+
+<div alt="April books" align="center">
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" alt="Avengers #25">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" alt="Ultimates #11">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/UNCX2024013_Vecchio_var-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/UNCX2024013_Vecchio_var-scaled.jpg?ssl=1" alt="Uncanny X-Men #13">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024014_woo-chul-lee.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024014_woo-chul-lee.jpg?ssl=1" alt="X-Men #14">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" alt="X-Men #15">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTXM2024014_Cover.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTXM2024014_Cover.jpg?ssl=1" alt="Ultimate X-Men #14">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/STORM2024007_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/STORM2024007_Cov-scaled.jpg?ssl=1" alt="Storm #7">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/PSYLOCKE2024006_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/PSYLOCKE2024006_Cov-scaled.jpg?ssl=1" alt="Psylocke #6">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" alt="Ultimate Wolverine #4">
+</a>
+
+<a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Birds-of-Prey-20-OTO-rian-gonzales-min.jpg?resize=684%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" class="thumbnail">
+    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Birds-of-Prey-20-OTO-rian-gonzales-min.jpg?resize=684%2C1024&ssl=1&ezimgfmt=ng:webp/ngcb4" alt="Birds of Prey #20">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1867994.jpg?1737758714" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1867994.jpg?1737758714" alt="Absolute Batman #7">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Superman-6-1-25-RODREIS-min.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Superman-6-1-25-RODREIS-min.jpg?ssl=1" alt="Absolute Superman #6">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" alt="Absolute Wonder Woman #7">
+</a>
+
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" alt="Absolute Martian Manhunter #2">
+</a>
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Green-Lantern-1-OTO-Juliet-Nneka-Variant.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Green-Lantern-1-OTO-Juliet-Nneka-Variant.jpg?ssl=1" alt="Absolute Green Lantern #1">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+
+
+
+
+
+
 
 
 </div>
