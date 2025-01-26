@@ -25,6 +25,7 @@
 <a href="http://localhost/arakko/albums.php">Albums</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/finished.php">Finished</a>
 </div>
 
 <div alt="Albums finished" align="center">
@@ -152,16 +153,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Prince_-_Dirty_Mind.jpg" alt="Dirty Mind">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="1999">
+<a href="https://upload.wikimedia.org/wikipedia/en/9/9c/Prince_-1999.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Prince_-1999.jpg" alt="1999">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="The Gold Experience">
+<a href="https://media.pitchfork.com/photos/63ff7c50e4f5dcfbc604fead/3:2/w_999,h_666,c_limit/Prince-%20The%20Gold%20Experience.jpeg" class="thumbnail">
+    <img src="https://media.pitchfork.com/photos/63ff7c50e4f5dcfbc604fead/3:2/w_999,h_666,c_limit/Prince-%20The%20Gold%20Experience.jpeg" alt="The Gold Experience">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://upload.wikimedia.org/wikipedia/en/9/94/Prince-Lovesexy.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/94/Prince-Lovesexy.jpg" alt="Lovesexy">
 </a>
 
 <a href="" class="thumbnail">

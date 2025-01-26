@@ -27,6 +27,7 @@
 <a href="http://localhost/arakko/albums.php">Albums</a>
 <a href="http://localhost/arakko/issues.php">Issues</a>
 <a href="http://localhost/arakko/trades.php">Trades</a>
+<a href="http://localhost/arakko/finished.php">Finished</a>
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Current marks</b></p>
