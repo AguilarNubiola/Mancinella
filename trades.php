@@ -74,11 +74,27 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
 
-
 <div alt="Next up" align="center">
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/12/She-Hulk-by-Rainbow-Rowell-Vol.-1-Jen-Again-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/12/She-Hulk-by-Rainbow-Rowell-Vol.-1-Jen-Again-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 1">
+</a>
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/She-Hulk-By-Rainbow-Rowell-Vol.-2-Jen-Of-Hearts-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/She-Hulk-By-Rainbow-Rowell-Vol.-2-Jen-Of-Hearts-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 2">
+</a>
 
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/11/She-Hulk-By-Rainbow-Rowell-Vol.-3-Girl-Cant-Help-It-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/11/She-Hulk-By-Rainbow-Rowell-Vol.-3-Girl-Cant-Help-It-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 3">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/05/She-Hulk-by-Rainbow-Rowell-Vol.-4-Jen-Sational-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/05/She-Hulk-by-Rainbow-Rowell-Vol.-4-Jen-Sational-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 4">
+</a>
+
+<a href="https://i0.wp.com/getcomics.org/share/uploads/2025/01/She-Hulk-by-Rainbow-Rowell-Vol.-5-All-In-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/01/She-Hulk-by-Rainbow-Rowell-Vol.-5-All-In-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 5">
+</a>
 
 
 
