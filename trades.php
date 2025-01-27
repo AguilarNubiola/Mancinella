@@ -29,32 +29,7 @@
    <a href="http://localhost/arakko/finished.php">Finished</a>
 </div>
 
-<h1 align="center" class="symbol">
-    <img src="https://m.media-amazon.com/images/I/71Yx20mxdyL.jpg" alt="Low">
-</h1>
 
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current and temporary interests</b></p>
-
-
-<div alt="Current and temporary interests" align="center">
-
-  <a href="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" class="thumbnail">
-       <img src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/2024-09/programming-languages.jpg" alt="Programming.">
-  </a>
-
-
-  <a href="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" class="thumbnail">
-      <img src="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" alt="Espanol Colombiano">
-  </a>
-
-
-  <a href="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" class="thumbnail">
-      <img src="https://i0.wp.com/dariusforoux.com/wp-content/uploads/2016/10/1vNhGejxFAf6tPEdOqtOJ1Q.png?fit=2000%2C1500&ssl=1" alt="Self-reliance">
-  </a>
-
-</div>
 
 
 
@@ -75,26 +50,6 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
 
 <div alt="Next up" align="center">
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/12/She-Hulk-by-Rainbow-Rowell-Vol.-1-Jen-Again-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/12/She-Hulk-by-Rainbow-Rowell-Vol.-1-Jen-Again-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 1">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/09/She-Hulk-By-Rainbow-Rowell-Vol.-2-Jen-Of-Hearts-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/09/She-Hulk-By-Rainbow-Rowell-Vol.-2-Jen-Of-Hearts-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 2">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2023/11/She-Hulk-By-Rainbow-Rowell-Vol.-3-Girl-Cant-Help-It-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/11/She-Hulk-By-Rainbow-Rowell-Vol.-3-Girl-Cant-Help-It-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 3">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2024/05/She-Hulk-by-Rainbow-Rowell-Vol.-4-Jen-Sational-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/05/She-Hulk-by-Rainbow-Rowell-Vol.-4-Jen-Sational-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 4">
-</a>
-
-<a href="https://i0.wp.com/getcomics.org/share/uploads/2025/01/She-Hulk-by-Rainbow-Rowell-Vol.-5-All-In-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/01/She-Hulk-by-Rainbow-Rowell-Vol.-5-All-In-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="She-Hulk by Rainbow Rowell vol 5">
-</a>
 
 
 
@@ -128,6 +83,10 @@
     <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1. 19 Februari.">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" alt="Storm vol 1. February 19.">
+</a>
+
 
 
 </div>
@@ -140,11 +99,6 @@
 <a href="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" alt="Uncanny X-Men vol 2. March 26.">
 </a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8790387.jpg" alt="Storm vol 1. March 5.">
-</a>
-
 
 <a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
     <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
@@ -160,10 +114,6 @@
 
 <a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1. March 19.">
-</a>
-
-<a href="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" class="thumbnail">
-    <img src="https://insidepulse.com/wp-content/uploads/2022/07/Immortal-X-Men-logo-blue.png" alt="">
 </a>
 
 
@@ -192,19 +142,23 @@
 
 
 
-<div alt="Ongoing series" align="center">
+<div alt="Ongoing mangas" align="center">
 
-<a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan">
-</a>
+   <a href="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+      <img src="https://m.media-amazon.com/images/I/91aOHjMxJML._AC_UF894,1000_QL80_.jpg" alt="Dandadan">
+   </a>
 
-<a href="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" class="thumbnail">
-    <img src="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" alt="Tank Chair">
-</a>
+   <a href="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" class="thumbnail">
+      <img src="https://mangadex.org/covers/bb1f528f-de51-4b58-9878-c7ab55dd73c0/d6b308e6-8d7f-46a1-a607-6867d1e6963b.jpg" alt="Tank Chair">
+   </a>
 
-<a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk">
-</a>
+   <a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
+      <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk">
+   </a>
+
+   <a href="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?auto=webp&s=75809dbc4d006991a04f286a47fd35a915a9cbb0" class="thumbnail">
+      <img src="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?auto=webp&s=75809dbc4d006991a04f286a47fd35a915a9cbb0" alt="Jojolands">
+   </a>
 
 
 </div>

@@ -257,11 +257,17 @@
 
 
 
-
-
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Non-X Marvel titles</b></p>
 
@@ -315,6 +321,24 @@
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>DC Comics</b></p>
 
@@ -396,10 +420,42 @@
         <img src="https://freshcomics.s3.amazonaws.com/issue_covers/NOV247041.jpg" alt="Wonder Woman #17. 22nd of January. ">
     </a>
 
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Catwoman-69-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Catwoman-69-2024.jpg?fit=400%2C615&ssl=1" alt="Catwoman #69">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Catwoman-70-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Catwoman-70-2024.jpg?fit=400%2C615&ssl=1" alt="Catwoman #70">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/12/Catwoman-71-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/12/Catwoman-71-2024.jpg?fit=400%2C615&ssl=1" alt="Catwoman #71">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Catwoman-72-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Catwoman-72-2025.jpg?fit=400%2C615&ssl=1" alt="Catwoman #72">
+    </a>
+
 
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Image Comics</b></p>
 
@@ -649,9 +705,36 @@
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. 22 januari. ">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81QqUi6xXHL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81QqUi6xXHL._SL1500_.jpg" alt="Arcbound #1">
+    </a>
+
+
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color: red; font-size:30px"><b>The rest</b></p>
 
@@ -709,9 +792,37 @@
         <img src="https://m.media-amazon.com/images/I/91-5yoH4sCL._SL1500_.jpg" alt="Big Tiddie Goth Girlfriends on the Moon #4">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81tYII966HL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81tYII966HL._SL1500_.jpg" alt="Arcbound #2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/814TjDryqpL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/814TjDryqpL._SL1500_.jpg" alt="Arcbound #3">
+    </a>
+
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Trades</b></p>
 
@@ -814,11 +925,43 @@
 </a>
 
 
-
-
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Comics and trades finished in 2024</b></p>
