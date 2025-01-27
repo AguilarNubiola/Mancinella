@@ -70,7 +70,9 @@
 
 <div alt="current game" align="center">
 
-
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3. February.">
+</a>
 
  
 </div>
@@ -79,9 +81,6 @@
 
 <div alt="2025 games" align="center">
 
-<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3. February.">
-</a>
 
 <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
     <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. February.">
