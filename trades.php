@@ -68,20 +68,12 @@
 <div alt="February trades" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2. 26 Februari.">
-</a>
-
-<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
-    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
+<a href="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4. 5 Februari.">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1. 19 Februari.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4. 5 Februari.">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
@@ -90,6 +82,15 @@
 
 <a href="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" alt="Storm vol 1. February 19.">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2. 26 Februari.">
+</a>
+
+<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
+    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
 </a>
 
 
@@ -109,12 +110,18 @@
 
 <div alt="March trades" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" alt="Uncanny X-Men vol 2. March 26.">
-</a>
 
 <a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
     <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1. March 19.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" alt="Uncanny X-Men vol 2. March 26.">
 </a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" class="thumbnail">
@@ -124,12 +131,6 @@
 <a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets vol 1. March 26.">
 </a>
-
-<a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1. March 19.">
-</a>
-
-
 
 </div>
 
