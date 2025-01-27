@@ -793,6 +793,31 @@
     <img src="https://m.media-amazon.com/images/I/917HRk8vysL._AC_UF894,1000_QL80_.jpg" alt="Jojolion">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/91hHnxytptL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91hHnxytptL._SL1500_.jpg" alt="She-Hulk by Rainbow Rowell Vol. 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91Q3hgiTjcL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91Q3hgiTjcL._SL1500_.jpg" alt="She-Hulk by Rainbow Rowell Vol. 2">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81cCpXOfdRL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81cCpXOfdRL._SL1500_.jpg" alt="She-Hulk by Rainbow Rowell Vol. 3">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81gf2pZOn0L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81gf2pZOn0L._SL1500_.jpg" alt="She-Hulk by Rainbow Rowell Vol. 4">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81ixZCFLp9L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81ixZCFLp9L._SL1500_.jpg" alt="She-Hulk by Rainbow Rowell Vol. 5">
+</a>
+
+
+
+
+
+
 </div>
 
 
