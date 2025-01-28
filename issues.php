@@ -29,29 +29,7 @@
 </div>
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:40px"><b>The four habits</b></p>
 
-<div alt="" align="center">
-
-   <a href="https://burnabyphysiocare.com/wp-content/uploads/2021/01/Why-See-a-Physiotherapist-Before-Going-to-the-Gym-1-1.jpg" class="thumbnail">
-    <img src="https://burnabyphysiocare.com/wp-content/uploads/2021/01/Why-See-a-Physiotherapist-Before-Going-to-the-Gym-1-1.jpg" alt="Working out">
-   </a>
-
-   
-   <a href="https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg" class="thumbnail">
-    <img src="https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg" alt="Math">
-   </a>
-
-   <a href="https://ncube.com/wp-content/uploads/2020/02/Top-8-Software-Development-Models.jpg" class="thumbnail">
-    <img src="https://ncube.com/wp-content/uploads/2020/02/Top-8-Software-Development-Models.jpg" alt="Development">
-   </a>
-
-   <a href="https://gurmentor.com/wp-content/uploads/2020/11/gurmentor.com-best-language-learning-methods-and-teaching-approaches-explained-2020-11-17_16-21-09_140956.png" class="thumbnail">
-    <img src="https://gurmentor.com/wp-content/uploads/2020/11/gurmentor.com-best-language-learning-methods-and-teaching-approaches-explained-2020-11-17_16-21-09_140956.png" alt="Language-learning">
-   </a>
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:40px"><b>Current big 4</b></p>
 
@@ -76,32 +54,9 @@
 
 </div>
 
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>29 Januari</b></p>
-
-<div alt="This week" align="center">
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/PSYLOCKE2024003_CarloPagulayanVar-min.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/PSYLOCKE2024003_CarloPagulayanVar-min.jpg?ssl=1" alt="Psylocke #3. 29th of January.">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/XMEN2024010_Leirix_MagikVar.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/XMEN2024010_Leirix_MagikVar.jpg?ssl=1" alt="X-Men #10. 29th of January.">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTXM2024011_cover-1-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTXM2024011_cover-1-scaled.jpg?ssl=1" alt="Ultimate X-Men #11. 29th of January." >
-</a>
-
-
-</div>
-
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>5 February</b></p>
 
 <div alt="next week" align="center">
-
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" alt="Kaya #25. 5th of February.">
@@ -121,13 +76,12 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
-<div alt="February issues" align="center">
 
 
-<a href="https://previewsworld.com/SiteImage/MainImage/STL354705.jpg" class="thumbnail">
-    <img src="https://previewsworld.com/SiteImage/MainImage/STL354705.jpg" alt="W0rldtr33 #14. 12th of February 2025">
-</a>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>12 February</b></p>
+
+<div alt="next week" align="center">
+
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" alt="Psylocke #4. 12th of February.">
@@ -140,6 +94,11 @@
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" alt="The Moon is following us #6. 12th of February 2025">
 </a>
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
+<div alt="February issues" align="center">
 
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" class="thumbnail">
