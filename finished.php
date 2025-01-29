@@ -937,6 +937,10 @@
     <img src="https://m.media-amazon.com/images/I/81ixZCFLp9L._SL1500_.jpg" alt="She-Hulk by Rainbow Rowell Vol. 5">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" alt="Steel Ball Run">
+</a>
+
 
 </div>
 
