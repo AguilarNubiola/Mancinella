@@ -35,10 +35,6 @@
 
 <div alt="Current marks" align="center">
 
-<a href="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" alt="In Our Prime">
-</a>
-
 <a href="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" class="thumbnail">
     <img src="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" alt="Shogun">
 </a>
@@ -88,7 +84,27 @@
     <img src="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" alt="Back in Action">
 </a>
 
+<a href="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" alt="In Our Prime">
+</a>
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next marks</b></p>
 
@@ -100,6 +116,23 @@
 </a>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show of 2024</h3>
 
@@ -117,6 +150,20 @@
 
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show of 2025 so far</h3>
 
 <div alt="Best movie and tv show so far" align="center">
@@ -130,6 +177,24 @@
 </a>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movies coming in 2025</h3>
@@ -163,6 +228,17 @@
 
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Tv seasons coming in 2025</h3>
 
 <div alt="2025 shows" align="center">
@@ -177,6 +253,20 @@
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2024</h3>
@@ -328,9 +418,17 @@
 
 
 
-<div class="backburner" align="center">
 
-</div>
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px;">TV show backlog</h3>
 <div class="tv shows" align="center">
@@ -346,6 +444,24 @@
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px;">Movie backlog</h3>
 <div class="movies" align="center">
 
@@ -354,6 +470,29 @@
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movie Mount Rushmore</h3>
 
@@ -380,6 +519,23 @@
 
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">TV Mount Rushmore</h3>
 
 <div class="TV Rushmore" align="center">
@@ -401,6 +557,25 @@
 </a>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Content creators</h3>
 
