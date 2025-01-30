@@ -40,10 +40,6 @@
 <div alt="reading now" align="center">
 
 
-<a href="https://media.s-bol.com/Zm2p08QvZqvE/0VKGvgy/790x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/Zm2p08QvZqvE/0VKGvgy/790x1200.jpg" alt="Fernando Dagnino's Smart Girl">
-</a>
-
 
 </div>
 
