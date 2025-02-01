@@ -35,9 +35,22 @@
 
 <div alt="Current marks" align="center">
 
-<a href="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" alt="Shogun">
-</a>
+    <a href="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" class="thumbnail">
+        <img src="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" alt="Shogun">
+    </a>
+
+    <a href="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" class="thumbnail">
+        <img src="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" alt="Cobra Kai">
+    </a>
+
+    <a href="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" class="thumbnail">
+        <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/M/MV5BN2FmMjdlMTUtZTVjMC00NGFhLTgxNWItYzQzMjQ2MjA3MjU3XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BN2FmMjdlMTUtZTVjMC00NGFhLTgxNWItYzQzMjQ2MjA3MjU3XkEyXkFqcGc@._V1_.jpg" alt="Little Forest">
+    </a>
+
 
 </div>
 

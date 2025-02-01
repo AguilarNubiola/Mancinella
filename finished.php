@@ -718,11 +718,6 @@
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. 22 januari. ">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81QqUi6xXHL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81QqUi6xXHL._SL1500_.jpg" alt="Arcbound #1">
-    </a>
-
-
 
 
 </div>
@@ -805,6 +800,10 @@
         <img src="https://m.media-amazon.com/images/I/91-5yoH4sCL._SL1500_.jpg" alt="Big Tiddie Goth Girlfriends on the Moon #4">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81QqUi6xXHL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81QqUi6xXHL._SL1500_.jpg" alt="Arcbound #1">
+    </a>
+
     <a href="https://m.media-amazon.com/images/I/81tYII966HL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81tYII966HL._SL1500_.jpg" alt="Arcbound #2">
     </a>
@@ -812,6 +811,16 @@
     <a href="https://m.media-amazon.com/images/I/814TjDryqpL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/814TjDryqpL._SL1500_.jpg" alt="Arcbound #3">
     </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Dark-Empty-Void-2-2024.jpg?fit=400%2C611&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/11/Dark-Empty-Void-2-2024.jpg?fit=400%2C611&ssl=1" alt="Dark Empty Void #2">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Dark-Empty-Void-3-2025.jpg?fit=400%2C611&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Dark-Empty-Void-3-2025.jpg?fit=400%2C611&ssl=1" alt="Dark Empty Void #3">
+    </a>
+
+
 
 
 
@@ -943,6 +952,10 @@
 
 <a href="https://media.s-bol.com/Zm2p08QvZqvE/0VKGvgy/790x1200.jpg" class="thumbnail">
     <img src="https://media.s-bol.com/Zm2p08QvZqvE/0VKGvgy/790x1200.jpg" alt="Fernando Dagnino's Smart Girl">
+</a>
+
+<a href="https://media.forbiddenplanet.com/products/diamond/STL353/STL353121.jpg" class="thumbnail">
+        <img src="https://media.forbiddenplanet.com/products/diamond/STL353/STL353121.jpg" alt="The Powerpuff Girls Vol. 1: The Day is Saved">
 </a>
 
 
