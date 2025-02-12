@@ -267,6 +267,18 @@
         <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTXM2024011_cover-1-scaled.jpg?ssl=1" alt="Ultimate X-Men #11. 29th of January." >
     </a>
 
+    <a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" class="thumbnail">
+         <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" alt="Avengers #23. 5th of February.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" alt="Psylocke #4. 12th of February.">
+    </a>
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7009759.jpg?1738980353" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7009759.jpg?1738980353" alt="Magik #2. 12th of February.">
+   </a>
+
 
 
 
@@ -330,6 +342,10 @@
     <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTMTS2024008_InHyukLeeVar-min.jpg?ssl=1" class="thumbnail">
          <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTMTS2024008_InHyukLeeVar-min.jpg?ssl=1" alt="Ultimates #8. January 1st 2025.">
     </a>
+
+    <a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" alt="Ultimates #9. 5th of February.">
+     </a>
 
 
 
@@ -447,6 +463,10 @@
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Catwoman-72-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Catwoman-72-2025.jpg?fit=400%2C615&ssl=1" alt="Catwoman #72">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" alt="Birds of Prey #18. 5th of February.">
     </a>
 
 
@@ -718,6 +738,14 @@
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1476115.jpg?1726840037" alt="W0rldtr33 #12. 22 januari. ">
     </a>
 
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" alt="Kaya #25. 5th of February.">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" alt="The Moon is following us #6. 12th of February 2025">
+    </a>
+
 
 
 </div>
@@ -956,6 +984,10 @@
 
 <a href="https://media.forbiddenplanet.com/products/diamond/STL353/STL353121.jpg" class="thumbnail">
         <img src="https://media.forbiddenplanet.com/products/diamond/STL353/STL353121.jpg" alt="The Powerpuff Girls Vol. 1: The Day is Saved">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4. 5 Februari.">
 </a>
 
 

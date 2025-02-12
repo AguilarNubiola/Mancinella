@@ -54,72 +54,46 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>5 February</b></p>
-
-<div alt="next week" align="center">
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1982462.jpg?1731710917" alt="Kaya #25. 5th of February.">
-</a>
-
-<a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" alt="Ultimates #9. 5th of February.">
-</a>
-
-<a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/AVEN2023023_cov.jpg?resize=768%2C1176&ssl=1" alt="Avengers #23. 5th of February.">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" alt="Birds of Prey #18. 5th of February.">
-</a>
-
-</div>
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>12 February</b></p>
-
-<div alt="next week" align="center">
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/PSYLOCKE2024004_cov-scaled.jpg?ssl=1" alt="Psylocke #4. 12th of February.">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" alt="X-Men #11. 12th of February.">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" alt="The Moon is following us #6. 12th of February 2025">
-</a>
-
-</div>
-
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
-<div alt="February issues" align="center">
 
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #10. 19th of February">
-</a>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>19 February</b></p>
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" alt="Ultimate Wolverine #2. 19th of February.">
-</a>
+<div alt="next week" align="center">
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" alt="Storm #5. 19th of February.">
-</a>
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #10. 19th of February">
+   </>
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" alt="W0rldtr33 #13. 19th of February.">
-</a>
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" alt="Ultimate Wolverine #2. 19th of February.">
+   </a>
 
-<a href="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" class="thumbnail">
-    <img src="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" alt="Catwoman #73. 19th of February.">
-</a>
+
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" alt="X-Men #11. 19th of February.">
+    </a>
+
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" alt="Storm #5. 19th of February.">
+   </a>
+
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" class="thumbnail">
+       <img src="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" alt="W0rldtr33 #13. 19th of February.">
+   </a>
+
+   <a href="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" class="thumbnail">
+       <img src="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" alt="Catwoman #73. 19th of February.">
+   </a>
+   
+
+</div>
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>26 February</b></p>
+
+<div alt="next week" align="center">
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" alt="Tin Can Society #6. 25th of February.">
@@ -142,7 +116,10 @@
     <img src="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" alt="Monstress #55, 26th of February">
 </a>
 
+
 </div>
+
+
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March</b></p>
 
@@ -462,6 +439,10 @@
 
 <a href="https://pbs.twimg.com/media/GfB8nBZWoAAU5c-?format=jpg&name=4096x4096" class="thumbnail">
     <img src="https://pbs.twimg.com/media/GfB8nBZWoAAU5c-?format=jpg&name=4096x4096" alt="Absolute Martian Manhunter">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman">
 </a>
 
 
