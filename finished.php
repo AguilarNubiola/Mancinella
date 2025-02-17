@@ -279,6 +279,10 @@
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7009759.jpg?1738980353" alt="Magik #2. 12th of February.">
    </a>
 
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" alt="X-Men #11. ">
+    </a>
+
 
 
 
@@ -1634,6 +1638,25 @@
 <a href="https://m.media-amazon.com/images/I/81x6H5hzxOL._UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81x6H5hzxOL._UF1000,1000_QL80_.jpg" alt="Ultimate Black Panther vol 1">
 </a>
+
+
+<a href="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" alt="Gun Honey: Heat Seeker">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/81CUK+gcNsL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81CUK+gcNsL.jpg" alt="Gun Honey">
+</a>
+
+<a href="https://www.g-mart.com/static/f228529.jpg" class="thumbnail">
+    <img src="https://www.g-mart.com/static/f228529.jpg" alt="Gun Honey: Blood for Blood">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="Gun Honey: Collision Course">
+</a>
+
 
 
 </div>
