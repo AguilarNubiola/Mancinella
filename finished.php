@@ -283,6 +283,18 @@
        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" alt="X-Men #11. ">
     </a>
 
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #10. 19th of February">
+   </>
+
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" alt="Ultimate Wolverine #2. 19th of February.">
+   </a>
+
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" class="thumbnail">
+       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" alt="Storm #5. 19th of February.">
+   </a>
+
 
 
 
@@ -472,6 +484,10 @@
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" class="thumbnail">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5837898.jpg?1736447971" alt="Birds of Prey #18. 5th of February.">
     </a>
+
+    <a href="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" class="thumbnail">
+       <img src="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" alt="Catwoman #73. 19th of February.">
+   </a>
 
 
 
@@ -749,6 +765,10 @@
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" class="thumbnail">
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" alt="The Moon is following us #6. 12th of February 2025">
     </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" class="thumbnail">
+       <img src="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" alt="W0rldtr33 #13. 19th of February.">
+   </a>
 
 
 
@@ -1639,6 +1659,10 @@
     <img src="https://m.media-amazon.com/images/I/81x6H5hzxOL._UF1000,1000_QL80_.jpg" alt="Ultimate Black Panther vol 1">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1. ">
+</a>
+
 
 <a href="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" alt="Gun Honey: Heat Seeker">
@@ -1653,9 +1677,18 @@
     <img src="https://www.g-mart.com/static/f228529.jpg" alt="Gun Honey: Blood for Blood">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="Gun Honey: Collision Course">
+<a href="https://m.media-amazon.com/images/I/81KyRIk8dnL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81KyRIk8dnL._UF1000,1000_QL80_.jpg" alt="Gun Honey: Collision Course">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" alt="Storm vol 1. February 19.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1. 19 Februari.">
+</a>
+
 
 
 

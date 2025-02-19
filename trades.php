@@ -59,26 +59,15 @@
 
 
 
+
+
+
+
+
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
 
 <div alt="February trades" align="center">
-
-
-<a href="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4. 5 Februari.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1. 19 Februari.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1. 19 Februari.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" alt="Storm vol 1. February 19.">
-</a>
 
 
 <a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
@@ -127,6 +116,10 @@
 <a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets vol 1. March 26.">
 </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman vol: Who is Selina Kyle?. March 19.">
+    </a>
 
 </div>
 

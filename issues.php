@@ -54,46 +54,11 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February</b></p>
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>19 February</b></p>
-
-<div alt="next week" align="center">
-
-   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #10. 19th of February">
-   </>
-
-   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" class="thumbnail">
-       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" alt="Ultimate Wolverine #2. 19th of February.">
-   </a>
-
-
-   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" class="thumbnail">
-       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024011_Cov-scaled.jpg?ssl=1" alt="X-Men #11. 19th of February.">
-    </a>
-
-   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" class="thumbnail">
-       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" alt="Storm #5. 19th of February.">
-   </a>
-
-   <a href="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" class="thumbnail">
-       <img src="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" alt="W0rldtr33 #13. 19th of February.">
-   </a>
-
-   <a href="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" class="thumbnail">
-       <img src="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" alt="Catwoman #73. 19th of February.">
-   </a>
-   
-
-</div>
-
-
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>26 February</b></p>
 
 <div alt="next week" align="center">
+
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" alt="Tin Can Society #6. 25th of February.">
@@ -114,6 +79,31 @@
 
 <a href="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" class="thumbnail">
     <img src="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" alt="Monstress #55, 26th of February">
+</a>
+   
+
+</div>
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March 5th</b></p>
+
+<div alt="next week" align="center">
+
+<a href="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" class="thumbnail">
+    <img src="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" alt="Ultimates #10. 5th of March 2025.">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" alt="Birds of Prey #19. 5th of March.">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/UNCX2024011_Cover_XMH1-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/UNCX2024011_Cover_XMH1-scaled.jpg?ssl=1" alt="Uncanny X-Men #11. 5th of March 2025. ">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/STORM2024006_Cover_XMH3-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/STORM2024006_Cover_XMH3-scaled.jpg?ssl=1" alt="Storm #6. 5th of March 2025. ">
 </a>
 
 
@@ -154,9 +144,6 @@
 </a>
 
 
-<a href="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" class="thumbnail">
-    <img src="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" alt="The City Beneath her Feet #2">
-</a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1058562/w0-rldtr33-14_229a1f835c.jpg" class="thumbnail">
     <img src="https://cdn.imagecomics.com/assets/i/releases/1058562/w0-rldtr33-14_229a1f835c.jpg" alt="W0rldtr33 #14. 19th of March.">
@@ -295,11 +282,89 @@
 
 
 
+</div>
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May</p>
+
+
+<div alt="" align="center">
+
+
+   <a href="https://i.imgur.com/yfqwoHN.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/yfqwoHN.jpeg" alt="Ultimate X-Men #15. 7th of May.">
+   </a>
+
+
+   <a href="https://i.imgur.com/OkoKG2V.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/OkoKG2V.jpeg" alt="Ultimate Wolverine #5. 7th of May.">
+   </a>
+
+
+   <a href="" class="thumbnail">
+        <img src="" alt="">
+   </a>
+
+
+   <a href="" class="thumbnail">
+        <img src="" alt="">
+   </a>
+
+
+   <a href="" class="thumbnail">
+        <img src="" alt="">
+   </a>
+
+
+   <a href="" class="thumbnail">
+        <img src="" alt="">
+   </a>
+
+
+   <a href="https://i.imgur.com/65MeEH8.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/65MeEH8.jpeg" alt="Ultimates #12. 21st of May.">
+   </a>
+
+
+
+
 
 
 
 
 </div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June</p>
+
+
+<div alt="June" align="center">
+
+
+<a href="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" class="thumbnail">
+    <img src="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" alt="The City Beneath her Feet #2">
+</a>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Favourite four so far</b></p>
@@ -361,9 +426,6 @@
     <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._AC_UF1000,1000_QL80_.jpg" alt="Avengers">
 </a>
 
-<a href="https://i1.whakoom.com/large/1c/09/007235b6472c48b882c995520612f3eb.jpg" class="thumbnail">
-    <img src="https://i1.whakoom.com/large/1c/09/007235b6472c48b882c995520612f3eb.jpg" alt="Laura Kinney: Wolverine">
-</a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTWOV2025001_Melnikov-scaled.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTWOV2025001_Melnikov-scaled.jpg?ssl=1" alt="Ultimate Wolverine">
@@ -371,6 +433,17 @@
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Image titles</b></p>
 
@@ -398,19 +471,22 @@
     <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534397743/nights-volume-1-9781534397743_hr.jpg" alt="Nights">
 </a>
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/1051980/doll-parts-a-lovesick-tale-1-of-4_8f6a893c5e.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1051980/doll-parts-a-lovesick-tale-1-of-4_8f6a893c5e.jpg" alt="Doll parts">
-</a>
-
-<a href="https://media.s-bol.com/GNJK3VWYK1ZK/R6jXYjK/546x840.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/GNJK3VWYK1ZK/R6jXYjK/546x840.jpg" alt="Tin Can Society">
-</a>
-
 <a href="https://bleedingcool.com/wp-content/uploads/2022/07/Kaya1-1200x900.jpeg" class="thumbnail">
     <img src="https://bleedingcool.com/wp-content/uploads/2022/07/Kaya1-1200x900.jpeg" alt="Kaya">
 </a>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>DC titles</b></p>
 
@@ -425,9 +501,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Absolute_Superman%2C_November_2024.webp" alt="Absolute Superman">
 </a>
 
-<a href="https://miro.medium.com/v2/resize:fit:1031/1*KpcmzkdswPGdPpp_TOc33A.jpeg" class="thumbnail">
-    <img src="https://miro.medium.com/v2/resize:fit:1031/1*KpcmzkdswPGdPpp_TOc33A.jpeg" alt="Absolute Batman">
-</a>
 
 <a href="https://commondatastorage.googleapis.com/images.pricecharting.com/f7o2q6pswmam53dy/1600.jpg" class="thumbnail">
     <img src="https://commondatastorage.googleapis.com/images.pricecharting.com/f7o2q6pswmam53dy/1600.jpg" alt="Absolute Wonder Woman">
@@ -448,112 +521,22 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Titles to follow</b></p>
-
-<div alt="Titles to follow" align="center">
-
-<a href="https://cdnb.artstation.com/p/assets/images/images/064/632/985/large/vincenzo-riccardi-w0rld-tr33-cover.jpg?1688402724" class="thumbnail">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/064/632/985/large/vincenzo-riccardi-w0rld-tr33-cover.jpg?1688402724" alt="W0rldtr33">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81bGs636lzL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81bGs636lzL._AC_UF894,1000_QL80_.jpg" alt="Monstress">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/893535/kaya-1_961b0bdf99.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/893535/kaya-1_961b0bdf99.jpg" alt="Kaya">
-</a>
-
-<a href="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" class="thumbnail">
-    <img src="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" alt="Nights">
-</a>
-
-<a href="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" class="thumbnail">
-    <img src="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" alt="The Moon is Following us">
-</a>
 
 
-<a href="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" alt="Rook: Exodus">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1051980/doll-parts-a-lovesick-tale-1-of-4_8f6a893c5e.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1051980/doll-parts-a-lovesick-tale-1-of-4_8f6a893c5e.jpg" alt="Doll parts">
-</a>
-
-<a href="https://media.s-bol.com/GNJK3VWYK1ZK/R6jXYjK/546x840.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/GNJK3VWYK1ZK/R6jXYjK/546x840.jpg" alt="Tin Can Society">
-</a>
 
 
-<a href="https://goldenapplecomics.com/cdn/shop/files/126189-hr.jpg?v=1722029047" class="thumbnail">
-    <img src="https://goldenapplecomics.com/cdn/shop/files/126189-hr.jpg?v=1722029047" alt="Uncanny X-Men">
-</a>
-
-<a href="https://cdn.powered-by-nitrosell.com/product_images/14/3286/large-DCDL325942.jpg" class="thumbnail">
-    <img src="https://cdn.powered-by-nitrosell.com/product_images/14/3286/large-DCDL325942.jpg" alt="X-Men">
-</a>
-
-<a href="https://goldenapplecomics.com/cdn/shop/products/STL308290.jpg?v=1703266146" class="thumbnail">
-    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620798500821.jpg?v=1722033774" alt="Ultimate X-Men">
-</a>
-
-<a href="https://i.redd.it/78atblhr15fd1.jpeg" class="thumbnail">
-    <img src="https://i.redd.it/78atblhr15fd1.jpeg" alt="Psylocke">
-</a>
 
 
-<a href="https://comicvine.gamespot.com/a/uploads/scale_small/11161/111612243/9363494-9126157633-GNuHsVVWkAALg7M.jpg" class="thumbnail">
-    <img src="https://comicvine.gamespot.com/a/uploads/scale_small/11161/111612243/9363494-9126157633-GNuHsVVWkAALg7M.jpg" alt="Storm">
-</a>
 
 
-<a href="https://pbs.twimg.com/media/GXR-7CxXEAAax8d?format=jpg&name=4096x4096" class="thumbnail">
-    <img src="https://pbs.twimg.com/media/GXR-7CxXEAAax8d?format=jpg&name=4096x4096" alt="Magik">
-</a>
-
-<a href="https://i1.whakoom.com/large/1c/09/007235b6472c48b882c995520612f3eb.jpg" class="thumbnail">
-    <img src="https://i1.whakoom.com/large/1c/09/007235b6472c48b882c995520612f3eb.jpg" alt="Laura Kinney: Wolverine">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTWOV2025001_Melnikov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/10/ULTWOV2025001_Melnikov-scaled.jpg?ssl=1" alt="Ultimate Wolverine">
-</a>
 
 
-<a href="https://comicsxf.com/wp-content/uploads/2024/05/AVEN2023017_cov-1.jpg" class="thumbnail">
-    <img src="https://comicsxf.com/wp-content/uploads/2024/05/AVEN2023017_cov-1.jpg" alt="Avengers">
-</a>
 
-<a href="https://m.media-amazon.com/images/I/71xjbS2VriL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71xjbS2VriL._UF1000,1000_QL80_.jpg" alt="Ultimates">
-</a>
 
-<a href="https://goldenapplecomics.com/cdn/shop/files/BOP_Cv8_00811.jpg?v=1709823899&width=1445" class="thumbnail">
-    <img src="https://goldenapplecomics.com/cdn/shop/files/BOP_Cv8_00811.jpg?v=1709823899&width=1445" alt="Birds of Prey">
-</a>
 
-<a href="https://upload.wikimedia.org/wikipedia/en/c/cb/Absolute_Superman%2C_November_2024.webp" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Absolute_Superman%2C_November_2024.webp" alt="Absolute Superman">
-</a>
 
-<a href="https://miro.medium.com/v2/resize:fit:1031/1*KpcmzkdswPGdPpp_TOc33A.jpeg" class="thumbnail">
-    <img src="https://miro.medium.com/v2/resize:fit:1031/1*KpcmzkdswPGdPpp_TOc33A.jpeg" alt="Absolute Batman">
-</a>
 
-<a href="https://commondatastorage.googleapis.com/images.pricecharting.com/f7o2q6pswmam53dy/1600.jpg" class="thumbnail">
-    <img src="https://commondatastorage.googleapis.com/images.pricecharting.com/f7o2q6pswmam53dy/1600.jpg" alt="Absolute Wonder Woman">
-</a>
 
-<a href="https://bleedingcool.com/wp-content/uploads/2024/07/absolute-green-lantern-a-2000x1125.jpg" class="thumbnail">
-    <img src="https://bleedingcool.com/wp-content/uploads/2024/07/absolute-green-lantern-a-2000x1125.jpg" alt="Absolute Green Lantern">
-</a>
-
-<a href="https://comicbookclublive.com/wp-content/uploads/2024/10/absolute-martian-manhunter-crop.jpg" class="thumbnail">
-    <img src="https://comicbookclublive.com/wp-content/uploads/2024/10/absolute-martian-manhunter-crop.jpg" alt="Absolute Martian Manhunter">
-</a>
-
-</div>
 
 <div alt="unknown date" align="center">
 
