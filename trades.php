@@ -41,6 +41,7 @@
 
 
 
+
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
@@ -121,6 +122,20 @@
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman vol: Who is Selina Kyle?. March 19.">
     </a>
 
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7409732.jpg?1737714383" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7409732.jpg?1737714383" alt="Psylocke vol 1">
+    </a>
+
+    <a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534333673/nullhunter-volume-1-9781534333673_hr.jpg" class="thumbnail">
+        <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534333673/nullhunter-volume-1-9781534333673_hr.jpg" alt="Nullhunter vol 1">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4773330.jpg?1737789582" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4773330.jpg?1737789582" alt="Wonder Woman vol 3. 26 maart">
+    </a>
+
+
+
 </div>
 
 
@@ -135,13 +150,19 @@
 
 <div alt="April trades" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81q+qFDTnPL._SL1500_.jpg" alt="Psylocke vol 1. 2 April.">
-</a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" alt="Absolute Superman vol 1. 2 April.">
+    </a>
+
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1. 23 April.">
 </a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 16 april.">
+    </a>
 
 </div>
 
