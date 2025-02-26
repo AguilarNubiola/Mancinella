@@ -35,7 +35,9 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
-
+<a href="https://m.media-amazon.com/images/I/91EeRS5kD2L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91EeRS5kD2L._SL1500_.jpg" alt="Scorched vol 1">
+</a>
 
 <div alt="reading now" align="center">
 
@@ -45,6 +47,23 @@
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
+
+<a href="https://m.media-amazon.com/images/I/91s3KZo8uSL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91s3KZo8uSL._SL1500_.jpg" alt="Scorched vol 2">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/81y1JCjrTGL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81y1JCjrTGL._SL1500_.jpg" alt="Scorched vol 3">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/611TSvZTl4L._SL1077_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/611TSvZTl4L._SL1077_.jpg" alt="Scorched vol 4">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71eiA3mgboL._SL1076_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71eiA3mgboL._SL1076_.jpg" alt="Scorched vol 5">
+</a>
 
 <div alt="Next up" align="center">
 
@@ -64,24 +83,6 @@
 
 
 
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
-
-<div alt="February trades" align="center">
-
-
-<a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2. 26 Februari.">
-</a>
-
-<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
-    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
-</a>
-
-
-
-</div>
 
 
 
@@ -119,7 +120,7 @@
 </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman vol: Who is Selina Kyle?. March 19.">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman vol 1: Who is Selina Kyle?. March 19.">
     </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7409732.jpg?1737714383" class="thumbnail">

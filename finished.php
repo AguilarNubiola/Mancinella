@@ -295,6 +295,14 @@
        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/STORM2024005_Cover-1-scaled.jpg?ssl=1" alt="Storm #5. 19th of February.">
    </a>
 
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024012_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/XMEN2024012_cov-scaled.jpg?ssl=1" alt="X-Men #12. 26th of February.">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTXM2024012_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTXM2024012_cov-scaled.jpg?ssl=1" alt="Ultimate X-Men #12. 26th of February.">
+</a>
+
 
 
 
@@ -770,6 +778,17 @@
        <img src="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" alt="W0rldtr33 #13. 19th of February.">
    </a>
 
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" alt="Nights #13, 26th of February">
+   </a>
+
+
+
+   <a href="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" class="thumbnail">
+    <img src="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" alt="Monstress #55, 26th of February">
+   </a>
+   
+
 
 
 </div>
@@ -1006,6 +1025,10 @@
     <img src="https://media.s-bol.com/Zm2p08QvZqvE/0VKGvgy/790x1200.jpg" alt="Fernando Dagnino's Smart Girl">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1. ">
+</a>
+
 <a href="https://media.forbiddenplanet.com/products/diamond/STL353/STL353121.jpg" class="thumbnail">
         <img src="https://media.forbiddenplanet.com/products/diamond/STL353/STL353121.jpg" alt="The Powerpuff Girls Vol. 1: The Day is Saved">
 </a>
@@ -1013,6 +1036,40 @@
 <a href="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81Ap1W1T0zL._SL1500_.jpg" alt="Avengers volume 4. 5 Februari.">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" alt="Gun Honey: Heat Seeker">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/81CUK+gcNsL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81CUK+gcNsL.jpg" alt="Gun Honey">
+</a>
+
+<a href="https://www.g-mart.com/static/f228529.jpg" class="thumbnail">
+    <img src="https://www.g-mart.com/static/f228529.jpg" alt="Gun Honey: Blood for Blood">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81KyRIk8dnL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81KyRIk8dnL._UF1000,1000_QL80_.jpg" alt="Gun Honey: Collision Course">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" alt="Storm vol 1. February 19.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1. 19 Februari.">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2. 26 Februari.">
+</a>
+
+<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
+    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
+</a>
+
 
 
 </div>
@@ -1054,7 +1111,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Comics and trades finished in 2024</b></p>
+<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Trades finished</b></p>
 
 
 <div alt="finished comics 2024" align="Center">
@@ -1659,35 +1716,8 @@
     <img src="https://m.media-amazon.com/images/I/81x6H5hzxOL._UF1000,1000_QL80_.jpg" alt="Ultimate Black Panther vol 1">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81JX4T8e2rL._SL1500_.jpg" alt="Exceptional X-Men vol 1. ">
-</a>
 
 
-<a href="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81Id13zT5PL._UF1000,1000_QL80_.jpg" alt="Gun Honey: Heat Seeker">
-</a>
-
-
-<a href="https://m.media-amazon.com/images/I/81CUK+gcNsL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81CUK+gcNsL.jpg" alt="Gun Honey">
-</a>
-
-<a href="https://www.g-mart.com/static/f228529.jpg" class="thumbnail">
-    <img src="https://www.g-mart.com/static/f228529.jpg" alt="Gun Honey: Blood for Blood">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81KyRIk8dnL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81KyRIk8dnL._UF1000,1000_QL80_.jpg" alt="Gun Honey: Collision Course">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/8161tDzrSSL._SL1500_.jpg" alt="Storm vol 1. February 19.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81eaMPklG5L._SL1500_.jpg" alt="Jenny Sparks vol 1. 19 Februari.">
-</a>
 
 
 
