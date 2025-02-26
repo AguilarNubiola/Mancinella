@@ -204,6 +204,9 @@
     <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" alt="G.I.Joe #6. 16 April.">
 </a>
 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1739514241" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1739514241" alt=" Catwoman #75 . 16 April.">
+</a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" alt="Avengers #25. 23 April.">
@@ -269,29 +272,64 @@
         <img src="https://i.imgur.com/OkoKG2V.jpeg" alt="Ultimate Wolverine #5. 7th of May.">
    </a>
 
-
-   <a href="" class="thumbnail">
-        <img src="" alt="">
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1172924.jpg?1740161127" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1172924.jpg?1740161127" alt="Absolute Green Lantern #2. 7th of May.">
    </a>
 
 
-   <a href="" class="thumbnail">
-        <img src="" alt="">
+   <a href="https://m.media-amazon.com/images/I/91cg3odLQkL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91cg3odLQkL._SL1500_.jpg" alt="X-Men #16. 7th of May.">
    </a>
 
 
-   <a href="" class="thumbnail">
-        <img src="" alt="">
+   <a href="https://m.media-amazon.com/images/I/81uCgBAjeQL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81uCgBAjeQL._SL1500_.jpg" alt="Storm #8. 7th of May.">
    </a>
 
 
-   <a href="" class="thumbnail">
-        <img src="" alt="">
+   <a href="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" alt="Psylocke #7. 7th of May.">
+   </a>
+
+
+   <a href="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" alt="Uncanny X-Men #14. 14th of May.">
+   </a>
+
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" alt="W0rldtr33 #14. 14th of May.">
+   </a>
+
+    
+    
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5331402.jpg?1740162628" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5331402.jpg?1740162628" alt="Catwoman #76. 21st of May.">
    </a>
 
 
    <a href="https://i.imgur.com/65MeEH8.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/65MeEH8.jpeg" alt="Ultimates #12. 21st of May.">
+   </a>
+
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" alt="Absolute Wonder Woman #8. 28th of May.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" alt="Uncanny X-Men #15. 28th of May.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" alt="Magik #5. 28th of May.">
+   </a>
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" alt="Absolute Martian Manhunter #3. 28th of May.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/81-KJPaR1fL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81-KJPaR1fL._SL1500_.jpg" alt="Avengers #26. 28th of May.">
    </a>
 
 
@@ -455,13 +493,6 @@
 
 <div alt="Dc Comics" align="center">
 
-<a href="https://goldenapplecomics.com/cdn/shop/files/BOP_Cv8_00811.jpg?v=1709823899&width=1445" class="thumbnail">
-    <img src="https://goldenapplecomics.com/cdn/shop/files/BOP_Cv8_00811.jpg?v=1709823899&width=1445" alt="Birds of Prey">
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/en/c/cb/Absolute_Superman%2C_November_2024.webp" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Absolute_Superman%2C_November_2024.webp" alt="Absolute Superman">
-</a>
 
 
 <a href="https://commondatastorage.googleapis.com/images.pricecharting.com/f7o2q6pswmam53dy/1600.jpg" class="thumbnail">

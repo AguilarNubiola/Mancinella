@@ -35,24 +35,38 @@
 
 <div alt="Current marks" align="center">
 
-    <a href="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" class="thumbnail">
-        <img src="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" alt="Shogun">
-    </a>
-
-    <a href="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" class="thumbnail">
-        <img src="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" alt="Cobra Kai">
-    </a>
-
-    <a href="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" class="thumbnail">
-        <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
-    </a>
-
     <a href="https://m.media-amazon.com/images/M/MV5BN2FmMjdlMTUtZTVjMC00NGFhLTgxNWItYzQzMjQ2MjA3MjU3XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/M/MV5BN2FmMjdlMTUtZTVjMC00NGFhLTgxNWItYzQzMjQ2MjA3MjU3XkEyXkFqcGc@._V1_.jpg" alt="Little Forest">
     </a>
 
 
 </div>
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next up</b></p>
+
+
+
+<div alt="Next up" align="center">
+
+
+
+    <a href="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" class="thumbnail">
+        <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
+    </a>
+
+
+
+
+
+
+</div>
+
 
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2025</h3>
 <div class='tv shows and movies finished in 2025' align="center">
@@ -101,6 +115,18 @@
     <img src="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" alt="In Our Prime">
 </a>
 
+    <a href="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" class="thumbnail">
+        <img src="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" alt="Cobra Kai. 13-02-2025.">
+    </a>
+
+    <a href="https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_859%2Cy_333/MjEwNDc0NjEyNDk0OTY4NjU3/your-friendly-neighborhood-spider-man.jpg" class="thumbnail">
+        <img src="https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_859%2Cy_333/MjEwNDc0NjEyNDk0OTY4NjU3/your-friendly-neighborhood-spider-man.jpg" alt="Friendly Neighborhood Spider-man">
+    </a>
+
+    <a href="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" class="thumbnail">
+        <img src="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" alt="Shogun.">
+    </a>
+
 </div>
 
 
@@ -122,6 +148,11 @@
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next marks</b></p>
 
 <div alt="Next marks" align="center">
+
+
+    <a href="https://a.storyblok.com/f/178900/960x540/43c13e7906/devil-may-cry-mir.jpg/m/filters:quality(95)format(webp)" class="thumbnail">
+        <img src="https://a.storyblok.com/f/178900/960x540/43c13e7906/devil-may-cry-mir.jpg/m/filters:quality(95)format(webp)" alt="Devil may cry">
+    </a>
 
 
 <a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
@@ -220,10 +251,6 @@
 
 <a href="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" class="thumbnail">
     <img src="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" alt="No Other Choice">
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_America_Brave_New_World_poster.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_America_Brave_New_World_poster.jpg" alt="Captain America: Brave New World">
 </a>
 
 <a href="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" class="thumbnail">

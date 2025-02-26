@@ -1111,7 +1111,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Trades finished</b></p>
+<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Trades finished in 2024</b></p>
 
 
 <div alt="finished comics 2024" align="Center">
