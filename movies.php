@@ -35,8 +35,8 @@
 
 <div alt="Current marks" align="center">
 
-    <a href="https://m.media-amazon.com/images/M/MV5BN2FmMjdlMTUtZTVjMC00NGFhLTgxNWItYzQzMjQ2MjA3MjU3XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/M/MV5BN2FmMjdlMTUtZTVjMC00NGFhLTgxNWItYzQzMjQ2MjA3MjU3XkEyXkFqcGc@._V1_.jpg" alt="Little Forest">
+    <a href="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" class="thumbnail">
+        <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
     </a>
 
 
@@ -50,15 +50,9 @@
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next up</b></p>
 
-
-
+ 
 <div alt="Next up" align="center">
 
-
-
-    <a href="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" class="thumbnail">
-        <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
-    </a>
 
 
 
