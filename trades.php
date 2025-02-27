@@ -35,9 +35,7 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
-<a href="https://m.media-amazon.com/images/I/91EeRS5kD2L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91EeRS5kD2L._SL1500_.jpg" alt="Scorched vol 1">
-</a>
+
 
 <div alt="reading now" align="center">
 
@@ -48,22 +46,7 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
 
-<a href="https://m.media-amazon.com/images/I/91s3KZo8uSL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91s3KZo8uSL._SL1500_.jpg" alt="Scorched vol 2">
-</a>
 
-
-<a href="https://m.media-amazon.com/images/I/81y1JCjrTGL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81y1JCjrTGL._SL1500_.jpg" alt="Scorched vol 3">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/611TSvZTl4L._SL1077_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/611TSvZTl4L._SL1077_.jpg" alt="Scorched vol 4">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/71eiA3mgboL._SL1076_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71eiA3mgboL._SL1076_.jpg" alt="Scorched vol 5">
-</a>
 
 <div alt="Next up" align="center">
 
