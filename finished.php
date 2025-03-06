@@ -303,6 +303,15 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTXM2024012_cov-scaled.jpg?ssl=1" alt="Ultimate X-Men #12. 26th of February.">
 </a>
 
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/UNCX2024011_Cover_XMH1-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/UNCX2024011_Cover_XMH1-scaled.jpg?ssl=1" alt="Uncanny X-Men #11. 5th of March 2025. Buy.">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/STORM2024006_Cover_XMH3-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/STORM2024006_Cover_XMH3-scaled.jpg?ssl=1" alt="Storm #6. 5th of March 2025. Buy.">
+</a>
+
+
 
 
 
@@ -370,6 +379,11 @@
     <a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/11/ULTMTS2024009_cov.jpg?resize=768%2C1157&ssl=1" alt="Ultimates #9. 5th of February.">
      </a>
+
+     
+   <a href="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" class="thumbnail">
+    <img src="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" alt="Ultimates #10. 5th of March 2025. Buy.">
+   </a>
 
 
 
@@ -1069,6 +1083,12 @@
 <a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
     <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
 </a>
+
+<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
+    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
+</a>
+
+
 
 
 

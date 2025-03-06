@@ -64,20 +64,16 @@
     <img src="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" alt="Tin Can Society #6. 5th of March">
 </a>
 
-<a href="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" alt="Ultimates #10. 5th of March 2025.">
-</a>
+
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" alt="Birds of Prey #19. 5th of March.">
 </a>
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/UNCX2024011_Cover_XMH1-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/UNCX2024011_Cover_XMH1-scaled.jpg?ssl=1" alt="Uncanny X-Men #11. 5th of March 2025. ">
-</a>
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/STORM2024006_Cover_XMH3-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/STORM2024006_Cover_XMH3-scaled.jpg?ssl=1" alt="Storm #6. 5th of March 2025. ">
+
+<a href="https://freshcomics.s3.amazonaws.com/issue_covers/NOV241006.jpg" class="thumbnail">
+    <img src="https://freshcomics.s3.amazonaws.com/issue_covers/NOV241006.jpg" alt="Arcbound #4">
 </a>
    
 
@@ -102,7 +98,7 @@
 </a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMEN2024013_Cover__XMH4-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMEN2024013_Cover__XMH4-scaled.jpg?ssl=1" alt="X-Men #13. 12th of March 2025. ">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMEN2024013_Cover__XMH4-scaled.jpg?ssl=1" alt="X-Men #13. 12th of March 2025. Buy.">
 </a>
 
 
@@ -117,7 +113,7 @@
 
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" alt="X-Manhunt Omega #1. 26th of March 2025. ">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" alt="X-Manhunt Omega #1. 26th of March 2025. Buy.">
 </a>
 
 <a href="https://cdn.marvel.com/content/1x/ultwolv2025003_cover.jpg" class="thumbnail">

@@ -68,22 +68,12 @@
 
 
 
-
-
-
-
-
-
-
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March trades</b></p>
 
 
 <div alt="March trades" align="center">
 
 
-<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
-    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
-</a>
 
 
 <a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
