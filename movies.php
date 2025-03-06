@@ -62,6 +62,88 @@
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movies coming in 2025</h3>
+
+<div alt="2025 films" align="center">
+
+<a href="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" class="thumbnail">
+    <img src="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" alt="Thunderbolts. 02/05/2025.">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" alt="Mission Impossible: Final Reckoning. 22/05/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina. 05/06/2025.">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/7/70/M3GAN_2.0_Theatrical_Poster.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/70/M3GAN_2.0_Theatrical_Poster.jpg" alt="M3egan 2.0. 27/06/2025.">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg" alt="Fantastic Four: First Steps. 23/07/2025">
+</a>
+
+<a href="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" class="thumbnail">
+    <img src="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" alt="No Other Choice">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" alt="Zootopia 2. 26/11/2025.">
+</a>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2025</h3>
 <div class='tv shows and movies finished in 2025' align="center">
 
@@ -119,6 +201,10 @@
 
     <a href="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" class="thumbnail">
         <img src="https://sm.ign.com/ign_nl/photo/s/shogun-sea/shogun-season-2-being-considered-as-star-reportedly-signs-de_heb5.jpg" alt="Shogun.">
+    </a>
+
+    <a href="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" class="thumbnail">
+         <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" alt="Mickey 17">
     </a>
 
 </div>
@@ -235,32 +321,8 @@
 
 
 
-<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movies coming in 2025</h3>
 
-<div alt="2025 films" align="center">
 
-<a href="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" alt="Mickey 17">
-</a>
-
-<a href="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" class="thumbnail">
-    <img src="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" alt="No Other Choice">
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" alt="Zootopia 2">
-</a>
-
-<a href="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina">
-</a>
-
-<a href="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" alt="Thunderbolts">
-</a>
-    
-
-</div>
 
 
 
