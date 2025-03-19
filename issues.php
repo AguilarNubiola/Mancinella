@@ -89,32 +89,16 @@
 
 
 
-<a href="https://cdn.marvel.com/content/1x/ultxm2024013_cover.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/ultxm2024013_cover.jpg" alt="Ultimate X-Men #13. 12th of March 2025.">
-</a>
 
 <a href="https://cdn.marvel.com/content/1x/ultsm2024015_cover.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/ultsm2024015_cover.jpg" alt="Ultimate Spider-Man #15. 12th of March 2025.">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMEN2024013_Cover__XMH4-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMEN2024013_Cover__XMH4-scaled.jpg?ssl=1" alt="X-Men #13. 12th of March 2025. Buy.">
-</a>
-
-
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1058562/w0-rldtr33-14_229a1f835c.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1058562/w0-rldtr33-14_229a1f835c.jpg" alt="W0rldtr33 #14. 19th of March.">
-</a>
-
-<a href="https://krscomics.com/cdn/shop/files/0125DC151-scaled.jpg?v=1737491681" class="thumbnail">
-    <img src="https://krscomics.com/cdn/shop/files/0125DC151-scaled.jpg?v=1737491681" alt="Catwoman #74. 19th of March.">
+    <img src="https://cdn.marvel.com/content/1x/ultsm2024015_cover.jpg" alt="Ultimate Spider-Man #15. 26th of March 2025.">
 </a>
 
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" alt="X-Manhunt Omega #1. 26th of March 2025. Buy.">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" alt="X-Manhunt Omega #1. 26th of March 2025.">
 </a>
+
 
 <a href="https://cdn.marvel.com/content/1x/ultwolv2025003_cover.jpg" class="thumbnail">
     <img src="https://cdn.marvel.com/content/1x/ultwolv2025003_cover.jpg" alt="Ultimate Wolverine #3. 26th of March.">

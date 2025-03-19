@@ -311,6 +311,13 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/STORM2024006_Cover_XMH3-scaled.jpg?ssl=1" alt="Storm #6. 5th of March 2025. Buy.">
 </a>
 
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMEN2024013_Cover__XMH4-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMEN2024013_Cover__XMH4-scaled.jpg?ssl=1" alt="X-Men #13. 12th of March 2025.">
+</a>
+
+<a href="https://cdn.marvel.com/content/1x/ultxm2024013_cover.jpg" class="thumbnail">
+    <img src="https://cdn.marvel.com/content/1x/ultxm2024013_cover.jpg" alt="Ultimate X-Men #13. 19th of March 2025.">
+</a>
 
 
 
@@ -510,6 +517,11 @@
     <a href="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" class="thumbnail">
        <img src="https://i.ebayimg.com/images/g/B2IAAOSw7Y1njI7U/s-l1600.jpg" alt="Catwoman #73. 19th of February.">
    </a>
+
+   <a href="https://krscomics.com/cdn/shop/files/0125DC151-scaled.jpg?v=1737491681" class="thumbnail">
+    <img src="https://krscomics.com/cdn/shop/files/0125DC151-scaled.jpg?v=1737491681" alt="Catwoman #74. 19th of March.">
+</a>
+
 
 
 
@@ -801,6 +813,10 @@
    <a href="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" class="thumbnail">
     <img src="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" alt="Monstress #55, 26th of February">
    </a>
+
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1065800/assorted-crisis-events-1_dfac05f4b9.jpg" class="thumbnail">
+       <img src="https://cdn.imagecomics.com/assets/i/releases/1065800/assorted-crisis-events-1_dfac05f4b9.jpg" alt="Assorted Crisis Events #1">
+   </a>
    
 
 
@@ -1035,6 +1051,10 @@
     <img src="https://m.media-amazon.com/images/I/917WFqQD1mL.jpg" alt="Steel Ball Run">
 </a>
 
+<a href="https://cdn.imagecomics.com/assets/i/releases/1065408/the-moon-is-following-us-tp-vol-1_a7368f60e1.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1065408/the-moon-is-following-us-tp-vol-1_a7368f60e1.jpg" alt="The Moon is Following Us vol 1">
+</a>
+
 <a href="https://media.s-bol.com/Zm2p08QvZqvE/0VKGvgy/790x1200.jpg" class="thumbnail">
     <img src="https://media.s-bol.com/Zm2p08QvZqvE/0VKGvgy/790x1200.jpg" alt="Fernando Dagnino's Smart Girl">
 </a>
@@ -1087,6 +1107,28 @@
 <a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
     <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
 </a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1066688/transformers-tp-vol-3_9a19521cbd.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1066688/transformers-tp-vol-3_9a19521cbd.jpg" alt="Transformers vol 3">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6112798.jpg?1739010476" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6112798.jpg?1739010476" alt="Heat Seeker: Combustion">
+</a>
+
+<a href="https://cdn.donmai.us/sample/a0/2f/__psylocke_marvel_and_1_more_drawn_by_stanley_lau__sample-a02f8b98187db8eb3cc7c000dc459253.jpg" class="thumbnail">
+    <img src="https://cdn.donmai.us/sample/a0/2f/__psylocke_marvel_and_1_more_drawn_by_stanley_lau__sample-a02f8b98187db8eb3cc7c000dc459253.jpg" alt="Psylocke vol 1">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1. 19/03/2025">
+   </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman vol 1: Who is Selina Kyle?. 19/03/2025">
+    </a>
+
+
 
 
 
