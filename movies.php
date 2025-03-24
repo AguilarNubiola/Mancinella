@@ -50,6 +50,24 @@
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next up</b></p>
 
+    <a href="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" class="thumbnail">
+        <img src="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" alt="Cool World">
+    </a>
+
+    <a href="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" class="thumbnail">
+        <img src="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" alt="The Crow">
+    </a>
+
+    <a href="https://luisterboekenreviews.nl/wp-content/uploads/2025/03/the-electric-state-netflix-film.jpg.webp" class="thumbnail">
+        <img src="https://luisterboekenreviews.nl/wp-content/uploads/2025/03/the-electric-state-netflix-film.jpg.webp" alt="The Electric State">
+    </a>
+
+    <a href="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" class="thumbnail">
+        <img src="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" alt="The Death of Stalin">
+    </a>
+
+
+
  
 <div alt="Next up" align="center">
 
@@ -187,6 +205,10 @@
     <img src="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" alt="Back in Action">
 </a>
 
+<a href="https://irs.www.warnerbros.nl/keyart-jpeg/movies/media/browser/NL_COMPAN_keyart_0.jpg" class="thumbnail">
+    <img src="https://irs.www.warnerbros.nl/keyart-jpeg/movies/media/browser/NL_COMPAN_keyart_0.jpg" alt="Companion">
+</a">
+
 <a href="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" alt="In Our Prime">
 </a>
@@ -207,7 +229,15 @@
          <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" alt="Mickey 17">
     </a>
 
-</div>
+    <a href="https://image-5.uhdpaper.com/wallpaper/harley-quinn-series-harley-quinn-poison-ivy-bane-king-shark-clayface-4k-wallpaper-uhdpaper.com-486@5@c.jpg" class="thumbnail">
+        <img src="https://image-5.uhdpaper.com/wallpaper/harley-quinn-series-harley-quinn-poison-ivy-bane-king-shark-clayface-4k-wallpaper-uhdpaper.com-486@5@c.jpg" alt="Harley Quinn Season 5">
+    </a>
+
+    <a href="https://www.kokcinemaxx.nl/wp-content/uploads/sites/2/2025/02/Novocaine_133842796829966397_big-2.jpg" class="thumbnail">
+      <img src="https://www.kokcinemaxx.nl/wp-content/uploads/sites/2/2025/02/Novocaine_133842796829966397_big-2.jpg" alt="Novocaine">
+    </a>
+
+</di>
 
 
 
@@ -339,9 +369,7 @@
 
 <div alt="2025 shows" align="center">
 
-<a href="https://pyxis.nymag.com/v1/imgs/264/0aa/47e0d00b757c472bef81f63d6a2e0b2d20-COB-Unit-01534R.rsquare.w400.jpg" class="thumbnail">
-    <img src="https://pyxis.nymag.com/v1/imgs/264/0aa/47e0d00b757c472bef81f63d6a2e0b2d20-COB-Unit-01534R.rsquare.w400.jpg" alt="Cobra kai finale. 13th of February.">
-</a>
+
 
 <a href="https://i0.wp.com/invader.be/wp-content/uploads/2024/09/devil-may-cry-netflix-2.jpg?fit=686%2C386&ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/invader.be/wp-content/uploads/2024/09/devil-may-cry-netflix-2.jpg?fit=686%2C386&ssl=1" alt="Devil May Cry. April.">
