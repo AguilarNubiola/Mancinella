@@ -1144,6 +1144,10 @@
     <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
 </a>
 
+<a href="https://cdn.archonia.com/images/1-104446950-1-1-original1/power-rangers-prime-tp-trade-paperback.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104446950-1-1-original1/power-rangers-prime-tp-trade-paperback.jpg" alt="Power Rangers Prime vol 1">
+</a>
+
 <a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
     <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
 </a>
@@ -1177,7 +1181,23 @@
     </a>
 
     <a href="https://m.media-amazon.com/images/I/81DZLblpD-L._UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81DZLblpD-L._UF1000,1000_QL80_.jpg" alt="Uncanny X-Men vol 2">
+        <img src="https://m.media-amazon.com/images/I/81DZLblpD-L._UF1000,1000_QL80_.jpg" alt="Uncanny X-Men vol 2. 26/03/2025">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2022/01/Geiger-Vol.-1-TPB-2021.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/01/Geiger-Vol.-1-TPB-2021.jpg?fit=400%2C615&ssl=1" alt="Geiger vol 1. 26/03/2025">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/Geiger-Vol.-2-The-Nuclear-Knight-TPB-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/Geiger-Vol.-2-The-Nuclear-Knight-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="Geiger vol 2. 26/03/2025">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1068853/geiger-tp-vol-3_a8e4282024.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1068853/geiger-tp-vol-3_a8e4282024.jpg" alt="Geiger vol 3. 26/03/2025">
+    </a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1732232605i/221731686.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1732232605i/221731686.jpg" alt="Doll parts Lovesick. 26/03/2025">
     </a>
 
 

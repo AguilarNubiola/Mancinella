@@ -55,36 +55,10 @@
 </div>
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March 5th</b></p>
-
-<div alt="next week" align="center">
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April 2nd</b></p>
 
 
-
-   
-
-</div>
-
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March</b></p>
-
-<div alt="March comics" align="center">
-
-
-
-
-
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April</b></p>
-
-
-<div alt="April books" align="center">
+<div alt="This week" align="center">
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024014_woo-chul-lee.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024014_woo-chul-lee.jpg?ssl=1" alt="X-Men #14. 2 April.">
@@ -110,6 +84,14 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Superman-6-1-25-RODREIS-min.jpg?ssl=1" alt="Absolute Superman #6. 2 April.">
 </a>
 
+   
+
+</div>
+
+
+<div alt="Next week" align="center">
+
+
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" alt="Ultimates #11. 9 April.">
 </a>
@@ -133,6 +115,17 @@
 <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" class="thumbnail">
     <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" alt="The Moon is Following us #8. 9 April.">
 </a>
+
+</div>
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April</b></p>
+
+
+<div alt="April books" align="center">
+
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" alt="Ultimate Wolverine #4. April 16 2025.">
@@ -493,6 +486,10 @@
 
 <a href="https://bleedingcool.com/wp-content/uploads/2022/07/Kaya1-1200x900.jpeg" class="thumbnail">
     <img src="https://bleedingcool.com/wp-content/uploads/2022/07/Kaya1-1200x900.jpeg" alt="Kaya">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1065658/geiger-12_90a4074347.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1065658/geiger-12_90a4074347.jpg" alt="Geiger. Everything up until 12">
 </a>
 
 </div>

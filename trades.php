@@ -66,29 +66,6 @@
 
 
 
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March trades</b></p>
-
-
-<div alt="March trades" align="center">
-
-
-   <a href="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" class="thumbnail">
-       <img src="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" alt="Doll Parts: A Lovesick Tale. 26/03/2025">
-    </a>
-
-
-
-</div>
-
-
-
-
-
-
-
-
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April trades</b></p>
 
 
@@ -109,7 +86,7 @@
     </a>
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets vol 1. 30/04/2025">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets. 30/04/2025">
     </a>
 
 </div>
@@ -124,11 +101,11 @@
 </a>
 
 <a href="" class="thumbnail">
-    <img src="" alt="">
+    <img src="" alt="Magik vol 1">
 </a>
 
 <a href="" class="thumbnail">
-    <img src="" alt="">
+    <img src="" alt="Cyberpunk Psycho Squad">
 </a>
 
 <a href="" class="thumbnail">
@@ -155,12 +132,9 @@
 
 <div alt="June trades" align="center">
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 <a href="" class="thumbnail">
-    <img src="" alt="">
+    <img src="" alt="Ultimate Wolverine vol 1">
 </a>
 
 <a href="" class="thumbnail">
@@ -181,7 +155,7 @@
 
 <a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" class="thumbnail">
     <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" alt="X-Men vol 3. 25/06/2025">
-    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg?w=1480&ssl=1&ezimgfmt=ng:webp/ngcb4"
+    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg?w=1480&ssl=1&ezimgfmt=ng:webp/ngcb4">
 </a>
 
 
