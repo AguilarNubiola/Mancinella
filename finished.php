@@ -319,6 +319,30 @@
     <img src="https://cdn.marvel.com/content/1x/ultxm2024013_cover.jpg" alt="Ultimate X-Men #13. 19th of March 2025.">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81VPfFtefKL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81VPfFtefKL._SL1500_.jpg" alt="Ultimate Wolverine 3. 26/03/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81DZLblpD-L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81DZLblpD-L._SL1500_.jpg" alt="Uncanny X-Men 12. 26/03/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/813zWbKiWBL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/813zWbKiWBL._SL1500_.jpg" alt="X-Manhunt Omega. 26/03/2025">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
 
 
 
@@ -522,6 +546,13 @@
     <img src="https://krscomics.com/cdn/shop/files/0125DC151-scaled.jpg?v=1737491681" alt="Catwoman #74. 19th of March.">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/81V-ak-N+vL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81V-ak-N+vL._SL1500_.jpg" alt="Absolute Wonder Woman 6. 26/03/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81Tip9pxd7L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81Tip9pxd7L._SL1500_.jpg" alt="Absolute Martian Manhunter 1. 26/03/2025">
+</a>
 
 
 
@@ -817,7 +848,16 @@
    <a href="https://cdn.imagecomics.com/assets/i/releases/1065800/assorted-crisis-events-1_dfac05f4b9.jpg" class="thumbnail">
        <img src="https://cdn.imagecomics.com/assets/i/releases/1065800/assorted-crisis-events-1_dfac05f4b9.jpg" alt="Assorted Crisis Events #1">
    </a>
-   
+
+   <a href="https://m.media-amazon.com/images/I/712+aFu7S0L._SL1076_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/712+aFu7S0L._SL1076_.jpg" alt="Monstress #56">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/61yXGBpwKNL._SL1076_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61yXGBpwKNL._SL1076_.jpg" alt="Nights 14">
+   </a>
+
+
 
 
 
@@ -1126,6 +1166,18 @@
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" class="thumbnail">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman vol 1: Who is Selina Kyle?. 19/03/2025">
+    </a>
+
+    <a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534333673/nullhunter-volume-1-9781534333673_hr.jpg" class="thumbnail">
+        <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534333673/nullhunter-volume-1-9781534333673_hr.jpg" alt="Nullhunter vol 1. 19/03/2025">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4773330.jpg?1737789582" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4773330.jpg?1737789582" alt="Wonder Woman vol 3. 26/03/2025">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81DZLblpD-L._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81DZLblpD-L._UF1000,1000_QL80_.jpg" alt="Uncanny X-Men vol 2">
     </a>
 
 

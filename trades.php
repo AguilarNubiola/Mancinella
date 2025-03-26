@@ -74,38 +74,8 @@
 <div alt="March trades" align="center">
 
 
-
-
-<a href="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg" alt="Absolute Batman vol 1. March 19.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81R34gihr9L._SL1500_.jpg" alt="Uncanny X-Men vol 2. March 26.">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" alt="Doll Parts: A Lovesick Tale. March 26.">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets vol 1. March 26.">
-</a>
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9666500.jpg?1736357115" alt="Catwoman vol 1: Who is Selina Kyle?. March 19.">
-    </a>
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7409732.jpg?1737714383" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7409732.jpg?1737714383" alt="Psylocke vol 1">
-    </a>
-
-    <a href="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534333673/nullhunter-volume-1-9781534333673_hr.jpg" class="thumbnail">
-        <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534333673/nullhunter-volume-1-9781534333673_hr.jpg" alt="Nullhunter vol 1">
-    </a>
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4773330.jpg?1737789582" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4773330.jpg?1737789582" alt="Wonder Woman vol 3. 26 maart">
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" class="thumbnail">
+       <img src="https://cdn.imagecomics.com/assets/i/releases/1060740/doll-parts-a-lovesick-tale-4-of-4_dc007c8de7.jpg" alt="Doll Parts: A Lovesick Tale. 26/03/2025">
     </a>
 
 
@@ -137,6 +107,156 @@
 <a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 16 april.">
     </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets vol 1. 30/04/2025">
+    </a>
+
+</div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May trades</b></p>
+
+<div alt="May trades" align="center">
+
+<a href="" class="thumbnail">
+    <img src="" alt="Ultimates vol 2">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+</div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June trades</b></p>
+
+<div alt="June trades" align="center">
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" class="thumbnail">
+    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" alt="X-Men vol 3. 25/06/2025">
+    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg?w=1480&ssl=1&ezimgfmt=ng:webp/ngcb4"
+</a>
+
+
+</div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July trades</b></p>
+
+<div alt="July trades" align="center">
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+</div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>August trades</b></p>
+
+<div alt="August trades" align="center">
+
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
 
 </div>
 

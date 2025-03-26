@@ -60,21 +60,7 @@
 <div alt="next week" align="center">
 
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1058600/the-tin-can-society-6-of-9_40c62cdf7e.jpg" alt="Tin Can Society #6. 5th of March">
-</a>
 
-
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9844096.jpg?1736357166" alt="Birds of Prey #19. 5th of March.">
-</a>
-
-
-
-<a href="https://freshcomics.s3.amazonaws.com/issue_covers/NOV241006.jpg" class="thumbnail">
-    <img src="https://freshcomics.s3.amazonaws.com/issue_covers/NOV241006.jpg" alt="Arcbound #4">
-</a>
    
 
 </div>
@@ -90,27 +76,7 @@
 
 
 
-<a href="https://cdn.marvel.com/content/1x/ultsm2024015_cover.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/ultsm2024015_cover.jpg" alt="Ultimate Spider-Man #15. 26th of March 2025.">
-</a>
 
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/12/XMANHUNTO2025001_Cover_XMH7-scaled.jpg?ssl=1" alt="X-Manhunt Omega #1. 26th of March 2025.">
-</a>
-
-
-<a href="https://cdn.marvel.com/content/1x/ultwolv2025003_cover.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/ultwolv2025003_cover.jpg" alt="Ultimate Wolverine #3. 26th of March.">
-</a>
-
-<a href="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" class="thumbnail">
-    <img src="https://preview.redd.it/absolute-martian-manhunter-first-look-v0-68onp4qb2lvd1.jpeg?auto=webp&s=1a9be735be707838a1324dd0308b36df0f7b1ccb" alt="Absolute Martian Manhunter. 26th of March 2025.">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2631502.jpg?1734746599" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2631502.jpg?1734746599" alt="I heart Skull-crusher 8. 26th of March.">
-</a>
 
 
 </div>
@@ -196,7 +162,6 @@
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" alt="X-Men #15. 23 April.">
 </a>
-
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" alt="Absolute Wonder Woman #7. 23 April.">
@@ -331,6 +296,81 @@
 <a href="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" class="thumbnail">
     <img src="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" alt="The City Beneath her Feet #2">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" alt="X-Men 17. 04/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4132139.jpg?1742673810" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4132139.jpg?1742673810" alt="Absolute Superman 8. 04/06/2025">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" alt="The Moon is Following Us 10. 04/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" alt="Imperial 1. 04/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" alt="Absolute Green Lantern 3. 04/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3559835.jpg?1742606486" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3559835.jpg?1742606486" alt="Absolute Wonder Woman 9. 04/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" alt="Storm 9. 04/06/2025">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1068745/kaya-27_ee394219d0.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1068745/kaya-27_ee394219d0.jpg" alt="Kaya 27. 04/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" alt="Ultimate Wolverine 6. 04/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" alt="Magik 6. 11/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" alt="W0rldtr33 15. 11/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" alt="Ultimate X-Men 16. 11/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men 18. 18/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81+wNyqDf5L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81+wNyqDf5L._SL1500_.jpg" alt="Psylocke 8. 18/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" alt="Ultimates 13. 18/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91APIgPM0YL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91APIgPM0YL._SL1500_.jpg" alt="Uncanny X-Men 16. 25/06/2025">
+</a>
+
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1068874/nights-17_c843e5d7ab.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1068874/nights-17_c843e5d7ab.jpg" alt="Nights 17. 25/06/2025">
+</a>
+
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1742606579" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1742606579" alt="Absolute Martian Manhunter 4. 25/06/2025">
+</a>
+
 
 
 </div>
