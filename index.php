@@ -82,10 +82,6 @@
 <div alt="2025 games" align="center">
 
 
-<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3.">
-</a>
-
 <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
     <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. April.">
 </a>
@@ -156,14 +152,26 @@
 
        <div class="Completed game" align="center">
 
-       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
-          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
+       <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
+          <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3.">
        </a>
 
        <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
           <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
        </a>
 
+       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
+          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
+       </a>
+
+
+       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
+          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
+       </a>
+
+       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
+          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
+       </a>
 
        <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
           <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
