@@ -339,6 +339,11 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024014_woo-chul-lee.jpg?ssl=1" alt="X-Men #14. 2 April.">
 </a>
 
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTXM2024014_Cover.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTXM2024014_Cover.jpg?ssl=1" alt="Ultimate X-Men #14. 2 April.">
+</a>
+
+
 <a href="" class="thumbnail">
     <img src="" alt="">
 </a>
@@ -1220,6 +1225,14 @@
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" class="thumbnail">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" alt="Absolute Superman vol 1. 2 April.">
+    </a>
+
+    <a href="https://media.s-bol.com/3VZDoEBG6pRR/jRnxRz/825x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/3VZDoEBG6pRR/jRnxRz/825x1200.jpg" alt="Wonder Woman: Black and Gold. 6 April.">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1045042/domain-5-of-5_94df44c7cc.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1045042/domain-5-of-5_94df44c7cc.jpg" alt="The Domain">
     </a>
 
 
