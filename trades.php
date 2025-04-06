@@ -39,6 +39,9 @@
 
 <div alt="reading now" align="center">
 
+<a href="https://media.s-bol.com/3VZDoEBG6pRR/jRnxRz/825x1200.jpg" class="thumbnail">
+    <img src="https://media.s-bol.com/3VZDoEBG6pRR/jRnxRz/825x1200.jpg" alt="Wonder Woman: Black and Gold">
+</a>
 
 
 
@@ -71,10 +74,6 @@
 
 <div alt="April trades" align="center">
 
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" alt="Absolute Superman vol 1. 2 April.">
-    </a>
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">

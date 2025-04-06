@@ -331,6 +331,14 @@
     <img src="https://m.media-amazon.com/images/I/813zWbKiWBL._SL1500_.jpg" alt="X-Manhunt Omega. 26/03/2025">
 </a>
 
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/PSYLOCKE2024006_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/PSYLOCKE2024006_Cov-scaled.jpg?ssl=1" alt="Psylocke #6. 2 April.">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024014_woo-chul-lee.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024014_woo-chul-lee.jpg?ssl=1" alt="X-Men #14. 2 April.">
+</a>
+
 <a href="" class="thumbnail">
     <img src="" alt="">
 </a>
@@ -553,6 +561,16 @@
 <a href="https://m.media-amazon.com/images/I/81Tip9pxd7L._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81Tip9pxd7L._SL1500_.jpg" alt="Absolute Martian Manhunter 1. 26/03/2025">
 </a>
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Green-Lantern-1-OTO-Juliet-Nneka-Variant.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Green-Lantern-1-OTO-Juliet-Nneka-Variant.jpg?ssl=1" alt="Absolute Green Lantern #1. 2 April.">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Superman-6-1-25-RODREIS-min.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Superman-6-1-25-RODREIS-min.jpg?ssl=1" alt="Absolute Superman #6. 2 April.">
+</a>
+
 
 
 
@@ -1199,6 +1217,11 @@
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1732232605i/221731686.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1732232605i/221731686.jpg" alt="Doll parts Lovesick. 26/03/2025">
     </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9217382.jpg?1738902534" alt="Absolute Superman vol 1. 2 April.">
+    </a>
+
 
 
 

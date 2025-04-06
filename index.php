@@ -372,9 +372,7 @@
 <div alt="Backburner" align="center">
 
 
-<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" class="thumbnail">
-    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/how-to-romance-shadowheart-in-baldur-s-gate-3.jpg" alt="Baldur's Gate 3">
-</a>
+
 
 
 <a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
@@ -390,9 +388,6 @@
 <div alt="Shut up and take my money" align="center">
 
 
-<a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
-    <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33">
-</a>
 
 <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/horizon.jpg" class="thumbnail">
     <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/04/horizon.jpg" alt="Horizon III">
@@ -404,6 +399,55 @@
 
 
 </div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Murderers Row</b></p>
+
+<div alt="Murderers Row" align="center">
+
+
+<a href="https://preview.redd.it/north-american-boxart-of-dark-souls-but-without-the-logo-v0-rrne440hhcha1.png?auto=webp&s=50aa8f2d07c9db2e9eacba9ff6268a5fc7898c3d" class="thumbnail">
+    <img src="https://preview.redd.it/north-american-boxart-of-dark-souls-but-without-the-logo-v0-rrne440hhcha1.png?auto=webp&s=50aa8f2d07c9db2e9eacba9ff6268a5fc7898c3d" alt="Dark Souls">
+</a>
+
+<a href="https://howlongtobeat.com/games/Dark_souls_3_cover_art.jpg" class="thumbnail">
+    <img src="https://howlongtobeat.com/games/Dark_souls_3_cover_art.jpg" alt="Dark Souls 3">
+</a>
+
+<a href="https://image.api.playstation.com/vulcan/img/rnd/202010/2614/Sy5e8DmeKIJVjlAGraPAJYkT.png" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/img/rnd/202010/2614/Sy5e8DmeKIJVjlAGraPAJYkT.png" alt="Bloodborne">
+</a>
+
+<a href="https://www.stargamers.nl/test/wp-content/uploads/2019/04/sekiro-front.jpg" class="thumbnail">
+    <img src="https://www.stargamers.nl/test/wp-content/uploads/2019/04/sekiro-front.jpg" alt="Sekiro">
+</a>
+
+<a href="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23324816/elden_1.png?quality=90&strip=all&crop=7.8125,0,84.375,100" class="thumbnail">
+    <img src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23324816/elden_1.png?quality=90&strip=all&crop=7.8125,0,84.375,100" alt="Elden Ring">
+</a>
+
+<a href="https://image.api.playstation.com/vulcan/img/rnd/202011/0700/r9s9pzOcr9he8gYtPC9BavPG.png" class="thumbnail">
+    <img src="https://image.api.playstation.com/vulcan/img/rnd/202011/0700/r9s9pzOcr9he8gYtPC9BavPG.png" alt="Nioh">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/9/91/Nioh_2_cover_art.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/91/Nioh_2_cover_art.jpg" alt="Nioh 2">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/c/c6/Wo_Long_Fallen_Dynasty_cover.jpeg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c6/Wo_Long_Fallen_Dynasty_cover.jpeg" alt="Wo Long: Fallen Dynasty">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/8/8c/Code_vein.png" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Code_vein.png" alt="Code Vein">
+</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/pt/thumb/d/de/Lies_of_p_cover_art.jpg/200px-Lies_of_p_cover_art.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/d/de/Lies_of_p_cover_art.jpg/200px-Lies_of_p_cover_art.jpg" alt="Lies of P">
+</a>
+
+
+</div>
+
 
 
 </body>
