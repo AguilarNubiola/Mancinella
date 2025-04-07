@@ -39,9 +39,6 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://media.s-bol.com/3VZDoEBG6pRR/jRnxRz/825x1200.jpg" class="thumbnail">
-    <img src="https://media.s-bol.com/3VZDoEBG6pRR/jRnxRz/825x1200.jpg" alt="Wonder Woman: Black and Gold">
-</a>
 
 
 
@@ -75,17 +72,16 @@
 <div alt="April trades" align="center">
 
 
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1. 23 April.">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 16 april.">
     </a>
 
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1. 23 April.">
+    </a>
+
     <a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets. 30/04/2025">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets. 30 April.">
     </a>
 
 </div>
