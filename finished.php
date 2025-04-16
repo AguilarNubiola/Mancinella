@@ -343,18 +343,20 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTXM2024014_Cover.jpg?ssl=1" alt="Ultimate X-Men #14. 2 April.">
 </a>
 
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/UNCX2024013_Cov-677x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/UNCX2024013_Cov-677x1024.jpg" alt="Uncanny X-Men #13. 9 April.">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/STORM2024007_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/STORM2024007_Cov-scaled.jpg?ssl=1" alt="Storm #7. 9 April.">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" alt="Ultimate Wolverine #4. April 16 2025.">
 </a>
+
+
+
 
 
 
@@ -426,8 +428,13 @@
 
      
    <a href="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" alt="Ultimates #10. 5th of March 2025. Buy.">
+      <img src="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" alt="Ultimates #10. 5th of March 2025. Buy.">
    </a>
+
+   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" class="thumbnail">
+      <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" alt="Ultimates #11. 9 April.">
+    </a>
+
 
 
 
@@ -574,6 +581,11 @@
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Superman-6-1-25-RODREIS-min.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Superman-6-1-25-RODREIS-min.jpg?ssl=1" alt="Absolute Superman #6. 2 April.">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1742488858" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1742488858" alt="Catwoman 75. 16 April.">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3810936.jpg?1742488869">
 </a>
 
 
@@ -880,6 +892,17 @@
         <img src="https://m.media-amazon.com/images/I/61yXGBpwKNL._SL1076_.jpg" alt="Nights 14">
    </a>
 
+   <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM414-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM414-666x1024.jpg" alt="Transformers #19. 9 April.">
+</a>
+
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" alt="The Moon is Following us #8. 9 April.">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1065655/geiger-13_a862d51b5d.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1065655/geiger-13_a862d51b5d.jpg" alt="Geiger 13. 16 April.">
+</a>
 
 
 
@@ -1179,6 +1202,10 @@
     <img src="https://cdn.imagecomics.com/assets/i/releases/1066688/transformers-tp-vol-3_9a19521cbd.jpg" alt="Transformers vol 3">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/813xT6gCmZL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/813xT6gCmZL._SL1500_.jpg" alt="Immortal Thor vol 4">
+</a>
+
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6112798.jpg?1739010476" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6112798.jpg?1739010476" alt="Heat Seeker: Combustion">
 </a>
@@ -1233,6 +1260,38 @@
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1045042/domain-5-of-5_94df44c7cc.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1045042/domain-5-of-5_94df44c7cc.jpg" alt="The Domain">
+    </a>
+
+    <a href="https://images3.penguinrandomhouse.com/cover/9781302961589" class="thumbnail">
+        <img src="https://images3.penguinrandomhouse.com/cover/9781302961589" alt="Laura Kinney: Wolverine vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Phoenix-Vol.-1-Orbital-Resonance-TPB-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Phoenix-Vol.-1-Orbital-Resonance-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="Phoenix vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Phoenix-10-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Phoenix-10-2025.jpg?fit=400%2C608&ssl=1" alt="Phoenix vol 2">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/04/X-Factor-by-Mark-Russell-Vol.-1-Please-Like-And-Share-TPB-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/04/X-Factor-by-Mark-Russell-Vol.-1-Please-Like-And-Share-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="X-Factor vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/03/NYX-Vol.-1-What-Comes-Next-Will-Be-Marvelous-TPB-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/03/NYX-Vol.-1-What-Comes-Next-Will-Be-Marvelous-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="NYX vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Mu3gE3efL._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Mu3gE3efL._UF1000,1000_QL80_.jpg" alt="Black Lightning">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Red-Sonja-Vol.-1-His-Masters-Voice-TPB-2024.jpg?fit=400%2C616&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Red-Sonja-Vol.-1-His-Masters-Voice-TPB-2024.jpg?fit=400%2C616&ssl=1" alt="Red Sonja: His Master's Voice">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Star-Birth-Of-A-Dragon-TPB-2020.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Star-Birth-Of-A-Dragon-TPB-2020.jpg?fit=400%2C615&ssl=1" alt="Star: Birth of a Dragon">
     </a>
 
 
@@ -1290,8 +1349,8 @@
         <img src="https://i0.wp.com/i.annihil.us/u/prod/marvel/i/mg/9/60/62cf28372f4bb/clean.jpg?w=720&ssl=1" alt="Defenders: Beyond"/>
     </a>
 
-    <a href="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" class="thumbnail">
-        <img src="https://www.tfaw.com/media/catalog/product/cache/1626744db03ed6f05af295b1a820c9c8/7/5/75960620491500511_1.jpg" alt="I am Iron Man"/>
+    <a href="https://m.media-amazon.com/images/I/81a9kx6dnKL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81a9kx6dnKL._AC_UF1000,1000_QL80_.jpg" alt="I am Iron Man"/>
     </a>
 
 

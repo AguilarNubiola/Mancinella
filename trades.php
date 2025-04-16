@@ -40,6 +40,9 @@
 <div alt="reading now" align="center">
 
 
+    <a href="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" alt="Sunstone 1">
+    </a>
 
 
 </div>
@@ -49,6 +52,52 @@
 
 
 <div alt="Next up" align="center">
+
+
+    <a href="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" alt="Sunstone 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" alt="Sunstone 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" alt="Sunstone 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" alt="Sunstone 5">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" alt="Sunstone 6">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" alt="Sunstone 7">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" alt="Sunstone 8">
+    </a>
+
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Fine-Print-Vol.-1-2021.jpg?fit=400%2C614&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Fine-Print-Vol.-1-2021.jpg?fit=400%2C614&ssl=1" alt="Fine Print 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" alt="Fine Print 2">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Justice-Society-of-America-Vol.-1-The-New-Golden-Age-TPB-2024.jpg?fit=400%2C613&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Justice-Society-of-America-Vol.-1-The-New-Golden-Age-TPB-2024.jpg?fit=400%2C613&ssl=1" alt="Justice Society of America vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Justice-Society-of-America-Vol.-2-Long-Live-the-JSA-TPB-2025.jpg?fit=400%2C586&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Justice-Society-of-America-Vol.-2-Long-Live-the-JSA-TPB-2025.jpg?fit=400%2C586&ssl=1" alt="Justice Society of America vol 2">
+    </a>
 
 
 
@@ -73,15 +122,19 @@
 
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 16 april.">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 23 april.">
     </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1. 23 April.">
     </a>
 
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1052114/grommets-7-of-7_a906341578.jpg" alt="Grommets. 30 April.">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/X-Force-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/X-Force-8-2025.jpg?fit=400%2C608&ssl=1" alt="X-Force vol 2. 23 April.">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" alt="NYX vol 2. 30 April.">
     </a>
 
 </div>
@@ -91,33 +144,19 @@
 
 <div alt="May trades" align="center">
 
-<a href="" class="thumbnail">
-    <img src="" alt="Ultimates vol 2">
+<a href="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" alt="Ultimates vol 2">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="Magik vol 1">
+<a href="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" class="thumbnail">
+    <img src="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" alt="Magik vol 1">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="Cyberpunk Psycho Squad">
+<a href="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" alt="Cyberpunk Psycho Squad">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 
 </div>
@@ -128,25 +167,11 @@
 <div alt="June trades" align="center">
 
 
-<a href="" class="thumbnail">
-    <img src="" alt="Ultimate Wolverine vol 1">
+<a href="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" alt="Ultimate Wolverine vol 1">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 <a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" class="thumbnail">
     <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" alt="X-Men vol 3. 25/06/2025">
@@ -161,33 +186,6 @@
 
 <div alt="July trades" align="center">
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 
 </div>
@@ -198,33 +196,6 @@
 <div alt="August trades" align="center">
 
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 
 </div>

@@ -55,75 +55,27 @@
 </div>
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April 2nd</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April 23rd</b></p>
 
 
 <div alt="This week" align="center">
 
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" alt="Ultimates #11. 9 April.">
-</a>
 
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/UNCX2024013_Cov-677x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/UNCX2024013_Cov-677x1024.jpg" alt="Uncanny X-Men #13. 9 April.">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/STORM2024007_Cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/STORM2024007_Cov-scaled.jpg?ssl=1" alt="Storm #7. 9 April.">
-</a>
-
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM414-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM414-666x1024.jpg" alt="Transformers #19. 9 April.">
-</a>
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" alt="The Moon is Following us #8. 9 April.">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1065655/geiger-13_a862d51b5d.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1065655/geiger-13_a862d51b5d.jpg" alt="Geiger 13. 9 April.">
-</a>
-   
-
-</div>
-
-
-<div alt="Next week" align="center">
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" alt="Ultimate Wolverine #4. April 16 2025.">
-</a>
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" alt="Power Fantasy #8. 16 April.">
-</a>
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM422-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM422-666x1024.jpg" alt="W0rldtr33 #15. 16 April.">
-</a>
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" alt="G.I.Joe #6. 16 April.">
-</a>
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1742488858" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1742488858" alt="Catwoman 75. 16 April.">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3810936.jpg?1742488869">
 </a>
 
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" alt="Power Fantasy #8. 23 April.">
+</a>
 
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" alt="G.I.Joe #6. 23 April.">
+</a>
 
-</div>
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April</b></p>
-
-
-<div alt="April books" align="center">
 
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" class="thumbnail">
@@ -150,16 +102,35 @@
     <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" alt="Monstress #57. 23 April.">
 </a>
 
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" alt="Nights #15. 30 April.">
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7315505.jpg?1744058618" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7315505.jpg?1744058618" alt="X-Force #10. 23 April.">
 </a>
 
 
 
+</div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April 30th</b></p>
+
+
+
+<div alt="Next week" align="center">
+
+
+
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" alt="Nights #15. 30 April.">
+</a>
+
+<a href="https://preview.redd.it/nyx-april-2025-solicit-v0-cpzfgxjtkxee1.jpg?width=640&crop=smart&auto=webp&s=6af24e6150a999557f120757d7304aebdbbbd1e8" class="thumbnail">
+    <img src="https://preview.redd.it/nyx-april-2025-solicit-v0-cpzfgxjtkxee1.jpg?width=640&crop=smart&auto=webp&s=6af24e6150a999557f120757d7304aebdbbbd1e8" alt="NYX #10. 30 April.">
+</a>
 
 
 </div>
+
+
+
 
 
 
@@ -309,6 +280,10 @@
 
 <a href="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" alt="Ultimate X-Men 16. 11/06/2025">
+</a>
+
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM422-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM422-666x1024.jpg" alt="W0rldtr33 #15. 11 juni.">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
