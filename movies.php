@@ -42,6 +42,9 @@
 
 
 
+
+
+
 </div>
 
 
@@ -63,9 +66,6 @@
         <img src="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" alt="The Crow">
     </a>
 
-    <a href="https://luisterboekenreviews.nl/wp-content/uploads/2025/03/the-electric-state-netflix-film.jpg.webp" class="thumbnail">
-        <img src="https://luisterboekenreviews.nl/wp-content/uploads/2025/03/the-electric-state-netflix-film.jpg.webp" alt="The Electric State">
-    </a>
 
     <a href="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" class="thumbnail">
         <img src="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" alt="The Death of Stalin">
@@ -123,8 +123,8 @@
     <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina. 05/06/2025.">
 </a>
 
-<a href="https://upload.wikimedia.org/wikipedia/en/7/70/M3GAN_2.0_Theatrical_Poster.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/7/70/M3GAN_2.0_Theatrical_Poster.jpg" alt="M3egan 2.0. 27/06/2025.">
+<a href="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg" alt="M3egan 2.0. 27/06/2025.">
 </a>
 
 <a href="https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg" class="thumbnail">
@@ -238,8 +238,8 @@
          <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" alt="Mickey 17">
     </a>
 
-    <a href="https://image-5.uhdpaper.com/wallpaper/harley-quinn-series-harley-quinn-poison-ivy-bane-king-shark-clayface-4k-wallpaper-uhdpaper.com-486@5@c.jpg" class="thumbnail">
-        <img src="https://image-5.uhdpaper.com/wallpaper/harley-quinn-series-harley-quinn-poison-ivy-bane-king-shark-clayface-4k-wallpaper-uhdpaper.com-486@5@c.jpg" alt="Harley Quinn Season 5">
+    <a href="https://i0.wp.com/batman-news.com/wp-content/uploads/2025/01/Harley-Quinn-Season-5-Poster-Featured-01.jpg?fit=1280%2C720&quality=80&strip=info&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/batman-news.com/wp-content/uploads/2025/01/Harley-Quinn-Season-5-Poster-Featured-01.jpg?fit=1280%2C720&quality=80&strip=info&ssl=1" alt="Harley Quinn Season 5">
     </a>
 
     <a href="https://www.kokcinemaxx.nl/wp-content/uploads/sites/2/2025/02/Novocaine_133842796829966397_big-2.jpg" class="thumbnail">
@@ -249,6 +249,16 @@
     <a href="https://a.storyblok.com/f/178900/960x540/43c13e7906/devil-may-cry-mir.jpg/m/filters:quality(95)format(webp)" class="thumbnail">
         <img src="https://a.storyblok.com/f/178900/960x540/43c13e7906/devil-may-cry-mir.jpg/m/filters:quality(95)format(webp)" alt="Devil may cry">
     </a>
+
+    <a href="https://m.media-amazon.com/images/M/MV5BYmU3ODczN2EtNjc3My00ZWM5LWJlYzYtN2M0OWQzNmZiNzE3XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BYmU3ODczN2EtNjc3My00ZWM5LWJlYzYtN2M0OWQzNmZiNzE3XkEyXkFqcGc@._V1_.jpg" alt="Black Bag">
+    </a>
+
+    <a href="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/img_0090_32.jpeg" class="thumbnail">
+        <img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/img_0090_32.jpeg" alt="Daredevil Born Again">
+    </a>
+
+
 
 </di>
 
@@ -330,8 +340,8 @@
 
 <div alt="Best movie and tv show so far" align="center">
 
-<a href="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" class="thumbnail">
-    <img src="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" alt="Best film so far. Nosferatu.">
+<a href="https://images.nu.nl/m/grdx86ga1mtx_wd1280/0/92/2344/1319/michael-b-jordan-speelt-twee-broers-in-nieuwe-horror-sinners.jpg" class="thumbnail">
+    <img src="https://images.nu.nl/m/grdx86ga1mtx_wd1280/0/92/2344/1319/michael-b-jordan-speelt-twee-broers-in-nieuwe-horror-sinners.jpg" alt="Best film so far. Sinners.">
 </a>
 
 <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" class="thumbnail">
@@ -379,9 +389,7 @@
 
 
 
-<a href="https://i0.wp.com/invader.be/wp-content/uploads/2024/09/devil-may-cry-netflix-2.jpg?fit=686%2C386&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/invader.be/wp-content/uploads/2024/09/devil-may-cry-netflix-2.jpg?fit=686%2C386&ssl=1" alt="Devil May Cry. April.">
-</a>
+
 
 
 </div>
