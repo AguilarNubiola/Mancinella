@@ -1294,6 +1294,30 @@
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Star-Birth-Of-A-Dragon-TPB-2020.jpg?fit=400%2C615&ssl=1" alt="Star: Birth of a Dragon">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81W3RCb8dpL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81W3RCb8dpL._AC_UF1000,1000_QL80_.jpg" alt="Logan's Run: Aftermath">
+    </a>
+
+    <a href="https://storage.googleapis.com/images.pricecharting.com/k577rl3dxmxotgv7/1600.jpg" class="thumbnail">
+        <img src="https://storage.googleapis.com/images.pricecharting.com/k577rl3dxmxotgv7/1600.jpg" alt="Challengers of the Unknown">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Justice-Society-of-America-Vol.-1-The-New-Golden-Age-TPB-2024.jpg?fit=400%2C613&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Justice-Society-of-America-Vol.-1-The-New-Golden-Age-TPB-2024.jpg?fit=400%2C613&ssl=1" alt="Justice Society of America vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Justice-Society-of-America-Vol.-2-Long-Live-the-JSA-TPB-2025.jpg?fit=400%2C586&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Justice-Society-of-America-Vol.-2-Long-Live-the-JSA-TPB-2025.jpg?fit=400%2C586&ssl=1" alt="Justice Society of America vol 2">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2015/03/Giant-Size-X-Men-1-Free-Download.jpg?fit=480%2C733&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2015/03/Giant-Size-X-Men-1-Free-Download.jpg?fit=480%2C733&ssl=1" alt="Giant-Size X-Men">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/Hack-Slash-Body-Bags-3-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/Hack-Slash-Body-Bags-3-2025.jpg?fit=400%2C615&ssl=1" alt="Hack & Slash: Body Bags">
+    </a>
+
 
 
 

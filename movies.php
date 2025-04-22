@@ -39,6 +39,11 @@
         <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81UEsqer-sL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81UEsqer-sL._AC_UF894,1000_QL80_.jpg" alt="I saw the Devil">
+    </a>
+
+
 
 
 
@@ -55,6 +60,21 @@
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Next up</b></p>
 
+<div alt="Next up" align="center">
+
+
+    <a href="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Violet Evergarden">
+    </a>
+
+
+    <a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16585635_b_v13_aa.jpg" class="thumbnail">
+        <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16585635_b_v13_aa.jpg" alt="Warrior season 1">
+    </a>
+
+    <a href="https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQdAw3VD040auHtFBxQW8AHzFcUjBEIuuV210rNJ2B0VZEIWFXnG5lBUYk9Wx0A-PWTfu-MoZwrVeOK-ONREAgyrGI2CEbx0RCf4ulrAweTuzsy2u-6RK4MrodCWWXiklqDw92BnKuDzkxR3t7TcAj5vDGg4.jpg?r=317" class="thumbnail">
+        <img src="https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQdAw3VD040auHtFBxQW8AHzFcUjBEIuuV210rNJ2B0VZEIWFXnG5lBUYk9Wx0A-PWTfu-MoZwrVeOK-ONREAgyrGI2CEbx0RCf4ulrAweTuzsy2u-6RK4MrodCWWXiklqDw92BnKuDzkxR3t7TcAj5vDGg4.jpg?r=317" alt="Black Mirror season 7">
+    </a>
 
 
 
@@ -70,18 +90,6 @@
     <a href="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" class="thumbnail">
         <img src="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" alt="The Death of Stalin">
     </a>
-
-    <a href="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Violet Evergarden">
-    </a>
-
-
-
- 
-<div alt="Next up" align="center">
-
-
-
 
 
 
@@ -258,6 +266,14 @@
         <img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/img_0090_32.jpeg" alt="Daredevil Born Again">
     </a>
 
+    <a href="https://images.nu.nl/m/grdx86ga1mtx_wd1280/0/92/2344/1319/michael-b-jordan-speelt-twee-broers-in-nieuwe-horror-sinners.jpg" class="thumbnail">
+        <img src="https://images.nu.nl/m/grdx86ga1mtx_wd1280/0/92/2344/1319/michael-b-jordan-speelt-twee-broers-in-nieuwe-horror-sinners.jpg" alt="Best film so far. Sinners.">
+    </a>
+
+    <a href="https://i-viaplay-com.akamaized.net/viaplay-prod/337/444/1478087432-998efce39293afab93d25f9f9ee7196c3d3e8e57.jpg?width=400&height=600" class="thumbnail">
+        <img src="https://i-viaplay-com.akamaized.net/viaplay-prod/337/444/1478087432-998efce39293afab93d25f9f9ee7196c3d3e8e57.jpg?width=400&height=600" alt="Patriot">
+    </a>
+
 
 
 </di>
@@ -421,13 +437,13 @@
 </a>
 
 
-<a href="https://m.media-amazon.com/images/M/MV5BNmYzMWVjNmQtNjJjNy00M2Y4LTkzZjQtZWQ5NmYzMjRjMDIzXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNmYzMWVjNmQtNjJjNy00M2Y4LTkzZjQtZWQ5NmYzMjRjMDIzXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg" alt="Furiosa">
+<a href="https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg" alt="Furiosa">
 </a>
 
 
-<a href="https://media.pathe.nl/nocropthumb/620x955/gfx_content/posters/Love-Lies-Bleeding_ps_1_jpg_sd-low%20(1).jpg" class="thumbnail">
-    <img src="https://media.pathe.nl/nocropthumb/620x955/gfx_content/posters/Love-Lies-Bleeding_ps_1_jpg_sd-low%20(1).jpg" alt="Love Lies Bleeding">
+<a href="https://upload.wikimedia.org/wikipedia/en/d/dc/Love_lies_bleeding_poster.jpg" class="thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Love_lies_bleeding_poster.jpg" alt="Love Lies Bleeding">
 </a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">

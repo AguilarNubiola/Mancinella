@@ -40,8 +40,8 @@
 <div alt="reading now" align="center">
 
 
-    <a href="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" alt="Sunstone 1">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2015/10/Body-Bags-Collection.jpg?fit=480%2C739&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2015/10/Body-Bags-Collection.jpg?fit=480%2C739&ssl=1" alt="Body Bags">
     </a>
 
 
@@ -52,6 +52,37 @@
 
 
 <div alt="Next up" align="center">
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/08/Fantastic-Four-by-Ryan-North-Vol.-1-Whatever-Happened-to-the-Fantastic-Four-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/08/Fantastic-Four-by-Ryan-North-Vol.-1-Whatever-Happened-to-the-Fantastic-Four-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fantastic-Four-by-Ryan-North-Vol.-2-Four-Stories-About-Hope-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fantastic-Four-by-Ryan-North-Vol.-2-Four-Stories-About-Hope-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 2">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/10/Bitter-Root-Omnibus-Book-1-2023.jpg?fit=400%2C600&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/10/Bitter-Root-Omnibus-Book-1-2023.jpg?fit=400%2C600&ssl=1" alt="Bitter Root">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Fantastic-Four-by-Ryan-North-Vol.-3-The-Impossible-Is-Probable-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Fantastic-Four-by-Ryan-North-Vol.-3-The-Impossible-Is-Probable-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 3">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Fantastic-Four-by-Ryan-North-Vol.-4-Fortune-Favors-The-Fantastic-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Fantastic-Four-by-Ryan-North-Vol.-4-Fortune-Favors-The-Fantastic-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 4">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Fantastic-Four-by-Ryan-North-Vol.-5-Aliens-Ghosts-And-Alternate-Earths-TPB-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Fantastic-Four-by-Ryan-North-Vol.-5-Aliens-Ghosts-And-Alternate-Earths-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 5">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" alt="Sunstone 1">
+    </a>
+
+
+
 
 
     <a href="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" class="thumbnail">
@@ -91,13 +122,7 @@
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" alt="Fine Print 2">
     </a>
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Justice-Society-of-America-Vol.-1-The-New-Golden-Age-TPB-2024.jpg?fit=400%2C613&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/03/Justice-Society-of-America-Vol.-1-The-New-Golden-Age-TPB-2024.jpg?fit=400%2C613&ssl=1" alt="Justice Society of America vol 1">
-    </a>
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Justice-Society-of-America-Vol.-2-Long-Live-the-JSA-TPB-2025.jpg?fit=400%2C586&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/03/Justice-Society-of-America-Vol.-2-Long-Live-the-JSA-TPB-2025.jpg?fit=400%2C586&ssl=1" alt="Justice Society of America vol 2">
-    </a>
 
 
 
