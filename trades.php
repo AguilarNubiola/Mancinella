@@ -40,9 +40,6 @@
 <div alt="reading now" align="center">
 
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2015/10/Body-Bags-Collection.jpg?fit=480%2C739&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2015/10/Body-Bags-Collection.jpg?fit=480%2C739&ssl=1" alt="Body Bags">
-    </a>
 
 
 </div>
@@ -53,9 +50,6 @@
 
 <div alt="Next up" align="center">
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/08/Fantastic-Four-by-Ryan-North-Vol.-1-Whatever-Happened-to-the-Fantastic-Four-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/08/Fantastic-Four-by-Ryan-North-Vol.-1-Whatever-Happened-to-the-Fantastic-Four-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 1">
-    </a>
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fantastic-Four-by-Ryan-North-Vol.-2-Four-Stories-About-Hope-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fantastic-Four-by-Ryan-North-Vol.-2-Four-Stories-About-Hope-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 2">
@@ -146,17 +140,7 @@
 <div alt="April trades" align="center">
 
 
-    <a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 23 april.">
-    </a>
 
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1. 23 April.">
-    </a>
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/X-Force-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/X-Force-8-2025.jpg?fit=400%2C608&ssl=1" alt="X-Force vol 2. 23 April.">
-    </a>
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" alt="NYX vol 2. 30 April.">
@@ -268,8 +252,29 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comic Rushmore</b></p>
 
+<div alt="Comic book franchise Rushmore" align="center">
 
-<div alt="Comic Rushmore" align="center">
+<a href="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/X-Men-Hickman-Featured-1710x900.jpg" class="thumbnail">
+    <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/X-Men-Hickman-Featured-1710x900.jpg" alt="X-Men">
+</a>
+
+</a><a href="https://m.media-amazon.com/images/I/71P2EnT1VVL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71P2EnT1VVL._AC_UF1000,1000_QL80_.jpg" alt="Sunstone">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" alt="Monstress">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
+</a>
+
+
+</div>
+
+
+<div alt="Single book Rushmore" align="center">
 
 <a href="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" alt="Low">

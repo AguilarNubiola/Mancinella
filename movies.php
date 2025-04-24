@@ -39,8 +39,8 @@
         <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81UEsqer-sL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81UEsqer-sL._AC_UF894,1000_QL80_.jpg" alt="I saw the Devil">
+    <a href="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" class="thumbnail">
+        <img src="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" alt="Cool World">
     </a>
 
 
@@ -77,10 +77,6 @@
     </a>
 
 
-
-    <a href="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" class="thumbnail">
-        <img src="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" alt="Cool World">
-    </a>
 
     <a href="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" class="thumbnail">
         <img src="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" alt="The Crow">
@@ -273,6 +269,11 @@
     <a href="https://i-viaplay-com.akamaized.net/viaplay-prod/337/444/1478087432-998efce39293afab93d25f9f9ee7196c3d3e8e57.jpg?width=400&height=600" class="thumbnail">
         <img src="https://i-viaplay-com.akamaized.net/viaplay-prod/337/444/1478087432-998efce39293afab93d25f9f9ee7196c3d3e8e57.jpg?width=400&height=600" alt="Patriot">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/81UEsqer-sL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81UEsqer-sL._AC_UF894,1000_QL80_.jpg" alt="I saw the Devil">
+    </a>
+
 
 
 

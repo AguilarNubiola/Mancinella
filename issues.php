@@ -61,19 +61,8 @@
 <div alt="This week" align="center">
 
 
-
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1742488858" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9241719.jpg?1742488858" alt="Catwoman 75. 16 April.">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3810936.jpg?1742488869">
-</a>
-
 <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" class="thumbnail">
     <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" alt="Power Fantasy #8. 23 April.">
-</a>
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" alt="G.I.Joe #6. 23 April.">
 </a>
 
 
@@ -83,9 +72,6 @@
 </a>
 
 
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" alt="X-Men #15. 23 April.">
-</a>
 
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" alt="Absolute Wonder Woman #7. 23 April.">
@@ -98,13 +84,7 @@
 </a>
 
 
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" alt="Monstress #57. 23 April.">
-</a>
 
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7315505.jpg?1744058618" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7315505.jpg?1744058618" alt="X-Force #10. 23 April.">
-</a>
 
 
 

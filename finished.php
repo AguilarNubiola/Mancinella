@@ -355,6 +355,14 @@
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTWOLV2025004_Cover.jpg?ssl=1" alt="Ultimate Wolverine #4. April 16 2025.">
 </a>
 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7315505.jpg?1744058618" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7315505.jpg?1744058618" alt="X-Force #10. 23 April.">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" alt="X-Men #15. 23 April.">
+</a>
+
 
 
 
@@ -904,10 +912,19 @@
     <img src="https://cdn.imagecomics.com/assets/i/releases/1065655/geiger-13_a862d51b5d.jpg" alt="Geiger 13. 16 April.">
 </a>
 
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" alt="G.I.Joe #6. 23 April.">
+</a>
+
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" alt="Monstress #57. 23 April.">
+</a>
 
 
 
-</div>
+
+
+</div alt="Image comics end">
 
 
 
@@ -958,8 +975,8 @@
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Into-the-Unbeing-1-2024.jpg?fit=400%2C615&ssl=1" alt="Into the Unbeing #1">
     </a>
 
-    <a href="https://madcavestudios.com/wp-content/uploads/2024/06/Dark-Empty-Void-1-Cover-A-437x668-1.jpg" class="thumbnail">
-        <img src="https://madcavestudios.com/wp-content/uploads/2024/06/Dark-Empty-Void-1-Cover-A-437x668-1.jpg" alt="Dark Empty Void #1">
+    <a href="https://www.shortboxcomics.nl/cdn/shop/files/6a_1088059_0_DarkEmptyVoid1B.jpg?v=1738249254" class="thumbnail">
+        <img src="https://www.shortboxcomics.nl/cdn/shop/files/6a_1088059_0_DarkEmptyVoid1B.jpg?v=1738249254" alt="Dark Empty Void #1">
     </a>
 
     <a href="https://media.s-bol.com/DRYWgDLL5Dxy/908x1200.jpg" class="thumbnail">
@@ -1318,6 +1335,34 @@
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/Hack-Slash-Body-Bags-3-2025.jpg?fit=400%2C615&ssl=1" alt="Hack & Slash: Body Bags">
     </a>
 
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2015/10/Body-Bags-Collection.jpg?fit=480%2C739&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2015/10/Body-Bags-Collection.jpg?fit=480%2C739&ssl=1" alt="Body Bags">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/08/Fantastic-Four-by-Ryan-North-Vol.-1-Whatever-Happened-to-the-Fantastic-Four-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/08/Fantastic-Four-by-Ryan-North-Vol.-1-Whatever-Happened-to-the-Fantastic-Four-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91mPzIGG1yL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91mPzIGG1yL._SL1500_.jpg" alt="X-Force vol 2">
+    </a>
+
+    
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 23 april.">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" alt="Absolute Wonder Woman vol 1. 23 April.">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/11/String-1-2024.jpg?fit=400%2C611&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/11/String-1-2024.jpg?fit=400%2C611&ssl=1" alt="String">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/915pUxUCPKL._UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/915pUxUCPKL._UF894,1000_QL80_.jpg" alt="Into the unbeing">
+    </a>
 
 
 
@@ -1325,7 +1370,8 @@
 
 
 
-</div>
+
+</div alt="2025 trades end">
 
 
 
