@@ -1364,6 +1364,71 @@
         <img src="https://m.media-amazon.com/images/I/915pUxUCPKL._UF894,1000_QL80_.jpg" alt="Into the unbeing">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/91yiGpCdDML._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91yiGpCdDML._AC_UF894,1000_QL80_.jpg" alt="Paranoid Gardens">
+    </a>
+
+    <a href="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2025/02/SABRETDDT2024003_Preview-page-001.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2025/02/SABRETDDT2024003_Preview-page-001.jpg?ssl=1" alt="Sabretooth: The Dead don't talk">
+    </a>
+
+    <a href="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/superman_and_the_authority_vol_1_1.jpg" class="thumbnail">
+        <img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/superman_and_the_authority_vol_1_1.jpg" alt="Superman and the Authority">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81rlH1DodBL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81rlH1DodBL._SL1500_.jpg" alt="Scorched vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2020/06/Bitter-Root-Vol.-1-Family-Business-TPB-2019.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2020/06/Bitter-Root-Vol.-1-Family-Business-TPB-2019.jpg?fit=400%2C615&ssl=1" alt="Bitter Root vol 1">
+    </a>
+
+    <a href="https://a.media-amazon.com/images/I/81aXS8YQKNL._SL1500_.jpg" class="thumbnail">
+        <img src="https://a.media-amazon.com/images/I/81aXS8YQKNL._SL1500_.jpg" alt="Bitter Root vol 2">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2022/01/Bitter-Root-Vol.-3-Legacy-TPB-2021.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/01/Bitter-Root-Vol.-3-Legacy-TPB-2021.jpg?fit=400%2C615&ssl=1" alt="Bitter Root vol 3">
+    </a>
+
+
+    <a href="" class="thumbnail">
+        <img src="" alt="x-Men: Supernovas">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Sunstone vol 1">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Sunstone vol 2">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Sunstone vol 3">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Sunstone vol 4">
+    </a>
+
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Sunstone vol 5">
+    </a>
+
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Fine Print vol 1">
+    </a>
+
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Fine Print vol 2">
+    </a>
+
+
 
 
 

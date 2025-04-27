@@ -51,33 +51,11 @@
 <div alt="Next up" align="center">
 
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fantastic-Four-by-Ryan-North-Vol.-2-Four-Stories-About-Hope-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fantastic-Four-by-Ryan-North-Vol.-2-Four-Stories-About-Hope-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 2">
-    </a>
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/10/Bitter-Root-Omnibus-Book-1-2023.jpg?fit=400%2C600&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/10/Bitter-Root-Omnibus-Book-1-2023.jpg?fit=400%2C600&ssl=1" alt="Bitter Root">
-    </a>
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Fantastic-Four-by-Ryan-North-Vol.-3-The-Impossible-Is-Probable-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Fantastic-Four-by-Ryan-North-Vol.-3-The-Impossible-Is-Probable-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 3">
-    </a>
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Fantastic-Four-by-Ryan-North-Vol.-4-Fortune-Favors-The-Fantastic-TPB-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Fantastic-Four-by-Ryan-North-Vol.-4-Fortune-Favors-The-Fantastic-TPB-2024.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 4">
-    </a>
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Fantastic-Four-by-Ryan-North-Vol.-5-Aliens-Ghosts-And-Alternate-Earths-TPB-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Fantastic-Four-by-Ryan-North-Vol.-5-Aliens-Ghosts-And-Alternate-Earths-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="Fantastic Four vol 5">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" alt="Sunstone 1">
     </a>
-
-
-
-
 
     <a href="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" alt="Sunstone 2">
@@ -139,7 +117,9 @@
 
 <div alt="April trades" align="center">
 
-
+    <a href="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" class="thumbnail">
+        <img src="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" alt="Question: All Along the Watchtower">
+    </a>
 
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
@@ -165,6 +145,11 @@
     <img src="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" alt="Cyberpunk Psycho Squad">
 </a>
 
+    <a href="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" class="thumbnail">
+        <img src="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" alt="Metamorpho: Element Man vol 1">
+    </a>
+
+
 
 
 
@@ -188,6 +173,19 @@
 </a>
 
 
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Batman-by-Grant-Morrison-Book-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Batman-by-Grant-Morrison-Book-1-2024.jpg?fit=400%2C615&ssl=1" alt="Batman Book 1">
+    </a> 
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Batman book 2">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Batman book 3">
+    </a>
+
+
 </div>
 
 
@@ -195,6 +193,10 @@
 
 <div alt="July trades" align="center">
 
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men vol 3">
+    </a>
 
 
 </div>
@@ -291,6 +293,33 @@
 <a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
 </a>
+
+
+</div>
+
+<div alt="" align="center">
+
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Deniz Camp">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+
+
+
+
 
 
 </div>

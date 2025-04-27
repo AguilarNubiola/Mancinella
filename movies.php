@@ -39,9 +39,7 @@
         <img src="https://media.npr.org/assets/img/2020/05/13/perfuma-frosta-adora-scorpia-bow-172c308964d8175af664f6c5913bf7060a06fe6c.jpg" alt="She-Ra">
     </a>
 
-    <a href="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" class="thumbnail">
-        <img src="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" alt="Cool World">
-    </a>
+
 
 
 
@@ -72,9 +70,6 @@
         <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16585635_b_v13_aa.jpg" alt="Warrior season 1">
     </a>
 
-    <a href="https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQdAw3VD040auHtFBxQW8AHzFcUjBEIuuV210rNJ2B0VZEIWFXnG5lBUYk9Wx0A-PWTfu-MoZwrVeOK-ONREAgyrGI2CEbx0RCf4ulrAweTuzsy2u-6RK4MrodCWWXiklqDw92BnKuDzkxR3t7TcAj5vDGg4.jpg?r=317" class="thumbnail">
-        <img src="https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQdAw3VD040auHtFBxQW8AHzFcUjBEIuuV210rNJ2B0VZEIWFXnG5lBUYk9Wx0A-PWTfu-MoZwrVeOK-ONREAgyrGI2CEbx0RCf4ulrAweTuzsy2u-6RK4MrodCWWXiklqDw92BnKuDzkxR3t7TcAj5vDGg4.jpg?r=317" alt="Black Mirror season 7">
-    </a>
 
 
 
@@ -116,7 +111,7 @@
 <div alt="2025 films" align="center">
 
 <a href="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" alt="Thunderbolts. 02/05/2025.">
+    <img src="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" alt="Thunderbolts. 30/04/2025.">
 </a>
 
 <a href="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" class="thumbnail">
@@ -274,6 +269,17 @@
         <img src="https://m.media-amazon.com/images/I/81UEsqer-sL._AC_UF894,1000_QL80_.jpg" alt="I saw the Devil">
     </a>
 
+    <a href="https://www.whats-on-netflix.com/wp-content/uploads/2025/03/black-mirror-season-7-everything-we-know.jpg" class="thumbnail">
+        <img src="https://www.whats-on-netflix.com/wp-content/uploads/2025/03/black-mirror-season-7-everything-we-know.jpg" alt="Black Mirror season 7">
+    </a>
+
+    <a href="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" class="thumbnail">
+        <img src="https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2024/06/coolworld.jpg" alt="Cool World">
+    </a>
+
+    <a href="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Warfare_film_poster.jpg/250px-Warfare_film_poster.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Warfare_film_poster.jpg/250px-Warfare_film_poster.jpg" alt="Warfare">
+    </a>
 
 
 
