@@ -443,10 +443,15 @@
       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" alt="Ultimates #11. 9 April.">
     </a>
 
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" alt="Avengers #25. 23 April.">
+    </a>
 
 
 
-</div>
+
+
+</div alt="non-x marvel titles end">
 
 
 
@@ -596,11 +601,22 @@
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3810936.jpg?1742488869">
 </a>
 
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" alt="Absolute Wonder Woman #7. 23 April.">
+</a>
+
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" alt="Absolute Martian Manhunter #2. 23 April.">
+</a>
 
 
 
 
-</div>
+
+
+</div alt="DC comics end">
 
 
 
@@ -918,6 +934,10 @@
 
 <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" class="thumbnail">
     <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" alt="Monstress #57. 23 April.">
+</a>
+
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" alt="Power Fantasy #8. 23 April.">
 </a>
 
 
@@ -1393,40 +1413,22 @@
     </a>
 
 
-    <a href="" class="thumbnail">
-        <img src="" alt="x-Men: Supernovas">
+    <a href="https://images.squarespace-cdn.com/content/v1/5ce031f1bda424000105c7e2/1562120588656-TDCVHT0WSX826RC77IQ4/roguebachalo.jpg" class="thumbnail">
+        <img src="https://images.squarespace-cdn.com/content/v1/5ce031f1bda424000105c7e2/1562120588656-TDCVHT0WSX826RC77IQ4/roguebachalo.jpg" alt="x-Men: Supernovas">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Sunstone vol 1">
+    <a href="https://m.media-amazon.com/images/I/81zKrnD0PcL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81zKrnD0PcL._AC_UF894,1000_QL80_.jpg" alt="Weapon X">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Sunstone vol 2">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Fine-Print-Vol.-1-2021.jpg?fit=400%2C614&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Fine-Print-Vol.-1-2021.jpg?fit=400%2C614&ssl=1" alt="Fine Print 1">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Sunstone vol 3">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" alt="Fine Print 2">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Sunstone vol 4">
-    </a>
-
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Sunstone vol 5">
-    </a>
-
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Fine Print vol 1">
-    </a>
-
-
-    <a href="" class="thumbnail">
-        <img src="" alt="Fine Print vol 2">
-    </a>
 
 
 

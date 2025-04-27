@@ -39,7 +39,9 @@
 
 <div alt="reading now" align="center">
 
-
+<a href="https://m.media-amazon.com/images/I/81-QNAppaPL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81-QNAppaPL._SL1500_.jpg" alt="Ultimate Marvel by Hickman">
+    </a>
 
 
 </div>
@@ -50,6 +52,49 @@
 
 <div alt="Next up" align="center">
 
+    <a href="https://m.media-amazon.com/images/I/91N8saM4HdL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91N8saM4HdL._SL1500_.jpg" alt="Made in Abyss 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91sdkELx9sL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91sdkELx9sL._SL1500_.jpg" alt="Made in Abyss 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91y0UE7YiwL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91y0UE7YiwL._SL1500_.jpg" alt="Made in Abyss 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81ki6Lg7M3L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81ki6Lg7M3L._SL1500_.jpg" alt="Made in Abyss 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81wFcEnA3PL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81wFcEnA3PL._SL1500_.jpg" alt="Made in Abyss 5">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91DqlasB5eL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91DqlasB5eL._SL1500_.jpg" alt="Made in Abyss 6">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81gcoa9OYCL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81gcoa9OYCL._SL1500_.jpg" alt="Made in Abyss 7">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81kGMzcXIhL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81kGMzcXIhL._SL1500_.jpg" alt="Made in Abyss 8">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71KjjTdFOjL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71KjjTdFOjL._SL1500_.jpg" alt="Made in Abyss 9">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81SHA1cbU+L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81SHA1cbU+L._SL1500_.jpg" alt="Made in Abyss 10">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81h870U5bDL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81h870U5bDL._SL1500_.jpg" alt="Made in Abyss 11">
+    </a>
 
 
 
@@ -86,13 +131,7 @@
     </a>
 
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Fine-Print-Vol.-1-2021.jpg?fit=400%2C614&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2021/10/Fine-Print-Vol.-1-2021.jpg?fit=400%2C614&ssl=1" alt="Fine Print 1">
-    </a>
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" alt="Fine Print 2">
-    </a>
+    
 
 
 
@@ -172,18 +211,16 @@
     <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg?w=1480&ssl=1&ezimgfmt=ng:webp/ngcb4">
 </a>
 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8080634.jpg?1743392898" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8080634.jpg?1743392898" alt="X-Men vol 3">
+</a>
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Batman-by-Grant-Morrison-Book-1-2024.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/10/Batman-by-Grant-Morrison-Book-1-2024.jpg?fit=400%2C615&ssl=1" alt="Batman Book 1">
-    </a> 
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" alt="The Moon is Following us">
+</a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Batman book 2">
-    </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Batman book 3">
-    </a>
+
 
 
 </div>
@@ -198,6 +235,18 @@
         <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men vol 3">
     </a>
 
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" alt="Immortal Thor vol 5">
+    </a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9869143.jpg?1745589440" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9869143.jpg?1745589440" alt="Storm vol 2">
+</a>
+
 
 </div>
 
@@ -206,11 +255,61 @@
 
 <div alt="August trades" align="center">
 
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
 
 
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>September trades</b></p>
+
+<div alt="August trades" align="center">
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>October trades</b></p>
+
+<div alt="August trades" align="center">
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+
+</div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>November trades</b></p>
+
+<div alt="August trades" align="center">
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
+
+<div alt="August trades" align="center">
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" alt="Fine Print vol 3. 16/12/2025">
+</a>
+
+
+</div>
 
 
 

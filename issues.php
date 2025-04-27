@@ -55,46 +55,10 @@
 </div>
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April 23rd</b></p>
-
-
-<div alt="This week" align="center">
-
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" alt="Power Fantasy #8. 23 April.">
-</a>
-
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" alt="Avengers #25. 23 April.">
-</a>
-
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Wonder-Woman-7-Murakami.jpg?ssl=1" alt="Absolute Wonder Woman #7. 23 April.">
-</a>
-
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" alt="Absolute Martian Manhunter #2. 23 April.">
-</a>
-
-
-
-
-
-
-</div>
-
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April 30th</b></p>
 
 
-
-<div alt="Next week" align="center">
+<div alt="This week" align="center">
 
 
 
@@ -106,24 +70,23 @@
     <img src="https://preview.redd.it/nyx-april-2025-solicit-v0-cpzfgxjtkxee1.jpg?width=640&crop=smart&auto=webp&s=6af24e6150a999557f120757d7304aebdbbbd1e8" alt="NYX #10. 30 April.">
 </a>
 
+<a href="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" class="thumbnail">
+    <img src="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" alt="Bitter Root: The Next Movement #2">
+</a>
+
+
+
+
+
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 7th</b></p>
 
 
 
+<div alt="Next week" align="center">
 
-
-
-
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May</p>
-
-
-<div alt="" align="center">
 
 <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" class="thumbnail">
     <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" alt="I Heart Skull-Crusher! #9. 07/05/2025.">
@@ -157,6 +120,27 @@
    <a href="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" alt="Psylocke #7. 07/05/2025.">
    </a>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May</p>
+
+
+<div alt="" align="center">
+
 
 
    <a href="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" class="thumbnail">
