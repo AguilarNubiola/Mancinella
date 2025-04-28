@@ -39,9 +39,6 @@
 
 <div alt="reading now" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81-QNAppaPL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81-QNAppaPL._SL1500_.jpg" alt="Ultimate Marvel by Hickman">
-    </a>
 
 
 </div>
@@ -208,12 +205,9 @@
 
 <a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" class="thumbnail">
     <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" alt="X-Men vol 3. 25/06/2025">
-    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg?w=1480&ssl=1&ezimgfmt=ng:webp/ngcb4">
 </a>
 
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8080634.jpg?1743392898" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-8080634.jpg?1743392898" alt="X-Men vol 3">
-</a>
+
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" alt="The Moon is Following us">

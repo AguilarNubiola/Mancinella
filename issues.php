@@ -74,6 +74,10 @@
     <img src="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" alt="Bitter Root: The Next Movement #2">
 </a>
 
+<a href="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/10/The_Question_AATW_1_05_300_colors_revised2_CMYK-copy-2.jpg" class="thumbnail">
+    <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/10/The_Question_AATW_1_05_300_colors_revised2_CMYK-copy-2.jpg" alt="Question: All Along the Watchtower #6">
+</a>
+
 
 
 

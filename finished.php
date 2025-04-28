@@ -1231,8 +1231,8 @@
     <img src="https://cdn.archonia.com/images/1-104446950-1-1-original1/power-rangers-prime-tp-trade-paperback.jpg" alt="Power Rangers Prime vol 1">
 </a>
 
-<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" class="thumbnail">
-    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/2/0225DC245.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
+<a href="https://m.media-amazon.com/images/I/91cnZacWb9L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91cnZacWb9L._AC_UF894,1000_QL80_.jpg" alt="Birds of Prey vol 3, Undercover (#19). March 5.">
 </a>
 
 <a href="https://cdn.imagecomics.com/assets/i/releases/1066688/transformers-tp-vol-3_9a19521cbd.jpg" class="thumbnail">
@@ -1428,6 +1428,16 @@
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/01/Fine-Print-Vol.-2-2024.jpg?fit=400%2C614&ssl=1" alt="Fine Print 2">
     </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81wuXqme6wL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81wuXqme6wL._AC_UF1000,1000_QL80_.jpg" alt="Ultimate Marvel by Jonathan Hickman">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
 
 
 
