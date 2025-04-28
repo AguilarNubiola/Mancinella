@@ -94,15 +94,6 @@
     </a>
 
 
-
-    <a href="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" alt="Sunstone 1">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" alt="Sunstone 2">
-    </a>
-
     <a href="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" alt="Sunstone 3">
     </a>

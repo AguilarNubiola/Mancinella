@@ -1434,8 +1434,12 @@
         <img src="https://m.media-amazon.com/images/I/81wuXqme6wL._AC_UF1000,1000_QL80_.jpg" alt="Ultimate Marvel by Jonathan Hickman">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61v-kg-lDrL.jpg" alt="Sunstone 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" alt="Sunstone 2">
     </a>
 
 
