@@ -1442,6 +1442,18 @@
         <img src="https://m.media-amazon.com/images/I/71uh8hPULWL._SL1500_.jpg" alt="Sunstone 2">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" alt="Sunstone 3">
+    </a>
+
+    <a href="https://media.s-bol.com/mBzrEKLoKr3/789x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mBzrEKLoKr3/789x1200.jpg" alt="Messiah Complex">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81JEiTGYiML._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81JEiTGYiML._AC_UF1000,1000_QL80_.jpg" alt="X-Force/Cable: Messiah War">
+    </a>
+
 
 
 

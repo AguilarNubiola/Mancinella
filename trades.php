@@ -40,7 +40,6 @@
 <div alt="reading now" align="center">
 
 
-
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
@@ -49,54 +48,7 @@
 
 <div alt="Next up" align="center">
 
-    <a href="https://m.media-amazon.com/images/I/91N8saM4HdL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91N8saM4HdL._SL1500_.jpg" alt="Made in Abyss 1">
-    </a>
 
-    <a href="https://m.media-amazon.com/images/I/91sdkELx9sL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91sdkELx9sL._SL1500_.jpg" alt="Made in Abyss 2">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91y0UE7YiwL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91y0UE7YiwL._SL1500_.jpg" alt="Made in Abyss 3">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81ki6Lg7M3L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81ki6Lg7M3L._SL1500_.jpg" alt="Made in Abyss 4">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81wFcEnA3PL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81wFcEnA3PL._SL1500_.jpg" alt="Made in Abyss 5">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91DqlasB5eL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91DqlasB5eL._SL1500_.jpg" alt="Made in Abyss 6">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81gcoa9OYCL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81gcoa9OYCL._SL1500_.jpg" alt="Made in Abyss 7">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81kGMzcXIhL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81kGMzcXIhL._SL1500_.jpg" alt="Made in Abyss 8">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71KjjTdFOjL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71KjjTdFOjL._SL1500_.jpg" alt="Made in Abyss 9">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81SHA1cbU+L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81SHA1cbU+L._SL1500_.jpg" alt="Made in Abyss 10">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81h870U5bDL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81h870U5bDL._SL1500_.jpg" alt="Made in Abyss 11">
-    </a>
-
-
-    <a href="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/919GMGSJ0vL._SL1500_.jpg" alt="Sunstone 3">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" alt="Sunstone 4">
@@ -107,16 +59,82 @@
     </a>
 
     <a href="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" alt="Sunstone 6">
+        <img src="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" alt="Sunstone 6: Mercy">
     </a>
 
     <a href="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" alt="Sunstone 7">
+        <img src="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" alt="Sunstone 7: Mercy">
     </a>
 
     <a href="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" alt="Sunstone 8">
+        <img src="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" alt="Sunstone 8: Mercy">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/71wv88DbJwL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wv88DbJwL._AC_UF1000,1000_QL80_.jpg" alt="Batman and Son">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91uxKasCvsL._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91uxKasCvsL._UF1000,1000_QL80_.jpg" alt="Batman Gothic">
+    </a>
+
+    <a href="https://media.s-bol.com/7l68kX7Po2A/813x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/7l68kX7Po2A/813x1200.jpg" alt="Batman: Black Glove">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61QE0rMKsrL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61QE0rMKsrL._AC_UF894,1000_QL80_.jpg" alt="Batman R.I.P">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/718nUueobGL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/718nUueobGL._AC_UF894,1000_QL80_.jpg" alt="Batman and Robin: Batman Reborn">
+    </a>
+
+    <a href="https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/983004-5.jpg" class="thumbnail">
+        <img src="https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/983004-5.jpg" alt="Batman and Robin: Revenge of the Red Hood">
+    </a>
+
+    <a href="https://media.s-bol.com/JVjqvJm1Ylo/548x840.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/JVjqvJm1Ylo/548x840.jpg" alt="Batman and Robin: Blackest Knight">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/51WLvYKJD0L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51WLvYKJD0L._AC_UF894,1000_QL80_.jpg" alt="Batman: Time and the Batman">
+    </a>
+
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665108384i/62898870.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665108384i/62898870.jpg" alt="Batman and Robin: Batman vs Robin">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/71pTKVhSN8L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71pTKVhSN8L._AC_UF1000,1000_QL80_.jpg" alt="Batman and Robin: Batman and Robing must die">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81Hrdtv3M9L._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Hrdtv3M9L._UF1000,1000_QL80_.jpg" alt="Batman: The Rerurn of Bruce Wayne">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" alt="Batman Incorporated">
+    </a>
+
+
+
+    <a href="https://professorx.nl/wp-content/uploads/2024/07/9781401242633.jpg" class="thumbnail">
+        <img src="https://professorx.nl/wp-content/uploads/2024/07/9781401242633.jpg" alt="Batman incorporated: Demon Star">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71Ua4gf7OTL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71Ua4gf7OTL.jpg" alt="Batman Incorporated: Gotham's most wanted">
+    </a>
+
+
 
 
     
