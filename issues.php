@@ -61,22 +61,11 @@
 <div alt="This week" align="center">
 
 
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" alt="Nights #15. 30 April.">
-</a>
-
 <a href="https://preview.redd.it/nyx-april-2025-solicit-v0-cpzfgxjtkxee1.jpg?width=640&crop=smart&auto=webp&s=6af24e6150a999557f120757d7304aebdbbbd1e8" class="thumbnail">
     <img src="https://preview.redd.it/nyx-april-2025-solicit-v0-cpzfgxjtkxee1.jpg?width=640&crop=smart&auto=webp&s=6af24e6150a999557f120757d7304aebdbbbd1e8" alt="NYX #10. 30 April.">
 </a>
 
-<a href="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" class="thumbnail">
-    <img src="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" alt="Bitter Root: The Next Movement #2">
-</a>
 
-<a href="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/10/The_Question_AATW_1_05_300_colors_revised2_CMYK-copy-2.jpg" class="thumbnail">
-    <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/10/The_Question_AATW_1_05_300_colors_revised2_CMYK-copy-2.jpg" alt="Question: All Along the Watchtower #6">
-</a>
 
 
 
@@ -100,6 +89,8 @@
    <a href="https://i.imgur.com/yfqwoHN.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/yfqwoHN.jpeg" alt="Ultimate X-Men #15. 07/05/2025.">
    </a>
+
+
 
 
    <a href="https://i.imgur.com/OkoKG2V.jpeg" class="thumbnail">

@@ -41,6 +41,25 @@
     <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
 </a>
 
+       <a href="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" class="thumbnail">
+           <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" alt="Python. 15-30 April.">
+       </a>
+
+       <a href="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" class="thumbnail">
+           <img src="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" alt="Espanol. 15-30 April.">
+       </a>
+
+       <a href="https://upload.wikimedia.org/wikipedia/en/8/8c/Red_Sonja_Consumed.jpg" class="thumbnail">
+           <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Red_Sonja_Consumed.jpg" alt="Red Sonja: Consumed. 15-16 April.">
+       </a>
+
+       <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
+           <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde. 15-20 April.">
+       </a>
+
+       <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/04/the-first-berserker-khazan-unwritten-rules-explained.jpg" class="thumbnail">
+           <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/04/the-first-berserker-khazan-unwritten-rules-explained.jpg" alt="First Berserker: Khazan. 15-20 April.">
+       </a>
 
 
 
@@ -68,12 +87,12 @@
 
 
 
-<div alt="current game" align="center">
+<div alt="Backlog" align="center">
 
-<a href="https://eu-central-1-gamescom.graphassets.com/AMwDHZTUSMaIlRlMFLL7Qz/output=quality:95,strip:true/resize=w:960,fit:clip/sharpen=amount:1/auto_image/yHOuEp84T5GLnY7RwEXg" class="thumbnail">
-    <img src="https://eu-central-1-gamescom.graphassets.com/AMwDHZTUSMaIlRlMFLL7Qz/output=quality:95,strip:true/resize=w:960,fit:clip/sharpen=amount:1/auto_image/yHOuEp84T5GLnY7RwEXg" alt="First Berserker: Khazan. April.">
-</a>
 
+<a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
+       <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33. 24th of April.">
+    </a>
  
 </div>
 
@@ -82,9 +101,6 @@
 <div alt="2025 games" align="center">
 
 
-<a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. April.">
-</a>
 
 
 
@@ -96,12 +112,16 @@
 
 <div alt="Possible 2025 games" align="center">
 
-    <a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
-       <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33. 24th of April.">
-    </a>
+<a href="https://eu-central-1-gamescom.graphassets.com/AMwDHZTUSMaIlRlMFLL7Qz/output=quality:95,strip:true/resize=w:960,fit:clip/sharpen=amount:1/auto_image/yHOuEp84T5GLnY7RwEXg" class="thumbnail">
+    <img src="https://eu-central-1-gamescom.graphassets.com/AMwDHZTUSMaIlRlMFLL7Qz/output=quality:95,strip:true/resize=w:960,fit:clip/sharpen=amount:1/auto_image/yHOuEp84T5GLnY7RwEXg" alt="First Berserker: Khazan. May.">
+</a>
+
+    <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
+    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. May.">
+</a>
 
     <a href="https://gagadget.com/media/uploads/lostsoulaside2021042621002.jpg" class="thumbnail">
-        <img src="https://gagadget.com/media/uploads/lostsoulaside2021042621002.jpg" alt="Lost Soul Aside. 30th of May.">
+        <img src="https://gagadget.com/media/uploads/lostsoulaside2021042621002.jpg" alt="Lost Soul Aside. September 1st.">
     </a>
 
 

@@ -50,9 +50,11 @@
 
 
 
-    <a href="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" alt="Sunstone 4">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 1">
     </a>
+
+
 
     <a href="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" alt="Sunstone 5">
@@ -157,26 +159,15 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April trades</b></p>
-
-
-<div alt="April trades" align="center">
-
-    <a href="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" class="thumbnail">
-        <img src="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" alt="Question: All Along the Watchtower">
-    </a>
-
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" alt="NYX vol 2. 30 April.">
-    </a>
-
-</div>
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May trades</b></p>
 
 <div alt="May trades" align="center">
+
+   <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" alt="NYX vol 2. ">
+    </a>
 
 <a href="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" class="thumbnail">
     <img src="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" alt="Ultimates vol 2">

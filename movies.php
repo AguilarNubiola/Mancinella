@@ -65,10 +65,6 @@
 
 
 
-    <a href="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" class="thumbnail">
-        <img src="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" alt="The Crow">
-    </a>
-
 
     <a href="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" class="thumbnail">
         <img src="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" alt="The Death of Stalin">
@@ -102,9 +98,7 @@
 
 <div alt="2025 films" align="center">
 
-<a href="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" alt="Thunderbolts. 30/04/2025.">
-</a>
+
 
 <a href="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" class="thumbnail">
     <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" alt="Mission Impossible: Final Reckoning. 22/05/2025">
@@ -271,6 +265,14 @@
 
     <a href="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Warfare_film_poster.jpg/250px-Warfare_film_poster.jpg" class="thumbnail">
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Warfare_film_poster.jpg/250px-Warfare_film_poster.jpg" alt="Warfare">
+    </a>
+
+    <a href="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" class="thumbnail">
+        <img src="https://cdn.marvel.com/content/1x/sdcc_thunderbolts_card.jpg" alt="Thunderbolts. 30/04/2025.">
+    </a>
+
+    <a href="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" class="thumbnail">
+        <img src="https://mutantreviewersmovies.com/wp-content/uploads/2009/10/the-crow.jpg?w=723&h=417" alt="The Crow">
     </a>
 
 

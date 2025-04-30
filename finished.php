@@ -940,6 +940,13 @@
     <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" alt="Power Fantasy #8. 23 April.">
 </a>
 
+<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" class="thumbnail">
+    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" alt="Nights #15. 30 April.">
+</a>
+
+<a href="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" class="thumbnail">
+    <img src="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" alt="Bitter Root: The Next Movement #2">
+</a>
 
 
 
@@ -1453,6 +1460,28 @@
     <a href="https://m.media-amazon.com/images/I/81JEiTGYiML._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81JEiTGYiML._AC_UF1000,1000_QL80_.jpg" alt="X-Force/Cable: Messiah War">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71WW8Hes0tL._SL1500_.jpg" alt="Sunstone 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71fvf+hDqgL._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71fvf+hDqgL._UF1000,1000_QL80_.jpg" alt="Radiant Black vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81pXrMxUWsL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81pXrMxUWsL._AC_UF1000,1000_QL80_.jpg" alt="Grommets">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2022/12/Radiant-Red-Vol.-1-TPB-2022.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/12/Radiant-Red-Vol.-1-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="Radiant Red vol 1">
+    </a>
+
+    <a href="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" class="thumbnail">
+        <img src="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" alt="Question: All Along the Watchtower">
+    </a>
+
+
 
 
 
