@@ -948,6 +948,10 @@
     <img src="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" alt="Bitter Root: The Next Movement #2">
 </a>
 
+<a href="https://m.media-amazon.com/images/I/612TKu2GfhL._SL1076_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/612TKu2GfhL._SL1076_.jpg" alt="Nullhunter #7">
+</a>
+
 
 
 
@@ -1480,6 +1484,14 @@
     <a href="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" class="thumbnail">
         <img src="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" alt="Question: All Along the Watchtower">
     </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" alt="NYX vol 2. ">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/05/Kill-All-Immortals-TPB-2025.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/05/Kill-All-Immortals-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="Kill all Immortals">
+     </a>
 
 
 

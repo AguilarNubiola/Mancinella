@@ -39,6 +39,15 @@
 
 <div alt="reading now" align="center">
 
+     <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/08/X-Treme-X-Men-by-Claremont-and-Larroca-Vol.-1-A-New-Beginning-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/08/X-Treme-X-Men-by-Claremont-and-Larroca-Vol.-1-A-New-Beginning-2023.jpg?fit=400%2C615&ssl=1" alt="X-Treme X-Men a new beginning">
+     </a>
+
+     <a href="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" alt="Sunstone 5">
+    </a>
+
+
 
 </div>
 
@@ -50,15 +59,11 @@
 
 
 
+
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 1">
     </a>
 
-
-
-    <a href="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" alt="Sunstone 5">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" alt="Sunstone 6: Mercy">
@@ -165,9 +170,7 @@
 
 <div alt="May trades" align="center">
 
-   <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" alt="NYX vol 2. ">
-    </a>
+
 
 <a href="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" class="thumbnail">
     <img src="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" alt="Ultimates vol 2">
