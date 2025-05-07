@@ -26,7 +26,44 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
+   <a href="http://localhost/arakko/targets.php">Targets</a>
+
 </div>
+
+
+<div alt="mindsets 1" align="center">
+
+    <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/emma-frost.jpg" class="thumbnail">
+        <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/emma-frost.jpg" alt="Perfectionist">
+
+    </a>
+
+
+    <a href="https://marvelrivals.gg/wp-content/uploads/sites/47/2025/02/Jean-Grey-2.jpg" class="thumbnail">
+        <img src="https://marvelrivals.gg/wp-content/uploads/sites/47/2025/02/Jean-Grey-2.jpg" alt="Experiment">
+    </a>
+
+
+
+
+
+</div>
+
+<div alt="mindsets 2" align="center">
+
+    <a href="https://preview.redd.it/quentin-quire-bien-o-mal-v0-ne3gh1xvabld1.jpg?width=391&format=pjpg&auto=webp&s=ebde9d983619f720a27320f2f4b76496bd2f25b5" class="thumbnail">
+        <img src="https://preview.redd.it/quentin-quire-bien-o-mal-v0-ne3gh1xvabld1.jpg?width=391&format=pjpg&auto=webp&s=ebde9d983619f720a27320f2f4b76496bd2f25b5" alt="Cynic">
+    </a>
+
+    <a href="https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8102811-marauders_vol_1_23_aspinall_variant_textless.jpg" class="thumbnail">
+        <img src="https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8102811-marauders_vol_1_23_aspinall_variant_textless.jpg" alt="escapist">
+        
+    </a>
+
+
+
+</div>
+
 
 
 <p align="center" style="font-family:'Courier New'; color:red;  font-size:30px"><b>X-Men issues read</b></p>
@@ -285,7 +322,7 @@
 
     <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/UNCX2024010_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men #10. 19th of February">
-   </>
+   </a>
 
    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" class="thumbnail">
        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2024/11/ULTWOLV2025002_Yoon_Var-scaled.jpg?ssl=1" alt="Ultimate Wolverine #2. 19th of February.">
@@ -362,6 +399,23 @@
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/XMEN2024015_Cov-scaled.jpg?ssl=1" alt="X-Men #15. 23 April.">
 </a>
+
+   <a href="https://m.media-amazon.com/images/I/91cg3odLQkL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91cg3odLQkL._SL1500_.jpg" alt="X-Men #16. 07/05/2025.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/81uCgBAjeQL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81uCgBAjeQL._SL1500_.jpg" alt="Storm #8. 07/05/2025.">
+   </a>
+
+   <a href="https://i.imgur.com/OkoKG2V.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/OkoKG2V.jpeg" alt="Ultimate Wolverine #5. 07/05/2025.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" alt="Psylocke #7. 07/05/2025.">
+   </a>
+
 
 
 
@@ -610,6 +664,10 @@
 <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" class="thumbnail">
     <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/Absolute-Martian-Manhunter-2-OTO-Kung.jpg?ssl=1" alt="Absolute Martian Manhunter #2. 23 April.">
 </a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1172924.jpg?1740161127" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1172924.jpg?1740161127" alt="Absolute Green Lantern #2. 07/05/2025.">
+   </a>
 
 
 
@@ -1493,6 +1551,69 @@
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/05/Kill-All-Immortals-TPB-2025.jpg?fit=400%2C615&ssl=1" alt="Kill all Immortals">
      </a>
 
+     <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/08/X-Treme-X-Men-by-Claremont-and-Larroca-Vol.-1-A-New-Beginning-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/08/X-Treme-X-Men-by-Claremont-and-Larroca-Vol.-1-A-New-Beginning-2023.jpg?fit=400%2C615&ssl=1" alt="X-Treme X-Men a new beginning">
+     </a>
+
+     <a href="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" alt="Sunstone 5">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91WmCn1GQfL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91WmCn1GQfL._SL1500_.jpg" alt="Juggernaut: No Stopping Now">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" alt="Sunstone 6: Mercy">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" alt="Sunstone 7: Mercy">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91CON6d8WIL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91CON6d8WIL._SL1500_.jpg" alt="Wolverine: Revenge">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" alt="Sunstone 8: Mercy">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/01/X-Force-by-Kyle-and-Yost-Complete-Collection-Vol.-1-2-TPB-2021.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/01/X-Force-by-Kyle-and-Yost-Complete-Collection-Vol.-1-2-TPB-2021.jpg?fit=400%2C615&ssl=1" alt="X-Force by Craig Kyle and Chris Yost first half">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5538266.jpg?1737569377" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5538266.jpg?1737569377" alt="X-Force by Craig Kyle and Chris Yost second half">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71a1x8MplVL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71a1x8MplVL._AC_UF1000,1000_QL80_.jpg" alt="X-Force Vol 3 complete">
+    </a>
+
+    <a href="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/BEXT-X-MEN-Second-Coming.jpg" class="thumbnail">
+        <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/BEXT-X-MEN-Second-Coming.jpg" alt="X-Men: Second Coming">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71wv88DbJwL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wv88DbJwL._AC_UF1000,1000_QL80_.jpg" alt="Batman and Son">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/05/Ye-2019-Top-Shelf.jpg?fit=400%2C554&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/05/Ye-2019-Top-Shelf.jpg?fit=400%2C554&ssl=1" alt="Ye">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Private-Dance-Vol.-1-Season-One-2024-ADULT.jpg?fit=400%2C619&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/04/Private-Dance-Vol.-1-Season-One-2024-ADULT.jpg?fit=400%2C619&ssl=1" alt="Private Dance vol 1">
+    </a>
+
+    <a href="https://a.media-amazon.com/images/I/91mblauSU7L._SL1500_.jpg" class="thumbnail">
+        <img src="https://a.media-amazon.com/images/I/91mblauSU7L._SL1500_.jpg" alt="All-new Venom">
+    </a>
+
+    
+
+     
 
 
 
@@ -1505,7 +1626,8 @@
 
 
 
-</div alt="2025 trades end">
+
+</div alt="2025 trades finished end">
 
 
 

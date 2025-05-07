@@ -26,6 +26,8 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
+   <a href="http://localhost/arakko/targets.php">Targets</a>
+
 </div>
 
 
@@ -55,17 +57,24 @@
 </div>
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April 30th</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 14th</b></p>
 
 
 <div alt="This week" align="center">
 
 
-<a href="https://preview.redd.it/nyx-april-2025-solicit-v0-cpzfgxjtkxee1.jpg?width=640&crop=smart&auto=webp&s=6af24e6150a999557f120757d7304aebdbbbd1e8" class="thumbnail">
-    <img src="https://preview.redd.it/nyx-april-2025-solicit-v0-cpzfgxjtkxee1.jpg?width=640&crop=smart&auto=webp&s=6af24e6150a999557f120757d7304aebdbbbd1e8" alt="NYX #10. 30 April.">
-</a>
+   <a href="https://i.imgur.com/yfqwoHN.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/yfqwoHN.jpeg" alt="Ultimate X-Men #15. 07/05/2025.">
+   </a>
 
+   
+   <a href="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" alt="Uncanny X-Men #14. 14/05/2025.">
+   </a>
 
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" alt="W0rldtr33 #14. 14th of May.">
+   </a>
 
 
 
@@ -74,47 +83,30 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 7th</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 21st</b></p>
 
 
 
 <div alt="Next week" align="center">
 
 
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" alt="I Heart Skull-Crusher! #9. 07/05/2025.">
-</a>
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" alt="Catwoman 76. 21st of May.">
+    </a>
 
-
-   <a href="https://i.imgur.com/yfqwoHN.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/yfqwoHN.jpeg" alt="Ultimate X-Men #15. 07/05/2025.">
-   </a>
-
+    <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" class="thumbnail">
+        <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" alt="I Heart Skull-Crusher! #9. 14/05/2025.">
+    </a>
 
 
 
-   <a href="https://i.imgur.com/OkoKG2V.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/OkoKG2V.jpeg" alt="Ultimate Wolverine #5. 07/05/2025.">
-   </a>
-
-   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1172924.jpg?1740161127" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1172924.jpg?1740161127" alt="Absolute Green Lantern #2. 07/05/2025.">
-   </a>
+    <a href="https://i.imgur.com/65MeEH8.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/65MeEH8.jpeg" alt="Ultimates #12. 21/05/2025.">
+    </a>
 
 
-   <a href="https://m.media-amazon.com/images/I/91cg3odLQkL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91cg3odLQkL._SL1500_.jpg" alt="X-Men #16. 07/05/2025.">
-   </a>
 
 
-   <a href="https://m.media-amazon.com/images/I/81uCgBAjeQL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81uCgBAjeQL._SL1500_.jpg" alt="Storm #8. 07/05/2025.">
-   </a>
-
-
-   <a href="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" alt="Psylocke #7. 07/05/2025.">
-   </a>
 
 
 
@@ -136,25 +128,6 @@
 
 <div alt="" align="center">
 
-
-
-   <a href="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" alt="Uncanny X-Men #14. 14/05/2025.">
-   </a>
-
-   <a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" alt="W0rldtr33 #14. 14th of May.">
-   </a>
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" alt="Catwoman 76. 21st of May.">
-    </a>
-
-
-
-   <a href="https://i.imgur.com/65MeEH8.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/65MeEH8.jpeg" alt="Ultimates #12. 21/05/2025.">
-   </a>
 
 
    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" class="thumbnail">
