@@ -1611,6 +1611,40 @@
         <img src="https://a.media-amazon.com/images/I/91mblauSU7L._SL1500_.jpg" alt="All-new Venom">
     </a>
 
+    <a href="https://media.s-bol.com/7l68kX7Po2A/813x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/7l68kX7Po2A/813x1200.jpg" alt="Batman: Black Glove">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61QE0rMKsrL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61QE0rMKsrL._AC_UF894,1000_QL80_.jpg" alt="Batman R.I.P">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91pTBpIc09L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91pTBpIc09L._SL1500_.jpg" alt="Poison Ivy vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91I4xPCkXtL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91I4xPCkXtL._SL1500_.jpg" alt="Poison Ivy vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Sw1yzhcSL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Sw1yzhcSL._SL1500_.jpg" alt="Poison Ivy vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91HifwfpSHL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91HifwfpSHL._SL1500_.jpg" alt="Poison Ivy vol 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91MxJKr4jAL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91MxJKr4jAL._SL1500_.jpg" alt="Poison Ivy vol 5">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2020/11/Batman-White-Knight-The-Deluxe-Edition-2020.jpg?fit=400%2C616&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2020/11/Batman-White-Knight-The-Deluxe-Edition-2020.jpg?fit=400%2C616&ssl=1" alt="White Knight - The Deluxe edition">
+    </a>
+
+    
+
     
 
      

@@ -159,6 +159,36 @@
             </a>   
         </div>
 
+        <div alt="The canon Mount Rushmore" align="center">
+            <a href="https://static.wikia.nocookie.net/comicadventures/images/8/8e/Sage1.jpg/revision/latest/scale-to-width-down/284?cb=20130508014048" class="thumbnail">
+                <img src="https://static.wikia.nocookie.net/comicadventures/images/8/8e/Sage1.jpg/revision/latest/scale-to-width-down/284?cb=20130508014048" alt="Sage butt">
+            </a>   
+
+            <a href="https://comicvine.gamespot.com/a/uploads/scale_small/0/3347/595983-ne_13_onlyorko_dcp_024.jpg" class="thumbnail">
+                <img src="https://comicvine.gamespot.com/a/uploads/scale_small/0/3347/595983-ne_13_onlyorko_dcp_024.jpg" alt="Sage history">
+            </a>   
+
+            <a href="https://preview.redd.it/a3ilfcwf1q5z.jpg?auto=webp&s=6521d85d0c33a7e34d29862127adc32f4b7fc38d" class="thumbnail">
+                <img src="https://preview.redd.it/a3ilfcwf1q5z.jpg?auto=webp&s=6521d85d0c33a7e34d29862127adc32f4b7fc38d" alt="Rogue butt">
+            </a>    
+
+            <a href="https://pm1.aminoapps.com/7066/3220c5035dc9fd2ae7c9e28eb5ea6b8a6dc6812br1-1080-1522v2_00.jpg" class="thumbnail">
+                <img src="https://pm1.aminoapps.com/7066/3220c5035dc9fd2ae7c9e28eb5ea6b8a6dc6812br1-1080-1522v2_00.jpg" alt="">
+            </a>   
+            
+            <a href="https://i.redd.it/tblpw0b75dye1.jpeg" class="thumbnail">
+                <img src="https://i.redd.it/tblpw0b75dye1.jpeg" alt="Emma Frost ass">
+            </a>   
+
+            <a href="https://64.media.tumblr.com/def953a7547d9651e38f2497d53f6c2d/44af1d049a28c321-1a/s1280x1920/34706e0a0b47c64642a961b7a76afda49e8a7f3f.png" class="thumbnail">
+                <img src="https://64.media.tumblr.com/def953a7547d9651e38f2497d53f6c2d/44af1d049a28c321-1a/s1280x1920/34706e0a0b47c64642a961b7a76afda49e8a7f3f.png" alt="Sue Storm ass">
+            </a>   
+
+
+  
+        </div>
+
+
 
     </body>
 

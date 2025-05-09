@@ -39,13 +39,6 @@
 
 <div alt="reading now" align="center">
 
-     <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/08/X-Treme-X-Men-by-Claremont-and-Larroca-Vol.-1-A-New-Beginning-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/08/X-Treme-X-Men-by-Claremont-and-Larroca-Vol.-1-A-New-Beginning-2023.jpg?fit=400%2C615&ssl=1" alt="X-Treme X-Men a new beginning">
-     </a>
-
-     <a href="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/713QJj549CL._SL1500_.jpg" alt="Sunstone 5">
-    </a>
 
 
 
@@ -65,81 +58,21 @@
     </a>
 
 
-    <a href="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71K0GjLjA7L._SL1500_.jpg" alt="Sunstone 6: Mercy">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2022/11/Batman-Curse-of-the-White-Knight-Deluxe-Edition-2022.jpg?fit=400%2C616&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/11/Batman-Curse-of-the-White-Knight-Deluxe-Edition-2022.jpg?fit=400%2C616&ssl=1" alt="Curse of the White Knight - The Deluxe edition">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71D-PW+mO8L._SL1500_.jpg" alt="Sunstone 7: Mercy">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71VhHFrJgwL._SL1500_.jpg" alt="Sunstone 8: Mercy">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71wv88DbJwL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71wv88DbJwL._AC_UF1000,1000_QL80_.jpg" alt="Batman and Son">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91uxKasCvsL._UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91uxKasCvsL._UF1000,1000_QL80_.jpg" alt="Batman Gothic">
-    </a>
-
-    <a href="https://media.s-bol.com/7l68kX7Po2A/813x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/7l68kX7Po2A/813x1200.jpg" alt="Batman: Black Glove">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/61QE0rMKsrL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/61QE0rMKsrL._AC_UF894,1000_QL80_.jpg" alt="Batman R.I.P">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/06/Batman-Beyond-the-White-Knight-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/06/Batman-Beyond-the-White-Knight-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Beyond the White Knight">
     </a>
 
 
-    <a href="https://m.media-amazon.com/images/I/718nUueobGL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/718nUueobGL._AC_UF894,1000_QL80_.jpg" alt="Batman and Robin: Batman Reborn">
-    </a>
-
-    <a href="https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/983004-5.jpg" class="thumbnail">
-        <img src="https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/983004-5.jpg" alt="Batman and Robin: Revenge of the Red Hood">
-    </a>
-
-    <a href="https://media.s-bol.com/JVjqvJm1Ylo/548x840.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/JVjqvJm1Ylo/548x840.jpg" alt="Batman and Robin: Blackest Knight">
-    </a>
-
-
-    <a href="https://m.media-amazon.com/images/I/51WLvYKJD0L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/51WLvYKJD0L._AC_UF894,1000_QL80_.jpg" alt="Batman: Time and the Batman">
-    </a>
-
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665108384i/62898870.jpg" class="thumbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665108384i/62898870.jpg" alt="Batman and Robin: Batman vs Robin">
-    </a>
-
-
-    <a href="https://m.media-amazon.com/images/I/71pTKVhSN8L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71pTKVhSN8L._AC_UF1000,1000_QL80_.jpg" alt="Batman and Robin: Batman and Robing must die">
-    </a>
-
-
-    <a href="https://m.media-amazon.com/images/I/81Hrdtv3M9L._UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81Hrdtv3M9L._UF1000,1000_QL80_.jpg" alt="Batman: The Rerurn of Bruce Wayne">
-    </a>
-
-
-    <a href="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" alt="Batman Incorporated">
-    </a>
+ 
 
 
 
-    <a href="https://professorx.nl/wp-content/uploads/2024/07/9781401242633.jpg" class="thumbnail">
-        <img src="https://professorx.nl/wp-content/uploads/2024/07/9781401242633.jpg" alt="Batman incorporated: Demon Star">
-    </a>
 
-    <a href="https://m.media-amazon.com/images/I/71Ua4gf7OTL.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71Ua4gf7OTL.jpg" alt="Batman Incorporated: Gotham's most wanted">
-    </a>
+
 
 
 
@@ -371,6 +304,8 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Single book Rushmore</b></p>
+
 
 <div alt="Single book Rushmore" align="center">
 
@@ -393,23 +328,26 @@
 
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Newer writers Rusmore</b></p>
+
+
 <div alt="" align="center">
 
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Deniz Camp">
+    <a href="https://m.media-amazon.com/images/S/amzn-author-media-prod/ijtgtt6keu58ef9c9jms1qe78p._SY450_CR0%2C0%2C450%2C450_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/ijtgtt6keu58ef9c9jms1qe78p._SY450_CR0%2C0%2C450%2C450_.jpg" alt="Deniz Camp">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/7/74/6.13.19AlEwingByLuigiNovi7.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/6.13.19AlEwingByLuigiNovi7.jpg" alt="Al Ewing">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://revengeof.com/cdn/shop/files/kieron_gillen_1149x1637.jpg?v=1720920988" class="thumbnail">
+        <img src="https://revengeof.com/cdn/shop/files/kieron_gillen_1149x1637.jpg?v=1720920988" alt="Kieron Gillen">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="">
+    <a href="https://static.tvtropes.org/pmwiki/pub/images/kelly_color_headshot.jpg" class="thumbnail">
+        <img src="https://static.tvtropes.org/pmwiki/pub/images/kelly_color_headshot.jpg" alt="Kelly Thompson">
     </a>
 
 

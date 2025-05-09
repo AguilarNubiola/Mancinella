@@ -28,6 +28,8 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
+   <a href="http://localhost/arakko/targets.php">Targets</a>
+
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:purple; font-size:30px"><b>Current marks</b></p>
@@ -62,9 +64,6 @@
         <img src="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Violet Evergarden">
     </a>
 
-    <a href="https://media.s-bol.com/g1mPJ7OJlYY/830x1200.jpg" class="thumbnail">
-        <img src="https://media.s-bol.com/g1mPJ7OJlYY/830x1200.jpg" alt="Golgo 13: The Professional">
-    </a>
 
 
 
@@ -275,6 +274,14 @@
 
     <a href="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" class="thumbnail">
         <img src="https://ichef.bbci.co.uk/images/ic/1200x675/p090cmj9.jpg" alt="The Death of Stalin">
+    </a>
+
+    <a href="https://media.s-bol.com/g1mPJ7OJlYY/830x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/g1mPJ7OJlYY/830x1200.jpg" alt="Golgo 13: The Professional">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Logan's Run">
     </a>
 
 
