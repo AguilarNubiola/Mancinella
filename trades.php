@@ -39,8 +39,9 @@
 
 <div alt="reading now" align="center">
 
-
-
+   <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 1">
+    </a>
 
 </div>
 
@@ -53,17 +54,8 @@
 
 
 
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 1">
-    </a>
-
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2022/11/Batman-Curse-of-the-White-Knight-Deluxe-Edition-2022.jpg?fit=400%2C616&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/11/Batman-Curse-of-the-White-Knight-Deluxe-Edition-2022.jpg?fit=400%2C616&ssl=1" alt="Curse of the White Knight - The Deluxe edition">
-    </a>
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2023/06/Batman-Beyond-the-White-Knight-TPB-2023.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/06/Batman-Beyond-the-White-Knight-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Beyond the White Knight">
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 2">
     </a>
 
 
