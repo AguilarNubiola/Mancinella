@@ -39,9 +39,15 @@
 
 <div alt="reading now" align="center">
 
-   <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 1">
     </a>
+
+
+   
+
+
 
 </div>
 
@@ -53,10 +59,10 @@
 
 
 
-
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 2">
     </a>
+
 
 
  
@@ -94,6 +100,10 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May trades</b></p>
 
 <div alt="May trades" align="center">
+
+<a href="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" alt="X-Factor vol 2">
+</a>
 
 
 

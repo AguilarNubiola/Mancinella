@@ -31,42 +31,11 @@
 </div>
 
 
-<div alt="mindsets 1" align="center">
-
-    <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/emma-frost.jpg" class="thumbnail">
-        <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/emma-frost.jpg" alt="Perfectionist">
-
-    </a>
-
-
-    <a href="https://marvelrivals.gg/wp-content/uploads/sites/47/2025/02/Jean-Grey-2.jpg" class="thumbnail">
-        <img src="https://marvelrivals.gg/wp-content/uploads/sites/47/2025/02/Jean-Grey-2.jpg" alt="Experiment">
-    </a>
 
 
 
 
-
-</div>
-
-<div alt="mindsets 2" align="center">
-
-    <a href="https://preview.redd.it/quentin-quire-bien-o-mal-v0-ne3gh1xvabld1.jpg?width=391&format=pjpg&auto=webp&s=ebde9d983619f720a27320f2f4b76496bd2f25b5" class="thumbnail">
-        <img src="https://preview.redd.it/quentin-quire-bien-o-mal-v0-ne3gh1xvabld1.jpg?width=391&format=pjpg&auto=webp&s=ebde9d983619f720a27320f2f4b76496bd2f25b5" alt="Cynic">
-    </a>
-
-    <a href="https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8102811-marauders_vol_1_23_aspinall_variant_textless.jpg" class="thumbnail">
-        <img src="https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8102811-marauders_vol_1_23_aspinall_variant_textless.jpg" alt="escapist">
-        
-    </a>
-
-
-
-</div>
-
-
-
-<p align="center" style="font-family:'Courier New'; color:red;  font-size:30px"><b>X-Men issues read</b></p>
+<p align="center" style="font-family:'Courier New'; color:black;  font-size:30px"><b>X-Men issues read</b></p>
 
 <div alt="X-men Issues read" align="center">
 
@@ -435,7 +404,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Non-X Marvel titles</b></p>
+<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Non-X Marvel titles</b></p>
 
 <div alt="Non-X Marvel" align="center">
 
@@ -525,7 +494,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>DC Comics</b></p>
+<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>DC Comics</b></p>
 
 <div alt="DC" align="center">
 
@@ -692,7 +661,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Image Comics</b></p>
+<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Image Comics</b></p>
 
 <div alt="Image" align="center">
 
@@ -1139,9 +1108,9 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Trades</b></p>
+<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Trades</b></p>
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Comics and trades finished in 2025</b></p>
+<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Comics and trades finished in 2025</b></p>
 
 
 <div alt="finished comics 2025" align="Center">
@@ -1651,6 +1620,39 @@
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2023/06/Batman-Beyond-the-White-Knight-TPB-2023.jpg?fit=400%2C615&ssl=1" alt="Beyond the White Knight">
     </a>
 
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2019/03/Aphrodite-IX-Vol.-1-0-4-2000-2002.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2019/03/Aphrodite-IX-Vol.-1-0-4-2000-2002.jpg?fit=400%2C615&ssl=1" alt="Aphrodite IX vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81MG9JlHylL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81MG9JlHylL._AC_UF1000,1000_QL80_.jpg" alt="Rags">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/51aWD9Y-M8L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51aWD9Y-M8L.jpg" alt="Ares">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71nHuSlIbdL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71nHuSlIbdL._AC_UF1000,1000_QL80_.jpg" alt="Reborn">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81QGnJmU-9L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81QGnJmU-9L._SL1500_.jpg" alt="Aphrodite Rebirth vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61Vwuc2JumL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61Vwuc2JumL.jpg" alt="Aphrodite Rebirth vol 2">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/11/IXth-Generation-1-8-TPB-Vol.-1-2-2015-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/11/IXth-Generation-1-8-TPB-Vol.-1-2-2015-2016.jpg?fit=400%2C615&ssl=1" alt="IXth Generation vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81-ann5T1qL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81-ann5T1qL._SL1500_.jpg" alt="IXth Generation vol 2">
+    </a>
+
+
     
 
     
@@ -1708,7 +1710,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:red; font-size:30px"><b>Trades finished in 2024</b></p>
+<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Trades finished in 2024</b></p>
 
 
 <div alt="finished comics 2024" align="Center">
@@ -2151,8 +2153,8 @@
     <img src="https://media.s-bol.com/gEpxLn1qzZ8Z/PN74BL1/903x1200.jpg" alt="Metabaron book 4">
 </a>
 
-<a href="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" class="thumbnail">
-    <img src="https://www.tfaw.com/media/catalog/product/cache/bd1c9e7ac3d7154f1ee4979ec7ffffb0/0/8/0824IM426.jpg" alt="Kelly Thompson's Scarlett">
+<a href="https://m.media-amazon.com/images/I/818C5kigq6L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/818C5kigq6L._SL1500_.jpg" alt="Kelly Thompson's Scarlett">
 </a>
 
 <a href="https://i0.wp.com/ghostmachinepro.com/wp-content/uploads/2024/03/rook_1920x1080.jpg?fit=1920%2C1080&ssl=1" class="thumbnail">
