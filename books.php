@@ -25,30 +25,14 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
+   <a href="http://localhost/arakko/targets.php">Targets</a>
+
 </div>
 
 <h1 align="center" class="The symbol">
     <img src="https://static.tvtropes.org/pmwiki/pub/images/justice_league_vol_4_18_textless_9.jpg">
 </h1>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The enemies</b></p>
-
-
-<div alt="The enemies" align="center">
-
-<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
-    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
-</a>
-
-<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
-    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
-</a>
-
-
-
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Reading now</b></p>
 
@@ -60,13 +44,9 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-    <a href="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" class="thumbnail">
-        <img src="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" alt="Heavenly Tyrant">
+    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg" class="thumbnail">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg" alt="The Only one Left">
     </a>
-
-      
-
-
 
 </div>
 
@@ -80,8 +60,6 @@
         <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" alt="Assassinorum: Kingmaker">
     </a>
 
-
-
     <a href="https://m.media-amazon.com/images/I/71On1Jf2LoL._UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71On1Jf2LoL._UF1000,1000_QL80_.jpg" alt="Leman Russ">
     </a>
@@ -89,6 +67,16 @@
     <a href="https://media.s-bol.com/JZD30w0JMRgo/550x778.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/JZD30w0JMRgo/550x778.jpg" alt="Integraal Wiskunde">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" alt="She comes first">
+    </a>
+
+    <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
+    </a>
+
+
 
 
 
@@ -101,6 +89,17 @@
 
 <div alt="finished books 2025" align="center">
 
+    <a href="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" class="thumbnail">
+        <img src="https://i.pinimg.com/736x/24/85/39/248539fa45fa4d613543ad86df6739b0.jpg" alt="Heavenly Tyrant">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61hUjiTnJpL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61hUjiTnJpL.jpg" alt="The Freedom Model">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81iNE1THzEL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81iNE1THzEL.jpg" alt="Red Sonja: Consumed">
+    </a>
 
 
 </div>
@@ -182,13 +181,10 @@
 
 
 
-</div>
+<div alt="2025 books" align="center">
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February books</b></p>
 
-
-<div alt="February Books" align='center'>
 
     <a href="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" class="thumbnail">
         <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*fgMHcrnQ7xn0TRM7pLbDbg.jpeg" alt="War and Peace">
@@ -202,17 +198,11 @@
         <img src="https://m.media-amazon.com/images/I/519GeuoQldL.jpg" alt="Wilt Chamberlain: Larger than life">
     </a>
 
-    <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="">
+    <a href="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" class="thumbnail">
         <img src="https://preview.redd.it/87cf3zr8utl81.png?width=640&crop=smart&auto=webp&s=18c5b8cb7025d1308a09fdf5dc50e802d27d8066" alt="Assassinorum: Kingmaker">
     </a>
 
 
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March books</b></p>
-
-
-<div alt="March books" align="center">
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526668679i/35425827.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526668679i/35425827.jpg" alt="Marissa Meyer Archenemies">
@@ -231,15 +221,7 @@
     </a>
 
 
-    
 
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April books</b></p>
-
-
-<div alt="April books" align="center">
 
      <a href="https://media.s-bol.com/mVO50kEOW4MG/B53rJx/771x1200.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/mVO50kEOW4MG/B53rJx/771x1200.jpg" alt="On War"/>
@@ -259,15 +241,6 @@
 
 
 
-    
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May books</b></p>
-
-
-    <div alt="May books" align="center">
 
     
     <a href="https://media.s-bol.com/G9LLYNgM6N68/811x1200.jpg" class="'thumbnail">
@@ -289,14 +262,6 @@
     
 
 
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June books</b></p>
-
-
-<div alt="june books" align="center">
-
-
     <a href="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/3vqvo3v118o4/JBL6M2/544x840.jpg" alt="Antifragile"/>
     </a>
@@ -313,19 +278,6 @@
         <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
     </a>
 
-
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July books</b></p>
-
-
-<div alt="July Books" align='center'>
-
-    <a href="https://i.imgur.com/xjRSngh.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/xjRSngh.jpeg" alt="Queen of Knives">
-    </a>
 
     <a href="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" alt="She comes first">
@@ -363,12 +315,6 @@
         <img src="https://m.media-amazon.com/images/I/71F7TG9xvrL._AC_UF1000,1000_QL80_.jpg" alt="House of War"/>
     </a>
 
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>August books</b></p>
-
-
-<div alt="August books" align="center">
 
     <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" class="thumbnail">
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344269423i/13037942.jpg" alt="The Admirals"/>
