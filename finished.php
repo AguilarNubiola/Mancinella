@@ -1652,6 +1652,14 @@
         <img src="https://m.media-amazon.com/images/I/81-ann5T1qL._SL1500_.jpg" alt="IXth Generation vol 2">
     </a>
 
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 1">
+    </a>
+
+    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" class="thumbnail">
+           <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 2">
+    </a>
+
 
     
 

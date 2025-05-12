@@ -38,14 +38,8 @@
 
 
 <div alt="reading now" align="center">
+ 
 
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-By-George-Perez-Vol.-1-2016.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 1">
-    </a>
-
-
-   
 
 
 
@@ -58,10 +52,6 @@
 <div alt="Next up" align="center">
 
 
-
-    <a href="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 2">
-    </a>
 
 
 
@@ -102,25 +92,31 @@
 <div alt="May trades" align="center">
 
 <a href="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" alt="X-Factor vol 2">
+    <img src="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" alt="X-Factor vol 2. 14 mei.">
 </a>
 
 
 
 <a href="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" alt="Ultimates vol 2">
+    <img src="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" alt="Ultimates vol 2. 21 mei.">
 </a>
 
-<a href="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" class="thumbnail">
-    <img src="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" alt="Magik vol 1">
-</a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81BKXMh0gNL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81BKXMh0gNL._SL1500_.jpg" alt="New Gods vol 1. 21 mei.">
+    </a>
 
 <a href="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" alt="Cyberpunk Psycho Squad">
+    <img src="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" alt="Cyberpunk Psycho Squad. 21 mei.">
 </a>
 
     <a href="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" class="thumbnail">
-        <img src="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" alt="Metamorpho: Element Man vol 1">
+        <img src="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" alt="Metamorpho: Element Man vol 1. 28 mei.">
+    </a>
+
+    <a href="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" class="thumbnail">
+         <img src="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" alt="Magik vol 1. 28 mei.">
     </a>
 
 
@@ -136,7 +132,7 @@
 
 
 <a href="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" alt="Ultimate Wolverine vol 1">
+    <img src="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" alt="Ultimate Wolverine vol 1. 11 juni.">
 </a>
 
 
@@ -148,8 +144,12 @@
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" alt="The Moon is Following us">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" alt="The Moon is Following us. 4 juni.">
 </a>
+
+    <a href="https://images2.penguinrandomhouse.com/cover/9781799506362" class="thumbnail">
+        <img src="https://images2.penguinrandomhouse.com/cover/9781799506362" alt="Green Lantern Corps vol 1. 11 juni.">
+    </a>
 
 
 
@@ -163,21 +163,38 @@
 <div alt="July trades" align="center">
 
 
-    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men vol 3">
-    </a>
-
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" alt="Immortal Thor vol 5">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" alt="Immortal Thor vol 5. 2 juli.">
     </a>
 
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3">
-</a>
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. 2 juli.">
+    </a>  
 
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9869143.jpg?1745589440" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9869143.jpg?1745589440" alt="Storm vol 2">
-</a>
+    <a href="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" alt="Power Fantasy vol 2. 9 juli.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men vol 3. 9 juli.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/818GykH-FxL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/818GykH-FxL._SL1500_.jpg" alt="Zatanna. 16 juli.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" alt="Arcbound vol 1. 23 juli.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" alt="Bitter Root: The Next Movement. 30 juli.">
+    </a>
+
+
+
+
+
 
 
 </div>
@@ -187,9 +204,10 @@
 
 <div alt="August trades" align="center">
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
 </a>
+
 
 
 
@@ -197,10 +215,10 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>September trades</b></p>
 
-<div alt="August trades" align="center">
+<div alt="September trades" align="center">
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://cdn.imagecomics.com/assets/i/releases/1072677/nights-18_d57b39c711.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1072677/nights-18_d57b39c711.jpg" alt="Nights vol 3. 10 September.">
 </a>
 
 
