@@ -1660,6 +1660,27 @@
            <img src="https://i0.wp.com/getcomics.org/share/uploads/2017/06/Wonder-Woman-by-George-Perez-Vol.-2-2017.jpg?fit=400%2C615&ssl=1" alt="George Perez Wonder Woman vol 2">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/51tc1piR8PL._SL1185_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51tc1piR8PL._SL1185_.jpg" alt="Final Crisis">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61DXNL904gL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61DXNL904gL.jpg" alt="Spider-Man: Return of the Black Cats">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81bnl5+Q-nL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81bnl5+Q-nL._SL1500_.jpg" alt="Batman Reborn">
+    </a>
+
+    <a href="https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/983004-5.jpg" class="thumbnail">
+         <img src="https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/983004-5.jpg" alt="Revenge of the Red Hood">
+    </a>
+
+    <a href="https://static.wikia.nocookie.net/marvel_dc/images/e/ee/Batman_and_Robin_Vol_1_8.jpg/revision/latest?cb=20100601061225" class="thumbnail">
+         <img src="https://static.wikia.nocookie.net/marvel_dc/images/e/ee/Batman_and_Robin_Vol_1_8.jpg/revision/latest?cb=20100601061225" alt="Blackest Knight">
+    </a>
+
+
 
     
 

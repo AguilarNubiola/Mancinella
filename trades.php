@@ -229,9 +229,40 @@
 
 <div alt="August trades" align="center">
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+
+
+
+<a href="https://m.media-amazon.com/images/I/81t4Vd1J56L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81t4Vd1J56L._SL1500_.jpg" alt="Time and the Batman">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/81A28iYOUIL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81A28iYOUIL._SL1500_.jpg" alt="Batman vs Robin">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71pTKVhSN8L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71pTKVhSN8L._SL1500_.jpg" alt="Batman and Robin must die">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81PL-AXSJbL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81PL-AXSJbL._UF1000,1000_QL80_.jpg" alt="Return of Bruce Wayne">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" alt="Batman Incorporated">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/81wyyh34XfL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81wyyh34XfL._AC_UF1000,1000_QL80_.jpg" alt="Demon Star">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" alt="Gotham's Most Wanted">
+</a>
+
+
 
 
 
