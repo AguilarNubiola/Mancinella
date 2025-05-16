@@ -30,6 +30,393 @@
 
 </div>
 
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 21st</b></p>
+
+
+<div alt="This week" align="center">
+
+   
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" alt="Catwoman 76. 21st of May.">
+    </a>
+
+
+
+    <a href="https://i.imgur.com/65MeEH8.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/65MeEH8.jpeg" alt="Ultimates #12. 21/05/2025.">
+    </a>
+
+
+
+
+
+
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 28th</b></p>
+
+
+
+<div alt="Next week" align="center">
+
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" alt="Absolute Wonder Woman #8. 28/05/2025.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" alt="Uncanny X-Men #15. 28/05/2025.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" alt="Magik #5. 28/05/2025.">
+   </a>
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" alt="Absolute Martian Manhunter #3. 28/05/2025.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/81-KJPaR1fL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81-KJPaR1fL._SL1500_.jpg" alt="Avengers #26. 28/05/2025.">
+   </a>
+
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" alt="Assorted Crisis Events #3. 28/05/2025">
+   </a>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June</p>
+
+
+<div alt="June" align="center">
+
+
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9851651.jpg?1745604782" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9851651.jpg?1745604782" alt="Poison Ivy #34. 04/06/2025">
+</a>
+
+
+
+
+
+<a href="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" alt="X-Men 17. 04/06/2025">
+</a>
+
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" alt="The Moon is Following Us 10. 04/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" alt="Imperial 1. 04/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" alt="Absolute Green Lantern 3. 04/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3559835.jpg?1742606486" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3559835.jpg?1742606486" alt="Absolute Wonder Woman 9. 04/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" alt="Storm 9. 04/06/2025">
+</a>
+
+
+<a href="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" alt="Ultimate Wolverine 6. 04/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" alt="Magik 6. 11/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" alt="W0rldtr33 15. 11/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" alt="Ultimate X-Men 16. 11/06/2025">
+</a>
+
+
+
+<a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men 18. 18/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81+wNyqDf5L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81+wNyqDf5L._SL1500_.jpg" alt="Psylocke 8. 18/06/2025">
+</a>
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2930397.jpg?1742627478" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2930397.jpg?1742627478" alt="Catwoman 77. 18/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" alt="Ultimates 13. 18/06/2025">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/91APIgPM0YL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91APIgPM0YL._SL1500_.jpg" alt="Uncanny X-Men 16. 25/06/2025">
+</a>
+
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1068874/nights-17_c843e5d7ab.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1068874/nights-17_c843e5d7ab.jpg" alt="Nights 17. 25/06/2025">
+</a>
+
+<a href="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" class="thumbnail">
+    <img src="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" alt="The City Beneath her Feet #2. 25/06/2025">
+</a>
+
+
+<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1742606579" class="thumbnail">
+    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1742606579" alt="Absolute Martian Manhunter 4. 25/06/2025">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1068606/assorted-crisis-events-4_2d9820bdc3.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1068606/assorted-crisis-events-4_2d9820bdc3.jpg" alt="Assorted Crisis Events #4 25/06/2025">
+</a>
+
+
+
+</div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July</p>
+
+
+<div alt="July" align="center">
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1072465/assorted-crisis-events-5_b28fcc777d.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1072465/assorted-crisis-events-5_b28fcc777d.jpg" alt="Assorted Crisis Events #5 30/07/2025">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTMTS2024014_JuanFerreyraVariant-min.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTMTS2024014_JuanFerreyraVariant-min.jpg?resize=675%2C1024&ssl=1" alt="Ultimates 14">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024017_Cov-scaled.jpg?resize=663%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024017_Cov-scaled.jpg?resize=663%2C1024&ssl=1" alt="Uncanny X-Men 17">
+</a>
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMEN2024019_Cov-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMEN2024019_Cov-scaled.jpg?resize=674%2C1024&ssl=1" alt="X-Men 19">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?resize=674%2C1024&ssl=1" alt="Uncanny X-Men 18">
+</a>
+
+
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTXM2024017_cov-scaled.jpg?resize=683%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTXM2024017_cov-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men 17">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTSM2024019_Parel-min.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTSM2024019_Parel-min.jpg?resize=675%2C1024&ssl=1" alt="Ultimate Spider-Man 19">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/STORM2024010_cov-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/STORM2024010_cov-scaled.jpg?resize=674%2C1024&ssl=1" alt="Storm #10">
+</a>
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/PSYLOCKE2024009_Cov-scaled.jpg?resize=671%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/PSYLOCKE2024009_Cov-scaled.jpg?resize=671%2C1024&ssl=1" alt="Psylocke 9">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/MAGIK2025007_YasminePutriVar-scaled.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/MAGIK2025007_YasminePutriVar-scaled.jpg?resize=675%2C1024&ssl=1" alt="Magik 7">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMENHELLFVIGIL2025001_AKA-1-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMENHELLFVIGIL2025001_AKA-1-scaled.jpg?resize=674%2C1024&ssl=1" alt="Hellfire Vigil">
+</a>
+
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Martian-Manhunter-5-OTO2-Garbett.jpg?fit=675%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Martian-Manhunter-5-OTO2-Garbett.jpg?fit=675%2C1024&ssl=1" alt="Absolute Martian Manhunter #5">
+</a>
+
+<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Green-Lantern-04_-Alex-Eckman-Lawn-OTO-scaled.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Green-Lantern-04_-Alex-Eckman-Lawn-OTO-scaled.jpg?resize=675%2C1024&ssl=1" alt="Absolute Green Lantern #4">
+</a>
+
+
+<a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2025/04/Absolute-Wonder-Woman-10-1-50-Anka.jpg?resize=720%2C1093&ssl=1" class="thumbnail">
+    <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2025/04/Absolute-Wonder-Woman-10-1-50-Anka.jpg?resize=720%2C1093&ssl=1" alt="Absolute Wonder Woman #10">
+</a>
+
+
+
+
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1072673/monstress-58_75be9e268c.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1072673/monstress-58_75be9e268c.jpg" alt="Monstress #58">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1072471/bitter-root-the-next-movement-5-of-5_36728fa47f.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1072471/bitter-root-the-next-movement-5-of-5_36728fa47f.jpg" alt="Bitter Root: The Next Movement #5 (finale)">
+</a>
+
+<a href="https://cdn.imagecomics.com/assets/i/releases/1066692/w0-rldtr33-16_5427e9790f.jpg" class="thumbnail">
+    <img src="https://cdn.imagecomics.com/assets/i/releases/1066692/w0-rldtr33-16_5427e9790f.jpg" alt="W0rldtr33 #16">
+</a>
+
+
+
+
+
+
+
+</div July end>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>August</p>
+
+
+<div alt="August" align="center">
+
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men #18. 6 Augustus.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTWOLV2025008_Cover-scaled.jpg?resize=663%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTWOLV2025008_Cover-scaled.jpg?resize=663%2C1024&ssl=1" alt="Ultimate Wolverine #8. 6 Augustus.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTSMINCURSION2025003_Cover-scaled.jpg?resize=672%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTSMINCURSION2025003_Cover-scaled.jpg?resize=672%2C1024&ssl=1" alt="Ultimate Spider-Man: Incursion #3. 13 Augustus.">
+    </a>
+
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTMTS2024015_Cover-scaled.jpg?resize=672%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTMTS2024015_Cover-scaled.jpg?resize=672%2C1024&ssl=1" alt="Ultimates #15. 13 Augustus.">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Power Fantasy #11. 6 Augustus.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/IMPWARBLAP2025001_Cover-scaled.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/IMPWARBLAP2025001_Cover-scaled.jpg?resize=675%2C1024&ssl=1" alt="Imperial: Black Panther. 20 Augustus.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/IMPWARPSHEHULK2025001_Cover-scaled.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/IMPWARPSHEHULK2025001_Cover-scaled.jpg?resize=675%2C1024&ssl=1" alt="Imperial: She-Hulk. 27 Augustus.">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+
+    <a href="" class="thumbnail">
+        <img src="" alt="">
+    </a>
+
+    <a href="" class="thumbnail">
+        <img src="" alt="Monstress #59. 27 Augustus.">
+    </a>
+
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTSM2024020_Cover-scaled.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTSM2024020_Cover-scaled.jpg?resize=675%2C1024&ssl=1" alt="Ultimate Spider-Man #20">
+    </a>
+
+
+
+
+</div August end>
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Favourite four in 2024</b></p>
+
+<div alt="Favourite 4 in 2024" align="center">
+
+     <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" class="thumbnail">
+        <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" alt="Uncanny X-Men">
+     </a>
+
+     <a href="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" class="thumbnail">
+        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" alt="Nights">
+     </a>
+
+     <a href="https://travellingman.com/cdn/shop/files/9131kmexN8L._SL1500_1200x1200.jpg?v=1731341873" class="thumbnail">
+        <img src="https://travellingman.com/cdn/shop/files/9131kmexN8L._SL1500_1200x1200.jpg?v=1731341873" alt="Monstress">
+     </a>
+
+     <a href="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" class="thumbnail">
+        <img src="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" alt="The Moon is Following Us">
+     </a>
+
+     
+
+
+
+</div>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Favourite four in 2025</b></p>
+
+
+<div alt="Favourite 4 in 2025 so far" align="center">
+
+     <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" class="thumbnail">
+        <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" alt="Uncanny X-Men">
+     </a>
+
+     <a href="https://i.ebayimg.com/images/g/mpEAAOSwwVpni~CD/s-l1200.jpg" class="thumbnail">
+        <img src="https://i.ebayimg.com/images/g/mpEAAOSwwVpni~CD/s-l1200.jpg" alt="Storm">
+     </a>
+
+     <a href="https://m.media-amazon.com/images/I/81c37HDob8L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81c37HDob8L._SL1500_.jpg" alt="Ultimates">
+     </a>
+
+     <a href="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2025/03/ULTXM2024013_Preview-page-001.jpg?ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2025/03/ULTXM2024013_Preview-page-001.jpg?ssl=1" alt="Ultimate X-Men">
+     </a>
+
+     
+
+
+
+</div>
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:40px"><b>Artists</b></p>
 
 
@@ -187,367 +574,6 @@
 <a href="https://m.media-amazon.com/images/I/91MxJKr4jAL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/91MxJKr4jAL._SL1500_.jpg" alt="Poison Ivy">
 </a>
-
-
-</div>
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 14th</b></p>
-
-
-<div alt="This week" align="center">
-
-
-   <a href="https://i.imgur.com/yfqwoHN.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/yfqwoHN.jpeg" alt="Ultimate X-Men #15. 14/05/2025.">
-   </a>
-
-   
-   <a href="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" alt="Uncanny X-Men #14. 14/05/2025.">
-   </a>
-
-   <a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
-        <img src="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" alt="W0rldtr33 #14. 14th of May.">
-   </a>
-
-
-
-
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May 21st</b></p>
-
-
-
-<div alt="Next week" align="center">
-
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" alt="Catwoman 76. 21st of May.">
-    </a>
-
-    <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" class="thumbnail">
-        <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" alt="I Heart Skull-Crusher! #9. 14/05/2025.">
-    </a>
-
-
-
-    <a href="https://i.imgur.com/65MeEH8.jpeg" class="thumbnail">
-        <img src="https://i.imgur.com/65MeEH8.jpeg" alt="Ultimates #12. 21/05/2025.">
-    </a>
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May</p>
-
-
-<div alt="" align="center">
-
-
-
-   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" alt="Absolute Wonder Woman #8. 28/05/2025.">
-   </a>
-
-   <a href="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" alt="Uncanny X-Men #15. 28/05/2025.">
-   </a>
-
-   <a href="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" alt="Magik #5. 28/05/2025.">
-   </a>
-
-   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" class="thumbnail">
-        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" alt="Absolute Martian Manhunter #3. 28/05/2025.">
-   </a>
-
-   <a href="https://m.media-amazon.com/images/I/81-KJPaR1fL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81-KJPaR1fL._SL1500_.jpg" alt="Avengers #26. 28/05/2025.">
-   </a>
-
-   <a href="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" alt="Assorted Crisis Events #3. 28/05/2025">
-   </a>
-
-
-
-
-
-
-
-
-</div>
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June</p>
-
-
-<div alt="June" align="center">
-
-
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9851651.jpg?1745604782" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9851651.jpg?1745604782" alt="Poison Ivy #34. 04/06/2025">
-</a>
-
-
-
-
-
-<a href="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" alt="X-Men 17. 04/06/2025">
-</a>
-
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" alt="The Moon is Following Us 10. 04/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" alt="Imperial 1. 04/06/2025">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" alt="Absolute Green Lantern 3. 04/06/2025">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3559835.jpg?1742606486" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3559835.jpg?1742606486" alt="Absolute Wonder Woman 9. 04/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" alt="Storm 9. 04/06/2025">
-</a>
-
-
-<a href="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" alt="Ultimate Wolverine 6. 04/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" alt="Magik 6. 11/06/2025">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" alt="W0rldtr33 15. 11/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" alt="Ultimate X-Men 16. 11/06/2025">
-</a>
-
-<a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM422-666x1024.jpg" class="thumbnail">
-    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM422-666x1024.jpg" alt="W0rldtr33 #15. 11 juni.">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men 18. 18/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81+wNyqDf5L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81+wNyqDf5L._SL1500_.jpg" alt="Psylocke 8. 18/06/2025">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2930397.jpg?1742627478" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2930397.jpg?1742627478" alt="Catwoman 77. 18/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" alt="Ultimates 13. 18/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91APIgPM0YL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91APIgPM0YL._SL1500_.jpg" alt="Uncanny X-Men 16. 25/06/2025">
-</a>
-
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1068874/nights-17_c843e5d7ab.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1068874/nights-17_c843e5d7ab.jpg" alt="Nights 17. 25/06/2025">
-</a>
-
-<a href="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" class="thumbnail">
-    <img src="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" alt="The City Beneath her Feet #2. 25/06/2025">
-</a>
-
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1742606579" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1742606579" alt="Absolute Martian Manhunter 4. 25/06/2025">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1068606/assorted-crisis-events-4_2d9820bdc3.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1068606/assorted-crisis-events-4_2d9820bdc3.jpg" alt="Assorted Crisis Events #4 25/06/2025">
-</a>
-
-
-
-</div>
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July</p>
-
-
-<div alt="July" align="center">
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1072465/assorted-crisis-events-5_b28fcc777d.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1072465/assorted-crisis-events-5_b28fcc777d.jpg" alt="Assorted Crisis Events #5 30/07/2025">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTMTS2024014_JuanFerreyraVariant-min.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTMTS2024014_JuanFerreyraVariant-min.jpg?resize=675%2C1024&ssl=1" alt="Ultimates 14">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024017_Cov-scaled.jpg?resize=663%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024017_Cov-scaled.jpg?resize=663%2C1024&ssl=1" alt="Uncanny X-Men 17">
-</a>
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMEN2024019_Cov-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMEN2024019_Cov-scaled.jpg?resize=674%2C1024&ssl=1" alt="X-Men 19">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?resize=674%2C1024&ssl=1" alt="Uncanny X-Men 18">
-</a>
-
-
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTXM2024017_cov-scaled.jpg?resize=683%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTXM2024017_cov-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men 17">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTSM2024019_Parel-min.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/ULTSM2024019_Parel-min.jpg?resize=675%2C1024&ssl=1" alt="Ultimate Spider-Man 19">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/STORM2024010_cov-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/STORM2024010_cov-scaled.jpg?resize=674%2C1024&ssl=1" alt="Storm #10">
-</a>
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/PSYLOCKE2024009_Cov-scaled.jpg?resize=671%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/PSYLOCKE2024009_Cov-scaled.jpg?resize=671%2C1024&ssl=1" alt="Psylocke 9">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/MAGIK2025007_YasminePutriVar-scaled.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/MAGIK2025007_YasminePutriVar-scaled.jpg?resize=675%2C1024&ssl=1" alt="Magik 7">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMENHELLFVIGIL2025001_AKA-1-scaled.jpg?resize=674%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/XMENHELLFVIGIL2025001_AKA-1-scaled.jpg?resize=674%2C1024&ssl=1" alt="Hellfire Vigil">
-</a>
-
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Martian-Manhunter-5-OTO2-Garbett.jpg?fit=675%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Martian-Manhunter-5-OTO2-Garbett.jpg?fit=675%2C1024&ssl=1" alt="Absolute Martian Manhunter #5">
-</a>
-
-<a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Green-Lantern-04_-Alex-Eckman-Lawn-OTO-scaled.jpg?resize=675%2C1024&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/Absolute-Green-Lantern-04_-Alex-Eckman-Lawn-OTO-scaled.jpg?resize=675%2C1024&ssl=1" alt="Absolute Green Lantern #4">
-</a>
-
-
-<a href="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2025/04/Absolute-Wonder-Woman-10-1-50-Anka.jpg?resize=720%2C1093&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2025/04/Absolute-Wonder-Woman-10-1-50-Anka.jpg?resize=720%2C1093&ssl=1" alt="Absolute Wonder Woman #10">
-</a>
-
-
-
-
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1072673/monstress-58_75be9e268c.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1072673/monstress-58_75be9e268c.jpg" alt="Monstress #58">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1072471/bitter-root-the-next-movement-5-of-5_36728fa47f.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1072471/bitter-root-the-next-movement-5-of-5_36728fa47f.jpg" alt="Bitter Root: The Next Movement #5 (finale)">
-</a>
-
-<a href="https://cdn.imagecomics.com/assets/i/releases/1066692/w0-rldtr33-16_5427e9790f.jpg" class="thumbnail">
-    <img src="https://cdn.imagecomics.com/assets/i/releases/1066692/w0-rldtr33-16_5427e9790f.jpg" alt="W0rldtr33 #16">
-</a>
-
-
-
-
-
-
-
-</div July end>
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Favourite four in 2024</b></p>
-
-<div alt="Favourite 4 in 2024" align="center">
-
-     <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" class="thumbnail">
-        <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" alt="Uncanny X-Men">
-     </a>
-
-     <a href="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" class="thumbnail">
-        <img src="https://www.previewsworld.com/SiteImage/MainImage/STL302983.jpg" alt="Nights">
-     </a>
-
-     <a href="https://travellingman.com/cdn/shop/files/9131kmexN8L._SL1500_1200x1200.jpg?v=1731341873" class="thumbnail">
-        <img src="https://travellingman.com/cdn/shop/files/9131kmexN8L._SL1500_1200x1200.jpg?v=1731341873" alt="Monstress">
-     </a>
-
-     <a href="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" class="thumbnail">
-        <img src="https://assets-prd.ignimgs.com/2024/06/10/moonisfollowingus-01b-cov-1718045445886.jpg" alt="The Moon is Following Us">
-     </a>
-
-     
-
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Favourite four in 2025</b></p>
-
-
-<div alt="Favourite 4 in 2025 so far" align="center">
-
-     <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" class="thumbnail">
-        <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/uncanny-x-men-2-cover-showing-the-outliers.jpg" alt="Uncanny X-Men">
-     </a>
-
-     <a href="https://i.ebayimg.com/images/g/mpEAAOSwwVpni~CD/s-l1200.jpg" class="thumbnail">
-        <img src="https://i.ebayimg.com/images/g/mpEAAOSwwVpni~CD/s-l1200.jpg" alt="Storm">
-     </a>
-
-     <a href="https://m.media-amazon.com/images/I/81c37HDob8L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81c37HDob8L._SL1500_.jpg" alt="Ultimates">
-     </a>
-
-     <a href="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2025/03/ULTXM2024013_Preview-page-001.jpg?ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2025/03/ULTXM2024013_Preview-page-001.jpg?ssl=1" alt="Ultimate X-Men">
-     </a>
-
-     
-
 
 
 </div>

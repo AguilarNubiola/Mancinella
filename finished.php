@@ -385,6 +385,14 @@
         <img src="https://m.media-amazon.com/images/I/91NMUbwTKaL._SL1500_.jpg" alt="Psylocke #7. 07/05/2025.">
    </a>
 
+   <a href="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Na2e9-9CL._SL1500_.jpg" alt="Uncanny X-Men #14. 14/05/2025.">
+   </a>
+
+   <a href="https://i.imgur.com/yfqwoHN.jpeg" class="thumbnail">
+        <img src="https://i.imgur.com/yfqwoHN.jpeg" alt="Ultimate X-Men #15. 14/05/2025.">
+   </a>
+
 
 
 
@@ -979,6 +987,10 @@
     <img src="https://m.media-amazon.com/images/I/612TKu2GfhL._SL1076_.jpg" alt="Nullhunter #7">
 </a>
 
+<a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" alt="W0rldtr33 #14. 14th of May.">
+   </a>
+
 
 
 
@@ -1080,6 +1092,10 @@
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Dark-Empty-Void-3-2025.jpg?fit=400%2C611&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Dark-Empty-Void-3-2025.jpg?fit=400%2C611&ssl=1" alt="Dark Empty Void #3">
+    </a>
+
+    <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" class="thumbnail">
+        <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" alt="I Heart Skull-Crusher! #9. 14/05/2025.">
     </a>
 
 
@@ -1679,6 +1695,44 @@
     <a href="https://static.wikia.nocookie.net/marvel_dc/images/e/ee/Batman_and_Robin_Vol_1_8.jpg/revision/latest?cb=20100601061225" class="thumbnail">
          <img src="https://static.wikia.nocookie.net/marvel_dc/images/e/ee/Batman_and_Robin_Vol_1_8.jpg/revision/latest?cb=20100601061225" alt="Blackest Knight">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" class="thumbnail">
+         <img src="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" alt="X-Factor vol 2. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81t4Vd1J56L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81t4Vd1J56L._SL1500_.jpg" alt="Time and the Batman">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81A28iYOUIL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81A28iYOUIL._SL1500_.jpg" alt="Batman vs Robin">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71pTKVhSN8L._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71pTKVhSN8L._SL1500_.jpg" alt="Batman and Robin must die">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91GMysmLFCL._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91GMysmLFCL._UF1000,1000_QL80_.jpg" alt="Dark Spaces: Good Deeds">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81PL-AXSJbL._UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81PL-AXSJbL._UF1000,1000_QL80_.jpg" alt="Return of Bruce Wayne">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91gRb6XNAcL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91gRb6XNAcL._SL1500_.jpg" alt="Superman: Up in the Sky">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81WCblz7GnL._SL1500_.jpg" class="thumbnail">
+         <img src="https://m.media-amazon.com/images/I/81WCblz7GnL._SL1500_.jpg" alt="Supergirl: Woman of Tomorrow">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91jKNqTiQ5L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91jKNqTiQ5L._AC_UF1000,1000_QL80_.jpg" alt="Helen of Wyndhorn">
+    </a>
+
+    
 
 
 
