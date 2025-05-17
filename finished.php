@@ -1732,6 +1732,21 @@
         <img src="https://m.media-amazon.com/images/I/91jKNqTiQ5L._AC_UF1000,1000_QL80_.jpg" alt="Helen of Wyndhorn">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" alt="Batman Incorporated">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81wyyh34XfL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81wyyh34XfL._AC_UF1000,1000_QL80_.jpg" alt="Demon Star">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" alt="Gotham's Most Wanted">
+    </a>
+
+
     
 
 

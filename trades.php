@@ -27,6 +27,7 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
+   <a href="http://localhost/arakko/targets.php">Targets</a>
 </div>
 
 
@@ -91,9 +92,6 @@
 
 <div alt="May trades" align="center">
 
-<a href="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" alt="X-Factor vol 2. 14 mei.">
-</a>
 
 
 
@@ -208,6 +206,10 @@
     <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
 </a>
 
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men vol 3.">
+    </a>
+
 
 
 
@@ -232,36 +234,6 @@
 
 
 
-<a href="https://m.media-amazon.com/images/I/81t4Vd1J56L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81t4Vd1J56L._SL1500_.jpg" alt="Time and the Batman">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81A28iYOUIL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81A28iYOUIL._SL1500_.jpg" alt="Batman vs Robin">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/71pTKVhSN8L._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71pTKVhSN8L._SL1500_.jpg" alt="Batman and Robin must die">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81PL-AXSJbL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81PL-AXSJbL._UF1000,1000_QL80_.jpg" alt="Return of Bruce Wayne">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91D3mHpl6XL._UF1000,1000_QL80_.jpg" alt="Batman Incorporated">
-</a>
-
-
-<a href="https://m.media-amazon.com/images/I/81wyyh34XfL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81wyyh34XfL._AC_UF1000,1000_QL80_.jpg" alt="Demon Star">
-</a>
-
-
-<a href="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" alt="Gotham's Most Wanted">
-</a>
-
 
 
 
@@ -273,9 +245,22 @@
 
 <div alt="August trades" align="center">
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://m.media-amazon.com/images/I/71zA6wOt9aL._SL1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71zA6wOt9aL._SL1000_.jpg" alt="Seven Soldiers of Victory volume 1">
 </a>
+
+<a href="https://m.media-amazon.com/images/I/71LITj5jdyL._SL1000_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71LITj5jdyL._SL1000_.jpg" alt="Seven Soldiers of Victory volume 2">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/619TTR6X0QL.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/619TTR6X0QL.jpg" alt="Seven Soldiers of Victory volume 3">
+</a>
+
+<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1307327243i/22391.jpg" class="thumbnail">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1307327243i/22391.jpg" alt="Seven Soldiers of Victory volume 4">
+</a>
+
 
 
 
@@ -283,7 +268,7 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
 
-<div alt="August trades" align="center">
+<div alt="December trades" align="center">
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" alt="Fine Print vol 3. 16/12/2025">
