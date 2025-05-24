@@ -42,17 +42,15 @@
  
 
 
-
-
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
 
 
 
+
+
 <div alt="Next up" align="center">
-
-
 
 
 
@@ -93,21 +91,7 @@
 <div alt="May trades" align="center">
 
 
-
-
-<a href="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" class="thumbnail">
-    <img src="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" alt="Ultimates vol 2. 21 mei.">
-</a>
-
-
-
-    <a href="https://m.media-amazon.com/images/I/81BKXMh0gNL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81BKXMh0gNL._SL1500_.jpg" alt="New Gods vol 1. 21 mei.">
-    </a>
-
-<a href="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" alt="Cyberpunk Psycho Squad. 21 mei.">
-</a>
+    
 
     <a href="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" class="thumbnail">
         <img src="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" alt="Metamorpho: Element Man vol 1. 28 mei.">
@@ -135,12 +119,6 @@
 
 
 
-<a href="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" class="thumbnail">
-    <img src="https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2025/03/XMEN2024018_Cov-scaled.jpg" alt="X-Men vol 3. 25/06/2025">
-</a>
-
-
-
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" alt="The Moon is Following us. 4 juni.">
 </a>
@@ -149,7 +127,9 @@
         <img src="https://images2.penguinrandomhouse.com/cover/9781799506362" alt="Green Lantern Corps vol 1. 11 juni.">
     </a>
 
-
+<a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men vol 2. 18 juni.">
+</a>
 
 
 
@@ -229,10 +209,36 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>October trades</b></p>
 
-<div alt="August trades" align="center">
+<div alt="October trades" align="center">
 
 
+<a href="https://m.media-amazon.com/images/I/81xYJC1My8L._SL1500_.jpg" class="thubmnail">
+    <img src="https://m.media-amazon.com/images/I/81xYJC1My8L._SL1500_.jpg" alt="The Invisibles: Say You Want a Revolution">
+</a>
 
+<a href="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" class="thubmnail">
+    <img src="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" alt="The Invisibles: Apocalipstick">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81EWnO93kiL._SL1500_.jpg" class="thubmnail">
+    <img src="https://m.media-amazon.com/images/I/81EWnO93kiL._SL1500_.jpg" alt="The Invisibles: Entropy in the U.K">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/51tZgjVJ0ZL.jpg" class="thubmnail">
+    <img src="https://m.media-amazon.com/images/I/51tZgjVJ0ZL.jpg" alt="The Invisibles: Bloody Hell in America">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81+g6abftPL._SL1500_.jpg" class="thubmnail">
+    <img src="https://m.media-amazon.com/images/I/81+g6abftPL._SL1500_.jpg" alt="The Invisibles: Counting to None">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" class="thubmnail">
+    <img src="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" alt="The Invisibles: Kissing Mister Quimper">
+</a>
+
+<a href="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" class="thubmnail">
+    <img src="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" alt="The Invisibles: The Invisible Kingdom">
+</a>
 
 
 
@@ -243,23 +249,28 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>November trades</b></p>
 
-<div alt="August trades" align="center">
+<div alt="November trades" align="center">
 
-<a href="https://m.media-amazon.com/images/I/71zA6wOt9aL._SL1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71zA6wOt9aL._SL1000_.jpg" alt="Seven Soldiers of Victory volume 1">
-</a>
 
-<a href="https://m.media-amazon.com/images/I/71LITj5jdyL._SL1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71LITj5jdyL._SL1000_.jpg" alt="Seven Soldiers of Victory volume 2">
-</a>
 
-<a href="https://m.media-amazon.com/images/I/619TTR6X0QL.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/619TTR6X0QL.jpg" alt="Seven Soldiers of Victory volume 3">
-</a>
 
-<a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1307327243i/22391.jpg" class="thumbnail">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1307327243i/22391.jpg" alt="Seven Soldiers of Victory volume 4">
-</a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610441377i/53197444.jpg" class="thumnbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610441377i/53197444.jpg" alt="Ram V Catwoman vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81FRsRIAlvL._AC_UF1000,1000_QL80_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/81FRsRIAlvL._AC_UF1000,1000_QL80_.jpg" alt="Ram V Catwoman vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Yge1Kwn7L.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/81Yge1Kwn7L.jpg" alt="Ram V Catwoman vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71VIB1c3JtL._AC_UF1000,1000_QL80_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/71VIB1c3JtL._AC_UF1000,1000_QL80_.jpg" alt="Ed Brubaker's Catwoman">
+    </a>
+
 
 
 
@@ -269,6 +280,8 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
 
 <div alt="December trades" align="center">
+
+
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" class="thumbnail">
     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" alt="Fine Print vol 3. 16/12/2025">

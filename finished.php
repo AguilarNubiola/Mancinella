@@ -35,7 +35,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:black;  font-size:30px"><b>X-Men issues read</b></p>
+<p align="center" style="font-family:'Courier New'; color:gold;  font-size:30px"><b>X-Men issues read</b></p>
 
 <div alt="X-men Issues read" align="center">
 
@@ -412,7 +412,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Non-X Marvel titles</b></p>
+<p align="center" style="font-family:'Courier New'; color:gold; font-size:30px"><b>Non-X Marvel titles</b></p>
 
 <div alt="Non-X Marvel" align="center">
 
@@ -502,7 +502,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>DC Comics</b></p>
+<p align="center" style="font-family:'Courier New'; color:gold; font-size:30px"><b>DC Comics</b></p>
 
 <div alt="DC" align="center">
 
@@ -646,6 +646,15 @@
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1172924.jpg?1740161127" alt="Absolute Green Lantern #2. 07/05/2025.">
    </a>
 
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791743.jpg?1740162699" alt="Catwoman 76. 21st of May.">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/91CNn2dpy5L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91CNn2dpy5L._SL1500_.jpg" alt="Zatanna #4. 21 mei.">
+    </a>
+
 
 
 
@@ -669,7 +678,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Image Comics</b></p>
+<p align="center" style="font-family:'Courier New'; color:gold; font-size:30px"><b>Image Comics</b></p>
 
 <div alt="Image" align="center">
 
@@ -1098,20 +1107,15 @@
         <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" alt="I Heart Skull-Crusher! #9. 14/05/2025.">
     </a>
 
-
-
-
-
-</div>
-
-
-
+    <a href="https://m.media-amazon.com/images/I/9160Fff-qgL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/9160Fff-qgL._SL1500_.jpg" alt="Robowolf #1">
+    </a>
 
 
 
 
 
-
+</div alt="End of the rest">
 
 
 
@@ -1124,9 +1128,18 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Trades</b></p>
 
-<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Comics and trades finished in 2025</b></p>
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:gold; font-size:30px"><b>Trades</b></p>
+
+<p align="center" style="font-family:'Courier New'; color:gold; font-size:30px"><b>Comics and trades finished in 2025</b></p>
 
 
 <div alt="finished comics 2025" align="Center">
@@ -1277,9 +1290,6 @@
     <img src="https://m.media-amazon.com/images/I/91AJzY0DNAL._SL1500_.jpg" alt="Ultimate X-Men vol 2. 26 Februari.">
 </a>
 
-<a href="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" class="thumbnail">
-    <img src="https://unknowncomicbooks.com/cdn/shop/files/75960620920001211.jpg?v=1732545099" alt="X-Men vol 2. 26 Februari.">
-</a>
 
 <a href="https://cdn.archonia.com/images/1-104446950-1-1-original1/power-rangers-prime-tp-trade-paperback.jpg" class="thumbnail">
     <img src="https://cdn.archonia.com/images/1-104446950-1-1-original1/power-rangers-prime-tp-trade-paperback.jpg" alt="Power Rangers Prime vol 1">
@@ -1692,8 +1702,8 @@
          <img src="https://comicvine.gamespot.com/a/uploads/scale_small/0/9116/983004-5.jpg" alt="Revenge of the Red Hood">
     </a>
 
-    <a href="https://static.wikia.nocookie.net/marvel_dc/images/e/ee/Batman_and_Robin_Vol_1_8.jpg/revision/latest?cb=20100601061225" class="thumbnail">
-         <img src="https://static.wikia.nocookie.net/marvel_dc/images/e/ee/Batman_and_Robin_Vol_1_8.jpg/revision/latest?cb=20100601061225" alt="Blackest Knight">
+    <a href="https://storage.googleapis.com/hipcomic/p/1934211322b270901f332cd407531c01-800.jpg" class="thumbnail">
+         <img src="https://storage.googleapis.com/hipcomic/p/1934211322b270901f332cd407531c01-800.jpg" alt="Blackest Knight">
     </a>
 
     <a href="https://m.media-amazon.com/images/I/814VFYmuiVL._SL1500_.jpg" class="thumbnail">
@@ -1745,6 +1755,87 @@
     <a href="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71Ua4gf7OTL._AC_UF1000,1000_QL80_.jpg" alt="Gotham's Most Wanted">
     </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/91JkOVczxjL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91JkOVczxjL._AC_UF894,1000_QL80_.jpg" alt="Annihilation">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71zA6wOt9aL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71zA6wOt9aL._AC_UF1000,1000_QL80_.jpg" alt="Seven Soldiers vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71LITj5jdyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71LITj5jdyL._AC_UF1000,1000_QL80_.jpg" alt="Seven Soldier vol 2">
+    </a>
+
+    <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2rF9J-6aphHbccfAT13a4sdtDmRbbtfJ5a0rPQopaHPnZyYCMLbCjQcSjeB7FrX6I6p9khMBM0g0aPPmpTVxgmyD86wSiBjHdeFlChecjGPwv6OdWmEbmXVPBmHiMuQmGxGF/s1600-rw/Ss3.jpg" class="thumbnail">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2rF9J-6aphHbccfAT13a4sdtDmRbbtfJ5a0rPQopaHPnZyYCMLbCjQcSjeB7FrX6I6p9khMBM0g0aPPmpTVxgmyD86wSiBjHdeFlChecjGPwv6OdWmEbmXVPBmHiMuQmGxGF/s1600-rw/Ss3.jpg" alt="Seven Soldiers vol 3">
+    </a>
+
+    <a href="https://tillmanncourth.de/wp-content/uploads/2023/03/book2bonus.jpg" class="thumbnail">
+        <img src="https://tillmanncourth.de/wp-content/uploads/2023/03/book2bonus.jpg" alt="Seven Soldiers vol 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81apc1iaxEL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81apc1iaxEL._SL1500_.jpg" alt="Slightly Exaggerated">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81T2AskUyoL._AC_UF1000,1000_QL80_.jpg" alt="Cyberpunk Psycho Squad. ">
+    </a>
+
+    <a href="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" class="thumbnail">
+    <img src="https://cdn.archonia.com/images/1-104472984-1-1-original1/ultimates-12.jpg" alt="Ultimates vol 2.">
+    </a>
+
+    <a href="https://madcave-storage.s3.amazonaws.com/wp-content/uploads/2025/03/03232006/Dark-Empty-Void-5-Cover-437x668-1-300x459.jpg" class="thumbnail">
+       <img src="https://madcave-storage.s3.amazonaws.com/wp-content/uploads/2025/03/03232006/Dark-Empty-Void-5-Cover-437x668-1-300x459.jpg" alt="Dark Empty Void. ">
+     </a>
+
+    <a href="https://m.media-amazon.com/images/I/81BKXMh0gNL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81BKXMh0gNL._SL1500_.jpg" alt="New Gods vol 1. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/816nH7IirKL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/816nH7IirKL._SL1500_.jpg" alt="New Gods vol 1. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/919qiFfy3NL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/919qiFfy3NL._SL1500_.jpg" alt="Uncanny X-Men by Kieron Gillen vol 1. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71nYMdtfQgL._SL1400_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71nYMdtfQgL._SL1400_.jpg" alt="Uncanny X-Men by Kieron Gillen vol 2. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61rDjniyXfL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61rDjniyXfL.jpg" alt="Uncanny X-Men by Kieron Gillen vol 3. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71tSQWCCJGL._SL1400_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71tSQWCCJGL._SL1400_.jpg" alt="Uncanny X-Men by Kieron Gillen vol 4. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91JVr+CBSEL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91JVr+CBSEL._AC_UF1000,1000_QL80_.jpg" alt="Avengers vs X-Men">
+    </a>
+
+    <a href="" class="thumnbnail">
+        <img src="" alt="Selina's Big Score">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71TsyyaVvML._SL1474_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71TsyyaVvML._SL1474_.jpg" alt="Somna">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81ONQK-5XcL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81ONQK-5XcL._SL1500_.jpg" alt="Bolero">
+    </a>
+
+
+
+ 
 
 
     
@@ -1808,7 +1899,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:black; font-size:30px"><b>Trades finished in 2024</b></p>
+<p align="center" style="font-family:'Courier New'; color:gold; font-size:30px"><b>Trades finished in 2024</b></p>
 
 
 <div alt="finished comics 2024" align="Center">
