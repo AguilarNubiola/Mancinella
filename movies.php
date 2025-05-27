@@ -280,9 +280,20 @@
         <img src="https://media.s-bol.com/g1mPJ7OJlYY/830x1200.jpg" alt="Golgo 13: The Professional">
     </a>
 
-    <a href="" class="thumbnail">
-        <img src="" alt="Logan's Run">
+    <a href="https://cdn.theasc.com/Logans-Run-Control-Room-2.jpg" class="thumbnail">
+        <img src="https://cdn.theasc.com/Logans-Run-Control-Room-2.jpg" alt="Logan's Run">
     </a>
+
+    <a href="https://static.wikia.nocookie.net/shera-and-the-princesses-of-power/images/0/01/Shes4keyarttherebellion11x17rgb.png/revision/latest?cb=20191201193654" class="thumbnail">
+        <img src="https://static.wikia.nocookie.net/shera-and-the-princesses-of-power/images/0/01/Shes4keyarttherebellion11x17rgb.png/revision/latest?cb=20191201193654" alt="She-Ra season 4">
+    </a>
+
+    <a href="https://resizing.flixster.com/t20SmbiM9Wy_zgEt4AogenaZ9aM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjgyMjkxMS53ZWJw" class="thumbnail">
+        <img src="https://resizing.flixster.com/t20SmbiM9Wy_zgEt4AogenaZ9aM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjgyMjkxMS53ZWJw" alt="She-Ra season 5">
+    </a>
+
+
+
 
 
 
