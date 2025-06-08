@@ -392,6 +392,26 @@
    <a href="https://i.imgur.com/yfqwoHN.jpeg" class="thumbnail">
         <img src="https://i.imgur.com/yfqwoHN.jpeg" alt="Ultimate X-Men #15. 14/05/2025.">
    </a>
+   
+   <a href="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81YfXmf4+eL._SL1500_.jpg" alt="Uncanny X-Men #15. 28/05/2025.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/814P1Tzs05L._SL1500_.jpg" alt="Magik #5. 28/05/2025.">
+   </a>
+
+   <a href="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" class="thumbnail">
+         <img src="https://m.media-amazon.com/images/I/91z27MrOiHL._SL1500_.jpg" alt="X-Men 17. 04/06/2025">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91wnB+qD1yL._SL1500_.jpg" alt="Storm 9. 04/06/2025">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" alt="Ultimate Wolverine 6. 04/06/2025">
+    </a>
 
 
 
@@ -470,13 +490,20 @@
       <img src="https://cdn.marvel.com/content/1x/ultmts2024010_cover.jpg" alt="Ultimates #10. 5th of March 2025. Buy.">
    </a>
 
-   <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" class="thumbnail">
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" class="thumbnail">
       <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTMTS2024011_cov-scaled.jpg?ssl=1" alt="Ultimates #11. 9 April.">
     </a>
 
     <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" alt="Avengers #25. 23 April.">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/AVEN2023025_Dauterman_var-scaled.jpg?ssl=1" alt="Avengers #25. 23 April.">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81WUA-a-G4L._SL1500_.jpg" alt="Imperial 1. 04/06/2025">
+    </a>
+
+
+    
 
 
 
@@ -653,6 +680,24 @@
 
     <a href="https://m.media-amazon.com/images/I/91CNn2dpy5L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/91CNn2dpy5L._SL1500_.jpg" alt="Zatanna #4. 21 mei.">
+    </a>
+    
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1042377.jpg?1740202803" alt="Absolute Wonder Woman #8. 28/05/2025.">
+   </a>
+
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-1577053.jpg?1740202863" alt="Absolute Martian Manhunter #3. 28/05/2025.">
+   </a>
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3629696.jpg?1742607003" alt="Absolute Green Lantern 3. 04/06/2025">
+   </a>
+
+   <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9851651.jpg?1745604782" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9851651.jpg?1745604782" alt="Poison Ivy #34. 04/06/2025">
     </a>
 
 
@@ -996,9 +1041,18 @@
     <img src="https://m.media-amazon.com/images/I/612TKu2GfhL._SL1076_.jpg" alt="Nullhunter #7">
 </a>
 
-<a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" alt="W0rldtr33 #14. 14th of May.">
    </a>
+
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" alt="Assorted Crisis Events #3. 28/05/2025">
+   </a>
+
+   <a href="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" class="thumbnail">
+       <img src="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" alt="The Moon is Following Us 10. 04/06/2025">
+    </a>
+
 
 
 
@@ -1832,6 +1886,185 @@
     <a href="https://m.media-amazon.com/images/I/81ONQK-5XcL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81ONQK-5XcL._SL1500_.jpg" alt="Bolero">
     </a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610441377i/53197444.jpg" class="thumnbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610441377i/53197444.jpg" alt="Ram V Catwoman vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81FRsRIAlvL._AC_UF1000,1000_QL80_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/81FRsRIAlvL._AC_UF1000,1000_QL80_.jpg" alt="Ram V Catwoman vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Yge1Kwn7L.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/81Yge1Kwn7L.jpg" alt="Ram V Catwoman vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71572dtqR6L._SL1500_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/71572dtqR6L._SL1500_.jpg" alt="Catwoman 1: Trail of the Catwoman">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81yJbDusoVL._UF1000,1000_QL80_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/81yJbDusoVL._UF1000,1000_QL80_.jpg" alt="Search and Destroy vol 1">
+    </a>
+
+    <a href="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" class="thumbnail">
+         <img src="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" alt="Magik vol 1.">
+    </a>
+
+    <a href="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" class="thumbnail">
+        <img src="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" alt="Metamorpho: Element Man vol 1. 28 mei.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61oPwMKJcqL._SL1200_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/61oPwMKJcqL._SL1200_.jpg" alt="Catwoman 2: No Easy Way Down">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81rp9cI+mXL._SL1500_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/81rp9cI+mXL._SL1500_.jpg" alt="Lawless book 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81azqfMZY6L._SL1500_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/81azqfMZY6L._SL1500_.jpg" alt="Catwoman 3: Under Pressure ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/816PRYsvUjL._SL1500_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/816PRYsvUjL._SL1500_.jpg" alt="Lawless book 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91k3xFa+xLL._SL1500_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/91k3xFa+xLL._SL1500_.jpg" alt="Lawless book 3">
+    </a>
+
+
+
+    <a href="https://m.media-amazon.com/images/I/A1McIs0nrtL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/A1McIs0nrtL._SL1500_.jpg" alt="Hercules: Prince of Power vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1YppifVIRL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/A1YppifVIRL._SL1500_.jpg" alt="Hercules: Prince of Power vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81doA5AHypL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/81doA5AHypL._SL1500_.jpg" alt="Hercules: Full Circle">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81RgtI6JafL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/81RgtI6JafL._SL1500_.jpg" alt="Lawless book 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/819uZ57YdbL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/819uZ57YdbL._SL1500_.jpg" alt="Lawless book 5">
+    </a>
+
+    <a href="https://2000ad.com/wp-content/uploads/2021/08/Untitled-1-2.jpg" class="">
+        <img src="https://2000ad.com/wp-content/uploads/2021/08/Untitled-1-2.jpg" alt="Lawless book 6">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81CcsKJ+PSL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/81CcsKJ+PSL._SL1500_.jpg" alt="The Hiketeia">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/818B1jTcCUL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/818B1jTcCUL._SL1500_.jpg" alt="Greg Rucka's Wonder Woman vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81w+9DNPrNL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/81w+9DNPrNL._SL1500_.jpg" alt="Money Shot Comes Again">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81IngRk9lrL._AC_UF1000,1000_QL80_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/81IngRk9lrL._AC_UF1000,1000_QL80_.jpg" alt="Greg Rucka's Wonder Woman vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/912w4vBOJAL._SL1500_.jpg" class="">
+        <img src="https://m.media-amazon.com/images/I/912w4vBOJAL._SL1500_.jpg" alt="Greg Rucka's Wonder Woman vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81OXX+0d9SL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81OXX+0d9SL._AC_UF1000,1000_QL80_.jpg" alt="Checkmate first half">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81e+tnXyPBL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81e+tnXyPBL._AC_UF1000,1000_QL80_.jpg" alt="Checkmate second half">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91w2k+aRcGL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91w2k+aRcGL._SL1500_.jpg" alt="Wonder Woman: Blood">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/812BcQw0uZL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/812BcQw0uZL._SL1500_.jpg" alt="Wonder Woman: Guts">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91uZAET2WyL._SL1500_.jpg" class="thumbnail">
+         <img src="https://m.media-amazon.com/images/I/91uZAET2WyL._SL1500_.jpg" alt="Wonder Woman: Iron">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/9190xv26QIL._SL1500_.jpg" class="thumbnail">
+         <img src="https://m.media-amazon.com/images/I/9190xv26QIL._SL1500_.jpg" alt="Wonder Woman: War">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91eEH4luj5L._SL1500_.jpg" class="thumbnail">
+         <img src="https://m.media-amazon.com/images/I/91eEH4luj5L._SL1500_.jpg" alt="Wonder Woman: Flesh">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91XvbD3keKL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91XvbD3keKL._SL1500_.jpg" alt="Wonder Woman: Bones">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71IVmpS96qL._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/71IVmpS96qL._SL1500_.jpg" alt="Catwoman: When in Rome">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81xYJC1My8L._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/81xYJC1My8L._SL1500_.jpg" alt="The Invisibles Vol. 1: Say You Want A Revolution">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/917SW95PvKL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/917SW95PvKL._SL1500_.jpg" alt="The Circle">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91+4Ji7InEL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91+4Ji7InEL._SL1500_.jpg" alt="Ends of the Earth">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" alt="Ultimate Wolverine vol 1. 4 juni.">
+    </a>
+
+
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" alt="The Moon is Following us. 4 juni.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91Up7uMHAHL._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/91Up7uMHAHL._SL1500_.jpg" alt="Wonder Woman: Rise of the Olympian">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91cHzg98H+L._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/91cHzg98H+L._SL1500_.jpg" alt="Wonder Woman: Warkiller">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91d-Thpfv2L._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/91d-Thpfv2L._SL1500_.jpg" alt="Wonder Woman: Contagion">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91PIGWm5wlL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91PIGWm5wlL._SL1500_.jpg" alt="Search and Destroy vol 2">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" alt="Apocalipstick">
+    </a>
+
+
+    
+
+    
+
 
 
 
