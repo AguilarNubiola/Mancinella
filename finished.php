@@ -2057,7 +2057,15 @@
 
 
     <a href="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" alt="Apocalipstick">
+        <img src="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" alt="Invisibles vol 2: Apocalipstick">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61OC5LM0F8L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61OC5LM0F8L._SL1500_.jpg" alt="Invisibles vol 3: Entropy in the UK">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/8188MldgH4L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/8188MldgH4L._SL1500_.jpg" alt="Invisibles vol 4: Bloody Hell in America">
     </a>
 
 

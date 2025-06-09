@@ -41,6 +41,10 @@
 <div alt="reading now" align="center">
  
 
+    <a href="https://m.media-amazon.com/images/I/8188MldgH4L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/8188MldgH4L._SL1500_.jpg" alt="Invisibles vol 4: Bloody Hell in America">
+    </a>
+
 
 </div>
 
@@ -54,7 +58,19 @@
 
 
 
- 
+    <a href="https://m.media-amazon.com/images/I/81+g6abftPL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81+g6abftPL._SL1500_.jpg" alt="Invisibles vol 5: Counting to None">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" alt="Invisibles vol 6: Kissing Mister Quimper">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" alt="Invisibles vol 7: The Invisible Kingdom">
+    </a>
 
 
 
@@ -81,31 +97,6 @@
 
 
 
-
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May trades</b></p>
-
-<div alt="May trades" align="center">
-
-
-    
-
-    <a href="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" class="thumbnail">
-        <img src="https://a.media-amazon.com/images/I/81IF1OaUWIL._SL1500_.jpg" alt="Metamorpho: Element Man vol 1. 28 mei.">
-    </a>
-
-    <a href="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" class="thumbnail">
-         <img src="https://jonboymeyers.com/cdn/shop/files/Magik.jpg?v=1738209864" alt="Magik vol 1. 28 mei.">
-    </a>
-
-
-
-
-
-</div>
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June trades</b></p>
@@ -113,23 +104,18 @@
 <div alt="June trades" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81KtonAScUL._AC_UF1000,1000_QL80_.jpg" alt="Ultimate Wolverine vol 1. 11 juni.">
-</a>
-
-
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2598835.jpg?1745586902" alt="The Moon is Following us. 4 juni.">
-</a>
 
     <a href="https://images2.penguinrandomhouse.com/cover/9781799506362" class="thumbnail">
         <img src="https://images2.penguinrandomhouse.com/cover/9781799506362" alt="Green Lantern Corps vol 1. 11 juni.">
     </a>
 
-<a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men vol 2. 18 juni.">
-</a>
+    <a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men vol 2. 18 juni.">
+    </a>
+
+
+
+    
 
 
 
@@ -212,33 +198,6 @@
 <div alt="October trades" align="center">
 
 
-<a href="https://m.media-amazon.com/images/I/81xYJC1My8L._SL1500_.jpg" class="thubmnail">
-    <img src="https://m.media-amazon.com/images/I/81xYJC1My8L._SL1500_.jpg" alt="The Invisibles: Say You Want a Revolution">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" class="thubmnail">
-    <img src="https://m.media-amazon.com/images/I/81J98dr8cwL._SL1500_.jpg" alt="The Invisibles: Apocalipstick">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81EWnO93kiL._SL1500_.jpg" class="thubmnail">
-    <img src="https://m.media-amazon.com/images/I/81EWnO93kiL._SL1500_.jpg" alt="The Invisibles: Entropy in the U.K">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/51tZgjVJ0ZL.jpg" class="thubmnail">
-    <img src="https://m.media-amazon.com/images/I/51tZgjVJ0ZL.jpg" alt="The Invisibles: Bloody Hell in America">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81+g6abftPL._SL1500_.jpg" class="thubmnail">
-    <img src="https://m.media-amazon.com/images/I/81+g6abftPL._SL1500_.jpg" alt="The Invisibles: Counting to None">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" class="thubmnail">
-    <img src="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" alt="The Invisibles: Kissing Mister Quimper">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" class="thubmnail">
-    <img src="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" alt="The Invisibles: The Invisible Kingdom">
-</a>
 
 
 
@@ -252,24 +211,6 @@
 <div alt="November trades" align="center">
 
 
-
-
-
-    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610441377i/53197444.jpg" class="thumnbnail">
-        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610441377i/53197444.jpg" alt="Ram V Catwoman vol 1">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81FRsRIAlvL._AC_UF1000,1000_QL80_.jpg" class="thumnbnail">
-        <img src="https://m.media-amazon.com/images/I/81FRsRIAlvL._AC_UF1000,1000_QL80_.jpg" alt="Ram V Catwoman vol 2">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81Yge1Kwn7L.jpg" class="thumnbnail">
-        <img src="https://m.media-amazon.com/images/I/81Yge1Kwn7L.jpg" alt="Ram V Catwoman vol 3">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71VIB1c3JtL._AC_UF1000,1000_QL80_.jpg" class="thumnbnail">
-        <img src="https://m.media-amazon.com/images/I/71VIB1c3JtL._AC_UF1000,1000_QL80_.jpg" alt="Ed Brubaker's Catwoman">
-    </a>
 
 
 
