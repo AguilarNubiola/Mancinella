@@ -38,6 +38,10 @@
 <div alt="Current marks" align="center">
 
 
+   <a href="https://doublesama.com/wp-content/uploads/2022/03/Violet-Evergarden-Eternity-and-the-Auto-Memory-Doll-cover-1.jpg" class="thumbnail">
+      <img src="https://doublesama.com/wp-content/uploads/2022/03/Violet-Evergarden-Eternity-and-the-Auto-Memory-Doll-cover-1.jpg" alt="Violet Evergarden: Eternity and the Auto Memory Doll">
+   </a>
+
 
 
 
@@ -60,9 +64,9 @@
 <div alt="Next up" align="center">
 
 
-    <a href="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Violet Evergarden">
-    </a>
+   <a href="https://m.media-amazon.com/images/M/MV5BOWUyNDFjOWUtNGM5MS00YTUzLWFhYzYtZDg5NDNjMWJiY2MyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+      <img src="https://m.media-amazon.com/images/M/MV5BOWUyNDFjOWUtNGM5MS00YTUzLWFhYzYtZDg5NDNjMWJiY2MyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Violet Evergarden movie">
+   </a>
 
 
 
@@ -96,10 +100,6 @@
 <div alt="2025 films" align="center">
 
 
-
-<a href="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" alt="Mission Impossible: Final Reckoning. 22/05/2025">
-</a>
 
 <a href="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina. 05/06/2025.">
@@ -284,14 +284,24 @@
         <img src="https://cdn.theasc.com/Logans-Run-Control-Room-2.jpg" alt="Logan's Run">
     </a>
 
-    <a href="https://static.wikia.nocookie.net/shera-and-the-princesses-of-power/images/0/01/Shes4keyarttherebellion11x17rgb.png/revision/latest?cb=20191201193654" class="thumbnail">
-        <img src="https://static.wikia.nocookie.net/shera-and-the-princesses-of-power/images/0/01/Shes4keyarttherebellion11x17rgb.png/revision/latest?cb=20191201193654" alt="She-Ra season 4">
+    <a href="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Mission_Impossible_%E2%80%93_The_Final_Reckoning_Poster.jpg" alt="Mission Impossible: Final Reckoning. 22/05/2025">
     </a>
+
 
     <a href="https://resizing.flixster.com/t20SmbiM9Wy_zgEt4AogenaZ9aM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjgyMjkxMS53ZWJw" class="thumbnail">
-        <img src="https://resizing.flixster.com/t20SmbiM9Wy_zgEt4AogenaZ9aM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjgyMjkxMS53ZWJw" alt="She-Ra season 5">
+        <img src="https://resizing.flixster.com/t20SmbiM9Wy_zgEt4AogenaZ9aM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjgyMjkxMS53ZWJw" alt="She-Ra">
     </a>
 
+    <a href="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Violet Evergarden">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina. 05/06/2025.">
+    </a>
+
+  
 
 
 

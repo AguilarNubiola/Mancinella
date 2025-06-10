@@ -2072,6 +2072,15 @@
         <img src="https://m.media-amazon.com/images/I/81+g6abftPL._SL1500_.jpg" alt="Invisibles vol 5: Counting to None">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81sCHlKAT+L._SL1500_.jpg" alt="Invisibles vol 6: Kissing Mister Quimper">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" alt="Invisibles vol 7: The Invisible Kingdom">
+    </a>
+
+
 
     
 
