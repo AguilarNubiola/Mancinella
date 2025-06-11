@@ -413,6 +413,14 @@
         <img src="https://m.media-amazon.com/images/I/91z8NUV1aYL._SL1500_.jpg" alt="Ultimate Wolverine 6. 04/06/2025">
     </a>
 
+    
+    <a href="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" class="thumbnail">
+         <img src="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" alt="Ultimate X-Men 16. 11/06/2025">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" alt="Magik 6. 11/06/2025">
+    </a>
 
 
 
@@ -420,7 +428,8 @@
 
 
 
-</div>
+
+</div alt="X-Men End">
 
 
 
@@ -1052,6 +1061,10 @@
    <a href="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" class="thumbnail">
        <img src="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" alt="The Moon is Following Us 10. 04/06/2025">
     </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" class="thumbnail">
+      <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" alt="W0rldtr33 15. 11/06/2025">
+     </a>
 
 
 
@@ -2078,6 +2091,15 @@
 
     <a href="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81pPKk+lf+L._SL1500_.jpg" alt="Invisibles vol 7: The Invisible Kingdom">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/I/81h5XNDizfL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81h5XNDizfL._SL1500_.jpg" alt="Geiger vol 4">
+    </a>
+
+    <a href="https://images2.penguinrandomhouse.com/cover/9781799506362" class="thumbnail">
+        <img src="https://images2.penguinrandomhouse.com/cover/9781799506362" alt="Green Lantern Corps vol 1. 11 juni.">
     </a>
 
 

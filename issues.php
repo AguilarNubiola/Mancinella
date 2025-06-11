@@ -44,19 +44,6 @@
 
 
 
-<a href="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81mV1EKT2JL._SL1500_.jpg" alt="Magik 6. 11/06/2025">
-</a>
-
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" alt="W0rldtr33 15. 11/06/2025">
-</a>
-
-<a href="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/91-gbxdbMxL._SL1500_.jpg" alt="Ultimate X-Men 16. 11/06/2025">
-</a>
-
-
 
 
 
@@ -82,9 +69,7 @@
     <img src="https://m.media-amazon.com/images/I/81+wNyqDf5L._SL1500_.jpg" alt="Psylocke 8. 18/06/2025">
 </a>
 
-<a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2930397.jpg?1742627478" class="thumbnail">
-    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2930397.jpg?1742627478" alt="Catwoman 77. 18/06/2025">
-</a>
+
 
 <a href="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/71rJMGaGdCL._SL1500_.jpg" alt="Ultimates 13. 18/06/2025">
