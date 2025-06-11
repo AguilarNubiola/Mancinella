@@ -2102,6 +2102,12 @@
         <img src="https://images2.penguinrandomhouse.com/cover/9781799506362" alt="Green Lantern Corps vol 1. 11 juni.">
     </a>
 
+    <a href="https://64.media.tumblr.com/592f1bcf416eb029fbe13540829b3f5b/691183f9dc56bfec-f8/s1280x1920/95f46db908c2a7751ab9cdc6c8d8183cfe0783ed.jpg" class="thumbnail">
+        <img src="https://64.media.tumblr.com/592f1bcf416eb029fbe13540829b3f5b/691183f9dc56bfec-f8/s1280x1920/95f46db908c2a7751ab9cdc6c8d8183cfe0783ed.jpg" alt="Outback era Uncanny X-Men">
+    </a>
+
+
+
 
 
     
