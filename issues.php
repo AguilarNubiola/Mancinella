@@ -33,31 +33,12 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June 11th</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June 18th</b></p>
 
 
 <div alt="This week" align="center">
 
    
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June 18th</b></p>
-
-
-
-<div alt="Next week" align="center">
 
 
 
@@ -83,25 +64,17 @@
 
 
 
+
+
+
+
 </div>
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June 25th</b></p>
 
 
 
-
-
-
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June</p>
-
-
-<div alt="June" align="center">
-
-
-
+<div alt="Next week" align="center">
 
 
 <a href="https://m.media-amazon.com/images/I/91APIgPM0YL._SL1500_.jpg" class="thumbnail">
@@ -134,7 +107,20 @@
 
 
 
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July</p>
