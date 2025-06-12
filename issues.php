@@ -86,9 +86,6 @@
     <img src="https://cdn.imagecomics.com/assets/i/releases/1068874/nights-17_c843e5d7ab.jpg" alt="Nights 17. 25/06/2025">
 </a>
 
-<a href="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" class="thumbnail">
-    <img src="https://dstlry.co/cdn/shop/files/QTW4ml47FNsXsg6Rlt8xMtQOIeyGUT.webp?v=1732331326&width=1000" alt="The City Beneath her Feet #2. 25/06/2025">
-</a>
 
 
 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1742606579" class="thumbnail">

@@ -45,7 +45,6 @@
 
 
 
-
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>

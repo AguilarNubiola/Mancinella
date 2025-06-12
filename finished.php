@@ -1178,6 +1178,14 @@
         <img src="https://m.media-amazon.com/images/I/9160Fff-qgL._SL1500_.jpg" alt="Robowolf #1">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet #1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/61Z8A-ogeNL._SL1076_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/61Z8A-ogeNL._SL1076_.jpg" alt="Free Planet #2">
+    </a>
+
 
 
 
@@ -2105,6 +2113,32 @@
     <a href="https://64.media.tumblr.com/592f1bcf416eb029fbe13540829b3f5b/691183f9dc56bfec-f8/s1280x1920/95f46db908c2a7751ab9cdc6c8d8183cfe0783ed.jpg" class="thumbnail">
         <img src="https://64.media.tumblr.com/592f1bcf416eb029fbe13540829b3f5b/691183f9dc56bfec-f8/s1280x1920/95f46db908c2a7751ab9cdc6c8d8183cfe0783ed.jpg" alt="Outback era Uncanny X-Men">
     </a>
+
+    <a href="https://globalcomix.com/img/processed/comic-cover/5300f30389dceae746a08ab8399db66b/63007_7662be2528c540b0947f8b25eaaf6445_small.jpg" class="thumbnail">
+        <img src="https://globalcomix.com/img/processed/comic-cover/5300f30389dceae746a08ab8399db66b/63007_7662be2528c540b0947f8b25eaaf6445_small.jpg" alt="Thunderbeast">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71ZR9lS97CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71ZR9lS97CL._SL1500_.jpg" alt="The Least we can do">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/719hRaxGreL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/719hRaxGreL._SL1500_.jpg" alt="Stellar">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81v-DdYMOAL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81v-DdYMOAL._SL1500_.jpg" alt="A Thing Called Truth">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Sv3bap-3L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Sv3bap-3L._SL1500_.jpg" alt="Batman: Arkham Asylum">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Shvfo+pxL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Shvfo+pxL._SL1500_.jpg" alt="Tanis: Tomb of Atlantis">
+    </a>
+
+
 
 
 
