@@ -2107,7 +2107,7 @@
     </a>
 
     <a href="https://images2.penguinrandomhouse.com/cover/9781799506362" class="thumbnail">
-        <img src="https://images2.penguinrandomhouse.com/cover/9781799506362" alt="Green Lantern Corps vol 1. 11 juni.">
+        <img src="https://images2.penguinrandomhouse.com/cover/9781799506362" alt="Green Lantern Corps vol 1. ">
     </a>
 
     <a href="https://64.media.tumblr.com/592f1bcf416eb029fbe13540829b3f5b/691183f9dc56bfec-f8/s1280x1920/95f46db908c2a7751ab9cdc6c8d8183cfe0783ed.jpg" class="thumbnail">
@@ -2137,6 +2137,23 @@
     <a href="https://m.media-amazon.com/images/I/81Shvfo+pxL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81Shvfo+pxL._SL1500_.jpg" alt="Tanis: Tomb of Atlantis">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/71A6pkeofHL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71A6pkeofHL.jpg" alt="James Bond: Cold, Cold Heart">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81eorjEXwfL._UF1000,1000_QL80_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/81eorjEXwfL._UF1000,1000_QL80_.jpg" alt="Avengers vs Aliens">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81cfHOrCxGL._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/81cfHOrCxGL._SL1500_.jpg" alt="I Heart Skull-Crusher vol 2">
+    </a>
+
 
 
 

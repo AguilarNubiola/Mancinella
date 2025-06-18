@@ -83,26 +83,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June trades</b></p>
 
-<div alt="June trades" align="center">
-
-
-
-
-
-
-    <a href="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" class="thumbnail">
-       <img src="https://m.media-amazon.com/images/I/91GSGDJOKJL._SL1500_.jpg" alt="X-Men vol 2. 18 juni.">
-    </a>
-
-
-
-    
-
-
-
-</div>
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July trades</b></p>
@@ -114,9 +95,7 @@
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" alt="Immortal Thor vol 5. 2 juli.">
     </a>
 
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
-       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. 2 juli.">
-    </a>  
+ 
 
     <a href="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" alt="Power Fantasy vol 2. 9 juli.">
@@ -154,6 +133,10 @@
 <a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
 </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. 6 augustust.">
+    </a>  
 
     <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men vol 3.">
