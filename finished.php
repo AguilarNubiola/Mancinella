@@ -2154,6 +2154,14 @@
        <img src="https://m.media-amazon.com/images/I/81cfHOrCxGL._SL1500_.jpg" alt="I Heart Skull-Crusher vol 2">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/917iPu9HDbL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/917iPu9HDbL._SL1500_.jpg" alt="Batman: Night Cries">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1DMj0CQzmL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1DMj0CQzmL._SL1500_.jpg" alt="Morrison's Marvel Boy">
+    </a>
+
 
 
 
