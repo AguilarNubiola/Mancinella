@@ -2162,6 +2162,11 @@
         <img src="https://m.media-amazon.com/images/I/A1DMj0CQzmL._SL1500_.jpg" alt="Morrison's Marvel Boy">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/816IxhDtRDL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/816IxhDtRDL._SL1500_.jpg" alt="Give me Liberty">
+    </a>
+
+
 
 
 
