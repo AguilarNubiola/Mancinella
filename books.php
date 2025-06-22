@@ -44,9 +44,11 @@
         <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde"/>
     </a>
 
-    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg" class="thumbnail">
-        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg" alt="The Only one Left">
+    <a href="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" alt="She comes first">
     </a>
+
+
 
 </div>
 
@@ -68,9 +70,6 @@
         <img src="https://media.s-bol.com/JZD30w0JMRgo/550x778.jpg" alt="Integraal Wiskunde">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81Q8KloKI1L._AC_UF894,1000_QL80_.jpg" alt="She comes first">
-    </a>
 
     <a href="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/mngDvk5xDMkr/XZVK5W/550x833.jpg" alt="Algorithms to live by"/>
@@ -99,6 +98,10 @@
 
     <a href="https://m.media-amazon.com/images/I/81iNE1THzEL.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81iNE1THzEL.jpg" alt="Red Sonja: Consumed">
+    </a>
+
+    <a href="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg" class="thumbnail">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg" alt="The Only one Left">
     </a>
 
 
