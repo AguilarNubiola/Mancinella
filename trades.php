@@ -41,9 +41,6 @@
 <div alt="reading now" align="center">
  
 
-<a href="https://m.media-amazon.com/images/I/91xn3fjOYcL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91xn3fjOYcL._SL1500_.jpg" alt="Fantastic Four vol 4">
-    </a>
 
 
 
@@ -67,9 +64,6 @@
         <img src="https://m.media-amazon.com/images/I/91xZPAwMgrL._SL1500_.jpg" alt="Fantastic Four vol 6">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/71AT3OMWjdL.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71AT3OMWjdL.jpg" alt="Shinku">
-    </a>
 
     <a href="https://media.zoop.gg/205/responsive-images/resolution_cover___optimized_296_468.webp" class="thumbnail">
         <img src="https://media.zoop.gg/205/responsive-images/resolution_cover___optimized_296_468.webp" alt="Resolution">

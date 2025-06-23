@@ -2178,6 +2178,14 @@
         <img src="https://m.media-amazon.com/images/I/81FNk1D9cDL._SL1500_.jpg" alt="Dazzler">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/91xn3fjOYcL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91xn3fjOYcL._SL1500_.jpg" alt="Fantastic Four vol 4">
+    </a>
+
+     <a href="https://m.media-amazon.com/images/I/71AT3OMWjdL.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71AT3OMWjdL.jpg" alt="Shinku">
+    </a>
+
  
 
 
