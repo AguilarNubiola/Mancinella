@@ -2166,6 +2166,20 @@
         <img src="https://m.media-amazon.com/images/I/816IxhDtRDL._SL1500_.jpg" alt="Give me Liberty">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/816U9lE3woL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/816U9lE3woL._SL1500_.jpg" alt="Fantastic Four vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91-uXYRP1ML._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91-uXYRP1ML._SL1500_.jpg" alt="Fantastic Four vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81FNk1D9cDL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81FNk1D9cDL._SL1500_.jpg" alt="Dazzler">
+    </a>
+
+ 
+
 
 
 
