@@ -2186,6 +2186,10 @@
         <img src="https://m.media-amazon.com/images/I/71AT3OMWjdL.jpg" alt="Shinku">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/815aoJCaK2L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/815aoJCaK2L._SL1500_.jpg" alt="Fantastic Four vol 5">
+    </a>
+
  
 
 
