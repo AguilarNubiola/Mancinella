@@ -1406,9 +1406,7 @@
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4773330.jpg?1737789582" alt="Wonder Woman vol 3. 26/03/2025">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81DZLblpD-L._UF1000,1000_QL80_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81DZLblpD-L._UF1000,1000_QL80_.jpg" alt="Uncanny X-Men vol 2. 26/03/2025">
-    </a>
+
 
     <a href="https://i0.wp.com/getcomics.org/share/uploads/2022/01/Geiger-Vol.-1-TPB-2021.jpg?fit=400%2C615&ssl=1" class="thumbnail">
         <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/01/Geiger-Vol.-1-TPB-2021.jpg?fit=400%2C615&ssl=1" alt="Geiger vol 1. 26/03/2025">
@@ -2188,6 +2186,18 @@
 
     <a href="https://m.media-amazon.com/images/I/815aoJCaK2L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/815aoJCaK2L._SL1500_.jpg" alt="Fantastic Four vol 5">
+    </a>
+
+    <a href="https://media.zoop.gg/205/responsive-images/resolution_cover___optimized_296_468.webp" class="thumbnail">
+        <img src="https://media.zoop.gg/205/responsive-images/resolution_cover___optimized_296_468.webp" alt="Resolution">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91xZPAwMgrL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91xZPAwMgrL._SL1500_.jpg" alt="Fantastic Four vol 6">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91UxVC9K7XL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91UxVC9K7XL._SL1500_.jpg" alt="Uncanny X-Men Vol 2">
     </a>
 
  
