@@ -28,6 +28,8 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
+   <a href="http://localhost/arakko/targets.php">Targets</a>
+
 </div>
 
 
@@ -85,20 +87,29 @@
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current game</b></p>
 
+        <div alt="Backlog" align="center">
 
-
-<div alt="Backlog" align="center">
-
-
-<a href="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" class="thumbnail">
-       <img src="https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg" alt="Expedition 33. 24th of April.">
-    </a>
+          <a href="https://lootlevelchill.com/wp-content/uploads/2025/03/Clair-Obscur-Expedition-33-characters-screenshot.webp" class="thumbnail">
+              <img src="https://lootlevelchill.com/wp-content/uploads/2025/03/Clair-Obscur-Expedition-33-characters-screenshot.webp" alt="Expedition 33. 24th of April.">
+          </a>
  
-</div>
+
+        </div>
+
+
+
+        <div alt="Backlog" align="center">
+
+             <a href="https://storage.googleapis.com/gamequarter-media/images/GUVgobIa8AEhPhX.original.jpg" class="thumbnail">
+                  <img src="https://storage.googleapis.com/gamequarter-media/images/GUVgobIa8AEhPhX.original.jpg" alt="First Berserker: Khazan">
+             </a>
+    
+ 
+        </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2025 games</b></p>
 
-<div alt="2025 games" align="center">
+      <div alt="2025 games" align="center">
 
 
 
@@ -106,59 +117,34 @@
 
 
 
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Possible 2025 games</b></p>
-
-<div alt="Possible 2025 games" align="center">
-
-<a href="https://eu-central-1-gamescom.graphassets.com/AMwDHZTUSMaIlRlMFLL7Qz/output=quality:95,strip:true/resize=w:960,fit:clip/sharpen=amount:1/auto_image/yHOuEp84T5GLnY7RwEXg" class="thumbnail">
-    <img src="https://eu-central-1-gamescom.graphassets.com/AMwDHZTUSMaIlRlMFLL7Qz/output=quality:95,strip:true/resize=w:960,fit:clip/sharpen=amount:1/auto_image/yHOuEp84T5GLnY7RwEXg" alt="First Berserker: Khazan. May.">
-</a>
-
-    <a href="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-art.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" alt="Hades 2. May.">
-</a>
-
-    <a href="https://gagadget.com/media/uploads/lostsoulaside2021042621002.jpg" class="thumbnail">
-        <img src="https://gagadget.com/media/uploads/lostsoulaside2021042621002.jpg" alt="Lost Soul Aside. September 1st.">
-    </a>
+      </div>
 
 
-    <a href="https://blog.playstation.com/tachyon/2024/09/f7baf6d0e047d9a9ca2e7b85241b233195041daa.jpg" class="thumbnail">
-        <img src="https://blog.playstation.com/tachyon/2024/09/f7baf6d0e047d9a9ca2e7b85241b233195041daa.jpg" alt="Ghost of Yotei">
-    </a>
+        <div alt="2026 games" align="center">
 
-    <a href="https://xxboxnews.blob.core.windows.net/prod/sites/2/2025/01/NG4-Key-Art-6d9bf035ab8ce3c6a05a-1024x576.jpg" class="thumbnail">
-        <img src="https://xxboxnews.blob.core.windows.net/prod/sites/2/2025/01/NG4-Key-Art-6d9bf035ab8ce3c6a05a-1024x576.jpg" alt="Ninja Gaiden 4. Fall 2025.">
-    </a>
+           <a href="https://i.redd.it/t810w6tjfsie1.jpeg" class="thumbnail">
+             <img src="https://i.redd.it/t810w6tjfsie1.jpeg" alt="Tides of Annihilation">
+           </a>
+
+           <a href="https://img.asmedia.epimg.net/resizer/v2/TIUUI5XKPJHLDK75PSAHCARGRI.jpg?auth=9d5043b74718423a1ff91d5336f38fb70c4902d9a35b1a6595e3f6b0af4ff9c6&width=1472&height=1104&smart=true" class="thumbnail">
+             <img src="https://img.asmedia.epimg.net/resizer/v2/TIUUI5XKPJHLDK75PSAHCARGRI.jpg?auth=9d5043b74718423a1ff91d5336f38fb70c4902d9a35b1a6595e3f6b0af4ff9c6&width=1472&height=1104&smart=true" alt="Marvel Tokon: Fighting Souls">
+           </a>
+
+           <a href="https://preview.redd.it/pragmata-is-an-extremely-new-unique-gameplay-concept-please-v0-ur0zz9edgg9f1.png?width=1080&crop=smart&auto=webp&s=59417649aebf0dc506ef2d810724fff535fe25fb" class="thumbnail">
+             <img src="https://preview.redd.it/pragmata-is-an-extremely-new-unique-gameplay-concept-please-v0-ur0zz9edgg9f1.png?width=1080&crop=smart&auto=webp&s=59417649aebf0dc506ef2d810724fff535fe25fb" alt="Pragmata">
+           </a>
+
+
+        </div>
+
+        <div alt="2027 games" align="center">
+
+
+        </div>
 
 
 
 
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>After 2025</b></p>
-
-<div alt="After 2025" align="center">
-
-  <a href="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" class="thumbnail">
-    <img src="https://www.cdkeynl.nl/wp-content/uploads/persona-6.webp" alt="Persona 6.">
-  </a>
-
-  <a href="https://mp1st.com/wp-content/uploads/2024/12/Okami-2.jpg.webp" class="thumbnail">
-    <img src="https://mp1st.com/wp-content/uploads/2024/12/Okami-2.jpg.webp" alt="Okami 2">
-  </a>
-
-  <a href="https://i.ytimg.com/vi/o7TVPoxwi74/maxresdefault.jpg" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/o7TVPoxwi74/maxresdefault.jpg" alt="Intergalactic: The Heretic Prophet. Unknown.">
-  </a>
-
-    <a href="https://i.redd.it/t810w6tjfsie1.jpeg" class="thumbnail">
-        <img src="https://i.redd.it/t810w6tjfsie1.jpeg" alt="Tides of Annihilation">
-    </a>
-
-</div>
 
 
 
@@ -176,30 +162,7 @@
           <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3.">
        </a>
 
-       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
-          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
-       </a>
 
-       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
-          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
-       </a>
-
-
-       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
-          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
-       </a>
-
-       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
-          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
-       </a>
-
-       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
-          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
-       </a>
-
-       <a href="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" class="thumbnail">
-          <img src="https://preview.redd.it/absolute-cinema-v0-ye2x2qep8cnd1.jpeg?auto=webp&s=7dc7b074793cb80fc62e99c68d2a0669f564def8" alt="Placeholder">
-       </a>
 
 
 
