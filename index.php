@@ -33,40 +33,7 @@
 </div>
 
 
-<div alt="The enemies" align="center">
 
-<a href="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" class="thumbnail">
-    <img src="https://confidencebooster.ca/Portals/8/xBlog/uploads/2020/1/14/AdobeStock_82566792.jpeg" alt="Atelophobia">
-</a>
-
-<a href="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" class="thumbnail">
-    <img src="https://positive.b-cdn.net/wp-content/uploads/2023/05/Fear-of-Failure.jpg" alt="Atychiphobia">
-</a>
-
-       <a href="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" class="thumbnail">
-           <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" alt="Python. 15-30 April.">
-       </a>
-
-       <a href="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" class="thumbnail">
-           <img src="https://fundacioncompartir.org/sites/default/files/colombia-el-destino-por-excelencia-para-aprender-espanol.jpg" alt="Espanol. 15-30 April.">
-       </a>
-
-       <a href="https://upload.wikimedia.org/wikipedia/en/8/8c/Red_Sonja_Consumed.jpg" class="thumbnail">
-           <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Red_Sonja_Consumed.jpg" alt="Red Sonja: Consumed. 15-16 April.">
-       </a>
-
-       <a href="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" class="thumbnail">
-           <img src="https://syntaxmedia.nl/wp-content/uploads/2023/03/wiskunde-voor-bachelor-en-master-1-basiskennis-en-basisvaardigheden-jpg.webp" alt="Basiskennis Wiskunde. 15-20 April.">
-       </a>
-
-       <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/04/the-first-berserker-khazan-unwritten-rules-explained.jpg" class="thumbnail">
-           <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/04/the-first-berserker-khazan-unwritten-rules-explained.jpg" alt="First Berserker: Khazan. 15-20 April.">
-       </a>
-
-
-
-
-</div>
         
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2024 game of the year</b></p>
 
@@ -85,16 +52,17 @@
 </div>
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2025 game of the year</b></p>
+
+  <div alt="2025 game of the year" align="center">
+    <img src="https://i.ytimg.com/vi/LMjEHANZ7Ac/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCGJ4uVXM2SquRK3DWcfbIHkJsUTA" alt="Expedition 33" class="thumbnail">
+  </a>
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2025 games</b></p>
+
+
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current game</b></p>
-
-        <div alt="Backlog" align="center">
-
-          <a href="https://lootlevelchill.com/wp-content/uploads/2025/03/Clair-Obscur-Expedition-33-characters-screenshot.webp" class="thumbnail">
-              <img src="https://lootlevelchill.com/wp-content/uploads/2025/03/Clair-Obscur-Expedition-33-characters-screenshot.webp" alt="Expedition 33. 24th of April.">
-          </a>
- 
-
-        </div>
 
 
 
@@ -107,17 +75,9 @@
  
         </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2025 games</b></p>
-
-      <div alt="2025 games" align="center">
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2026 games</b></p>
 
 
-
-
-
-
-
-      </div>
 
 
         <div alt="2026 games" align="center">
@@ -136,6 +96,10 @@
 
 
         </div>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>2027 games</b></p>
+
 
         <div alt="2027 games" align="center">
 
@@ -161,6 +125,10 @@
        <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" class="thumbnail">
           <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-things-to-know.jpg" alt="Baldur's Gate 3.">
        </a>
+
+       <a href="https://lootlevelchill.com/wp-content/uploads/2025/03/Clair-Obscur-Expedition-33-characters-screenshot.webp" class="thumbnail">
+              <img src="https://lootlevelchill.com/wp-content/uploads/2025/03/Clair-Obscur-Expedition-33-characters-screenshot.webp" alt="Expedition 33. ">
+          </a>
 
 
 
@@ -193,8 +161,8 @@
     <img src="https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_TalesOfKenzeraZau.jpg" alt="Tales of Kenzera:Zau">
 </a>
 
-<a href="https://i0.wp.com/insider-gaming.com/wp-content/uploads/2024/02/stellar-blade-eve.jpg?fit=2560%2C1440&ssl=1" class="thumbnail">
-    <img src="https://i0.wp.com/insider-gaming.com/wp-content/uploads/2024/02/stellar-blade-eve.jpg?fit=2560%2C1440&ssl=1" alt="Stellar Blade">
+<a href="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2025/06/a-close-up-of-eve-from-stellar-blade.jpg" class="thumbnail">
+    <img src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2025/06/a-close-up-of-eve-from-stellar-blade.jpg" alt="Stellar Blade">
 </a>
 
 <a href="https://www.notebookcheck.nl/fileadmin/Notebooks/News/_nc4/Final-Fantasy-7-Rebirth.jpg" class="thumbnail">
@@ -328,6 +296,12 @@
 
 <div alt="PS5 generation  Rushmore" align="center">
 
+
+<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/04/clair-obscur-expedition-33-good-ending-alicia-with-esquie-doll-copy.jpg" class="thumbnail">
+    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/04/clair-obscur-expedition-33-good-ending-alicia-with-esquie-doll-copy.jpg" alt="Clair Obscur: Expedition 33">
+</a>
+
+
 <a href="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" class="thumbnail">
     <img src="https://metaphor.atlus.com/media/img/hero/hero-art.jpg" alt="Metaphor Re:Fantazio">
 </a>
@@ -342,28 +316,11 @@
 </a>
 
 
-<a href="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" class="thumbnail">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/2444972799632078922/F86AC738A1BEE0E95DC76B33B4F907B1F69CAA20/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Elden Ring">
-</a>
 
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Backburner</b></p>
 
-
-<div alt="Backburner" align="center">
-
-
-
-
-
-<a href="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" class="thumbnail">
-    <img src="https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Hades II">
-</a>
-
-
-</div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Shut up and take my money</b></p>
 

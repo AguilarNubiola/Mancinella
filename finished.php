@@ -1894,8 +1894,8 @@
         <img src="https://m.media-amazon.com/images/I/91JVr+CBSEL._AC_UF1000,1000_QL80_.jpg" alt="Avengers vs X-Men">
     </a>
 
-    <a href="" class="thumnbnail">
-        <img src="" alt="Selina's Big Score">
+    <a href="https://m.media-amazon.com/images/I/816Nhs9EAXL._SL1500_.jpg" class="thumnbnail">
+        <img src="https://m.media-amazon.com/images/I/816Nhs9EAXL._SL1500_.jpg" alt="Selina's Big Score">
     </a>
 
     <a href="https://m.media-amazon.com/images/I/71TsyyaVvML._SL1474_.jpg" class="thumbnail">
@@ -2198,6 +2198,14 @@
 
     <a href="https://m.media-amazon.com/images/I/91UxVC9K7XL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/91UxVC9K7XL._SL1500_.jpg" alt="Uncanny X-Men Vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91UY5MikivL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91UY5MikivL._SL1500_.jpg" alt="Ultimate Spider-Man vol 3">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" class="thumbnail">
+        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" alt="Immortal Thor vol 5. 2 juli.">
     </a>
 
  
