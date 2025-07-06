@@ -2208,6 +2208,20 @@
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" alt="Immortal Thor vol 5. 2 juli.">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81lhmynbp8L._SL1200_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81lhmynbp8L._SL1200_.jpg" alt="Clown Fatale">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/711KJUinDUL._SL1032_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/711KJUinDUL._SL1032_.jpg" alt="Black Monday Murders vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71zWz3rcdKL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71zWz3rcdKL._SL1500_.jpg" alt="Black Monday Murders vol 2">
+    </a>
+
+
+
  
 
 
