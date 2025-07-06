@@ -2220,6 +2220,10 @@
         <img src="https://m.media-amazon.com/images/I/71zWz3rcdKL._SL1500_.jpg" alt="Black Monday Murders vol 2">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/71drM5AuJ0L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71drM5AuJ0L._SL1500_.jpg" alt="Lazarus: Family">
+    </a>
+
 
 
  
