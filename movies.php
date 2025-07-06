@@ -64,10 +64,6 @@
 <div alt="Next up" align="center">
 
 
-   <a href="https://m.media-amazon.com/images/M/MV5BOWUyNDFjOWUtNGM5MS00YTUzLWFhYzYtZDg5NDNjMWJiY2MyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-      <img src="https://m.media-amazon.com/images/M/MV5BOWUyNDFjOWUtNGM5MS00YTUzLWFhYzYtZDg5NDNjMWJiY2MyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Violet Evergarden movie">
-   </a>
-
 
 
 
@@ -299,6 +295,15 @@
 
     <a href="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina. 05/06/2025.">
+    </a>
+
+    <a href="https://statcdn.fandango.com/MPX/image/NBCU_Fandango/838/554/thumb_35B300C8-F17D-4886-8E56-480CB6F96810.jpg" class="thumbnail">
+        <img src="https://statcdn.fandango.com/MPX/image/NBCU_Fandango/838/554/thumb_35B300C8-F17D-4886-8E56-480CB6F96810.jpg" alt="Lazarus anime">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_.jpg" alt="Gattaca">
     </a>
 
   
