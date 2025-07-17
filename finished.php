@@ -1956,47 +1956,47 @@
 
 
 
-    <a href="https://m.media-amazon.com/images/I/A1McIs0nrtL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/A1McIs0nrtL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/A1McIs0nrtL._SL1500_.jpg" alt="Hercules: Prince of Power vol 1">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/A1YppifVIRL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/A1YppifVIRL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/A1YppifVIRL._SL1500_.jpg" alt="Hercules: Prince of Power vol 2">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81doA5AHypL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/81doA5AHypL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81doA5AHypL._SL1500_.jpg" alt="Hercules: Full Circle">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81RgtI6JafL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/81RgtI6JafL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81RgtI6JafL._SL1500_.jpg" alt="Lawless book 4">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/819uZ57YdbL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/819uZ57YdbL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/819uZ57YdbL._SL1500_.jpg" alt="Lawless book 5">
     </a>
 
-    <a href="https://2000ad.com/wp-content/uploads/2021/08/Untitled-1-2.jpg" class="">
+    <a href="https://2000ad.com/wp-content/uploads/2021/08/Untitled-1-2.jpg" class="thumbnail">
         <img src="https://2000ad.com/wp-content/uploads/2021/08/Untitled-1-2.jpg" alt="Lawless book 6">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81CcsKJ+PSL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/81CcsKJ+PSL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81CcsKJ+PSL._SL1500_.jpg" alt="The Hiketeia">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/818B1jTcCUL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/818B1jTcCUL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/818B1jTcCUL._SL1500_.jpg" alt="Greg Rucka's Wonder Woman vol 1">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81w+9DNPrNL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/81w+9DNPrNL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81w+9DNPrNL._SL1500_.jpg" alt="Money Shot Comes Again">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81IngRk9lrL._AC_UF1000,1000_QL80_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/81IngRk9lrL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81IngRk9lrL._AC_UF1000,1000_QL80_.jpg" alt="Greg Rucka's Wonder Woman vol 2">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/912w4vBOJAL._SL1500_.jpg" class="">
+    <a href="https://m.media-amazon.com/images/I/912w4vBOJAL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/912w4vBOJAL._SL1500_.jpg" alt="Greg Rucka's Wonder Woman vol 3">
     </a>
 
@@ -2223,6 +2223,115 @@
     <a href="https://m.media-amazon.com/images/I/71drM5AuJ0L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71drM5AuJ0L._SL1500_.jpg" alt="Lazarus: Family">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/81CI3h2R+JL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81CI3h2R+JL._SL1500_.jpg" alt="Lazarus: Lift">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71olMv7PwQL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71olMv7PwQL._SL1500_.jpg" alt="Lazarus: Conclave">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" alt="Power Fantasy vol 2. ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71-rDGpJwQL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71-rDGpJwQL._SL1500_.jpg" alt="Lazarus: Poison">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81nOnCOSyzL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81nOnCOSyzL._SL1500_.jpg" alt="Lazarus: Cull">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71hu6ur-SlL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71hu6ur-SlL._SL1500_.jpg" alt="Lazarus: X+66">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71wbbnismqL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71wbbnismqL._SL1500_.jpg" alt="Lazarus: Fracture">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/717ANh9vAML._SL1362_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/717ANh9vAML._SL1362_.jpg" alt="Lazarus: Fracture 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91D2wzLv19L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91D2wzLv19L._SL1500_.jpg" alt="Sentinel">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81SRGSLHe6L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81SRGSLHe6L._SL1500_.jpg" alt="Die vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81mByoX7yBL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81mByoX7yBL._SL1500_.jpg" alt="Die vol 2">
+    </a>
+
+     <a href="https://m.media-amazon.com/images/I/71zLDjEi7lL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71zLDjEi7lL._SL1500_.jpg" alt="Die vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71iJxylnXYL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71iJxylnXYL._SL1500_.jpg" alt="Die vol 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81V5QoJTwyL._SL1431_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81V5QoJTwyL._SL1431_.jpg" alt="MADI: Once Upon a Time in the Future">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/814byvIdeaL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/814byvIdeaL._SL1500_.jpg" alt="Spider-Gwen: Most Wanted">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71nW+Nyej5L._SL1400_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71nW+Nyej5L._SL1400_.jpg" alt="Silk vol 0">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Hm+hthnjL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Hm+hthnjL._SL1500_.jpg" alt="Ms. Marvel: Crushed">
+    </a>
+
+    <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738225389i/1801784.jpg" class="thumbnail">
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738225389i/1801784.jpg" alt="Dirty Pair: Plague of Angels">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91cIFoJkebL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91cIFoJkebL._SL1500_.jpg" alt="Belit and Valeria">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Fnbmy4u0L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Fnbmy4u0L._SL1500_.jpg" alt="Ultimate Black Panther vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/818GykH-FxL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/818GykH-FxL._SL1500_.jpg" alt="Zatanna 2025">
+    </a>
+
+    <a href="https://media.s-bol.com/Pz6jJLZ5D68z/zKGYNG7/790x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/Pz6jJLZ5D68z/zKGYNG7/790x1200.jpg" alt="Swing vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71lrD5OVlIL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71lrD5OVlIL._SL1500_.jpg" alt="Swing vol 2">
+    </a>
+
+     <a href="https://media.s-bol.com/nAqWr7VKR6ZY/QW2Qp0l/790x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/nAqWr7VKR6ZY/QW2Qp0l/790x1200.jpg" alt="Swing vol 3">
+    </a>
+
+    <a href="https://media.s-bol.com/P5Or1B66w6P1/wm1J7V1/781x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/P5Or1B66w6P1/wm1J7V1/781x1200.jpg" alt="Swing vol 4">
+    </a>
+
+    <a href="https://media.s-bol.com/Nrmo9EgOJ9A6/Kr20NJG/790x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/Nrmo9EgOJ9A6/Kr20NJG/790x1200.jpg" alt="Swing vol 5">
+    </a>
+
+
+
+
+
 
 
 

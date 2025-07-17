@@ -56,7 +56,29 @@
 
 
 
+    <a href="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" alt="Saga of the Swamp Thing">
+    </a>
 
+    <a href="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" alt="Love and Death">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" alt="The Curse">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" alt="A Murder of Crows">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" alt="Earth to Earth">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" alt="Reunion">
+    </a>
 
 
 
@@ -94,55 +116,16 @@
 
 
 
-    <a href="https://m.media-amazon.com/images/I/81CI3h2R+JL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81CI3h2R+JL._SL1500_.jpg" alt="Lazarus: Lift">
-    </a>
 
-    <a href="https://m.media-amazon.com/images/I/71olMv7PwQL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71olMv7PwQL._SL1500_.jpg" alt="Lazarus: Conclave">
-    </a>
 
-    <a href="https://m.media-amazon.com/images/I/71-rDGpJwQL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71-rDGpJwQL._SL1500_.jpg" alt="Lazarus: Poison">
-    </a>
 
-    <a href="https://m.media-amazon.com/images/I/81nOnCOSyzL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81nOnCOSyzL._SL1500_.jpg" alt="Lazarus: Cull">
-    </a>
+        <a href="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" alt="Arcbound vol 1. 23 juli.">
+        </a>
 
-    <a href="https://m.media-amazon.com/images/I/71hu6ur-SlL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71hu6ur-SlL._SL1500_.jpg" alt="Lazarus: X+66">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71wbbnismqL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71wbbnismqL._SL1500_.jpg" alt="Lazarus: Fracture">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/717ANh9vAML._SL1362_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/717ANh9vAML._SL1362_.jpg" alt="Lazarus: Fracture 2">
-    </a>
-
- 
-
-    <a href="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/714N3k6ni3L._SL1500_.jpg" alt="Power Fantasy vol 2. 9 juli.">
-    </a>
-
-    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/04/UNCX2024018_Cov-scaled.jpg?ssl=1" alt="Uncanny X-Men vol 3. 9 juli.">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/818GykH-FxL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/818GykH-FxL._SL1500_.jpg" alt="Zatanna. 16 juli.">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" alt="Arcbound vol 1. 23 juli.">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" alt="Bitter Root: The Next Movement. 30 juli.">
-    </a>
+        <a href="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" alt="Bitter Root: The Next Movement. 30 juli.">
+        </a>
 
 
 
@@ -159,9 +142,9 @@
 
 <div alt="August trades" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
-</a>
+    <a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
+          <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
+    </a>
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. 6 augustust.">
@@ -207,38 +190,6 @@
 <div alt="September trades" align="center">
 
 
-
-<a href="https://m.media-amazon.com/images/I/71drM5AuJ0L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71drM5AuJ0L._SL1500_.jpg" alt="Lazarus: Family">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81CI3h2R+JL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81CI3h2R+JL._SL1500_.jpg" alt="Lazarus: Lift">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/71olMv7PwQL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/71olMv7PwQL._SL1500_.jpg" alt="Lazarus: Conclave">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81cPwFckVYL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81cPwFckVYL._SL1500_.jpg" alt="Lazarus: Poison">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81nOnCOSyzL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81nOnCOSyzL._SL1500_.jpg" alt="Lazarus: Cull">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91XVwSweckL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91XVwSweckL._SL1500_.jpg" alt="Lazarus: X+66">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/51jgnApYP0L.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/51jgnApYP0L.jpg" alt="Lazarus: Fracture">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/717ANh9vAML._SL1362_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/717ANh9vAML._SL1362_.jpg" alt="Lazarus: Fracture 2">
-    </a>
 
 
 
