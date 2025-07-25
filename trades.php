@@ -272,16 +272,16 @@
     <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/X-Men-Hickman-Featured-1710x900.jpg" alt="X-Men">
 </a>
 
-</a><a href="https://m.media-amazon.com/images/I/71P2EnT1VVL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71P2EnT1VVL._AC_UF1000,1000_QL80_.jpg" alt="Sunstone">
+<a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" alt="Monstress">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
+</a><a href="https://m.media-amazon.com/images/I/81aJj8b581L._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81aJj8b581L._UF1000,1000_QL80_.jpg" alt="Planetary">
 </a>
 
 
@@ -292,21 +292,23 @@
 
 <div alt="Single book Rushmore" align="center">
 
-<a href="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" alt="Low">
-</a>
-
-</a><a href="https://m.media-amazon.com/images/I/81zdukgApzL._UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81zdukgApzL._UF1000,1000_QL80_.jpg" alt="Nights Wyatt Kennedy">
+<a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
 </a>
 
 <a href="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" class="thumbnail">
     <img src="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" alt="Monstress">
 </a>
 
-<a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
+<a href="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" alt="Low">
 </a>
+
+</a><a href="https://m.media-amazon.com/images/I/71P2EnT1VVL._UF894,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/71P2EnT1VVL._UF894,1000_QL80_.jpg" alt="Sunstone">
+</a>
+
+
 
 
 </div>
