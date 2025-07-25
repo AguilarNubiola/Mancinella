@@ -2204,6 +2204,10 @@
         <img src="https://m.media-amazon.com/images/I/91UY5MikivL._SL1500_.jpg" alt="Ultimate Spider-Man vol 3">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/91IhtFP6ZHL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91IhtFP6ZHL._SL1500_.jpg" alt="West Coast Avengers vol 1">
+    </a>
+
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" class="thumbnail">
         <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5979627.jpg?1745744064" alt="Immortal Thor vol 5. 2 juli.">
     </a>
@@ -2326,6 +2330,54 @@
 
     <a href="https://media.s-bol.com/Nrmo9EgOJ9A6/Kr20NJG/790x1200.jpg" class="thumbnail">
         <img src="https://media.s-bol.com/Nrmo9EgOJ9A6/Kr20NJG/790x1200.jpg" alt="Swing vol 5">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" alt="Saga of the Swamp Thing">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71C5D5mNOAL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71C5D5mNOAL._SL1500_.jpg" alt="Spectrum">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" alt="Love and Death">
+    </a>
+
+    <a href="https://cdn.imagecomics.com/assets/i/releases/15352/battle-chasers-3_f551e11614.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/15352/battle-chasers-3_f551e11614.jpg" alt="Battle Chasers 1-12">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" alt="The Curse">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/816Ou8aRAPL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/816Ou8aRAPL._SL1500_.jpg" alt="Planetary vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/715t0J1HLbL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/715t0J1HLbL._SL1500_.jpg" alt="Planetary vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71jFYwlTpTL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71jFYwlTpTL._SL1500_.jpg" alt="Planetary vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/71vgt4a5lVL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/71vgt4a5lVL._SL1500_.jpg" alt="Planetary vol 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" alt="A Murder of Crows">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" alt="Earth to Earth">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" alt="Reunion">
     </a>
 
 
@@ -3004,6 +3056,8 @@
 <a href="Ultimate Spider-Man vol 2" class="thumbnail">
     <img src="https://comichub.blob.core.windows.net/high/7a5e1b87-00aa-46f3-8e31-a891268899d4.jpg" alt="Ultimate Spider-Man vol 2">
 </a>
+
+
 
 <a href="https://media.s-bol.com/9vOyQxmpNErP/Z6vpJBJ/780x1200.jpg" class="thumbnail">
     <img src="https://media.s-bol.com/9vOyQxmpNErP/Z6vpJBJ/780x1200.jpg" alt="The Power Fantasy vol 1">

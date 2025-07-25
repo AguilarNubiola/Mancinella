@@ -57,6 +57,18 @@
 
 <div alt="Next up" align="center">
 
+    <a href="https://m.media-amazon.com/images/I/514O6OgWH1L.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/514O6OgWH1L.jpg" alt="Neuromancer">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91nhk-aO7lL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91nhk-aO7lL._SL1500_.jpg" alt="Count Zero">
+    </a>
+
+    <a href="https://media.s-bol.com/gB16N5OkxyZ/800x1200.jpg" class="thumbnail">
+        <img src="https://media.s-bol.com/gB16N5OkxyZ/800x1200.jpg" alt="Mona Lisa Overdrive">
+    </a>
+
 
     <a href="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/71PlneCID6L._AC_UF1000,1000_QL80_.jpg" alt="Assassinorum: Kingmaker">

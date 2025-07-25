@@ -38,11 +38,6 @@
 <div alt="Current marks" align="center">
 
 
-   <a href="https://doublesama.com/wp-content/uploads/2022/03/Violet-Evergarden-Eternity-and-the-Auto-Memory-Doll-cover-1.jpg" class="thumbnail">
-      <img src="https://doublesama.com/wp-content/uploads/2022/03/Violet-Evergarden-Eternity-and-the-Auto-Memory-Doll-cover-1.jpg" alt="Violet Evergarden: Eternity and the Auto Memory Doll">
-   </a>
-
-
 
 
 
@@ -97,17 +92,6 @@
 
 
 
-<a href="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Ballerina. 05/06/2025.">
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg" alt="M3egan 2.0. 27/06/2025.">
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg" alt="Fantastic Four: First Steps. 23/07/2025">
-</a>
 
 <a href="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" class="thumbnail">
     <img src="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" alt="No Other Choice">
@@ -301,9 +285,21 @@
         <img src="https://statcdn.fandango.com/MPX/image/NBCU_Fandango/838/554/thumb_35B300C8-F17D-4886-8E56-480CB6F96810.jpg" alt="Lazarus anime">
     </a>
 
+    <a href="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg" class="thumbnail">
+         <img src="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg" alt="M3egan 2.0.">
+    </a>
+
 
     <a href="https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_.jpg" alt="Gattaca">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="F1">
+    </a>
+
+    <a href="https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/en/1/13/The_Fantastic_Four_First_Steps_poster.jpg" alt="Fantastic Four: First Steps. ">
     </a>
 
   

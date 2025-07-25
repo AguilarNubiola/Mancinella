@@ -56,29 +56,6 @@
 
 
 
-    <a href="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" alt="Saga of the Swamp Thing">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" alt="Love and Death">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" alt="The Curse">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" alt="A Murder of Crows">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" alt="Earth to Earth">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" alt="Reunion">
-    </a>
 
 
 
@@ -118,14 +95,10 @@
 
 
 
-
-        <a href="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/61ozMt-Y82L.jpg" alt="Arcbound vol 1. 23 juli.">
+        <a href="https://m.media-amazon.com/images/I/919qLdIEZ2L._SL1500_.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/919qLdIEZ2L._SL1500_.jpg" alt="Assorted Crisis Events vol 1">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" alt="Bitter Root: The Next Movement. 30 juli.">
-        </a>
 
 
 
@@ -142,6 +115,10 @@
 
 <div alt="August trades" align="center">
 
+        <a href="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" alt="Bitter Root: The Next Movement. 6 Augustus.">
+        </a>
+
     <a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
           <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
     </a>
@@ -156,29 +133,34 @@
 
 
 
-    <a href="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91SJMQ28F-L._SL1500_.jpg" alt="Saga of the Swamp Thing">
+
+    <a href="https://m.media-amazon.com/images/I/81OZ79QRB1L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81OZ79QRB1L._SL1500_.jpg" alt="Bug Wars book 1">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91F0H4RjmFL._SL1500_.jpg" alt="Love and Death">
+    <a href="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" alt="West Coast Avengers vol 2">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91LJFkNrHHL._SL1500_.jpg" alt="The Curse">
+    <a href="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" alt="Psylocke vol 2">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/81Hk-CAQtiL._SL1500_.jpg" alt="A Murder of Crows">
+    <a href="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" alt="Absolute Martian Manhunter vol 1">
     </a>
 
-    <a href="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91+ZHVYDwlL._SL1500_.jpg" alt="Earth to Earth">
-    </a>
 
-    <a href="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" alt="Reunion">
-    </a>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -189,7 +171,17 @@
 
 <div alt="September trades" align="center">
 
+   <a href="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" alt="Storm vol 2">
+    </a>
 
+    <a href="https://images1.penguinrandomhouse.com/cover/9781799502555" class="thumbnail">
+        <img src="https://images1.penguinrandomhouse.com/cover/9781799502555" alt="Poison Ivy vol 6">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" alt="Magik vol 2">
+    </a>
 
 
 
@@ -259,9 +251,7 @@
       <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk">
    </a>
 
-   <a href="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?auto=webp&s=75809dbc4d006991a04f286a47fd35a915a9cbb0" class="thumbnail">
-      <img src="https://preview.redd.it/how-many-of-yall-read-the-jojolands-v0-7spoielssxdd1.png?auto=webp&s=75809dbc4d006991a04f286a47fd35a915a9cbb0" alt="Jojolands">
-   </a>
+
 
 
 </div>
