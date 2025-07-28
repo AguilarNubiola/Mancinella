@@ -26,6 +26,7 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
+   <a href="http://localhost/arakko/targets.php">Targets</a>
 </div>
 
 <div alt="Albums finished" align="center">
@@ -50,8 +51,8 @@
     <img src="https://m.media-amazon.com/images/I/71h631BJGLL._UF1000,1000_QL80_.jpg" alt="36 chambers">
 </a>
 
-<a href="https://www.sounds-venlo.nl/imager/images/product-images/880/265/2052840/0196292265880-1_b359f718fe1da39fcdba4ce0c97f5e4a.jpg" class="thumbnail">
-    <img src="https://www.sounds-venlo.nl/imager/images/product-images/880/265/2052840/0196292265880-1_b359f718fe1da39fcdba4ce0c97f5e4a.jpg" alt="King's Disease 2">
+<a href="https://m.media-amazon.com/images/I/91UqjNPJxOL._AC_SL1500_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/91UqjNPJxOL._AC_SL1500_.jpg" alt="King's Disease 2">
 </a>
 
 <a href="https://i.discogs.com/sa0MAmPlAtUdYqu8IdvBaKeH2t5-29P_EbUBuVD6ML0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMy/NDI5LTE2NjgxOTI3/MTctNDYxOC5qcGVn.jpeg" class="thumbnail">
@@ -165,44 +166,21 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/9/94/Prince-Lovesexy.jpg" alt="Lovesexy">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://b2620046.smushcdn.com/2620046/wp-content/uploads/2025/07/Clipse-Let-God-Sort-Em-Out-Tour-2025.png?lossy=1&strip=0&webp=1" class="thumbnail">
+    <img src="https://b2620046.smushcdn.com/2620046/wp-content/uploads/2025/07/Clipse-Let-God-Sort-Em-Out-Tour-2025.png?lossy=1&strip=0&webp=1" alt="Let God Sort Em Out">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://m.media-amazon.com/images/I/81kUTdPl4gL._UF1000,1000_QL80_.jpg" class="thumbnail">
+    <img src="https://m.media-amazon.com/images/I/81kUTdPl4gL._UF1000,1000_QL80_.jpg" alt="The Diary">
 </a>
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
+<a href="https://npr.brightspotcdn.com/dims4/default/99883df/2147483647/strip/true/crop/1043x1064+0+0/resize/880x898!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F3e%2Ffc67f66246b6b4f3afe1350debfe%2Fgwvdrq-w8ainglf.jpg" class="thumbnail">
+    <img src="https://npr.brightspotcdn.com/dims4/default/99883df/2147483647/strip/true/crop/1043x1064+0+0/resize/880x898!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F3e%2Ffc67f66246b6b4f3afe1350debfe%2Fgwvdrq-w8ainglf.jpg" alt="Don't Tap the Glass">
 </a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
-
-</div>
-
-
-
-=
 
 
 </div>
 
-<div alt="Albums September" align="center">
-
-
-
-
-</div>
-
-
-</div>
 
 
 

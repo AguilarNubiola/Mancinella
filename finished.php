@@ -2380,6 +2380,38 @@
         <img src="https://m.media-amazon.com/images/I/51QJ92R0A8L.jpg" alt="Reunion">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/A1fcP65VkRL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1fcP65VkRL._SL1500_.jpg" alt="Empowered vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1cinQj5wuL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1cinQj5wuL._SL1500_.jpg" alt="Empowered vol 2">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1d3sn9evkL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1d3sn9evkL._SL1500_.jpg" alt="Empowered vol 3">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1c-PWOY8CL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1c-PWOY8CL._SL1500_.jpg" alt="Empowered vol 4">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1tynp0jToL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1tynp0jToL._SL1500_.jpg" alt="Empowered vol 5">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1Bett3MrnL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1Bett3MrnL._SL1500_.jpg" alt="Empowered vol 6">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91kmp6n-S+L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91kmp6n-S+L._SL1500_.jpg" alt="Empowered Unchained">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1EQzRo0fKL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1EQzRo0fKL._SL1500_.jpg" alt="Empowered vol 7">
+    </a>
+
 
 
 

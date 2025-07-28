@@ -164,7 +164,6 @@
 
 
 
-
 </div>
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>September trades</b></p>
@@ -182,6 +181,69 @@
     <a href="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" alt="Magik vol 2">
     </a>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <a href="https://m.media-amazon.com/images/I/A10C5EtR6iL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A10C5EtR6iL._SL1500_.jpg" alt="Empowered vol 8">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1ijHtGkGwL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1ijHtGkGwL._SL1500_.jpg" alt="Empowered vol 9">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91IqxJl7X5L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91IqxJl7X5L._SL1500_.jpg" alt="Empowered vol 10">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91-nsCknStL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91-nsCknStL._SL1500_.jpg" alt="Empowered vol 11">
+    </a>
+
+
+
+
 
 
 
@@ -400,3 +462,4 @@
 
 </body>
 </HTML>
+
