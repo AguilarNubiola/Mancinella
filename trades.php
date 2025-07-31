@@ -87,28 +87,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July trades</b></p>
 
-<div alt="July trades" align="center">
-
-
-
-
-
-        <a href="https://m.media-amazon.com/images/I/919qLdIEZ2L._SL1500_.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/919qLdIEZ2L._SL1500_.jpg" alt="Assorted Crisis Events vol 1">
-        </a>
-
-
-
-
-
-
-
-
-
-
-</div>
 
 
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>August trades</b></p>
@@ -170,6 +149,10 @@
 
 <div alt="September trades" align="center">
 
+   <a href="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" alt="Absolute Green Lantern vol 1">
+    </a>
+
    <a href="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" alt="Storm vol 2">
     </a>
@@ -186,60 +169,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <a href="https://m.media-amazon.com/images/I/A10C5EtR6iL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/A10C5EtR6iL._SL1500_.jpg" alt="Empowered vol 8">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/A1ijHtGkGwL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/A1ijHtGkGwL._SL1500_.jpg" alt="Empowered vol 9">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91IqxJl7X5L._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91IqxJl7X5L._SL1500_.jpg" alt="Empowered vol 10">
-    </a>
-
-    <a href="https://m.media-amazon.com/images/I/91-nsCknStL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91-nsCknStL._SL1500_.jpg" alt="Empowered vol 11">
-    </a>
 
 
 

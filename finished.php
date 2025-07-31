@@ -2412,6 +2412,31 @@
         <img src="https://m.media-amazon.com/images/I/A1EQzRo0fKL._SL1500_.jpg" alt="Empowered vol 7">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/A10C5EtR6iL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A10C5EtR6iL._SL1500_.jpg" alt="Empowered vol 8">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/A1ijHtGkGwL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/A1ijHtGkGwL._SL1500_.jpg" alt="Empowered vol 9">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/919qLdIEZ2L._SL1500_.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/919qLdIEZ2L._SL1500_.jpg" alt="Assorted Crisis Events vol 1">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91IqxJl7X5L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91IqxJl7X5L._SL1500_.jpg" alt="Empowered vol 10">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91-nsCknStL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91-nsCknStL._SL1500_.jpg" alt="Empowered vol 11">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81UoMg954KL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81UoMg954KL._SL1500_.jpg" alt="Gotham City Sirens: Unfit for Orbit">
+    </a>
+
+
 
 
 
