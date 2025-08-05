@@ -2440,6 +2440,14 @@
         <img src="https://m.media-amazon.com/images/I/816v87ar5oL._SL1500_.jpg" alt="Batman: Mercy of the Father">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" class="thumbnail">
+           <img src="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" alt="Bitter Root: The Next Movement.">
+    </a>
+
+    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" class="thumbnail">
+        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men vol 3.">
+    </a>
+
 
 
 

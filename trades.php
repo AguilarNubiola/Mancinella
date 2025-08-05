@@ -94,9 +94,7 @@
 
 <div alt="August trades" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" class="thumbnail">
-           <img src="https://m.media-amazon.com/images/I/71qM6MgVwrL._SL1076_.jpg" alt="Bitter Root: The Next Movement. 6 Augustus.">
-        </a>
+
 
     <a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
           <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
@@ -106,16 +104,31 @@
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. 6 augustust.">
     </a>  
 
-    <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" class="thumbnail">
-        <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men vol 3.">
-    </a>
 
 
 
+
+
+
+
+
+
+
+
+
+
+    
 
     <a href="https://m.media-amazon.com/images/I/81OZ79QRB1L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81OZ79QRB1L._SL1500_.jpg" alt="Bug Wars book 1">
     </a>
+
+
+
+
+
+
+
 
     <a href="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" alt="West Coast Avengers vol 2">
@@ -124,6 +137,17 @@
     <a href="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" alt="Psylocke vol 2">
     </a>
+
+    <a href="https://m.media-amazon.com/images/I/91nWoV4Ck1L._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91nWoV4Ck1L._SL1500_.jpg" alt="Mothra: Queen of Monsters">
+    </a>
+
+
+
+
+
+
+    
 
     <a href="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" alt="Absolute Martian Manhunter vol 1">
@@ -165,6 +189,10 @@
         <img src="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" alt="Magik vol 2">
     </a>
 
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5">
+    </a>
+
     
 
 
@@ -183,7 +211,17 @@
 
 <div alt="October trades" align="center">
 
+   <a href="https://m.media-amazon.com/images/I/81bHqd8h0OL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81bHqd8h0OL._SL1500_.jpg" alt="Nullhunter">
+    </a>
 
+    <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
+        <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" alt="Birds of Prey vol 4">
+    </a>
 
 
 
