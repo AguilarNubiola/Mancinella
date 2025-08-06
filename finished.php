@@ -2448,6 +2448,19 @@
         <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/05/ULTXM2024018_Cover-scaled.jpg?resize=683%2C1024&ssl=1" alt="Ultimate X-Men vol 3.">
     </a>
 
+    <a href="https://m.media-amazon.com/images/I/81TWmnIfwsL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81TWmnIfwsL._SL1500_.jpg" alt="Napalm Lullaby.">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
+          <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. ">
+    </a>
+
+    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
+       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. ">
+    </a>  
+
+
 
 
 

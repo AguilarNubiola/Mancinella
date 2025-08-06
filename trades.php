@@ -96,32 +96,16 @@
 
 
 
-    <a href="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" class="thumbnail">
-          <img src="https://m.media-amazon.com/images/I/81jYf3o07GL._SL1500_.jpg" alt="Nullhunter. 6 Augustus.">
-    </a>
-
-    <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
-       <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. 6 augustust.">
-    </a>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 
     <a href="https://m.media-amazon.com/images/I/81OZ79QRB1L._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81OZ79QRB1L._SL1500_.jpg" alt="Bug Wars book 1">
     </a>
+
+
+
+
+
 
 
 
@@ -147,19 +131,17 @@
 
 
 
+
     
+
+
+
+
+
 
     <a href="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" alt="Absolute Martian Manhunter vol 1">
     </a>
-
-
-
-
-
-
-
-
 
 
 
@@ -177,21 +159,65 @@
         <img src="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" alt="Absolute Green Lantern vol 1">
     </a>
 
-   <a href="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" class="thumbnail">
-        <img src="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" alt="Storm vol 2">
+    <a href="https://m.media-amazon.com/images/I/81N5tCyB8aL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81N5tCyB8aL._SL1500_.jpg" alt="All-New Venom vol 2">
     </a>
 
     <a href="https://images1.penguinrandomhouse.com/cover/9781799502555" class="thumbnail">
         <img src="https://images1.penguinrandomhouse.com/cover/9781799502555" alt="Poison Ivy vol 6">
     </a>
 
+
+
+
+
+
+
+
+
+
+    <a href="https://m.media-amazon.com/images/I/91kGQp3PhfL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91kGQp3PhfL._SL1500_.jpg" alt="Superior Avengers">
+    </a>
+
+
+
+
+
+
+
+
+
+
     <a href="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" class="thumbnail">
         <img src="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" alt="Magik vol 2">
+    </a>
+
+
+
+
+
+
+
+
+
+    
+
+    <a href="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" alt="Storm vol 2">
     </a>
 
     <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
         <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5">
     </a>
+
+
+
+
+
+
+
+
 
     
 
