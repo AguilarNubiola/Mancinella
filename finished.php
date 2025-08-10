@@ -135,36 +135,36 @@
         <img src="https://cdn.marvel.com/u/prod/marvel/i/mg/4/10/66a3ed8906790/clean.jpg" alt="X-Men #5, October 2nd">
     </a>
     
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XFORCE2024004_Ferreyra_var.jpg" alt="X-Force #4, 9th of October">
+    <a href="https://m.media-amazon.com/images/I/91LV828P6SL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/91LV828P6SL._SL1500_.jpg" alt="X-Force #4, 9th of October">
     </a>
 
     <a href="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" class="thumbnail">
         <img src="https://images.squarespace-cdn.com/content/v1/646996fd7ff181388c2a58c8/1721676163815-WM9NTSH9A83NCW0IP8TO/exceptionalxm2024002_cover.jpg?format=1500w" alt="Exceptional X-Men #2, 9th of October">
     </a>
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/UNCX2024004_Cover-1-scaled.jpg" alt="Uncanny X-men #4, 16th of October">
+    <a href="https://m.media-amazon.com/images/I/81oBuuUD6qL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81oBuuUD6qL._SL1500_.jpg" alt="Uncanny X-men #4, 16th of October">
     </a>
 
     <a href="https://i.redd.it/rqnya2dc2d9d1.jpeg" class="thumbnail">
         <img src="https://i.redd.it/rqnya2dc2d9d1.jpeg" alt="Mystique #1, October 16th">
     </a> 
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/XMEN2024006_Cover-1-scaled.jpg" alt="X-men #6, 23rd of October">
+    <a href="https://m.media-amazon.com/images/I/811YF3qfRiL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/811YF3qfRiL._SL1500_.jpg" alt="X-men #6, 23rd of October">
     </a>
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/07/ULTXM2024008_IanBertramVar.jpg" alt="Ultimate X-men #8 30th of October. Ian Bertram variant cover.">
+    <a href="https://m.media-amazon.com/images/I/81+xa9vHPcL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81+xa9vHPcL._SL1500_.jpg" alt="Ultimate X-men #8 30th of October. Ian Bertram variant cover.">
     </a>
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XMEN2024007_Cov-scaled.jpg" alt="X-Men 7. 6th of November.">
+    <a href="https://m.media-amazon.com/images/I/916DnmZWbkL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/916DnmZWbkL._SL1500_.jpg" alt="X-Men 7. 6th of November.">
     </a>
 
-    <a href="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" class="thumbnail">
-        <img src="https://comic-watch.com/wp-content/uploads/2024/08/XFORCE2024005_cov-scaled.jpg" alt="X-Force 5. 6th of November.">
+    <a href="https://m.media-amazon.com/images/I/81P5PMqOJBL._SL1500_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/I/81P5PMqOJBL._SL1500_.jpg" alt="X-Force 5. 6th of November.">
     </a>
 
     <a href="https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/66c7225b15eaf/clean.jpg" class="thumbnail">
@@ -2458,6 +2458,14 @@
 
     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. ">
+    </a>  
+
+    <a href="https://m.media-amazon.com/images/I/81zSkNUEh1L._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/81zSkNUEh1L._SL1500_.jpg" alt="Secret Six 2025 ">
+    </a>  
+
+    <a href="https://m.media-amazon.com/images/I/91ovYZ9bQsL._SL1500_.jpg" class="thumbnail">
+       <img src="https://m.media-amazon.com/images/I/91ovYZ9bQsL._SL1500_.jpg" alt="Star Wars: Visions ">
     </a>  
 
 
