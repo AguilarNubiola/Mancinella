@@ -307,7 +307,30 @@
     </a>
 
     <a href="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2022/06/30123811/fast-times-poster.jpeg" class="thumbnail">
-        <img src="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2022/06/30123811/fast-times-poster.jpeg" alt="#Fast Times at Ridgemont HIgh ">
+        <img src="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2022/06/30123811/fast-times-poster.jpeg" alt="Fast Times at Ridgemont HIgh ">
+    </a>
+
+    <a href="https://m.media-amazon.com/images/M/MV5BMTUxNzUwMjk1Nl5BMl5BanBnXkFtZTgwNDkwODI1MjI@._V1_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BMTUxNzUwMjk1Nl5BMl5BanBnXkFtZTgwNDkwODI1MjI@._V1_.jpg" alt="American Made">
+    </a>
+
+    <a href="https://i.redd.it/uv5sylmgv0gf1.jpeg" class="thumbnail">
+        <img src="https://i.redd.it/uv5sylmgv0gf1.jpeg" alt="Naked Gun">
+    </a>
+
+    <a href="https://www.vitalthrills.com/wp-content/uploads/2025/07/kingofhulu1.jpg" class="thumbnail">
+        <img src="https://www.vitalthrills.com/wp-content/uploads/2025/07/kingofhulu1.jpg" alt="King of the Hill season 14">
+    </a>
+
+
+    <a href="https://m.media-amazon.com/images/M/MV5BN2RmYmY3OWItYTRkNi00NmRlLWFjNTAtMjEwYjYxMGMzMjAzXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UX500_CR0,0,500,281_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BN2RmYmY3OWItYTRkNi00NmRlLWFjNTAtMjEwYjYxMGMzMjAzXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UX500_CR0,0,500,281_.jpg" alt="Shrinking season 1">
+    </a>
+    
+    #####Not done yet###
+
+    <a href="https://www.rollingstone.com/wp-content/uploads/2024/10/Shrinking_Photo_02060215.jpg?w=1581&h=1054&crop=1" class="thumbnail">
+        <img src="https://www.rollingstone.com/wp-content/uploads/2024/10/Shrinking_Photo_02060215.jpg?w=1581&h=1054&crop=1" alt="Shrinking season 2">
     </a>
 
   
