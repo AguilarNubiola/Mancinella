@@ -55,37 +55,6 @@
 
 
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <a href="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" alt="West Coast Avengers vol 2. 20 Augustus 2025.">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" alt="Psylocke vol 2. 20 Augustus 2025.">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91nWoV4Ck1L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91nWoV4Ck1L._SL1500_.jpg" alt="Mothra: Queen of Monsters. 20 Augustus 2025.">
-            </a>
-
-
-
-
-
 
 
             
@@ -97,6 +66,10 @@
 
             <a href="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" alt="Absolute Martian Manhunter vol 1. 27 Augustus 2025.">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" alt="West Coast Avengers vol 2. 27 Augustus 2025.">
             </a>
 
 
@@ -124,6 +97,23 @@
             </a>
 
 
+            <a href="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" alt="Laura Kinney: Wolverine vol 2. 3 September 2025.">
+            </a>
+
+
+            <a href="https://m.media-amazon.com/images/I/91vayyRR1oL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91vayyRR1oL._SL1500_.jpg" alt="Avengers vol 5. 3 September 2025.">
+            </a>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -137,6 +127,20 @@
             </a>
 
 
+            <a href="https://m.media-amazon.com/images/I/91QaZz7ZGBL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91QaZz7ZGBL._SL1500_.jpg" alt="Transformers vol 4. 10 September 2025.">
+            </a>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -147,6 +151,11 @@
 
             <a href="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" alt="Magik vol 2. 17 September 2025.">
+            </a>
+
+
+            <a href="https://m.media-amazon.com/images/I/91dJCNCjizL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91dJCNCjizL._SL1500_.jpg" alt="Phoenix Vol 3. 17 September 2025.">
             </a>
 
 
@@ -166,6 +175,11 @@
             <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
                 <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 24 September 2025.">
             </a>
+
+            <a href="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" alt="Gehenna: Naked Aggression. 24 September 2025.">
+            </a>
+
 
 
 
@@ -207,6 +221,42 @@
 
 
 
+
+
+        <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet vol 1. 08/10/2025">
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        <a href="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" alt="GI Joe vol 2. 15/10/2025">
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
             <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 22 Oktober 2025.">
         </a>
@@ -223,6 +273,23 @@
 <div alt="November trades" align="center">
 
 
+            <a href="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" alt="Ghost Pepper vol 1. 19/11/2025">
+            </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             <a href="https://m.media-amazon.com/images/I/81P0Ud-JOgL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81P0Ud-JOgL._SL1500_.jpg" alt="Absolute Wonder Woman vol 2. 26/11/2025">
             </a>
@@ -236,7 +303,7 @@
 
 <div alt="December trades" align="center">
 
-
+    
 
             <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" class="thumbnail">
                 <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" alt="Fine Print vol 3. 16/12/2025">

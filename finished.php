@@ -2423,15 +2423,15 @@
                     </a>
 
                     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" class="thumbnail">
-                    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. ">
+                        <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363509.jpg?1740774867" alt="W0rldtr33 vol 3. ">
                     </a>  
 
                     <a href="https://m.media-amazon.com/images/I/81zSkNUEh1L._SL1500_.jpg" class="thumbnail">
-                    <img src="https://m.media-amazon.com/images/I/81zSkNUEh1L._SL1500_.jpg" alt="Secret Six 2025 ">
+                        <img src="https://m.media-amazon.com/images/I/81zSkNUEh1L._SL1500_.jpg" alt="Secret Six 2025 ">
                     </a>  
 
                     <a href="https://m.media-amazon.com/images/I/91ovYZ9bQsL._SL1500_.jpg" class="thumbnail">
-                    <img src="https://m.media-amazon.com/images/I/91ovYZ9bQsL._SL1500_.jpg" alt="Star Wars: Visions ">
+                        <img src="https://m.media-amazon.com/images/I/91ovYZ9bQsL._SL1500_.jpg" alt="Star Wars: Visions ">
                     </a>  
 
                     <a href="https://m.media-amazon.com/images/I/81OZ79QRB1L._SL1500_.jpg" class="thumbnail">
@@ -2444,6 +2444,18 @@
 
                     <a href="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81W1iFKxXuL._SL1500_.jpg" alt="Psylocke vol 2. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91nWoV4Ck1L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91nWoV4Ck1L._SL1500_.jpg" alt="Mothra: Queen of Monsters. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/818OTR2Y9PL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/818OTR2Y9PL._SL1500_.jpg" alt="Monkey Meat: First Batch ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71lcH82oWBL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71lcH82oWBL._SL1500_.jpg" alt="Monkey Meat: Summer Batch">
                     </a>
 
 
