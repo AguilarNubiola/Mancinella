@@ -2458,6 +2458,26 @@
                         <img src="https://m.media-amazon.com/images/I/71lcH82oWBL._SL1500_.jpg" alt="Monkey Meat: Summer Batch">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/71+of180VZL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71+of180VZL._SL1500_.jpg" alt="Cyberpunk: Trauma Team">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91V4DzDMZkL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91V4DzDMZkL._SL1500_.jpg" alt="Jonathan Hickman's Fantastic Four volume 1">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/A1Z3wBQTNZL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/A1Z3wBQTNZL._SL1500_.jpg" alt="Jonathan Hickman's Fantastic Four volume 2">
+                    </a>
+
+                    <a href="https://static.jojowiki.com/images/5/52/latest/20250716150009/TJL_Volume_7_Preview.png" class="thumbnail">
+                        <img src="https://static.jojowiki.com/images/5/52/latest/20250716150009/TJL_Volume_7_Preview.png" alt="Jojolands volume 7">
+                    </a>
+
+
+
+
+
 
 
 

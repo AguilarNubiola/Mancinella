@@ -327,10 +327,13 @@
         <img src="https://m.media-amazon.com/images/M/MV5BN2RmYmY3OWItYTRkNi00NmRlLWFjNTAtMjEwYjYxMGMzMjAzXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UX500_CR0,0,500,281_.jpg" alt="Shrinking season 1">
     </a>
     
-    #####Not done yet###
 
     <a href="https://www.rollingstone.com/wp-content/uploads/2024/10/Shrinking_Photo_02060215.jpg?w=1581&h=1054&crop=1" class="thumbnail">
         <img src="https://www.rollingstone.com/wp-content/uploads/2024/10/Shrinking_Photo_02060215.jpg?w=1581&h=1054&crop=1" alt="Shrinking season 2">
+    </a>
+
+    <a href="https://i.redd.it/4c9s4ugddste1.png" class="thumbnail">
+        <img src="https://i.redd.it/4c9s4ugddste1.png" alt="Warrior season 1">
     </a>
 
   
