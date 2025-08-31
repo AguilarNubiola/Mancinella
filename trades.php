@@ -49,40 +49,35 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>August trades</b></p>
-
-<div alt="August trades" align="center">
-
-
-
-
-
-            
-
-
-
-
-
-
-            <a href="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" alt="Absolute Martian Manhunter vol 1. 27 Augustus 2025.">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" alt="West Coast Avengers vol 2. 27 Augustus 2025.">
-            </a>
-
-
-
-
-
-
-
-</div>
-
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>September trades</b></p>
 
 <div alt="September trades" align="center">
+
+
+
+
+
+
+
+
+            <a href="https://m.media-amazon.com/images/I/81f+cMc1bLL._SL1200_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81f+cMc1bLL._SL1200_.jpg" alt="Essex  County">
+            </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             <a href="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" alt="Absolute Green Lantern vol 1. 3 September 2025.">

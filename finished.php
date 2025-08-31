@@ -2474,6 +2474,34 @@
                         <img src="https://static.jojowiki.com/images/5/52/latest/20250716150009/TJL_Volume_7_Preview.png" alt="Jojolands volume 7">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81pmKxE7yXL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81pmKxE7yXL._UF1000,1000_QL80_.jpg" alt="Cyberpunk: Kickdown">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81WFw8LcfiL._SL1500_.jpg" alt="Absolute Martian Manhunter vol 1.">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91XMMsc0k+L._SL1500_.jpg" alt="West Coast Avengers vol 2.">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/919ZwfeTf1L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/919ZwfeTf1L._SL1500_.jpg" alt="Moon Knight vol 1">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81G8hCByp6L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81G8hCByp6L._SL1500_.jpg" alt="Moon Knight vol 2">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71ElhtD4MLL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71ElhtD4MLL._SL1500_.jpg" alt="SUPERMAN ACTION 01 SUPERMAN MEN OF STEEL: Superman And The Men Of Steel">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91ITccJPZfL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91ITccJPZfL._SL1500_.jpg" alt="Moon Knight vol 3">
+                    </a>
+
 
 
 
