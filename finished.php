@@ -2502,6 +2502,31 @@
                         <img src="https://m.media-amazon.com/images/I/91ITccJPZfL._SL1500_.jpg" alt="Moon Knight vol 3">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81rSZDeVcTL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81rSZDeVcTL._SL1500_.jpg" alt="Essex County vol 1">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71QGdOFIa3L._SL1200_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71QGdOFIa3L._SL1200_.jpg" alt="Essex County vol 2">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/51iVb5TL1mL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51iVb5TL1mL.jpg" alt="Essex County vol 3">
+                    </a>
+
+                    <a href="https://images1.penguinrandomhouse.com/cover/9781799502555" class="thumbnail">
+                        <img src="https://images1.penguinrandomhouse.com/cover/9781799502555" alt="Poison Ivy vol 6. ">
+                    </a>
+
+
+                    <a href="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" alt="Laura Kinney: Wolverine vol 2.">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" alt="Absolute Green Lantern vol 1. ">
+                    </a>
+
 
 
 

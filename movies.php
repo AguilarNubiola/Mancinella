@@ -136,53 +136,53 @@
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2025</h3>
 <div class='tv shows and movies finished in 2025' align="center">
 
-<a href="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" class="thumbnail">
-    <img src="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" alt="Nosferatu.">
-</a>
+    <a href="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" class="thumbnail">
+        <img src="https://wapi.wearepublic.nl/media/10467/conversions/img_8534-1-url_hero_lg.jpg" alt="Nosferatu.">
+    </a>
 
-<a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" class="thumbnail">
-    <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" alt="Legend of Vox Machina season 1">
-</a>
+    <a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" class="thumbnail">
+        <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20812924_b_v13_aa.jpg" alt="Legend of Vox Machina season 1">
+    </a>
 
-<a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" class="thumbnail">
-    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" alt="Creature Commandos.">
-</a>
+    <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" class="thumbnail">
+        <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" alt="Creature Commandos.">
+    </a>
 
-<a href="https://sm.ign.com/ign_nl/gallery/s/squid-game/squid-game-season-2-new-key-art-and-teaser-images_7df6.jpg" class="thumbnail">
-    <img src="https://sm.ign.com/ign_nl/gallery/s/squid-game/squid-game-season-2-new-key-art-and-teaser-images_7df6.jpg" alt="Squid Game Season 2">
-</a>
+    <a href="https://sm.ign.com/ign_nl/gallery/s/squid-game/squid-game-season-2-new-key-art-and-teaser-images_7df6.jpg" class="thumbnail">
+        <img src="https://sm.ign.com/ign_nl/gallery/s/squid-game/squid-game-season-2-new-key-art-and-teaser-images_7df6.jpg" alt="Squid Game Season 2">
+    </a>
 
-<a href="https://assets-prd.ignimgs.com/2022/10/06/image2-1665099853688.jpg" class="thumbnail">
-    <img src="https://assets-prd.ignimgs.com/2022/10/06/image2-1665099853688.jpg" alt="Vox Machina season 2">
-</a>
+    <a href="https://assets-prd.ignimgs.com/2022/10/06/image2-1665099853688.jpg" class="thumbnail">
+        <img src="https://assets-prd.ignimgs.com/2022/10/06/image2-1665099853688.jpg" alt="Vox Machina season 2">
+    </a>
 
-<a href="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" class="thumbnail">
-    <img src="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" alt="Vox Machina season 3">
-</a>
+    <a href="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" class="thumbnail">
+        <img src="https://images.immediate.co.uk/production/volatile/sites/3/2024/09/legend-of-vox-machina-Cropped-ca27cfc.jpg?quality=90&resize=980,654" alt="Vox Machina season 3">
+    </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BNjI5ZmZkNDktZDliMS00ZjlmLWE2MTUtMWVlZjU2YWQ3ZDYxXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNjI5ZmZkNDktZDliMS00ZjlmLWE2MTUtMWVlZjU2YWQ3ZDYxXkEyXkFqcGc@._V1_.jpg" alt="Fallout season 1">
-</a>
+    <a href="https://m.media-amazon.com/images/M/MV5BNjI5ZmZkNDktZDliMS00ZjlmLWE2MTUtMWVlZjU2YWQ3ZDYxXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/M/MV5BNjI5ZmZkNDktZDliMS00ZjlmLWE2MTUtMWVlZjU2YWQ3ZDYxXkEyXkFqcGc@._V1_.jpg" alt="Fallout season 1">
+    </a>
 
-<a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" class="thumbnail">
-    <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" alt="Castlevania Nocturne season 2">
-</a>
+    <a href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" class="thumbnail">
+        <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/castlevania-nocturne-erzsebet-bathory-annette-alucard-season-2-trailer.jpg" alt="Castlevania Nocturne season 2">
+    </a>
 
-<a href="https://www.slashfilm.com/img/gallery/only-two-actors-from-the-first-gladiator-return-for-the-sequel/intro-1731618671.jpg" class="thumbnail">
-    <img src="https://www.slashfilm.com/img/gallery/only-two-actors-from-the-first-gladiator-return-for-the-sequel/intro-1731618671.jpg" alt="Gladiator II">
-</a>
+    <a href="https://www.slashfilm.com/img/gallery/only-two-actors-from-the-first-gladiator-return-for-the-sequel/intro-1731618671.jpg" class="thumbnail">
+        <img src="https://www.slashfilm.com/img/gallery/only-two-actors-from-the-first-gladiator-return-for-the-sequel/intro-1731618671.jpg" alt="Gladiator II">
+    </a>
 
-<a href="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" alt="Back in Action">
-</a>
+    <a href="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" class="thumbnail">
+        <img src="https://i.ytimg.com/vi/XgaDaxRsc8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6Lf1KcP_yM4jLMcjQdZy9vYiOuQ" alt="Back in Action">
+    </a>
 
-<a href="https://irs.www.warnerbros.nl/keyart-jpeg/movies/media/browser/NL_COMPAN_keyart_0.jpg" class="thumbnail">
-    <img src="https://irs.www.warnerbros.nl/keyart-jpeg/movies/media/browser/NL_COMPAN_keyart_0.jpg" alt="Companion">
-</a">
+    <a href="https://irs.www.warnerbros.nl/keyart-jpeg/movies/media/browser/NL_COMPAN_keyart_0.jpg" class="thumbnail">
+        <img src="https://irs.www.warnerbros.nl/keyart-jpeg/movies/media/browser/NL_COMPAN_keyart_0.jpg" alt="Companion">
+    </a">
 
-<a href="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" alt="In Our Prime">
-</a>
+    <a href="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" class="thumbnail">
+        <img src="https://m.media-amazon.com/images/S/pv-target-images/27361247f36bd1e308dedca416bea4e2bf4bcbbb6b31ffb32e0486b1eac346e7.jpg" alt="In Our Prime">
+    </a>
 
     <a href="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" class="thumbnail">
         <img src="https://hips.hearstapps.com/hmg-prod/images/cobra-kai-season-6-66995574d587b.jpeg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*" alt="Cobra Kai. 13-02-2025.">
@@ -334,6 +334,10 @@
 
     <a href="https://i.redd.it/4c9s4ugddste1.png" class="thumbnail">
         <img src="https://i.redd.it/4c9s4ugddste1.png" alt="Warrior season 1">
+    </a>
+
+    <a href="https://static.wikia.nocookie.net/addamsfamily/images/0/0a/Wednesday_Season_2_Poster_001.jpg/revision/latest?cb=20250422205134" class="thumbnail">
+        <img src="https://static.wikia.nocookie.net/addamsfamily/images/0/0a/Wednesday_Season_2_Poster_001.jpg/revision/latest?cb=20250422205134" alt="Wednesday season 2">
     </a>
 
   
@@ -494,147 +498,147 @@
 <h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2024</h3>
 <div class='tv shows and movies finished' align="center">
 
-<a href="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" class="thumbnail">
-    <img src="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" alt="X-Men 97">
-</a>
+        <a href="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" class="thumbnail">
+            <img src="https://variety.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-12-at-9.25.46-AM.png" alt="X-Men 97">
+        </a>
 
-<a href="https://cdn.marvel.com/content/2x/marvelshitmonkeys2_lob_crd_01.jpg" class="thumbnail">
-    <img src="https://cdn.marvel.com/content/2x/marvelshitmonkeys2_lob_crd_01.jpg" alt="Hit-Monkey">
-</a>
-
-
-<a href="https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg" alt="Furiosa">
-</a>
+        <a href="https://cdn.marvel.com/content/2x/marvelshitmonkeys2_lob_crd_01.jpg" class="thumbnail">
+            <img src="https://cdn.marvel.com/content/2x/marvelshitmonkeys2_lob_crd_01.jpg" alt="Hit-Monkey">
+        </a>
 
 
-<a href="https://upload.wikimedia.org/wikipedia/en/d/dc/Love_lies_bleeding_poster.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Love_lies_bleeding_poster.jpg" alt="Love Lies Bleeding">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg" alt="Furiosa">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" alt="Dune Part 2">
-</a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="Inside Out 2">
-</a>
+        <a href="https://upload.wikimedia.org/wikipedia/en/d/dc/Love_lies_bleeding_poster.jpg" class="thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Love_lies_bleeding_poster.jpg" alt="Love Lies Bleeding">
+        </a>
 
-<a href="https://cdn.britannica.com/76/238676-050-1AFDA48F/Lin-Manuel-Miranda-and-the-cast-of-Hamilton-perform-70th-Annual-Tony-Awards-2016.jpg" class="thumbnail">
-    <img src="https://cdn.britannica.com/76/238676-050-1AFDA48F/Lin-Manuel-Miranda-and-the-cast-of-Hamilton-perform-70th-Annual-Tony-Awards-2016.jpg" alt="Hamilton">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" alt="Dune Part 2">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BNWNlZTUxOTUtMzhmMi00MDg4LThmMTYtNjZhNmM2NDcxYjk1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BNWNlZTUxOTUtMzhmMi00MDg4LThmMTYtNjZhNmM2NDcxYjk1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg" alt="Big George Foreman">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="Inside Out 2">
+        </a>
 
-<a href="https://www.ica.art/media/04075.jpg" class="thumbnail">
-    <img src="https://www.ica.art/media/04075.jpg" alt="In the Mood for Love">
-</a>
+        <a href="https://cdn.britannica.com/76/238676-050-1AFDA48F/Lin-Manuel-Miranda-and-the-cast-of-Hamilton-perform-70th-Annual-Tony-Awards-2016.jpg" class="thumbnail">
+            <img src="https://cdn.britannica.com/76/238676-050-1AFDA48F/Lin-Manuel-Miranda-and-the-cast-of-Hamilton-perform-70th-Annual-Tony-Awards-2016.jpg" alt="Hamilton">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" alt="Mars Express">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BNWNlZTUxOTUtMzhmMi00MDg4LThmMTYtNjZhNmM2NDcxYjk1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BNWNlZTUxOTUtMzhmMi00MDg4LThmMTYtNjZhNmM2NDcxYjk1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg" alt="Big George Foreman">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BZjMyOTI1NDgtN2I1OS00NWQyLTg1ODQtMDI4ZTc4MmIzNDZiXkEyXkFqcGdeQXVyMTc3NDUxNDg5._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BZjMyOTI1NDgtN2I1OS00NWQyLTg1ODQtMDI4ZTc4MmIzNDZiXkEyXkFqcGdeQXVyMTc3NDUxNDg5._V1_FMjpg_UX1000_.jpg" alt="Giannis documentary">
-</a>
+        <a href="https://www.ica.art/media/04075.jpg" class="thumbnail">
+            <img src="https://www.ica.art/media/04075.jpg" alt="In the Mood for Love">
+        </a>
 
-<a href="https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png" class="thumbnail">
-    <img src="https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png" alt="Deadpool and Wolverine">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BMzkwODZjYjAtZDQ0Yy00YWM0LThmZTMtM2FiMzE1OWU2OGViXkEyXkFqcGdeQXVyMjQzNzIzMTA@._V1_FMjpg_UX1000_.jpg" alt="Mars Express">
+        </a>
 
-<a href="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" class="thumbnail">
-    <img src="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" alt="Metropolis">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BZjMyOTI1NDgtN2I1OS00NWQyLTg1ODQtMDI4ZTc4MmIzNDZiXkEyXkFqcGdeQXVyMTc3NDUxNDg5._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BZjMyOTI1NDgtN2I1OS00NWQyLTg1ODQtMDI4ZTc4MmIzNDZiXkEyXkFqcGdeQXVyMTc3NDUxNDg5._V1_FMjpg_UX1000_.jpg" alt="Giannis documentary">
+        </a>
 
-<a href="https://i.redd.it/z8ds7upfk7zc1.jpeg" class="thumbnail">
-    <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
-</a>
+        <a href="https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png" class="thumbnail">
+            <img src="https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png" alt="Deadpool and Wolverine">
+        </a>
 
-<a href="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest/scale-to-width-down/1200?cb=20210209135843" class="thumbnail">
-    <img src="https://i.redd.it/u9p8gwgnqgb61.jpg" alt="Vivy: Fluorite Eye Song">
-</a>
+        <a href="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" class="thumbnail">
+            <img src="https://screenanarchy.com/contrib/5be29c62cdda79df9a2f132df566779a992dddb6.jpeg" alt="Metropolis">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" alt="My neighbor Totoro">
-</a>
+        <a href="https://i.redd.it/z8ds7upfk7zc1.jpeg" class="thumbnail">
+            <img src="https://i.redd.it/z8ds7upfk7zc1.jpeg" alt="Angel's Egg">
+        </a>
 
-<a href="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" class="thumbnail">
-    <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
-</a>
+        <a href="https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/d/d4/Vivy_-Fluorite_Eye%27s_Song-_Anime_Key_Visual.jpg/revision/latest/scale-to-width-down/1200?cb=20210209135843" class="thumbnail">
+            <img src="https://i.redd.it/u9p8gwgnqgb61.jpg" alt="Vivy: Fluorite Eye Song">
+        </a>
 
-<a href="https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg" class="thumbnail">
-    <img src="https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg" alt="The Substance">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_.jpg" alt="My neighbor Totoro">
+        </a>
 
-<a href="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" class="thumbnail">
-    <img src="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" alt="The Wild Robot">
-</a>
+        <a href="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" class="thumbnail">
+            <img src="https://variety.com/wp-content/uploads/2013/05/blue-is-the-warmest-color.jpg?w=1000&h=563&crop=1" alt="Blue is the Warmest Colour">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BMzM5ZDllZWItODBkMy00M2Y0LTk2MDgtMTJmYTk4MGQwNGIxXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BMzM5ZDllZWItODBkMy00M2Y0LTk2MDgtMTJmYTk4MGQwNGIxXkEyXkFqcGc@._V1_.jpg" alt="Upgrade">
-</a>
+        <a href="https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg" class="thumbnail">
+            <img src="https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg" alt="The Substance">
+        </a>
 
-<a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
-    <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
-</a>
+        <a href="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" class="thumbnail">
+            <img src="https://www.peterbrownstudio.com/wp-content/uploads/2024/03/WRB_Teaser1Sheet12_1080x1350_3.jpg" alt="The Wild Robot">
+        </a>
 
-<a href="https://talking-pics.com/wp-content/uploads/2023/06/nhf.jpg" class="thumbnail">
-    <img src="https://talking-pics.com/wp-content/uploads/2023/06/nhf.jpg" alt="No Hard Feelings">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BMzM5ZDllZWItODBkMy00M2Y0LTk2MDgtMTJmYTk4MGQwNGIxXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BMzM5ZDllZWItODBkMy00M2Y0LTk2MDgtMTJmYTk4MGQwNGIxXkEyXkFqcGc@._V1_.jpg" alt="Upgrade">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
-</a>
+        <a href="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" class="thumbnail">
+            <img src="https://i.guim.co.uk/img/media/18e82d07c98a71876f7fb81618e043f78b96626b/0_0_1822_1093/master/1822.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6396af52cb2424d96ae829ed159929f7" alt="Bound">
+        </a>
 
-<a href="https://www.cineworld.nl/media/ilxeyyur/transformers-one-nl-_ps_1_jpg_sd-low_2024-paramount-animation-a-division-of-paramount-pictures-hasbro-transformers-and-all-related-characters-are-trademarks-of-hasbro-2024-hasbro.jpg?width=750&height=1112&v=1dae12615775580" class="thumbnail">
-    <img src="https://www.cineworld.nl/media/ilxeyyur/transformers-one-nl-_ps_1_jpg_sd-low_2024-paramount-animation-a-division-of-paramount-pictures-hasbro-transformers-and-all-related-characters-are-trademarks-of-hasbro-2024-hasbro.jpg?width=750&height=1112&v=1dae12615775580" alt="Transformers One">
-</a>
+        <a href="https://talking-pics.com/wp-content/uploads/2023/06/nhf.jpg" class="thumbnail">
+            <img src="https://talking-pics.com/wp-content/uploads/2023/06/nhf.jpg" alt="No Hard Feelings">
+        </a>
 
-<a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
-    <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BODQxNTUyZWYtN2QyNS00NTMyLTlmNmQtYTg1M2FjOThkZTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" alt="If you were the last">
+        </a>
 
-<a href="https://m.media-amazon.com/images/I/81tHXxCkU1L.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/I/81tHXxCkU1L.jpg" alt="I want to eat your pancreas">
-</a>
+        <a href="https://www.cineworld.nl/media/ilxeyyur/transformers-one-nl-_ps_1_jpg_sd-low_2024-paramount-animation-a-division-of-paramount-pictures-hasbro-transformers-and-all-related-characters-are-trademarks-of-hasbro-2024-hasbro.jpg?width=750&height=1112&v=1dae12615775580" class="thumbnail">
+            <img src="https://www.cineworld.nl/media/ilxeyyur/transformers-one-nl-_ps_1_jpg_sd-low_2024-paramount-animation-a-division-of-paramount-pictures-hasbro-transformers-and-all-related-characters-are-trademarks-of-hasbro-2024-hasbro.jpg?width=750&height=1112&v=1dae12615775580" alt="Transformers One">
+        </a>
 
-<a href="https://resizing.flixster.com/wcbVN8dLAaBaH-uNHQnYn5l5chk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNTA2ZTA4ZWYtZjQ2Yy00YTIzLWFkMjgtYzczZjFkZjhkMDVmLmpwZw==" class="thumbnail">
-    <img src="https://resizing.flixster.com/wcbVN8dLAaBaH-uNHQnYn5l5chk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNTA2ZTA4ZWYtZjQ2Yy00YTIzLWFkMjgtYzczZjFkZjhkMDVmLmpwZw==" alt="Special Ops Lioness season 1">
-</a>
+        <a href="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" class="thumbnail">
+            <img src="https://i.ytimg.com/vi/whldChqCsYk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcBg6ahTEb6bdTX4CqCDsdCvw0sQ" alt="The Handmaiden">
+        </a>
 
-<a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/kwon-tory-and-the-cobra-kai-team-looking-at-someone-while-on-the-sekai-taikai-floor-in-cobra-kai-season-6-part-2.jpg" class="thumbnail">
-    <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/kwon-tory-and-the-cobra-kai-team-looking-at-someone-while-on-the-sekai-taikai-floor-in-cobra-kai-season-6-part-2.jpg" alt="Cobra Kai season 6 part 2">
-</a>
+        <a href="https://m.media-amazon.com/images/I/81tHXxCkU1L.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81tHXxCkU1L.jpg" alt="I want to eat your pancreas">
+        </a>
 
-<a href="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" class="thumbnail">
-    <img src="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" alt="Arcane season 2 part 2">
-</a>
+        <a href="https://resizing.flixster.com/wcbVN8dLAaBaH-uNHQnYn5l5chk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNTA2ZTA4ZWYtZjQ2Yy00YTIzLWFkMjgtYzczZjFkZjhkMDVmLmpwZw==" class="thumbnail">
+            <img src="https://resizing.flixster.com/wcbVN8dLAaBaH-uNHQnYn5l5chk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNTA2ZTA4ZWYtZjQ2Yy00YTIzLWFkMjgtYzczZjFkZjhkMDVmLmpwZw==" alt="Special Ops Lioness season 1">
+        </a>
 
-<a href="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" class="thumbnail">
-    <img src="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" alt="Falling Down">
-</a>
+        <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/kwon-tory-and-the-cobra-kai-team-looking-at-someone-while-on-the-sekai-taikai-floor-in-cobra-kai-season-6-part-2.jpg" class="thumbnail">
+            <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/kwon-tory-and-the-cobra-kai-team-looking-at-someone-while-on-the-sekai-taikai-floor-in-cobra-kai-season-6-part-2.jpg" alt="Cobra Kai season 6 part 2">
+        </a>
 
-<a href="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" alt="Last American Virgin">
-</a>
+        <a href="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" class="thumbnail">
+            <img src="https://www.cnet.com/a/img/resize/6f9dcaf0c68c063535843da43466ee852e0a6566/hub/2024/11/07/67e75f69-063d-41e4-8011-fe0e996e27f5/arcane-season-2-netflix.jpg?auto=webp&width=1200" alt="Arcane season 2 part 2">
+        </a>
 
-<a href="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" class="thumbnail">
-    <img src="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" alt="Lust/Caution">
-</a>
+        <a href="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" class="thumbnail">
+            <img src="https://kinorotterdam.nl/content/uploads/2023/08/Falling-Down-still-15.jpg" alt="Falling Down">
+        </a>
 
-<a href="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
-    <img src="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" alt="Kraven">
-</a>
+        <a href="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/S/pv-target-images/3ff88fec234248a94b81046480591485e2d337e87dec693f1fa02e5f1cd24e1b.jpg" alt="Last American Virgin">
+        </a>
 
-<a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/Jentry_Chau_vs_the_Underworld_n_S1_E6_00_03_07_10.jpg" class="thumbnail">
-    <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/Jentry_Chau_vs_the_Underworld_n_S1_E6_00_03_07_10.jpg" alt="Jentry Chau">
-</a>
+        <a href="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" class="thumbnail">
+            <img src="https://www.slantmagazine.com/wp-content/uploads/2007/10/film_lustcaution.jpg" alt="Lust/Caution">
+        </a>
 
-<a href="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" class="thumbnail">
-    <img src="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" alt="Anora">
-</a>
+        <a href="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BZDRiYjE4NjYtYWE4Yy00YjZiLTlkYjMtYWI0MGVkYzliMjA2XkEyXkFqcGc@._V1_.jpg" alt="Kraven">
+        </a>
+
+        <a href="https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/Jentry_Chau_vs_the_Underworld_n_S1_E6_00_03_07_10.jpg" class="thumbnail">
+            <img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/Jentry_Chau_vs_the_Underworld_n_S1_E6_00_03_07_10.jpg" alt="Jentry Chau">
+        </a>
+
+        <a href="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" class="thumbnail">
+            <img src="https://www.moviemeter.nl/images/cover/1163000/1163154.jpg" alt="Anora">
+        </a>
 
 </div>
 
