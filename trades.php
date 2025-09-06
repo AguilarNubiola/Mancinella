@@ -60,56 +60,6 @@
 
 
 
-            <a href="https://m.media-amazon.com/images/I/81f+cMc1bLL._SL1200_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81f+cMc1bLL._SL1200_.jpg" alt="Essex  County">
-            </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <a href="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" alt="Absolute Green Lantern vol 1. 3 September 2025.">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81N5tCyB8aL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81N5tCyB8aL._SL1500_.jpg" alt="All-New Venom vol 2. 3 September 2025.">
-            </a>
-
-            <a href="https://images1.penguinrandomhouse.com/cover/9781799502555" class="thumbnail">
-                <img src="https://images1.penguinrandomhouse.com/cover/9781799502555" alt="Poison Ivy vol 6. 3 September 2025.">
-            </a>
-
-
-            <a href="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" alt="Laura Kinney: Wolverine vol 2. 3 September 2025.">
-            </a>
-
-
-            <a href="https://m.media-amazon.com/images/I/91vayyRR1oL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91vayyRR1oL._SL1500_.jpg" alt="Avengers vol 5. 3 September 2025.">
-            </a>
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -167,9 +117,6 @@
                 <img src="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" alt="Storm vol 2. 24 September 2025.">
             </a>
 
-            <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
-                <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 24 September 2025.">
-            </a>
 
             <a href="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" alt="Gehenna: Naked Aggression. 24 September 2025.">
@@ -206,6 +153,10 @@
 
         <a href="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" alt="Birds of Prey vol 4. 1 Oktober 2025.">
+        </a>
+
+        <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
+                <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 1 Oktober 2025.">
         </a>
 
 
@@ -361,8 +312,8 @@
                 <img src="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" alt="Monstress">
             </a>
 
-            </a><a href="https://m.media-amazon.com/images/I/81aJj8b581L._UF1000,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81aJj8b581L._UF1000,1000_QL80_.jpg" alt="Planetary">
+            </a><a href="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1649913264568-A7741UOKA32H9W53N2WZ/yck5pgoudbuw_sjiz62z2u8nta-06bkv_66gcq_byom.jpeg?format=2500w" class="thumbnail">
+                <img src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1649913264568-A7741UOKA32H9W53N2WZ/yck5pgoudbuw_sjiz62z2u8nta-06bkv_66gcq_byom.jpeg?format=2500w" alt="Berserk">
             </a>
 
 
