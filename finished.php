@@ -2527,6 +2527,18 @@
                         <img src="https://m.media-amazon.com/images/I/81hJAmXDU2L._SL1500_.jpg" alt="Absolute Green Lantern vol 1. ">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91vayyRR1oL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91vayyRR1oL._SL1500_.jpg" alt="Avengers vol 5. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81N5tCyB8aL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81N5tCyB8aL._SL1500_.jpg" alt="All-New Venom vol 2. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81IzCfYWILL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81IzCfYWILL._SL1500_.jpg" alt="Batman: Dark Patterns vol 1 ">
+                    </a>
+
 
 
 
