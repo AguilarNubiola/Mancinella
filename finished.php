@@ -2539,6 +2539,23 @@
                         <img src="https://m.media-amazon.com/images/I/81IzCfYWILL._SL1500_.jpg" alt="Batman: Dark Patterns vol 1 ">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91ippdJcrmL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91ippdJcrmL._SL1500_.jpg" alt="Absolute Flash vol 1">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81X4kHX5XsL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81X4kHX5XsL._SL1500_.jpg" alt="Wonder Woman: The Lies">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/912rfbha02L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/912rfbha02L._SL1500_.jpg" alt="Wonder Woman: Godwatch">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81E9T8whMjL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81E9T8whMjL._SL1500_.jpg" alt="Wonder Woman: The Truth">
+                    </a>
+
+
 
 
 
