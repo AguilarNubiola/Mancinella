@@ -56,9 +56,9 @@
 
 
 
-            <a href="https://m.media-amazon.com/images/I/71Tq-CkEoHL._SL1400_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71Tq-CkEoHL._SL1400_.jpg" alt="ANGELA ASGARDS ASSASSIN 01 PRICELESS">
-            </a>
+
+
+
 
             <a href="https://m.media-amazon.com/images/I/910q7HA-VwL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/910q7HA-VwL._SL1500_.jpg" alt="Batman Vol. 1: The Court of Owls">
@@ -136,22 +136,6 @@
 
 
 
-<br>
-
-
-
-            <a href="https://m.media-amazon.com/images/I/91kGQp3PhfL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91kGQp3PhfL._SL1500_.jpg" alt="Superior Avengers. 10 September 2025.">
-            </a>
-
-
-            <a href="https://m.media-amazon.com/images/I/91QaZz7ZGBL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91QaZz7ZGBL._SL1500_.jpg" alt="Transformers vol 4. 10 September 2025.">
-            </a>
-
-
-    
-<br>
 
             <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311688798i/12150558.jpg" class="thumbnail">
                 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311688798i/12150558.jpg" alt="Het Misdaadmuseum">
@@ -301,6 +285,16 @@
                 <img src="https://m.media-amazon.com/images/I/91dJCNCjizL._SL1500_.jpg" alt="Phoenix Vol 3. 17 September 2025.">
             </a>
 
+            <a href="https://m.media-amazon.com/images/I/81FsCJuggLL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81FsCJuggLL._SL1500_.jpg" alt="Uncanny X-Men vol 3. 17 September 2025">
+            </a>
+
+
+
+            
+            
+<br>
+
 
 
 
@@ -358,6 +352,12 @@
         </a>
 
 
+        
+        
+        
+        
+        
+<br>
 
 
 
@@ -366,10 +366,25 @@
 
 
 
+
+
+
+        <a href="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" alt="Unchosen vol 1. 08/10/2025">
+        </a>
 
         <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet vol 1. 08/10/2025">
         </a>
+
+
+
+        
+        
+        
+        
+        
+<br>
 
 
 
@@ -387,6 +402,16 @@
         <a href="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" alt="GI Joe vol 2. 15/10/2025">
         </a>
+
+
+
+
+
+
+
+
+
+<br>
 
 
 

@@ -2518,7 +2518,6 @@
                         <img src="https://images1.penguinrandomhouse.com/cover/9781799502555" alt="Poison Ivy vol 6. ">
                     </a>
 
-
                     <a href="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81yz0LL6b6L._SL1500_.jpg" alt="Laura Kinney: Wolverine vol 2.">
                     </a>
@@ -2553,6 +2552,22 @@
 
                     <a href="https://m.media-amazon.com/images/I/81E9T8whMjL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81E9T8whMjL._SL1500_.jpg" alt="Wonder Woman: The Truth">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71Tq-CkEoHL._SL1400_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71Tq-CkEoHL._SL1400_.jpg" alt="ANGELA ASGARDS ASSASSIN 01 PRICELESS">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91a-abwFP3L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91a-abwFP3L._SL1500_.jpg" alt="Exceptional X-Men vol 2">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91kGQp3PhfL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91kGQp3PhfL._SL1500_.jpg" alt="Superior Avengers. 10 September 2025.">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91QaZz7ZGBL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91QaZz7ZGBL._SL1500_.jpg" alt="Transformers vol 4. 10 September 2025.">
                     </a>
 
 
@@ -3213,7 +3228,7 @@
                 <img src="https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3006649.jpg" alt="Savage Hearts">
             </a>
 
-            <a href="Ultimate Spider-Man vol 2" class="thumbnail">
+            <a href="https://comichub.blob.core.windows.net/high/7a5e1b87-00aa-46f3-8e31-a891268899d4.jpg" class="thumbnail">
                 <img src="https://comichub.blob.core.windows.net/high/7a5e1b87-00aa-46f3-8e31-a891268899d4.jpg" alt="Ultimate Spider-Man vol 2">
             </a>
 
