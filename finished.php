@@ -2570,6 +2570,46 @@
                         <img src="https://m.media-amazon.com/images/I/91QaZz7ZGBL._SL1500_.jpg" alt="Transformers vol 4. 10 September 2025.">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" alt="Magik vol 2. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81FsCJuggLL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81FsCJuggLL._SL1500_.jpg" alt="Uncanny X-Men vol 3. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91dJCNCjizL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91dJCNCjizL._SL1500_.jpg" alt="Phoenix Vol 3. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/711uZk6FZyL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/711uZk6FZyL._SL1500_.jpg" alt="Mister Miracle">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91UEapLW43L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91UEapLW43L._SL1500_.jpg" alt="Trillium">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81-lclr+v3L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81-lclr+v3L._SL1500_.jpg" alt="Monstress vol 10.">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81qes8jUsbL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81qes8jUsbL._SL1500_.jpg" alt="X-Men vol 3">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" alt="Storm vol 2. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" alt="Gehenna: Naked Aggression. 24 September 2025.">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/910q7HA-VwL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/910q7HA-VwL._SL1500_.jpg" alt="Batman Vol. 1: The Court of Owls">
+                    </a>
+
 
 
 

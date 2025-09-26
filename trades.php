@@ -36,6 +36,54 @@
 
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>October trades</b></p>
+
+<div alt="October trades" align="center">
+
+
+
+        <a href="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" alt="Birds of Prey vol 4. 1 Oktober 2025.">
+        </a>
+
+        <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
+                <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 1 Oktober 2025.">
+        </a>
+
+
+        
+        
+        
+        
+        
+<br>
+
+
+
+
+
+
+
+
+
+
+
+        <a href="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" alt="Unchosen vol 1. 08/10/2025">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet vol 1. 08/10/2025">
+        </a>
+
+
+
+        
+        
+        
+        
+        
+<br>
 
 
 
@@ -48,37 +96,55 @@
 
 
 
+        
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>September trades</b></p>
-
-<div alt="September trades" align="center">
-
-
-
+        <a href="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" alt="GI Joe vol 2. 15/10/2025">
+        </a>
 
 
 
 
 
-            <a href="https://m.media-amazon.com/images/I/910q7HA-VwL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/910q7HA-VwL._SL1500_.jpg" alt="Batman Vol. 1: The Court of Owls">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/81vSEqNMJHL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81vSEqNMJHL._SL1500_.jpg" alt="Batman Vol. 2: The City of Owls">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/818I6e-n5jL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/818I6e-n5jL._SL1500_.jpg" alt="Batman (2011-2016) Vol. 3: Death of the Family">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91UEapLW43L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91UEapLW43L._SL1500_.jpg" alt="Trillium">
-            </a>
 
 
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
+                <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 22 Oktober 2025.">
+            </a>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+        
 
             <a href="https://m.media-amazon.com/images/I/81Jw90a69RL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81Jw90a69RL._SL1500_.jpg" alt="Ekho: New York">
@@ -127,6 +193,23 @@
             <a href="https://m.media-amazon.com/images/I/81dioyGo+ZL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81dioyGo+ZL._SL1500_.jpg" alt="Ekho: De Walkure van de fjorden">
             </a>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
 
 
 
@@ -264,7 +347,6 @@
 
 
 
-<br>
 
 
 
@@ -273,162 +355,6 @@
 
 
 
-
-
-
-            <a href="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/814OuFIFYSL._SL1500_.jpg" alt="Magik vol 2. 17 September 2025.">
-            </a>
-
-
-            <a href="https://m.media-amazon.com/images/I/91dJCNCjizL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91dJCNCjizL._SL1500_.jpg" alt="Phoenix Vol 3. 17 September 2025.">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81FsCJuggLL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81FsCJuggLL._SL1500_.jpg" alt="Uncanny X-Men vol 3. 17 September 2025">
-            </a>
-
-
-
-            
-            
-<br>
-
-
-
-
-
-
-
-
-
-
-
-            <a href="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91xuDz6RTcL._SL1500_.jpg" alt="Storm vol 2. 24 September 2025.">
-            </a>
-
-
-            <a href="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/61gx4SuZpqL._SL1076_.jpg" alt="Gehenna: Naked Aggression. 24 September 2025.">
-            </a>
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>October trades</b></p>
-
-<div alt="October trades" align="center">
-
-
-
-        <a href="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" alt="Birds of Prey vol 4. 1 Oktober 2025.">
-        </a>
-
-        <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
-                <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 1 Oktober 2025.">
-        </a>
-
-
-        
-        
-        
-        
-        
-<br>
-
-
-
-
-
-
-
-
-
-
-
-        <a href="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" alt="Unchosen vol 1. 08/10/2025">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet vol 1. 08/10/2025">
-        </a>
-
-
-
-        
-        
-        
-        
-        
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-        <a href="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" alt="GI Joe vol 2. 15/10/2025">
-        </a>
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
-            <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 22 Oktober 2025.">
-        </a>
 
 
 
