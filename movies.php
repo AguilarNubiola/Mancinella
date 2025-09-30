@@ -340,6 +340,23 @@
         <img src="https://static.wikia.nocookie.net/addamsfamily/images/0/0a/Wednesday_Season_2_Poster_001.jpg/revision/latest?cb=20250422205134" alt="Wednesday season 2">
     </a>
 
+    <a href="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Nezha_film_poster.jpg/250px-Nezha_film_poster.jpg" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Nezha_film_poster.jpg/250px-Nezha_film_poster.jpg" alt="Nezha">
+    </a>
+
+    <a href="https://www.thepopverse.com/_next/image?url=https%3A%2F%2Fmedia.thepopverse.com%2Fmedia%2Fending-explaind-header-fcydyagz004fnhnevd5pqemvzi.jpg&w=1280&q=75" class="thumbnail">
+        <img src="https://www.thepopverse.com/_next/image?url=https%3A%2F%2Fmedia.thepopverse.com%2Fmedia%2Fending-explaind-header-fcydyagz004fnhnevd5pqemvzi.jpg&w=1280&q=75" alt="Star Trek: Strange New Worlds season 3">
+    </a>
+
+    <a href="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/the-paper-cast.jpg?w=1600&h=900&fit=crop" class="thumbnail">
+        <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/the-paper-cast.jpg?w=1600&h=900&fit=crop" alt="The Paper season 1">
+    </a>
+
+
+    <a href="https://www.globaltimes.cn/Portals/0/attachment/2025/2025-02-11/ae07c40b-aa98-4d83-8e93-85d1370a84ff.jpeg" class="thumbnail">
+        <img src="https://www.globaltimes.cn/Portals/0/attachment/2025/2025-02-11/ae07c40b-aa98-4d83-8e93-85d1370a84ff.jpeg" alt="Nezha 2">
+    </a>
+
   
 
 
@@ -369,9 +386,13 @@
 <div alt="Next marks" align="center">
 
 
-<a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
-    <img src="https://i.redd.it/ye2x2qep8cnd1.jpeg" alt="Placeholder">
-</a>
+    <a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
+        <img src="https://i.redd.it/ye2x2qep8cnd1.jpeg" alt="Placeholder">
+    </a>
+
+    <a href="https://preview.redd.it/friendly-reminder-that-the-new-season-for-panty-stocking-v0-kgr8x824lvbf1.jpeg?auto=webp&s=113c08f87bd415dc1e75863edfd3560a454d964a" class="thumbnail">
+        <img src="https://preview.redd.it/friendly-reminder-that-the-new-season-for-panty-stocking-v0-kgr8x824lvbf1.jpeg?auto=webp&s=113c08f87bd415dc1e75863edfd3560a454d964a" alt="New Panty, Stocking and Garterbelt">
+    </a>
 
 </div>
 

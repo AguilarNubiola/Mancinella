@@ -47,8 +47,24 @@
         </a>
 
         <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
-                <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 1 Oktober 2025.">
+            <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 1 Oktober 2025.">
         </a>
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
 
 
         
@@ -74,6 +90,48 @@
 
         <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet vol 1. 08/10/2025">
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+ 
+
+        <a href="https://m.media-amazon.com/images/I/61xoO2FfivL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61xoO2FfivL.jpg" alt="Morea volume 3">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91zZAkz9uGL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91zZAkz9uGL._SL1500_.jpg" alt="Morea volume 4">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/81t+8IsbaHL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81t+8IsbaHL._SL1500_.jpg" alt="Morea volume 5">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91XIu-A6jfL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91XIu-A6jfL._SL1500_.jpg" alt="Morea volume 6">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91pefmUtBwL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91pefmUtBwL._SL1500_.jpg" alt="Morea volume 7">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/81y+a9m7XgL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81y+a9m7XgL._SL1500_.jpg" alt="Morea volume 8">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91US-EsU5GL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91US-EsU5GL._SL1500_.jpg" alt="Morea volume 9">
         </a>
 
 
@@ -125,9 +183,9 @@
 
 
 
-            <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
-                <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 22 Oktober 2025.">
-            </a>
+        <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
+            <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 22 Oktober 2025.">
+        </a>
 
 
 
@@ -143,56 +201,11 @@
 
 
 
-
+        <a href="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" alt="Imperial. 29 Oktober 2025.">
+        </a>
         
 
-            <a href="https://m.media-amazon.com/images/I/81Jw90a69RL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81Jw90a69RL._SL1500_.jpg" alt="Ekho: New York">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/71fY4LDY-iL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71fY4LDY-iL._SL1500_.jpg" alt="Ekho: Paris Empire">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/61d3xD6YZiL.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/61d3xD6YZiL.jpg" alt="Ekho: Hollywood Boulevard">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/71JHzGT3OKL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71JHzGT3OKL._SL1500_.jpg" alt="Ekho: Barcelona">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/61MDiqu3FiL.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/61MDiqu3FiL.jpg" alt="Ekho: Geheim van de Preshaunen">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/71GramqK6sL.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71GramqK6sL.jpg" alt="Ekho: Deep South">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/71iBStuJmAL.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71iBStuJmAL.jpg" alt="Ekho: Swinging London">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81Qc5zN+EIL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81Qc5zN+EIL._SL1500_.jpg" alt="Ekho: De Sirene van Manhattan">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91EsptX6I7L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91EsptX6I7L._SL1500_.jpg" alt="Ekho: Adibjan-Nairobi Express">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91bqtIHR-uL._SL1028_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91bqtIHR-uL._SL1028_.jpg" alt="Ekho: Een geest in Peking">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/71rWnAhsyoL.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71rWnAhsyoL.jpg" alt="Ekho: Hot Tabaasco">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81dioyGo+ZL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81dioyGo+ZL._SL1500_.jpg" alt="Ekho: De Walkure van de fjorden">
-            </a>
 
 
 
@@ -205,6 +218,11 @@
 
 
 <br>
+
+
+
+
+
 
 
 
@@ -402,6 +420,10 @@
 
             <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" class="thumbnail">
                 <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" alt="Fine Print vol 3. 16/12/2025">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
             </a>
 
 

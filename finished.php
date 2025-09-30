@@ -223,8 +223,8 @@
                 <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/psylocke2024002_lee.jpg" alt="Psylocke #2. 18th of December.">
             </a>
 
-            <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" class="thumbnail">
-                <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/xmen2024009_cov.jpg" alt="X-Men #9. 25th of December.">
+            <a href="https://m.media-amazon.com/images/I/81l8NXDhK2L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81l8NXDhK2L._SL1500_.jpg" alt="X-Men #9. 25th of December.">
             </a>
 
             <a href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/09/myst2024003_cvr.jpg" class="thumbnail">
@@ -347,8 +347,8 @@
                 <img src="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/ULTXM2024014_Cover.jpg?ssl=1" alt="Ultimate X-Men #14. 2 April.">
             </a>
 
-            <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/UNCX2024013_Cov-677x1024.jpg" class="thumbnail">
-                <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/UNCX2024013_Cov-677x1024.jpg" alt="Uncanny X-Men #13. 9 April.">
+            <a href="https://m.media-amazon.com/images/I/81cAQ53V6NL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81cAQ53V6NL._SL1500_.jpg" alt="Uncanny X-Men #13. 9 April.">
             </a>
 
             <a href="https://i0.wp.com/aiptcomics.com/wp-content/uploads/2025/01/STORM2024007_Cov-scaled.jpg?ssl=1" class="thumbnail">
@@ -2610,6 +2610,62 @@
                         <img src="https://m.media-amazon.com/images/I/910q7HA-VwL._SL1500_.jpg" alt="Batman Vol. 1: The Court of Owls">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81Jw90a69RL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Jw90a69RL._SL1500_.jpg" alt="Ekho: New York">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71fY4LDY-iL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71fY4LDY-iL._SL1500_.jpg" alt="Ekho: Paris Empire">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91oYMEGE9BL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91oYMEGE9BL._SL1500_.jpg" alt="Ekho: Hollywood Boulevard">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71JHzGT3OKL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71JHzGT3OKL._SL1500_.jpg" alt="Ekho: Barcelona">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/812sMitgIsL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/812sMitgIsL._SL1500_.jpg" alt="Ekho: Geheim van de Preshaunen">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71GramqK6sL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71GramqK6sL.jpg" alt="Ekho: Deep South">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71iBStuJmAL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71iBStuJmAL.jpg" alt="Ekho: Swinging London">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81Qc5zN+EIL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Qc5zN+EIL._SL1500_.jpg" alt="Ekho: De Sirene van Manhattan">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91EsptX6I7L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91EsptX6I7L._SL1500_.jpg" alt="Ekho: Adibjan-Nairobi Express">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81JYrGUuA9L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81JYrGUuA9L._SL1500_.jpg" alt="Ekho: Een Spook in Peking">
+                    </a>
+
+                     <a href="https://m.media-amazon.com/images/I/71rWnAhsyoL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71rWnAhsyoL.jpg" alt="Ekho: Hot Tabaasco">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81dioyGo+ZL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81dioyGo+ZL._SL1500_.jpg" alt="Ekho: De Walkure van de fjorden">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81nUSryxehL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81nUSryxehL._SL1500_.jpg" alt="Morea volume 1">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/912k0jgIqtL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/912k0jgIqtL._SL1500_.jpg" alt="Morea volume 2">
+                    </a>
+
 
 
 
@@ -2881,8 +2937,8 @@
                 <img src="https://m.media-amazon.com/images/I/81vPW07i1sL._AC_UF1000,1000_QL80_.jpg" alt="Demon Wars">
             </a>
 
-            <a href="https://www.vandalcomx.com/wp-content/uploads/2023/12/JAN240295-600x923.jpg" class="thumbnail">
-                    <img src="https://www.vandalcomx.com/wp-content/uploads/2023/12/JAN240295-600x923.jpg" alt="Napalm Lullaby volume 1">
+            <a href="https://m.media-amazon.com/images/I/81TWmnIfwsL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81TWmnIfwsL._SL1500_.jpg" alt="Napalm Lullaby volume 1">
             </a>
 
             <a href="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" class="thumbnail">
@@ -2977,8 +3033,8 @@
                 <img src="https://cdn.imagecomics.com/assets/i/releases/76133/casanova-vol-3-avaritia-the-complete-edition-hc-4_f923777a6f.jpg" alt="Casanova vol 3 Avaritia. Tweede week September">
             </a>
 
-            <a href="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25439260/Gotham_City_Sirens_3__Dodson_.jpg" class="thumbnail">
-                <img src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25439260/Gotham_City_Sirens_3__Dodson_.jpg" alt="Gotham City Sirens">
+            <a href="https://m.media-amazon.com/images/I/81HEgZCuQ6L._UF1000,1000_QL80_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81HEgZCuQ6L._UF1000,1000_QL80_.jpg" alt="Gotham City Sirens">
             </a>
 
             <a href="https://m.media-amazon.com/images/I/71mzHuxUFSL._SL1400_.jpg" class="thumbnail">
