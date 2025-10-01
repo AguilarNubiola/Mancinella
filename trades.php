@@ -43,10 +43,7 @@
 
 
 
-        <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
-            <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 1 Oktober 2025.">
-        </a>
-
+  
    
 
 
