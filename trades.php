@@ -42,9 +42,6 @@
 
 
 
-        <a href="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" alt="Birds of Prey vol 4. 1 Oktober 2025.">
-        </a>
 
         <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
             <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. 1 Oktober 2025.">
@@ -106,9 +103,9 @@
 
  
 
-        <a href="https://m.media-amazon.com/images/I/61xoO2FfivL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61xoO2FfivL.jpg" alt="Morea volume 3">
-        </a>
+
+
+
 
         <a href="https://m.media-amazon.com/images/I/91zZAkz9uGL._SL1500_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/91zZAkz9uGL._SL1500_.jpg" alt="Morea volume 4">

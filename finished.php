@@ -2666,6 +2666,18 @@
                         <img src="https://m.media-amazon.com/images/I/912k0jgIqtL._SL1500_.jpg" alt="Morea volume 2">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/61xoO2FfivL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61xoO2FfivL.jpg" alt="Morea volume 3">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" alt="Birds of Prey vol 4. ">
+                    </a>
+
+                    <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
+                        <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. ">
+                    </a>
+
 
 
 
