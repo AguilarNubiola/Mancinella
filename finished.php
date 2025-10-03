@@ -2678,6 +2678,34 @@
                         <img src="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" alt="Kaya vol 5. ">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81Glfy96BvL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Glfy96BvL._SL1500_.jpg" alt="Arcbound vol 1. ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91zZAkz9uGL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91zZAkz9uGL._SL1500_.jpg" alt="Morea volume 4">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81t+8IsbaHL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81t+8IsbaHL._SL1500_.jpg" alt="Morea volume 5">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91XIu-A6jfL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91XIu-A6jfL._SL1500_.jpg" alt="Morea volume 6">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91pefmUtBwL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91pefmUtBwL._SL1500_.jpg" alt="Morea volume 7">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81y+a9m7XgL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81y+a9m7XgL._SL1500_.jpg" alt="Morea volume 8">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91US-EsU5GL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91US-EsU5GL._SL1500_.jpg" alt="Morea volume 9">
+                    </a>   
+
 
 
 
