@@ -978,20 +978,20 @@
                     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-6610402.jpg?1731695327" alt="The Moon is following us #6. 12th of February 2025">
                 </a>
 
-                <a href="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" class="thumbnail">
-                    <img src="https://cdn.imagecomics.com/assets/i/releases/1054499/w0-rldtr33-13_7c6f159d5f.jpg" alt="W0rldtr33 #13. 19th of February.">
+                <a href="https://m.media-amazon.com/images/I/619vz-t5vRL._SL1077_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/619vz-t5vRL._SL1077_.jpg" alt="W0rldtr33 #13. 19th of February.">
                 </a>
 
                 <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" class="thumbnail">
                     <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-3448804.jpg?1731765047" alt="Nights #13, 26th of February">
                 </a>
 
-                <a href="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" class="thumbnail">
-                    <img src="https://goldenapplecomics.com/cdn/shop/files/1224IM237.jpg" alt="Monstress #55, 26th of February">
+                <a href="https://m.media-amazon.com/images/I/71CJuVHV2kL._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71CJuVHV2kL._SL1076_.jpg" alt="Monstress #55, 26th of February">
                 </a>
 
-                <a href="https://cdn.imagecomics.com/assets/i/releases/1065800/assorted-crisis-events-1_dfac05f4b9.jpg" class="thumbnail">
-                    <img src="https://cdn.imagecomics.com/assets/i/releases/1065800/assorted-crisis-events-1_dfac05f4b9.jpg" alt="Assorted Crisis Events #1">
+                <a href="https://m.media-amazon.com/images/I/71OOeHeMk4L._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71OOeHeMk4L._SL1076_.jpg" alt="Assorted Crisis Events #1">
                 </a>
 
                 <a href="https://m.media-amazon.com/images/I/712+aFu7S0L._SL1076_.jpg" class="thumbnail">
@@ -1002,32 +1002,32 @@
                         <img src="https://m.media-amazon.com/images/I/61yXGBpwKNL._SL1076_.jpg" alt="Nights 14">
                 </a>
 
-                <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM414-666x1024.jpg" class="thumbnail">
-                    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM414-666x1024.jpg" alt="Transformers #19. 9 April.">
+                <a href="https://m.media-amazon.com/images/I/71i-IjUcrdL._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71i-IjUcrdL._SL1076_.jpg" alt="Transformers #19. 9 April.">
                 </a>
 
-                <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" class="thumbnail">
-                    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM372-666x1024.jpg" alt="The Moon is Following us #8. 9 April.">
+                <a href="https://m.media-amazon.com/images/I/71g13hRrULL._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71g13hRrULL._SL1076_.jpg" alt="The Moon is Following us #8. 9 April.">
                 </a>
 
-                <a href="https://cdn.imagecomics.com/assets/i/releases/1065655/geiger-13_a862d51b5d.jpg" class="thumbnail">
-                    <img src="https://cdn.imagecomics.com/assets/i/releases/1065655/geiger-13_a862d51b5d.jpg" alt="Geiger 13. 16 April.">
+                <a href="https://m.media-amazon.com/images/I/61z5PyCAtlL._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61z5PyCAtlL._SL1076_.jpg" alt="Geiger 13. 16 April.">
                 </a>
 
-                <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" class="thumbnail">
-                    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM341-666x1024.jpg" alt="G.I.Joe #6. 23 April.">
+                <a href="https://m.media-amazon.com/images/I/71D4YDqBOtL._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71D4YDqBOtL._SL1076_.jpg" alt="G.I.Joe #6. 23 April.">
                 </a>
 
-                <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" class="thumbnail">
-                    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM369-666x1024.jpg" alt="Monstress #57. 23 April.">
+                <a href="https://m.media-amazon.com/images/I/71BKsZDJQVL._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71BKsZDJQVL._SL1076_.jpg" alt="Monstress #57. 23 April.">
                 </a>
 
-                <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" class="thumbnail">
-                    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM379-666x1024.jpg" alt="Power Fantasy #8. 23 April.">
+                <a href="https://m.media-amazon.com/images/I/51K-ekHOrML._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51K-ekHOrML._SL1076_.jpg" alt="Power Fantasy #8. 23 April.">
                 </a>
 
-                <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" class="thumbnail">
-                    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/0225IM370-666x1024.jpg" alt="Nights #15. 30 April.">
+                <a href="https://m.media-amazon.com/images/I/61LkQqRlSDL._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61LkQqRlSDL._SL1076_.jpg" alt="Nights #15. 30 April.">
                 </a>
 
                 <a href="https://freshcomics.s3.amazonaws.com/issue_covers/FEB250485.jpg" class="thumbnail">
@@ -1038,20 +1038,20 @@
                     <img src="https://m.media-amazon.com/images/I/612TKu2GfhL._SL1076_.jpg" alt="Nullhunter #7">
                 </a>
 
-                <a href="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" class="thumbnail">
-                    <img src="https://cdn.imagecomics.com/assets/i/releases/1065312/w0-rldtr33-14_a005e151a2.jpg" alt="W0rldtr33 #14. 14th of May.">
+                <a href="https://m.media-amazon.com/images/I/61W4e9MKUdL._SL1077_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61W4e9MKUdL._SL1077_.jpg" alt="W0rldtr33 #14. 14th of May.">
                 </a>
 
-                <a href="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" class="thumbnail">
-                    <img src="https://cdn.imagecomics.com/assets/i/releases/1066617/assorted-crisis-events-3_82fd0d07b9.jpg" alt="Assorted Crisis Events #3. 28/05/2025">
+                <a href="https://m.media-amazon.com/images/I/715AtgUlS6L._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/715AtgUlS6L._SL1076_.jpg" alt="Assorted Crisis Events #3. 28/05/2025">
                 </a>
 
-                <a href="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" class="thumbnail">
-                    <img src="https://cdn.imagecomics.com/assets/i/releases/1068806/the-moon-is-following-us-10-of-10_451f044a24.jpg" alt="The Moon is Following Us 10. 04/06/2025">
+                <a href="https://m.media-amazon.com/images/I/61Edv0dDH8L._SL1076_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61Edv0dDH8L._SL1076_.jpg" alt="The Moon is Following Us 10. 04/06/2025">
                 </a>
 
-                <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" class="thumbnail">
-                    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4326286.jpg?1739891400" alt="W0rldtr33 15. 11/06/2025">
+                <a href="https://m.media-amazon.com/images/I/61UMEZ3pqsL._SL1077_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61UMEZ3pqsL._SL1077_.jpg" alt="W0rldtr33 15. 11/06/2025">
                 </a>
 
 
