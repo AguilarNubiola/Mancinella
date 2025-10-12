@@ -2706,6 +2706,22 @@
                         <img src="https://m.media-amazon.com/images/I/91US-EsU5GL._SL1500_.jpg" alt="Morea volume 9">
                     </a>   
 
+                    <a href="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" alt="Unchosen vol 1.">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet vol 1. 08/10/2025">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91RjMXNn1AL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91RjMXNn1AL._SL1500_.jpg" alt="Superman vol 1: Supercorp">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81xe-isLlwL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81xe-isLlwL._SL1500_.jpg" alt="Superman vol 2: The Unchained">
+                    </a>
+
 
 
 
