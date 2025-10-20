@@ -2722,6 +2722,31 @@
                         <img src="https://m.media-amazon.com/images/I/81xe-isLlwL._SL1500_.jpg" alt="Superman vol 2: The Unchained">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" alt="GI Joe vol 2. 15/10/2025">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/813jp5d3MqL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/813jp5d3MqL._SL1500_.jpg" alt="GI Joe vol 2. 15/10/2025">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81oLuvC9J2L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81oLuvC9J2L._SL1500_.jpg" alt="X-23 VOL. 1: X-ASSASSIN">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/819A3q5SopL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/819A3q5SopL._SL1500_.jpg" alt="X-23 VOL. 2: X-ASSASSIN">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91x+bnsnClL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91x+bnsnClL._SL1500_.jpg" alt="Infinite Crisis">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81puRUknyiL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81puRUknyiL._SL1500_.jpg" alt="Wasp by Al Ewing">
+                    </a>
+
+
 
 
 
