@@ -27,7 +27,6 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
-   <a href="http://localhost/arakko/targets.php">Targets</a>
 </div>
 
 
@@ -43,98 +42,45 @@
 
 
 
-  
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-        <a href="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81Ide3uMNJL._SL1500_.jpg" alt="Unchosen vol 1. 08/10/2025">
+        <a href="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" alt="Ultimates: Omniversal Vol. 1: Start With The Impossible">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61+2c0grZ5L._SL1076_.jpg" alt="Free Planet vol 1. 08/10/2025">
+        <a href="https://m.media-amazon.com/images/I/91qYr0PAU7L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91qYr0PAU7L._SL1500_.jpg" alt="Ultimates: Omniversal Vol. 2: Civil War II ">
         </a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        
-        
-        
-        
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-        <a href="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81B09FdA-hL._SL1500_.jpg" alt="GI Joe vol 2. 15/10/2025">
+        <a href="https://m.media-amazon.com/images/I/91nF076OWWL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91nF076OWWL._SL1500_.jpg" alt="Ultimates 2 Vol. 1: Troubleshooters">
         </a>
 
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
-            <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 22 Oktober 2025.">
+        <a href="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" alt="Ultimates 2 Vol. 2: Eternity War ">
         </a>
 
+        <a href="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" alt="All-New Wolverine: The Four Sisters: 1  ">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" alt="All-New Wolverine Vol. 2: Civil War II">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" alt="All-New Wolverine Vol. 3: Enemy of the State II">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" alt="All-New Wolverine Vol. 4: Immune ">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" alt="All-New Wolverine Vol. 5: Orphans of X ">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" alt="All-New Wolverine Vol. 6: Old Woman Laura">
+        </a>
 
 
 
@@ -184,132 +130,6 @@
 
 
 
-            <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311688798i/12150558.jpg" class="thumbnail">
-                <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311688798i/12150558.jpg" alt="Het Misdaadmuseum">
-            </a>
-
-
-            <a href="https://media.s-bol.com/Ny6B8zYD4xZN/qw4nwk/550x739.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/Ny6B8zYD4xZN/qw4nwk/550x739.jpg" alt="Het Meesterwerk">
-            </a>
-
-            <a href="https://media.s-bol.com/RKX9rO5JOLzY/qDnzX0/959x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/RKX9rO5JOLzY/qDnzX0/959x1200.jpg" alt="De Terugkeer van de Noorderzon">
-            </a>
-
-
-            <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311641237i/3501855.jpg" class="thumbnail">
-                <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311641237i/3501855.jpg" alt="De Wraak van het Vrachtschip">
-            </a>
-
-            <a href="https://media.s-bol.com/mlGY7Xnxzp0/942x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/mlGY7Xnxzp0/942x1200.jpg" alt="Circus Santekraam">
-            </a>
-
-
-            <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311640200i/4520918.jpg" class="thumbnail">
-                <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311640200i/4520918.jpg" alt="Het Monster van de Moerplaat">
-            </a>
-
-            <a href="https://cdn.webshopapp.com/shops/299539/files/333101091/650x750x2/franka-07-de-tanden-van-de-draak.jpg" class="thumbnail">
-                <img src="https://cdn.webshopapp.com/shops/299539/files/333101091/650x750x2/franka-07-de-tanden-van-de-draak.jpg" alt="De Tanden van de Draak">
-            </a>
-
-
-            <a href="https://media.s-bol.com/PAVEYB57qyOz/pr5mrm/550x706.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/PAVEYB57qyOz/pr5mrm/550x706.jpg" alt="De Ondergang van de Donderdraak">
-            </a>
-
-
-            <a href="https://media.s-bol.com/GOZoz8pgy0my/0RNq3Py/940x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/GOZoz8pgy0my/0RNq3Py/940x1200.jpg" alt="Moordende Concurrentie">
-            </a>
-
-
-            <a href="https://media.s-bol.com/R1rkAJvppkWE/924x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/R1rkAJvppkWE/924x1200.jpg" alt="Gangsterfilm">
-            </a>
-
-
-            <a href="https://media.s-bol.com/YN9N7DKRkz9p/zVjoK7/932x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/YN9N7DKRkz9p/zVjoK7/932x1200.jpg" alt="De Vlucht van de Atlantis">
-            </a>
-
-
-            <a href="https://media.s-bol.com/NXRZDN57wD2K/5QjN2BR/957x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/NXRZDN57wD2K/5QjN2BR/957x1200.jpg" alt="De Blauwe Venus">
-            </a>
-
-            <a href="https://media.s-bol.com/gJJVGyAN6k5r/550x669.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/gJJVGyAN6k5r/550x669.jpg" alt="De Dertiende Letter">
-            </a>
-
-
-            <a href="https://media.s-bol.com/7r62YpwVO9zB/XDvxqGo/944x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/7r62YpwVO9zB/XDvxqGo/944x1200.jpg" alt="Het Portugese Goudschip">
-            </a>
-
-            <a href="https://media.s-bol.com/KrXnlmEKXX8J/931x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/KrXnlmEKXX8J/931x1200.jpg" alt="De Ogen van de Roerganger">
-            </a>
-
-
-            <a href="https://media.s-bol.com/RqgDkMqP3yW0/EREOvgK/942x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/RqgDkMqP3yW0/EREOvgK/942x1200.jpg" alt="Succes verzekerd">
-            </a>
-
-            <a href="https://media.s-bol.com/7388YpD1l2yG/878x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/7388YpD1l2yG/878x1200.jpg" alt="Eigen risico">
-            </a>
-
-
-            <a href="https://media.s-bol.com/mVOlER09oWrR/E53nqY/936x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/mVOlER09oWrR/E53nqY/936x1200.jpg" alt="Kidnap">
-            </a>
-
-             <a href="https://media.s-bol.com/4KQ6X3rD5XXk/ZVVjp5/938x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/4KQ6X3rD5XXk/ZVVjp5/938x1200.jpg" alt="Het zwaard van Iskander">
-            </a>
-
-
-            <a href="https://media.s-bol.com/4o8PV6R4yn6J/NkgDpzz/939x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/4o8PV6R4yn6J/NkgDpzz/939x1200.jpg" alt="De Witte Godin">
-            </a>
-
-
-            <a href="https://media.s-bol.com/8vq0W8zvOAz5/lYlQp1r/943x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/8vq0W8zvOAz5/lYlQp1r/943x1200.jpg" alt="Het Zilveren Vuur">
-            </a>
-
-            <a href="https://media.s-bol.com/JgZrzDjBplRv/L9O6YOj/939x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/JgZrzDjBplRv/L9O6YOj/939x1200.jpg" alt="Onderwereld">
-            </a>
-
-
-            <a href="https://media.s-bol.com/gjy0K9EEwOnk/DkLWoEB/943x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/gjy0K9EEwOnk/DkLWoEB/943x1200.jpg" alt="Geheim">
-            </a>
-
-            <a href="https://media.s-bol.com/4VxDokVZZyY0/k80lmMK/941x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/4VxDokVZZyY0/k80lmMK/941x1200.jpg" alt="Operatie Roofmoord">
-            </a>
-
-
-            <a href="https://media.s-bol.com/9LkOrgDRLxB3/NGWQK8/941x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/9LkOrgDRLxB3/NGWQK8/941x1200.jpg" alt="Gratis Goud">
-            </a>
-
-            <a href="https://media.s-bol.com/0kgPODyj9KDv/v2MKrAr/942x1200.jpg" class="thumbnail">
-                <img src="https://media.s-bol.com/0kgPODyj9KDv/v2MKrAr/942x1200.jpg" alt="Klifhanger">
-            </a>
-
-
-
-
-
-
-
-
 
 
 
@@ -332,6 +152,19 @@
 <div alt="November trades" align="center">
 
 
+
+            <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
+                <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 12 November 2025.">
+            </a>
+
+
+
+
+<br>
+
+
+
+
             <a href="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" alt="Ghost Pepper vol 1. 19/11/2025">
             </a>
@@ -342,7 +175,7 @@
 
 
 
-
+<br>
 
 
 
@@ -379,9 +212,6 @@
 
 
 
-
-
-
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Ongoing series</b></p>
 
 
@@ -399,6 +229,11 @@
         <a href="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" class="thumbnail">
             <img src="https://sm.ign.com/t/ign_nl/news/b/berserk-ma/berserk-manga-to-continue-after-creators-death_zaru.1200.jpg" alt="Berserk">
         </a>
+
+        <a href="https://w9.jojolandsmanga.com/wp-content/uploads/2025/01/The-JOJOLands-Manga-Volume-1.webp" class="thumbnail">
+            <img src="https://w9.jojolandsmanga.com/wp-content/uploads/2025/01/The-JOJOLands-Manga-Volume-1.webp" alt="Jojolands">
+        </a>
+
 
 
 

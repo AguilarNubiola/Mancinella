@@ -26,8 +26,6 @@
    <a href="http://localhost/arakko/issues.php">Issues</a>
    <a href="http://localhost/arakko/trades.php">Trades</a>
    <a href="http://localhost/arakko/finished.php">Finished</a>
-   <a href="http://localhost/arakko/targets.php">Targets</a>
-
 </div>
 
 
@@ -2744,6 +2742,26 @@
 
                     <a href="https://m.media-amazon.com/images/I/81puRUknyiL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81puRUknyiL._SL1500_.jpg" alt="Wasp by Al Ewing">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91tBdn3-cDL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91tBdn3-cDL._SL1500_.jpg" alt="Young Avengers Vol. 1: Style > Substance">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91nV4qkeg3L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91nV4qkeg3L._SL1500_.jpg" alt="Young Avengers Vol. 2: Alternative Culture: Alternative Cultures">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81puRUknyiL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81puRUknyiL._SL1500_.jpg" alt="Young Avengers Vol. 2: Alternative Culture: Alternative Cultures">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81nv7ZhCXgL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81nv7ZhCXgL._SL1500_.jpg" alt="Superman - Action Comics Vol. 2: Bulletproof">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/A1BJoIuJsAL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/A1BJoIuJsAL._SL1500_.jpg" alt="Superman: Action Comics Vol. 3: At The End of Days">
                     </a>
 
 
