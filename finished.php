@@ -2765,9 +2765,21 @@
                     </a>
 
 
+                    <a href="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" alt="Ultimates: Omniversal Vol. 1: Start With The Impossible">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91qYr0PAU7L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91qYr0PAU7L._SL1500_.jpg" alt="Ultimates: Omniversal Vol. 2: Civil War II ">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91nF076OWWL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91nF076OWWL._SL1500_.jpg" alt="Ultimates 2 Vol. 1: Troubleshooters">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" alt="Ultimates 2 Vol. 2: Eternity War ">
+                    </a>
 
 
 

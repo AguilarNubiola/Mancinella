@@ -39,24 +39,20 @@
 
 <div alt="October trades" align="center">
 
-
-
-
-        <a href="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" alt="Ultimates: Omniversal Vol. 1: Start With The Impossible">
+        <a href="https://m.media-amazon.com/images/I/81YUKq9SQ0L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81YUKq9SQ0L._SL1500_.jpg" alt="Red Sonja Vol. 2: The Masters Return">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91qYr0PAU7L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91qYr0PAU7L._SL1500_.jpg" alt="Ultimates: Omniversal Vol. 2: Civil War II ">
+        <a href="https://m.media-amazon.com/images/I/71j6HMW3YiL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/71j6HMW3YiL._SL1500_.jpg" alt="RED SONJA Vol. 3: The Master Falls">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91nF076OWWL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91nF076OWWL._SL1500_.jpg" alt="Ultimates 2 Vol. 1: Troubleshooters">
+        <a href="https://m.media-amazon.com/images/I/91diczTItPL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91diczTItPL._SL1500_.jpg" alt="Defenders by Al Ewing">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" alt="Ultimates 2 Vol. 2: Eternity War ">
-        </a>
+
+
 
         <a href="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" alt="All-New Wolverine: The Four Sisters: 1  ">
