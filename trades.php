@@ -39,51 +39,15 @@
 
 <div alt="October trades" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/81YUKq9SQ0L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81YUKq9SQ0L._SL1500_.jpg" alt="Red Sonja Vol. 2: The Masters Return">
+
+
+        <a href="https://m.media-amazon.com/images/I/71IOIrhIeLL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/71IOIrhIeLL._SL1500_.jpg" alt="The Filth.">
         </a>
-
-        <a href="https://m.media-amazon.com/images/I/71j6HMW3YiL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/71j6HMW3YiL._SL1500_.jpg" alt="RED SONJA Vol. 3: The Master Falls">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91diczTItPL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91diczTItPL._SL1500_.jpg" alt="Defenders by Al Ewing">
-        </a>
-
-
-
-
-        <a href="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" alt="All-New Wolverine: The Four Sisters: 1  ">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" alt="All-New Wolverine Vol. 2: Civil War II">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" alt="All-New Wolverine Vol. 3: Enemy of the State II">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" alt="All-New Wolverine Vol. 4: Immune ">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" alt="All-New Wolverine Vol. 5: Orphans of X ">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" alt="All-New Wolverine Vol. 6: Old Woman Laura">
-        </a>
-
-
 
 
 
 <br>
-
 
 
 
@@ -152,6 +116,36 @@
             <a href="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" class="thumbnail">
                 <img src="https://cdn.imagecomics.com/assets/i/releases/1081073/tin-can-society-9-of-9_12ae5ebcd6.jpg" alt="Tin Can Society. 12 November 2025.">
             </a>
+
+
+<br>
+
+
+
+            <a href="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" alt="All-New Wolverine: The Four Sisters: 1  ">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" alt="All-New Wolverine Vol. 2: Civil War II">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" alt="All-New Wolverine Vol. 3: Enemy of the State II">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" alt="All-New Wolverine Vol. 4: Immune ">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" alt="All-New Wolverine Vol. 5: Orphans of X ">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" alt="All-New Wolverine Vol. 6: Old Woman Laura">
+            </a>
+
 
 
 
