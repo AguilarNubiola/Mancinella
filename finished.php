@@ -2794,6 +2794,35 @@
                         <img src="https://m.media-amazon.com/images/I/91diczTItPL._SL1500_.jpg" alt="Defenders by Al Ewing">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/61K2VreHf5L.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61K2VreHf5L.jpg" alt="Red Sonja Vol. 2: The Masters Return">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71j6HMW3YiL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71j6HMW3YiL._SL1500_.jpg" alt="RED SONJA Vol. 3: The Master Falls">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81-V95FakpL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81-V95FakpL._SL1500_.jpg" alt="Skybourne">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/814c9YzbbSL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/814c9YzbbSL._SL1500_.jpg" alt="50 GIRLS 50 01 SHAKEDOWN">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71qeQ3tg6qS._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71qeQ3tg6qS._SL1500_.jpg" alt="Fight Girls">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81dXFm3srKL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81dXFm3srKL._SL1500_.jpg" alt="Superman Vol. 3: The Dark Path">
+                    </a>
+
+
+
+
+                    
+
 
 
 
