@@ -1119,13 +1119,7 @@
                     <img src="https://media.s-bol.com/k5wX3kByp1Y6/904x1200.jpg" alt="Metabarons: Castaka #2">
                 </a>
 
-                <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
-                    <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion. 13th of November.">
-                    <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
-                    <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_A_COVER_DAVIDNAKAYAMA-600x910.jpg">
-                    <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_c_cover_ace_contunuado/">
-                    <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_e_cover_lesley_li/">
-                </a>
+
 
                 <a href="https://m.media-amazon.com/images/I/91cp-u-n97L._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/91cp-u-n97L._SL1500_.jpg" alt="Big Tiddie Goth Girlfriends on the Moon #3">
@@ -1155,8 +1149,8 @@
                     <img src="https://i0.wp.com/getcomics.org/share/uploads/2025/01/Dark-Empty-Void-3-2025.jpg?fit=400%2C611&ssl=1" alt="Dark Empty Void #3">
                 </a>
 
-                <a href="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" class="thumbnail">
-                    <img src="https://www.comicreleases.com/wp-content/uploads/2025/01/IHeartSkullCrusher_009_Cover_B_PREVIEWS.jpg" alt="I Heart Skull-Crusher! #9. 14/05/2025.">
+                <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5805532.jpg?1754761524" class="thumbnail">
+                    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-5805532.jpg?1754761524" alt="I Heart Skull-Crusher! #9. 14/05/2025.">
                 </a>
 
                 <a href="https://m.media-amazon.com/images/I/9160Fff-qgL._SL1500_.jpg" class="thumbnail">
@@ -1170,6 +1164,15 @@
                 <a href="https://m.media-amazon.com/images/I/61Z8A-ogeNL._SL1076_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/61Z8A-ogeNL._SL1076_.jpg" alt="Free Planet #2">
                 </a>
+
+                <a href="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" class="thumbnail">
+                    <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_1_h_cover_tula_lotay_nude/" alt="Heat Seeker: Combustion. 13th of November.">
+                    <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_B_COVER_TULA_LOTAY-600x910.jpg">
+                    <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2024/08/GH_HS_COMBUSTION_1_A_COVER_DAVIDNAKAYAMA-600x910.jpg">
+                    <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_c_cover_ace_contunuado/">
+                    <img src="https://www.flickeringmyth.com/dahlia-racers-is-back-in-first-look-at-heat-seeker-combustion-a-gun-honey-series/gh_hs_combustion_1_e_cover_lesley_li/">
+                </a>
+
 
 
 
@@ -2816,6 +2819,10 @@
 
                     <a href="https://m.media-amazon.com/images/I/81dXFm3srKL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81dXFm3srKL._SL1500_.jpg" alt="Superman Vol. 3: The Dark Path">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91Uninca+lL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91Uninca+lL._SL1500_.jpg" alt="Power Rangers Prime vol 2">
                     </a>
 
 
