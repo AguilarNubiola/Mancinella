@@ -2825,9 +2825,22 @@
                         <img src="https://m.media-amazon.com/images/I/91Uninca+lL._SL1500_.jpg" alt="Power Rangers Prime vol 2">
                     </a>
 
+                    
+                    <a href="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" alt="Imperial. 29 Oktober 2025.">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81fD1nrWhDL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81fD1nrWhDL._SL1500_.jpg" alt="Emma Frost: The White Queen - All Hail the Queen ">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81GF2vt3gVL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81GF2vt3gVL._SL1500_.jpg" alt="Superman Vol. 4: Rise of the Superwoman">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91PeAW4wBIL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91PeAW4wBIL._SL1500_.jpg" alt="Superman Vol. 5: Love and Mercy">
+                    </a>
                     
 
 

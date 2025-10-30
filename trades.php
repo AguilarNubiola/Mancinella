@@ -47,16 +47,7 @@
 
 
 
-<br>
 
-
-
-
-
-        <a href="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" alt="Imperial. 29 Oktober 2025.">
-        </a>
-        
 
 
 
@@ -157,6 +148,10 @@
 
             <a href="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" alt="Ghost Pepper vol 1. 19/11/2025">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81euXWR5Y+L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81euXWR5Y+L._SL1500_.jpg" alt="Power Rangers Prime vol 3. 19/11/2025">
             </a>
 
 
@@ -365,6 +360,11 @@
 		<a href="https://strangerworlds.com/wp-content/uploads/2015/08/photo-jul-12-11-03-06-am-e1440480880382.jpg" class="thumbnail">
 			<img src="https://strangerworlds.com/wp-content/uploads/2015/08/photo-jul-12-11-03-06-am-e1440480880382.jpg" alt="Adam Warren">
 			<img src="https://media.s-bol.com/KVOYJxKEl9lR/AD1v8Zp/866x1200.jpg" alt="Empowered">
+		</a>
+
+        <a href="https://m.media-amazon.com/images/I/71YnnD3BZAL._SL1400_.jpg" class="thumbnail">
+			<img src="https://m.media-amazon.com/images/I/71YnnD3BZAL._SL1400_.jpg" alt="Al Ewing">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/6.13.19AlEwingByLuigiNovi7.jpg" alt="Empowered">
 		</a>
 
 
