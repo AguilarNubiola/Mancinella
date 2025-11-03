@@ -2671,8 +2671,8 @@
                         <img src="https://m.media-amazon.com/images/I/61xoO2FfivL.jpg" alt="Morea volume 3">
                     </a>
 
-                    <a href="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" class="thumbnail">
-                        <img src="https://m.media-amazon.com/images/I/91wzsbSF6EL._SL1500_.jpg" alt="Birds of Prey vol 4. ">
+                    <a href="https://m.media-amazon.com/images/I/91PmjlVj-1L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91PmjlVj-1L._SL1500_.jpg" alt="Birds of Prey vol 4. ">
                     </a>
 
                     <a href="https://cdn.imagecomics.com/assets/i/releases/1078086/kaya-30_f6f888d969.jpg" class="thumbnail">
@@ -2767,7 +2767,6 @@
                         <img src="https://m.media-amazon.com/images/I/A1BJoIuJsAL._SL1500_.jpg" alt="Superman: Action Comics Vol. 3: At The End of Days">
                     </a>
 
-
                     <a href="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/91W51b+NzkL._SL1500_.jpg" alt="Ultimates: Omniversal Vol. 1: Start With The Impossible">
                     </a>
@@ -2783,7 +2782,6 @@
                     <a href="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/91NxgNl2W5L._SL1500_.jpg" alt="Ultimates 2 Vol. 2: Eternity War ">
                     </a>
-
 
                     <a href="https://m.media-amazon.com/images/I/81YUKq9SQ0L._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81YUKq9SQ0L._SL1500_.jpg" alt="Red Sonja Vol. 2: The Masters Return">
@@ -2824,7 +2822,6 @@
                     <a href="https://m.media-amazon.com/images/I/91Uninca+lL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/91Uninca+lL._SL1500_.jpg" alt="Power Rangers Prime vol 2">
                     </a>
-
                     
                     <a href="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81mtcMZqyHL._SL1500_.jpg" alt="Imperial. 29 Oktober 2025.">
@@ -2842,19 +2839,45 @@
                         <img src="https://m.media-amazon.com/images/I/91PeAW4wBIL._SL1500_.jpg" alt="Superman Vol. 5: Love and Mercy">
                     </a>
                     
+                    <a href="https://m.media-amazon.com/images/I/81Ia2F4dvgL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Ia2F4dvgL._SL1500_.jpg" alt="Green Lantern: Rebirth">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/71IOIrhIeLL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71IOIrhIeLL._SL1500_.jpg" alt="The Filth.">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/713DbTZFp-L._SL1200_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/713DbTZFp-L._SL1200_.jpg" alt="Joe the Barbarian">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/71RrKE+9IZL._SL1181_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71RrKE+9IZL._SL1181_.jpg" alt="Moon Knight vol 4">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/815skzeTXML._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/815skzeTXML._SL1500_.jpg" alt="Moon Knight vol 5">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81QyCg1mIUL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81QyCg1mIUL._SL1500_.jpg" alt="Secret Six (2006) Vol. 1: Villains United">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" alt="All-New Wolverine: The Four Sisters: 1  ">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91C1R6qDScL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91C1R6qDScL._SL1500_.jpg" alt="Harley Quinn's Little Black Book">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81XlFQwxCnL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81XlFQwxCnL._SL1500_.jpg" alt="Naomi season one">
+                    </a>
 
-
-
-
-
+                    <a href="https://m.media-amazon.com/images/I/81ch5fVsc2L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81ch5fVsc2L._SL1500_.jpg" alt="Birds of Prey by Gail Simone: Dead of Winter">
+                    </a>
  
 
 
@@ -2971,7 +2994,7 @@
             </a>
 
             <a href="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" alt="Secret Six">
+                <img src="https://m.media-amazon.com/images/I/A1uyuwyGQlL._AC_UF894,1000_QL80_.jpg" alt="Gail Simone's final Secret Six">
             </a>
 
             <a href="https://cdn.webshopapp.com/shops/244637/files/438269750/800x1024x1/invincible-red-sonja-hc-vol-01.jpg" class="thumbnail">
