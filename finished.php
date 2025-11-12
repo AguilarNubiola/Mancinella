@@ -2864,7 +2864,7 @@
                     </a>
 
                     <a href="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" class="thumbnail">
-                        <img src="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" alt="All-New Wolverine: The Four Sisters: 1  ">
+                        <img src="https://m.media-amazon.com/images/I/812YS9VRmnL._SL1500_.jpg" alt="All-New Wolverine: The Four Sisters">
                     </a>
 
                     <a href="https://m.media-amazon.com/images/I/91C1R6qDScL._SL1500_.jpg" class="thumbnail">
@@ -2875,45 +2875,101 @@
                         <img src="https://m.media-amazon.com/images/I/81XlFQwxCnL._SL1500_.jpg" alt="Naomi season one">
                     </a>
 
-                    <a href="https://m.media-amazon.com/images/I/81ch5fVsc2L._SL1500_.jpg" class="thumbnail">
-                        <img src="https://m.media-amazon.com/images/I/81ch5fVsc2L._SL1500_.jpg" alt="Birds of Prey by Gail Simone: Dead of Winter">
+                    <a href="https://static.wikia.nocookie.net/marvel_dc/images/6/6e/Birds_of_Prey_Dead_of_Winter.jpg/revision/latest/scale-to-width/360?cb=20150525000152" class="thumbnail">
+                        <img src="https://static.wikia.nocookie.net/marvel_dc/images/6/6e/Birds_of_Prey_Dead_of_Winter.jpg/revision/latest/scale-to-width/360?cb=20150525000152" alt="Birds of Prey by Gail Simone: Dead of Winter">
+                    </a>
+
+                    <a href="https://static.wikia.nocookie.net/marvel_dc/images/f/f1/Birds_of_Prey_Blood_and_Circuits.jpg/revision/latest/scale-to-width/360?cb=20150524234820" class="thumbnail">
+                        <img src="https://static.wikia.nocookie.net/marvel_dc/images/f/f1/Birds_of_Prey_Blood_and_Circuits.jpg/revision/latest/scale-to-width/360?cb=20150524234820" alt="Birds of Prey by Gail Simone: Blood and Circuits">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91NbPk9C97L._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91NbPk9C97L._UF1000,1000_QL80_.jpg" alt="Sabretooth by Larry Hama">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71oCzVy+e6L._SL1000_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71oCzVy+e6L._SL1000_.jpg" alt="Terra">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81ZK0NvayCL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81ZK0NvayCL._SL1500_.jpg" alt="Green Lantern Corps Recharge">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91iXOBj6QbL._SL1500_.jpg" alt="All-New Wolverine Vol. 2: Civil War II">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91gn0LbqdrL._SL1500_.jpg" alt="All-New Wolverine Vol. 6: Old Woman Laura">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91Etvawc-pL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91Etvawc-pL._SL1500_.jpg" alt="Far Sector">
                     </a>
  
+                    <a href="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91eNvJsxjKL._SL1500_.jpg" alt="All-New Wolverine Vol. 3: Enemy of the State II">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81cx7qroC2L._SL1500_.jpg" alt="All-New Wolverine Vol. 4: Immune ">
+                    </a> 
 
+                    <a href="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91MKO6kgs-L._SL1500_.jpg" alt="All-New Wolverine Vol. 5: Orphans of X ">
+                    </a>
 
-
-
-
-
-
-
+                    <a href="https://m.media-amazon.com/images/I/A1AzIRa6ZSL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/A1AzIRa6ZSL._UF1000,1000_QL80_.jpg" alt="Batman Gothic">
+                    </a>
     
-
+                    <a href="https://m.media-amazon.com/images/I/81UhqKFW0YL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81UhqKFW0YL._UF1000,1000_QL80_.jpg" alt="Casanova Acedia vol 1">
+                    </a>
     
-
-
-
-
- 
-
-
-    
-
-
-
-    
-
-    
-
+                    <a href="https://m.media-amazon.com/images/I/81lIZznEm8L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81lIZznEm8L._SL1500_.jpg" alt="Casanova: Acedia Volume 2">
+                    </a>
      
+                    <a href="https://m.media-amazon.com/images/I/8138q2A5vKL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/8138q2A5vKL._SL1500_.jpg" alt="Blood and Thunder vol 1">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81RI9lIBA6L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81RI9lIBA6L._SL1500_.jpg" alt="Alan Scott: The Green Lantern">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/71p8mDYyBSL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71p8mDYyBSL._SL1500_.jpg" alt="Batwoman: Elegy">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81Tx-nR-o7L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Tx-nR-o7L._SL1500_.jpg" alt="Paper Girls vol 1">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91vXs-fzZBL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91vXs-fzZBL._SL1500_.jpg" alt="Paper Girls vol 2">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91qKfDaDXhL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91qKfDaDXhL._SL1500_.jpg" alt="Paper Girls vol 3">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91u8H4S1GoL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91u8H4S1GoL._SL1500_.jpg" alt="Paper Girls vol 4">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81cUKhwRI+L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81cUKhwRI+L._SL1500_.jpg" alt="Paper Girls vol 5">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81O9doHiFvL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81O9doHiFvL._SL1500_.jpg" alt="Paper Girls vol 6">
+                    </a>                         
+
+                    <a href="https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg" alt="Batman: Dark Patterns (1) 12/11/2025">
+                    </a>
 
 
 
@@ -3137,8 +3193,8 @@
                     <img src="https://m.media-amazon.com/images/I/81TWmnIfwsL._SL1500_.jpg" alt="Napalm Lullaby volume 1">
             </a>
 
-            <a href="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" class="thumbnail">
-                    <img src="https://professorx.nl/wp-content/uploads/2024/03/9781846533600.jpg" alt="Immortal Hulk complete">
+            <a href="https://m.media-amazon.com/images/I/81DxIHAR+ZL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81DxIHAR+ZL._SL1500_.jpg" alt="Immortal Hulk complete">
                 </a>
 
             <a href="https://m.media-amazon.com/images/I/511QZUPfXAL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
@@ -3540,11 +3596,9 @@
                 <img src="https://m.media-amazon.com/images/I/81x6H5hzxOL._UF1000,1000_QL80_.jpg" alt="Ultimate Black Panther vol 1">
             </a>
 
-
-
-
-
-
+            <a href="https://m.media-amazon.com/images/I/81Tx-nR-o7L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81Tx-nR-o7L._SL1500_.jpg" alt="Paper Girls vol 1">
+            </a>           
 
 </div>
 
