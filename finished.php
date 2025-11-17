@@ -2968,13 +2968,72 @@
                     </a>                         
 
                     <a href="https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg" class="thumbnail">
-                        <img src="https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg" alt="Batman: Dark Patterns (1) 12/11/2025">
+                        <img src="https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg" alt="Batman: Dark Patterns">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91JHYOUk0KL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91JHYOUk0KL._SL1500_.jpg" alt="Secret Six: Unhinged">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/61L1Vhj5ZPL._SL1000_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61L1Vhj5ZPL._SL1000_.jpg" alt="Secret Six: Depths">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/61yxEWSKoOL._SL1000_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61yxEWSKoOL._SL1000_.jpg" alt="Secret Six: Dans Macabre">
+                    </a>                    
 
+                    <a href="https://m.media-amazon.com/images/I/91p-0eunE8L._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91p-0eunE8L._UF1000,1000_QL80_.jpg" alt="JUSTICE SOCIETY OF AMERICA 01 THE NEXT AGE">
+                    </a> 
 
+                    <a href="https://m.media-amazon.com/images/I/71BR-FZVImL._SL1000_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71BR-FZVImL._SL1000_.jpg" alt="JUSTICE LEAGUE OF AMERICA LIGHTNING SAGA">
+                    </a> 
+
+                    <a href="https://m.media-amazon.com/images/I/81EVtPkChLL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81EVtPkChLL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 1">
+                    </a> 
+
+                    <a href="https://m.media-amazon.com/images/I/71DqK2NwAwL._SL1200_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71DqK2NwAwL._SL1200_.jpg" alt="Green Lantern: Blackstars">
+                    </a> 
+
+                    <a href="https://m.media-amazon.com/images/I/91H9lAsYZGL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91H9lAsYZGL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 2">
+                    </a>                    
+
+                    <a href="https://m.media-amazon.com/images/I/91034WEiIjL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91034WEiIjL._SL1500_.jpg" alt="Spider-Man and Black Cat: The Evil That Men Do">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/61oc7RBTiIL._SL1000_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61oc7RBTiIL._SL1000_.jpg" alt="Secret Six: Cat's in the Cradle">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71t4TLfFO5L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71t4TLfFO5L._SL1500_.jpg" alt="Secret Six: The Reptile Brain">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81HHJmZPOXL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81HHJmZPOXL._SL1500_.jpg" alt="Secret Six: The Darkest House">
+                    </a>
+                    
+                    <a href="https://m.media-amazon.com/images/I/810EwnivigL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/810EwnivigL._SL1500_.jpg" alt="Amazing Spider-Man Vol. 2: Through The Gates Of Hell">
+                    </a>                    
+
+                    <a href="https://m.media-amazon.com/images/I/91sH7sXv9PL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91sH7sXv9PL._UF1000,1000_QL80_.jpg" alt="Justice Society of America Vol. 2: Thy Kingdom Come part one">
+                    </a>                          
+
+                    <a href="https://m.media-amazon.com/images/I/91sH7sXv9PL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91sH7sXv9PL._UF1000,1000_QL80_.jpg" alt="Justice Society of America Vol. 3: Thy Kingdom Come part two">
+                    </a>    
+
+                    <a href="https://m.media-amazon.com/images/I/81caQOooLHL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81caQOooLHL._AC_UF894,1000_QL80_.jpg" alt="Justice Society of America Vol. 4: Thy Kingdom Come part three">
+                    </a>    
 
 </div alt="2025 trades finished end">
 

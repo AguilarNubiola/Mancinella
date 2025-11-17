@@ -52,26 +52,10 @@
 
 <div alt="Current target" align="center">
 
-
-            <a href="https://m.media-amazon.com/images/I/81EVtPkChLL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81EVtPkChLL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 1">
+            <a href="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" alt="La Survivante">
             </a>
 
-            <a href="https://m.media-amazon.com/images/I/91H9lAsYZGL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91H9lAsYZGL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 2">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 3">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 4">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 5">
-            </a>
 
 </div>
 
@@ -152,13 +136,15 @@
 
 
 
-<br>
 
 
 
-            <a href="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" alt="Action Philosophers">
-            </a>
+
+
+
+
+
+
 
 <br>
 
@@ -168,6 +154,25 @@
 
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             <a href="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" class="thumbnail">
                 <img src="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" alt="Birds of Prey by Gail Simone: Of Like Minds">
@@ -191,7 +196,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             <a href="https://m.media-amazon.com/images/I/81oe-l7wMwL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81oe-l7wMwL._SL1500_.jpg" alt="Birds of Prey by Gail Simone: End Run">
@@ -201,19 +248,28 @@
                 <img src="https://m.media-amazon.com/images/I/91WHB412dvL._SL1500_.jpg" alt="Birds of Prey by Gail Simone: The Death of Oracle">
             </a>
 
-            <a href="https://m.media-amazon.com/images/I/81SRqy7yIgL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81SRqy7yIgL._SL1500_.jpg" alt="Secret Six vol 2">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/81KN55P41gL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81KN55P41gL._SL1500_.jpg" alt="Secret Six vol 3">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/81cprrI399L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81cprrI399L._SL1500_.jpg" alt="Secret Six vol 4">
-            </a>
 
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -292,6 +348,41 @@
             <a href="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 4">
             </a>
+
+
+<br>
+
+
+
+
+
+
+            <a href="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" alt="Harley Quinn and Power Girl">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 3">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 4">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 5">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" alt="Action Philosophers">
+            </a>    
+
+
+
+
+
+
+
 
 
 <br>
@@ -433,15 +524,13 @@
 
 <div alt="December trades" align="center">
 
-  
 
-            <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" class="thumbnail">
-                <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2878074.jpg?1740288320" alt="Fine Print vol 3. 16/12/2025">
-            </a>
 
             <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
             </a>
+
+        
 
 <br>
 
@@ -459,6 +548,10 @@
                 <img src="https://m.media-amazon.com/images/I/81OMVYGYJwL._SL1500_.jpg" alt="Tin Can Society. 17 December 2025.">
             </a>
 
+            <a href="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" alt="Absolute Superman vol 2. 17 December 2025.">
+            </a>            
+
 <br>
 
 
@@ -466,6 +559,38 @@
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -491,12 +616,44 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
 
 <div alt="February trades" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/81NBqwiiS+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81NBqwiiS+L._SL1500_.jpg" alt="Ultimate X-Men vol 4">
+            <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9805875.jpg?1763116992" class="thumbnail">
+                <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9805875.jpg?1763116992" alt="Ultimate X-Men vol 4">
             </a>
 
 
