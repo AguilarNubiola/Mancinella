@@ -3035,6 +3035,10 @@
                         <img src="https://m.media-amazon.com/images/I/81caQOooLHL._AC_UF894,1000_QL80_.jpg" alt="Justice Society of America Vol. 4: Thy Kingdom Come part three">
                     </a>    
 
+                    <a href="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" alt="La Survivante">
+                    </a>                    
+
 </div alt="2025 trades finished end">
 
 

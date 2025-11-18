@@ -52,9 +52,13 @@
 
 <div alt="Current target" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" alt="La Survivante">
+            <a href="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" alt="Harley Quinn and Power Girl">
             </a>
+
+            <a href="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" alt="Action Philosophers">
+            </a>    
 
 
 </div>
@@ -357,9 +361,7 @@
 
 
 
-            <a href="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" alt="Harley Quinn and Power Girl">
-            </a>
+
 
             <a href="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 3">
@@ -373,9 +375,7 @@
                 <img src="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 5">
             </a>
 
-            <a href="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" alt="Action Philosophers">
-            </a>    
+
 
 
 
