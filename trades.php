@@ -52,8 +52,16 @@
 
 <div alt="Current target" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" alt="Harley Quinn and Power Girl">
+            <a href="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" class="thumbnail">
+                <img src="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" alt="Birds of Prey by Gail Simone: Between Dark & Dawn">
+            </a>
+
+            <a href="https://static.wikia.nocookie.net/marvel_dc/images/2/21/Birds_of_Prey_The_Battle_Within.jpg/revision/latest?cb=20150524230733" class="thumbnail">
+                <img src="https://static.wikia.nocookie.net/marvel_dc/images/2/21/Birds_of_Prey_The_Battle_Within.jpg/revision/latest?cb=20150524230733" alt="Birds of Prey by Gail Simone: The Battle Within">
+            </a>
+
+            <a href="https://static.wikia.nocookie.net/marvel_dc/images/3/3c/Birds_of_Prey_0006.jpg/revision/latest?cb=20170322214726" class="thumbnail">
+                <img src="https://static.wikia.nocookie.net/marvel_dc/images/3/3c/Birds_of_Prey_0006.jpg/revision/latest?cb=20170322214726" alt="Birds of Prey by Gail Simone: Perfect Pitch">
             </a>
 
             <a href="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" class="thumbnail">
@@ -110,24 +118,6 @@
 
 
 
-            <a href="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" alt="Ghost Pepper vol 1. 19/11/2025">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81euXWR5Y+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81euXWR5Y+L._SL1500_.jpg" alt="Power Rangers Prime vol 3. 19/11/2025">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/71n9TwWe5SL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71n9TwWe5SL._SL1500_.jpg" alt="Lazarus Fallen (1) 19/11/2025">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/812i5b5N+9L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/812i5b5N+9L._SL1500_.jpg" alt="Ultimates vol 3 (1) 19/11/2025">
-            </a>
-
-<br>
-
 
 
             <a href="https://m.media-amazon.com/images/I/81cGbDz2xaL._SL1500_.jpg" class="thumbnail">
@@ -178,13 +168,7 @@
 
 
 
-            <a href="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" alt="Birds of Prey by Gail Simone: Of Like Minds">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/81m6m+FPWbL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81m6m+FPWbL._AC_UF1000,1000_QL80_.jpg" alt="Birds of Prey by Gail Simone: Sensei & Student">
-            </a>
 
             <a href="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" class="thumbnail">
                 <img src="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" alt="Birds of Prey by Gail Simone: Between Dark & Dawn">
@@ -287,6 +271,70 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
+
+<div alt="December trades" align="center">
+
+
+
+            <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
+            </a>
+
+        
+
+<br>
+
+            <a href="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" alt="Ultimate Wolverine vol 2. 10 December 2025">
+            </a>
+
+<br> 
+
+            <a href="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" alt="Wonder Woman vol 4. 17 December 2025">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81OMVYGYJwL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81OMVYGYJwL._SL1500_.jpg" alt="Tin Can Society. 17 December 2025.">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" alt="Absolute Superman vol 2. 17 December 2025.">
+            </a>            
+
+<br>
+
+
+
+
+
+</div>
 
 
 
@@ -519,46 +567,6 @@
 
 
 
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
-
-<div alt="December trades" align="center">
-
-
-
-            <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
-            </a>
-
-        
-
-<br>
-
-            <a href="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" alt="Ultimate Wolverine vol 2. 10 December 2025">
-            </a>
-
-<br> 
-
-            <a href="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" alt="Wonder Woman vol 4. 17 December 2025">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81OMVYGYJwL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81OMVYGYJwL._SL1500_.jpg" alt="Tin Can Society. 17 December 2025.">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" alt="Absolute Superman vol 2. 17 December 2025.">
-            </a>            
-
-<br>
-
-
-
-
-
-</div>
 
 
 

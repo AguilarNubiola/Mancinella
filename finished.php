@@ -3037,7 +3037,44 @@
 
                     <a href="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/51DA8SG78SL._AC_UF1000,1000_QL80_.jpg" alt="La Survivante">
-                    </a>                    
+                    </a>     
+                    
+                    <a href="https://m.media-amazon.com/images/I/81euXWR5Y+L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81euXWR5Y+L._SL1500_.jpg" alt="Power Rangers Prime vol 3. 19/11/2025">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71n9TwWe5SL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71n9TwWe5SL._SL1500_.jpg" alt="Lazarus Fallen (1) 19/11/2025">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/812i5b5N+9L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/812i5b5N+9L._SL1500_.jpg" alt="Ultimates vol 3 (1) 19/11/2025">
+                    </a>    
+                    
+                    <a href="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81CLZdKfXWL._SL1500_.jpg" alt="Ghost Pepper vol 1. 19/11/2025">
+                    </a>
+                    
+                    <a href="https://m.media-amazon.com/images/I/91H1-LKCCjL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91H1-LKCCjL._SL1500_.jpg" alt="New Gods vol 2">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" alt="Harley Quinn and Power Girl">
+                    </a>
+                    
+                    <a href="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" class="thumbnail">
+                        <img src="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" alt="Birds of Prey by Gail Simone: Of Like Minds">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81m6m+FPWbL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81m6m+FPWbL._AC_UF1000,1000_QL80_.jpg" alt="Birds of Prey by Gail Simone: Sensei & Student">
+                    </a>                   
+
+
+
+
+
 
 </div alt="2025 trades finished end">
 
