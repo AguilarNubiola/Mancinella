@@ -3063,14 +3063,69 @@
                         <img src="https://m.media-amazon.com/images/I/81aBET3MhcL._SL1500_.jpg" alt="Harley Quinn and Power Girl">
                     </a>
                     
-                    <a href="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" class="thumbnail">
-                        <img src="https://static.wikia.nocookie.net/marvel_dc/images/5/50/Birds_of_Prey_0002.jpg/revision/latest?cb=20130131083519" alt="Birds of Prey by Gail Simone: Of Like Minds">
+                    <a href="https://m.media-amazon.com/images/I/41YGTc9nRXL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/41YGTc9nRXL._AC_UF1000,1000_QL80_.jpg" alt="Birds of Prey by Gail Simone: Of Like Minds">
                     </a>
 
                     <a href="https://m.media-amazon.com/images/I/81m6m+FPWbL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81m6m+FPWbL._AC_UF1000,1000_QL80_.jpg" alt="Birds of Prey by Gail Simone: Sensei & Student">
                     </a>                   
 
+                    <a href="https://m.media-amazon.com/images/I/51IxuOVm7QL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51IxuOVm7QL.jpg" alt="Birds of Prey by Gail Simone: Between Dark & Dawn">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/916brKmKHIL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/916brKmKHIL._SL1500_.jpg" alt="Birds of Prey by Gail Simone: The Battle Within">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/51rnMRyI2bL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51rnMRyI2bL.jpg" alt="Birds of Prey by Gail Simone: Perfect Pitch">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81ch5fVsc2L.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81ch5fVsc2L.jpg" alt="Birds of Prey by Gail Simone">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81cGbDz2xaL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81cGbDz2xaL._SL1500_.jpg" alt="Absolute Wonder Woman vol 2">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81GJTCp6jqL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81GJTCp6jqL._SL1500_.jpg" alt="Absolute Batman vol 2">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81oe-l7wMwL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81oe-l7wMwL._SL1500_.jpg" alt="Birds of Prey by Gail Simone: End Run">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91WHB412dvL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91WHB412dvL._SL1500_.jpg" alt="Birds of Prey by Gail Simone: The Death of Oracle">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91o0uL+R90L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91o0uL+R90L._SL1500_.jpg" alt="Batman: Detective Comics Vol. 2 – Elixir TP">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/919m-rFS3pL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/919m-rFS3pL._SL1500_.jpg" alt="GREEN LANTERN 01 INTERGALACTIC LAWMAN">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91t6fMw5NmL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91t6fMw5NmL._SL1500_.jpg" alt="GREEN LANTERN HC 02 THE DAY THE STARS FELL ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/9197s0+NyJL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/9197s0+NyJL._SL1500_.jpg" alt="The Green Lantern Season Two Vol. 1">
+                    </a>   
+
+                    <a href="https://m.media-amazon.com/images/I/913vmqboVwS._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/913vmqboVwS._SL1500_.jpg" alt="The Green Lantern Season Two (2020-) Vol. 2: Ultrawar">
+                    </a>   
+
+                    <a href="https://m.media-amazon.com/images/I/91J8wpZkIyL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91J8wpZkIyL._SL1500_.jpg" alt="Dark Reign: Fantastic Four">
+                    </a>  
 
 
 

@@ -52,17 +52,7 @@
 
 <div alt="Current target" align="center">
 
-            <a href="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" alt="Birds of Prey by Gail Simone: Between Dark & Dawn">
-            </a>
-
-            <a href="https://static.wikia.nocookie.net/marvel_dc/images/2/21/Birds_of_Prey_The_Battle_Within.jpg/revision/latest?cb=20150524230733" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/marvel_dc/images/2/21/Birds_of_Prey_The_Battle_Within.jpg/revision/latest?cb=20150524230733" alt="Birds of Prey by Gail Simone: The Battle Within">
-            </a>
-
-            <a href="https://static.wikia.nocookie.net/marvel_dc/images/3/3c/Birds_of_Prey_0006.jpg/revision/latest?cb=20170322214726" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/marvel_dc/images/3/3c/Birds_of_Prey_0006.jpg/revision/latest?cb=20170322214726" alt="Birds of Prey by Gail Simone: Perfect Pitch">
-            </a>
+ 
 
             <a href="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" alt="Action Philosophers">
@@ -112,42 +102,6 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>November trades</b></p>
-
-<div alt="November trades" align="center">
-
-
-
-
-
-            <a href="https://m.media-amazon.com/images/I/81cGbDz2xaL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81cGbDz2xaL._SL1500_.jpg" alt="Absolute Wonder Woman vol 2 (2) 26/11/2025">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81GJTCp6jqL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81GJTCp6jqL._SL1500_.jpg" alt="Absolute Batman vol 2 (1) 26/11/2025">
-            </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-            <a href="https://m.media-amazon.com/images/I/81ch5fVsc2L.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81ch5fVsc2L.jpg" alt="Birds of Prey by Gail Simone">
-            </a>
-
-
-<br>
 
 
 
@@ -168,19 +122,6 @@
 
 
 
-
-
-            <a href="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/marvel_dc/images/e/ed/Birds_of_Prey_Between_Dark_%26_Dawn.jpg/revision/latest?cb=20150524224422" alt="Birds of Prey by Gail Simone: Between Dark & Dawn">
-            </a>
-
-            <a href="https://static.wikia.nocookie.net/marvel_dc/images/2/21/Birds_of_Prey_The_Battle_Within.jpg/revision/latest?cb=20150524230733" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/marvel_dc/images/2/21/Birds_of_Prey_The_Battle_Within.jpg/revision/latest?cb=20150524230733" alt="Birds of Prey by Gail Simone: The Battle Within">
-            </a>
-
-            <a href="https://static.wikia.nocookie.net/marvel_dc/images/3/3c/Birds_of_Prey_0006.jpg/revision/latest?cb=20170322214726" class="thumbnail">
-                <img src="https://static.wikia.nocookie.net/marvel_dc/images/3/3c/Birds_of_Prey_0006.jpg/revision/latest?cb=20170322214726" alt="Birds of Prey by Gail Simone: Perfect Pitch">
-            </a>
 
 
 
@@ -228,13 +169,7 @@
 
 
 
-            <a href="https://m.media-amazon.com/images/I/81oe-l7wMwL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81oe-l7wMwL._SL1500_.jpg" alt="Birds of Prey by Gail Simone: End Run">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/91WHB412dvL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91WHB412dvL._SL1500_.jpg" alt="Birds of Prey by Gail Simone: The Death of Oracle">
-            </a>
 
 
 

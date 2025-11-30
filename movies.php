@@ -363,8 +363,23 @@
 
             <a href="https://www.apple.com/tv-pr/articles/2025/06/apple-tv-debuts-trailer-for-highly-anticipated-third-season-of-foundation/images/big-image/big-image-01/061125_apple_tv_debuts_trailer_for_third_season_of_foundation_Big_Image_01_big_image_post.jpg.large.jpg" class="thumbnail">
                 <img src="https://www.apple.com/tv-pr/articles/2025/06/apple-tv-debuts-trailer-for-highly-anticipated-third-season-of-foundation/images/big-image/big-image-01/061125_apple_tv_debuts_trailer_for_third_season_of_foundation_Big_Image_01_big_image_post.jpg.large.jpg" alt="Foundation season 3">
-            </a>            
+            </a>
+            
+            <a href="https://www.awn.com/sites/default/files/styles/original/public/image/featured/hzbn_s2_firstlook6_3000-1280.jpg?itok=46ri4kHp" class="thumbnail">
+                <img src="https://www.awn.com/sites/default/files/styles/original/public/image/featured/hzbn_s2_firstlook6_3000-1280.jpg?itok=46ri4kHp" alt="Hazbin Hotel season 2">
+            </a> 
+            
+            <a href="https://parade.com/.image/w_3840,q_auto:good,c_limit/ODowMDAwMDAwMDAwOTM3NzEw/zootopia-2-sequel-movie.jpg" class="thumbnail">
+                <img src="https://parade.com/.image/w_3840,q_auto:good,c_limit/ODowMDAwMDAwMDAwOTM3NzEw/zootopia-2-sequel-movie.jpg" alt="Zootopia 2">
+            </a>    
 
+            <a href="https://www.historischnieuwsblad.nl/app/uploads/2025/11/94-films1-groot-hires.jpg" class="thumbnail">
+                <img src="https://www.historischnieuwsblad.nl/app/uploads/2025/11/94-films1-groot-hires.jpg" alt="Nuremberg">
+            </a>   
+
+            <a href="https://statcdn.fandango.com/MPX/image/NBCU_Fandango/398/727/thumb_49852a29-a2d6-11f0-9d8a-022bbbb30d69.jpg" class="thumbnail">
+                <img src="https://statcdn.fandango.com/MPX/image/NBCU_Fandango/398/727/thumb_49852a29-a2d6-11f0-9d8a-022bbbb30d69.jpg" alt="Predator: Badlands">
+            </a>   
 
 </di>
 
@@ -454,8 +469,8 @@
                 <img src="https://images.nu.nl/m/grdx86ga1mtx_wd1280/0/92/2344/1319/michael-b-jordan-speelt-twee-broers-in-nieuwe-horror-sinners.jpg" alt="Best film so far. Sinners.">
             </a>
 
-            <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" class="thumbnail">
-                <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/rick-flag-sr-leading-the-creature-commandos-in-creature-commandos-trailer.jpg" alt="Best tv show so far. Creature Commandos.">
+            <a href="https://deadline.com/wp-content/uploads/2023/07/Shrinking_Photo_010903-e1689101751102.jpg" class="thumbnail">
+                <img src="https://deadline.com/wp-content/uploads/2023/07/Shrinking_Photo_010903-e1689101751102.jpg" alt="Best tv show so far. Shrinking">
             </a>
 
 </div>
