@@ -95,9 +95,7 @@
     <img src="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" alt="No Other Choice">
 </a>
 
-<a href="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" class="thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Zootopia_2_%282025_film%29.jpg" alt="Zootopia 2. 26/11/2025.">
-</a>
+
 
 
 
@@ -380,6 +378,10 @@
             <a href="https://statcdn.fandango.com/MPX/image/NBCU_Fandango/398/727/thumb_49852a29-a2d6-11f0-9d8a-022bbbb30d69.jpg" class="thumbnail">
                 <img src="https://statcdn.fandango.com/MPX/image/NBCU_Fandango/398/727/thumb_49852a29-a2d6-11f0-9d8a-022bbbb30d69.jpg" alt="Predator: Badlands">
             </a>   
+
+            <a href="https://m.media-amazon.com/images/S/pv-target-images/1f3cf16bd6c3c8cfda41d2db681036fbe524c0c74352b7a7394d0acc0c42081f._SX1080_FMjpg_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/S/pv-target-images/1f3cf16bd6c3c8cfda41d2db681036fbe524c0c74352b7a7394d0acc0c42081f._SX1080_FMjpg_.jpg" alt="Warrior season 2">
+            </a> 
 
 </di>
 

@@ -52,12 +52,18 @@
 
 <div alt="Current target" align="center">
 
- 
+             <a href="https://m.media-amazon.com/images/I/91-9xbvkrzL.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91-9xbvkrzL.jpg" alt="JLA">
+            </a>
 
-            <a href="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71cpSdnV9JL._SL1422_.jpg" alt="Action Philosophers">
-            </a>    
+            <a href="https://m.media-amazon.com/images/I/91CfTtA-hKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91CfTtA-hKL._AC_UF894,1000_QL80_.jpg" alt="Druuna">
+            </a>
 
+
+            <a href="https://m.media-amazon.com/images/I/717t4NzApiL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/717t4NzApiL._AC_UF894,1000_QL80_.jpg" alt="She-Hulk by Dan Slott">
+            </a>
 
 </div>
 
@@ -255,10 +261,6 @@
                 <img src="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" alt="Wonder Woman vol 4. 17 December 2025">
             </a>
 
-            <a href="https://m.media-amazon.com/images/I/81OMVYGYJwL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81OMVYGYJwL._SL1500_.jpg" alt="Tin Can Society. 17 December 2025.">
-            </a>
-
             <a href="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" alt="Absolute Superman vol 2. 17 December 2025.">
             </a>            
@@ -368,63 +370,11 @@
 
 
 
-<br>
 
 
 
 
-            <a href="https://m.media-amazon.com/images/I/81znMugOkjL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81znMugOkjL._SL1500_.jpg" alt="Justice League International Vol. 1">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/91Vt57B+MBL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91Vt57B+MBL._SL1500_.jpg" alt="Justice League International Vol. 2">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/A1nbIBb7bFL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/A1nbIBb7bFL._SL1500_.jpg" alt="Justice League International Vol. 3">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91vWlZTYbhL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91vWlZTYbhL._SL1500_.jpg" alt="Justice League International Vol. 4 (Justice League of America (1987-1996))">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/A1Hgvj4FwBL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/A1Hgvj4FwBL._SL1500_.jpg" alt="Justice League International Vol. 5 (Justice League of America (1987-1996))">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91-OwRksmVL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91-OwRksmVL._SL1500_.jpg" alt="Justice League International Vol. 6 (Justice League of America (1987-1996)) ">
-            </a>   
-
-<br>
-
-
-
-
-            <a href="https://m.media-amazon.com/images/I/91wv1hZdgEL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91wv1hZdgEL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 1: Crawling From the Wreckage">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/819uhod5KJL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/819uhod5KJL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 2: The Painting That Ate Paris">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91XfYORxTZL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91XfYORxTZL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 3: Down Paradise Way">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81kmoDuI1LL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81kmoDuI1LL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 4: Musclebound ">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91slntG52+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91slntG52+L._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 5: Magic Bus">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91rV4-V4DsL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91rV4-V4DsL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 6: Planet Love">
-            </a>
 
 
 <br>

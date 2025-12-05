@@ -3127,6 +3127,40 @@
                         <img src="https://m.media-amazon.com/images/I/91J8wpZkIyL._SL1500_.jpg" alt="Dark Reign: Fantastic Four">
                     </a>  
 
+                    <a href="https://m.media-amazon.com/images/I/91EKz3V5O8L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91EKz3V5O8L._SL1500_.jpg" alt="Amazing X-Men">
+                    </a>   
+
+                    <a href="https://m.media-amazon.com/images/I/81MdhjafDPL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81MdhjafDPL._SL1500_.jpg" alt="Laura Kinney: Sabretooth">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/81Pej6Xc3QL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Pej6Xc3QL._SL1500_.jpg" alt="Kelly Thompson's Birds of Prey">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/91AGfO6wdLL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91AGfO6wdLL._SL1500_.jpg" alt="Search and Destroy Vol. 3">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/91bwOgXDrBL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91bwOgXDrBL._SL1500_.jpg" alt="FANTASTIC FOUR BY HICKMAN COMPLETE COLLECTION 01">
+                    </a>   
+
+                    <a href="https://m.media-amazon.com/images/I/91R7Ktf8R6S._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91R7Ktf8R6S._SL1500_.jpg" alt="Fantastic Four by Jonathan Hickman Omnibus Vol. 2">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/81Cy7Z1bm0L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Cy7Z1bm0L._SL1500_.jpg" alt="FANTASTIC FOUR BY HICKMAN COMPLETE COLLECTION 03">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/81ND2VA2AjL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81ND2VA2AjL._SL1500_.jpg" alt="FANTASTIC FOUR BY HICKMAN COMPLETE COLLECTION 04: The Complete Collection">
+                    </a>  
+
+
+
 
 
 
