@@ -52,18 +52,8 @@
 
 <div alt="Current target" align="center">
 
-             <a href="https://m.media-amazon.com/images/I/91-9xbvkrzL.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91-9xbvkrzL.jpg" alt="JLA">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91CfTtA-hKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91CfTtA-hKL._AC_UF894,1000_QL80_.jpg" alt="Druuna">
-            </a>
 
 
-            <a href="https://m.media-amazon.com/images/I/717t4NzApiL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/717t4NzApiL._AC_UF894,1000_QL80_.jpg" alt="She-Hulk by Dan Slott">
-            </a>
 
 </div>
 
@@ -342,22 +332,12 @@
 <br>
 
 
-
-
-
-
-
-
-            <a href="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 3">
+            <a href="https://m.media-amazon.com/images/I/91B9-GV59mL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91B9-GV59mL._SL1500_.jpg" alt="Incredible Hercules: The Complete Collection Vol. 1 ">
             </a>
 
-            <a href="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 4">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 5">
+            <a href="https://m.media-amazon.com/images/I/918XZ1NCZ2L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/918XZ1NCZ2L._SL1500_.jpg" alt="Incredible Hercules: The Complete Collection Vol. 2 ">
             </a>
 
 

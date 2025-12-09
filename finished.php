@@ -3159,10 +3159,25 @@
                         <img src="https://m.media-amazon.com/images/I/81ND2VA2AjL._SL1500_.jpg" alt="FANTASTIC FOUR BY HICKMAN COMPLETE COLLECTION 04: The Complete Collection">
                     </a>  
 
+                    <a href="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81U81iSUghL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 3">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81izI8+BrKL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 4">
+                    </a>
+                    
+                    <a href="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91CVwt0s8lL._SL1500_.jpg" alt="Dan Slott She-Hulk vol 5">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/919xk8oyUVL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/919xk8oyUVL._SL1500_.jpg" alt="JLA New World Order">
+                    </a>
 
-
+                    <a href="https://m.media-amazon.com/images/I/91CfTtA-hKL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91CfTtA-hKL._AC_UF894,1000_QL80_.jpg" alt="Druuna">
+                    </a>
 
 
 </div alt="2025 trades finished end">
