@@ -3179,6 +3179,33 @@
                         <img src="https://m.media-amazon.com/images/I/91CfTtA-hKL._AC_UF894,1000_QL80_.jpg" alt="Druuna">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81gHCa9ZEqL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81gHCa9ZEqL._SL1500_.jpg" alt="Unbreakable X-Men">
+                    </a>
+
+                    <a href="https://www.akim.nl/Images/Dynamic/500x500/Stripshop.Publication/370101/40712-magika-integraal-1-vlad-de-moordmachine-hardcover-arboris.jpg" class="thumbnail">
+                        <img src="https://www.akim.nl/Images/Dynamic/500x500/Stripshop.Publication/370101/40712-magika-integraal-1-vlad-de-moordmachine-hardcover-arboris.jpg" alt="Magika - Integraal 1 - Vlad, de moordmachine">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71FWIxAShuL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71FWIxAShuL.jpg" alt="Hercules: Secret Invasion">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/A1JyDbxP18L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/A1JyDbxP18L._SL1500_.jpg" alt="Hercules: Love and War">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/A1Vq9S01qsL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/A1Vq9S01qsL._SL1500_.jpg" alt="Hercules: The New Prince of Power ">
+                    </a>
+
+
+
+
+
+
+
+
 
 </div alt="2025 trades finished end">
 
