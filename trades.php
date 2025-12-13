@@ -52,18 +52,6 @@
 
 <div alt="Current target" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/A1YhlOQ6toL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/A1YhlOQ6toL._SL1500_.jpg" alt="Hercules: Dark Reign">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91OuaBkqybL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91OuaBkqybL._SL1500_.jpg" alt="Hercules: The Mighty Thorcules">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91L2JMl2RQL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91L2JMl2RQL._SL1500_.jpg" alt="Hercules: Assault on Olympus">
-            </a>
-
             <a href="https://m.media-amazon.com/images/I/917mbtknNnL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/917mbtknNnL._SL1500_.jpg" alt="Chaos War">
             </a>
@@ -79,7 +67,6 @@
             <a href="https://m.media-amazon.com/images/I/61VMxYRsXUL._AC_SL1050_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/61VMxYRsXUL._AC_SL1050_.jpg" alt="JLA - American Dreams">
             </a>
-
 
 </div>
 

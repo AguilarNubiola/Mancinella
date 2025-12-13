@@ -3199,8 +3199,17 @@
                         <img src="https://m.media-amazon.com/images/I/A1Vq9S01qsL._SL1500_.jpg" alt="Hercules: The New Prince of Power ">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/A1YhlOQ6toL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/A1YhlOQ6toL._SL1500_.jpg" alt="Hercules: Dark Reign">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91OuaBkqybL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91OuaBkqybL._SL1500_.jpg" alt="Hercules: The Mighty Thorcules">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91L2JMl2RQL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91L2JMl2RQL._SL1500_.jpg" alt="Hercules: Assault on Olympus">
+                    </a>
 
 
 
