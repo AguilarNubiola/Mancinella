@@ -3182,6 +3182,10 @@
                     <a href="https://m.media-amazon.com/images/I/81gHCa9ZEqL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81gHCa9ZEqL._SL1500_.jpg" alt="Unbreakable X-Men">
                     </a>
+                    
+                    <a href="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" alt="Ultimate Wolverine vol 2.">
+                    </a>
 
                     <a href="https://www.akim.nl/Images/Dynamic/500x500/Stripshop.Publication/370101/40712-magika-integraal-1-vlad-de-moordmachine-hardcover-arboris.jpg" class="thumbnail">
                         <img src="https://www.akim.nl/Images/Dynamic/500x500/Stripshop.Publication/370101/40712-magika-integraal-1-vlad-de-moordmachine-hardcover-arboris.jpg" alt="Magika - Integraal 1 - Vlad, de moordmachine">
@@ -3211,11 +3215,114 @@
                         <img src="https://m.media-amazon.com/images/I/91L2JMl2RQL._SL1500_.jpg" alt="Hercules: Assault on Olympus">
                     </a>
 
+                    <a href="https://m.media-amazon.com/images/I/917mbtknNnL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/917mbtknNnL._SL1500_.jpg" alt="Chaos War">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/81HGwU64GXL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81HGwU64GXL._SL1500_.jpg" alt="Catwoman vol 6: Keeper of the Castle">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/8199lVx99VL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/8199lVx99VL._SL1500_.jpg" alt="Catwoman Vol. 7: Inheritance">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/91C4Zz3QpjL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91C4Zz3QpjL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 1">
+                    </a>                    
 
+                    <a href="https://m.media-amazon.com/images/I/71Xf2ZPzC7L._SL1400_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71Xf2ZPzC7L._SL1400_.jpg" alt="ROGUE & GAMBIT RING OF FIRE">
+                    </a>
 
+                    <a href="https://m.media-amazon.com/images/I/814Q-xBj4JL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/814Q-xBj4JL._SL1500_.jpg" alt="AGE OF X-MAN X-TREMISTS: Semper Vigilo">
+                    </a>
+                    
+                    <a href="https://m.media-amazon.com/images/I/81ZB4+GJiOL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81ZB4+GJiOL._SL1500_.jpg" alt="Drome">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" alt="Black Cat vol 1">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91d8djXHYRL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91d8djXHYRL._SL1500_.jpg" alt="Book of Revelation">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/8130pDZR48L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/8130pDZR48L._SL1500_.jpg" alt="Rogue Storm">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" alt="Wonder Woman vol 4">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/51BeQ04k6NL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51BeQ04k6NL.jpg" alt="X-Men Phoenix: Legacy of Fire">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91WTaPo52qL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91WTaPo52qL._SL1500_.jpg" alt="Legends of Red Sonja">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/51ZeN0h6nCL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51ZeN0h6nCL.jpg" alt="Idol">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/61FB4O9aKeL._SL1400_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61FB4O9aKeL._SL1400_.jpg" alt="X-Men: Blinded by the Light ">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/51ylxzDEq4L.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51ylxzDEq4L.jpg" alt="Magneto vol 1: Infamous">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/51PdWheRHWL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51PdWheRHWL.jpg" alt="Magneto vol 2: Reversals">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/91I2BH0-eML._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91I2BH0-eML._SL1500_.jpg" alt="Magneto vol 3: Shadow Games">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71CjELL3dlL._SL1400_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71CjELL3dlL._SL1400_.jpg" alt="MAGNETO 04 LAST DAYS">
+                    </a>                    
+
+                    <a href="https://m.media-amazon.com/images/I/911JXtYirmL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/911JXtYirmL._SL1500_.jpg" alt="X-men Legacy: Divided He Stands">
+                    </a>       
+                    
+                    <a href="https://m.media-amazon.com/images/I/61YrDfyaDQL._SL1000_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/61YrDfyaDQL._SL1000_.jpg" alt="The Adventures Cyclops Phoenix">
+                    </a>     
+                    
+                    <a href="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" alt="Absolute Superman vol 2. 24 December 2025.">
+                    </a>    
+                    
+                    <a href="https://m.media-amazon.com/images/I/914G1XP3R3L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/914G1XP3R3L._SL1500_.jpg" alt="Expatriate X-Men">
+                    </a>     
+
+                    <a href="https://m.media-amazon.com/images/I/91NAtFMjCLL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91NAtFMjCLL._SL1500_.jpg" alt="X-Vengers">
+                    </a>       
+                    
+                    <a href="https://m.media-amazon.com/images/I/71JmJUFhghL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71JmJUFhghL._SL1500_.jpg" alt="Elephantmen vol 1: Wounded Animals">
+                    </a>    
+
+                    <a href="https://m.media-amazon.com/images/I/91wnSM2+InL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91wnSM2+InL._SL1500_.jpg" alt="X-Men Legacy: Sins of the Father">
+                    </a>    
+                    
+                    <a href="https://m.media-amazon.com/images/I/818iCb5yfNL._SL1200_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/818iCb5yfNL._SL1200_.jpg" alt="CONAN RED SONJA HC ">
+                    </a>                       
+                    
 </div alt="2025 trades finished end">
 
 

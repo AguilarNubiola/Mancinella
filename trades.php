@@ -52,21 +52,8 @@
 
 <div alt="Current target" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/917mbtknNnL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/917mbtknNnL._SL1500_.jpg" alt="Chaos War">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/81HGwU64GXL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81HGwU64GXL._SL1500_.jpg" alt="Catwoman vol 6: Keeper of the Castle">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/8199lVx99VL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/8199lVx99VL._SL1500_.jpg" alt="Catwoman Vol. 7: Inheritance">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/61VMxYRsXUL._AC_SL1050_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/61VMxYRsXUL._AC_SL1050_.jpg" alt="JLA - American Dreams">
-            </a>
 
 </div>
 
@@ -251,25 +238,13 @@
             </a>
 
         
+            
 
 <br>
 
-            <a href="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81PWyTYo6xL._SL1500_.jpg" alt="Ultimate Wolverine vol 2. 10 December 2025">
-            </a>
-
-<br> 
-
-            <a href="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/811UipkMO+L._SL1500_.jpg" alt="Wonder Woman vol 4. 17 December 2025">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91UrvcrYa3L._SL1500_.jpg" alt="Absolute Superman vol 2. 17 December 2025.">
-            </a>            
-
-<br>
-
+            <a href="https://m.media-amazon.com/images/I/81Hakje+Z0L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81Hakje+Z0L._SL1500_.jpg" alt="Tin Can Society">
+            </a>   
 
 
 
@@ -325,10 +300,6 @@
 <div alt="Limbo trades" align="center">
 
 
-            <a href="https://m.media-amazon.com/images/I/91C4Zz3QpjL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91C4Zz3QpjL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 1">
-            </a>
-
             <a href="https://m.media-amazon.com/images/I/91DejtAdS4L._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/91DejtAdS4L._SL1500_.jpg" alt="JLA (1997-2006) Vol. 2">
             </a>
@@ -342,16 +313,6 @@
             </a>
 
 
-<br>
-
-
-            <a href="https://m.media-amazon.com/images/I/91B9-GV59mL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91B9-GV59mL._SL1500_.jpg" alt="Incredible Hercules: The Complete Collection Vol. 1 ">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/918XZ1NCZ2L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/918XZ1NCZ2L._SL1500_.jpg" alt="Incredible Hercules: The Complete Collection Vol. 2 ">
-            </a>
 
 
 
@@ -492,9 +453,7 @@
                 <img src="https://m.media-amazon.com/images/I/81VK806y4FL._SL1500_.jpg" alt="Ultimate Black Panther vol 4">
             </a>
 
-            <a href="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" alt="Ultimate Spider-man vol 4">
-            </a>
+
 
 
 </div>
@@ -540,6 +499,10 @@
 
             <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9805875.jpg?1763116992" class="thumbnail">
                 <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9805875.jpg?1763116992" alt="Ultimate X-Men vol 4">
+            </a>
+            
+            <a href="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" alt="Ultimate Spider-man vol 4">
             </a>
 
 
