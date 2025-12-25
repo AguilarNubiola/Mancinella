@@ -383,6 +383,10 @@
                 <img src="https://m.media-amazon.com/images/S/pv-target-images/1f3cf16bd6c3c8cfda41d2db681036fbe524c0c74352b7a7394d0acc0c42081f._SX1080_FMjpg_.jpg" alt="Warrior season 2">
             </a> 
 
+            <a href="https://www.apple.com/tv-pr/articles/2025/10/apple-tv-debuts-trailer-for-vince-gilligans-highly-anticipated-drama-pluribus-starring-emmy-award-nominee-rhea-seehorn/images/big-image/big-image-01/102225_Apple_Debuts_Trailer_Drama_Pluribus_Big_Image_01_big_image_post.jpg.large.jpg" class="thumbnail">
+                <img src="https://www.apple.com/tv-pr/articles/2025/10/apple-tv-debuts-trailer-for-vince-gilligans-highly-anticipated-drama-pluribus-starring-emmy-award-nominee-rhea-seehorn/images/big-image/big-image-01/102225_Apple_Debuts_Trailer_Drama_Pluribus_Big_Image_01_big_image_post.jpg.large.jpg" alt="Pluribus season 1">
+            </a>             
+
 </di>
 
 
