@@ -52,8 +52,13 @@
 
 <div alt="Current target" align="center">
 
+            <a href="https://m.media-amazon.com/images/I/91j+Mv3ClhL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91j+Mv3ClhL._UF1000,1000_QL80_.jpg" alt="X-Men: Mutant Genesis">
+            </a>
 
-
+            <a href="https://m.media-amazon.com/images/I/61RduMQE6WL.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/61RduMQE6WL.jpg" alt="X-Men Legacy: Salvage">
+            </a>
 
 </div>
 
@@ -231,14 +236,9 @@
 
 <div alt="December trades" align="center">
 
-
-
             <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
             </a>
-
-        
-            
 
 <br>
 
@@ -246,9 +246,6 @@
                 <img src="https://m.media-amazon.com/images/I/81Hakje+Z0L._SL1500_.jpg" alt="Tin Can Society">
             </a>   
 
-
-
-
 </div>
 
 
@@ -295,52 +292,6 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Limbo trades</b></p>
-
-<div alt="Limbo trades" align="center">
-
-
-            <a href="https://m.media-amazon.com/images/I/91DejtAdS4L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91DejtAdS4L._SL1500_.jpg" alt="JLA (1997-2006) Vol. 2">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81jsIgSwdSL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81jsIgSwdSL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 3">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 4">
-            </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-</div>
 
 
 
@@ -453,8 +404,7 @@
                 <img src="https://m.media-amazon.com/images/I/81VK806y4FL._SL1500_.jpg" alt="Ultimate Black Panther vol 4">
             </a>
 
-
-
+            
 
 </div>
 
@@ -504,7 +454,6 @@
             <a href="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" alt="Ultimate Spider-man vol 4">
             </a>
-
 
 </div>
 
@@ -583,11 +532,13 @@
             <img src="https://w9.jojolandsmanga.com/wp-content/uploads/2025/01/The-JOJOLands-Manga-Volume-1.webp" alt="Jojolands">
         </a>
 
-
-
-
-
 </div>
+
+
+
+
+
+
 
 
 
@@ -620,6 +571,21 @@
 
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Single book Rushmore</b></p>
 
 
@@ -646,8 +612,19 @@
 
 </div>
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Newer writers Rusmore</b></p>
 
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Newer writers Rusmore</b></p>
 
 <div alt="" align="center">
 
@@ -675,6 +652,11 @@
 
 
 </div>
+
+
+
+
+
 
 
 

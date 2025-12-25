@@ -3321,7 +3321,19 @@
                     
                     <a href="https://m.media-amazon.com/images/I/818iCb5yfNL._SL1200_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/818iCb5yfNL._SL1200_.jpg" alt="CONAN RED SONJA HC ">
-                    </a>                       
+                    </a>         
+                    
+                    <a href="https://m.media-amazon.com/images/I/91DejtAdS4L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91DejtAdS4L._SL1500_.jpg" alt="JLA (1997-2006) Vol. 2">
+                    </a>  
+                    
+                    <a href="https://m.media-amazon.com/images/I/81jsIgSwdSL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81jsIgSwdSL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 3">
+                    </a>    
+                    
+                    <a href="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 4">
+                    </a>                    
                     
 </div alt="2025 trades finished end">
 
