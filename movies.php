@@ -84,22 +84,36 @@
 
 
 
-<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movies coming in 2025</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Movies coming in 2026</h3>
 
 <div alt="2025 films" align="center">
 
 
 
 
-<a href="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" class="thumbnail">
-    <img src="https://photos.hancinema.net/photos/fullsizephoto1866542.jpg" alt="No Other Choice">
-</a>
+        <a href="https://cdn.marvel.com/content/2x/avengersdoomsday_lob_mas_mob_02.jpg" class="thumbnail">
+            <img src="https://cdn.marvel.com/content/2x/avengersdoomsday_lob_mas_mob_02.jpg" alt="Avengers Doomsday">
+        </a>
 
+        <a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
+            <img src="https://i.redd.it/ye2x2qep8cnd1.jpeg" alt="Dune">
+        </a>
+  
+        <a href="https://m.media-amazon.com/images/M/MV5BMTJhZGE3NmYtYTg0Ny00MWUzLWE0MmUtYTZjYTg1ZjVlMWRkXkEyXkFqcGc@._V1_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/M/MV5BMTJhZGE3NmYtYTg0Ny00MWUzLWE0MmUtYTZjYTg1ZjVlMWRkXkEyXkFqcGc@._V1_.jpg" alt="Spider-Man: Brand New Day">
+        </a>      
 
+        <a href="https://i.redd.it/ye2x2qep8cnd1.jpeg" class="thumbnail">
+            <img src="https://i.redd.it/ye2x2qep8cnd1.jpeg" alt="Toy Story 5">
+        </a>
 
+        <a href="https://deadline.com/wp-content/uploads/2025/12/supergirl-2026-teaser-dc-studios_c43060.jpg?w=681&h=383&crop=1" class="thumbnail">
+            <img src="https://deadline.com/wp-content/uploads/2025/12/supergirl-2026-teaser-dc-studios_c43060.jpg?w=681&h=383&crop=1" alt="Supergirl">
+        </a>
 
-
-
+        <a href="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Odyssey_%282026_film%29_poster.jpg/250px-The_Odyssey_%282026_film%29_poster.jpg" class="thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Odyssey_%282026_film%29_poster.jpg/250px-The_Odyssey_%282026_film%29_poster.jpg" alt="The Odyssey">
+        </a>
 
 </div>
 
@@ -467,7 +481,7 @@
 
 
 
-<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show of 2025 so far</h3>
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">Best film and tv show of 2025</h3>
 
 <div alt="Best movie and tv show so far" align="center">
 
