@@ -52,13 +52,9 @@
 
 <div alt="Current target" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/91j+Mv3ClhL._UF1000,1000_QL80_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91j+Mv3ClhL._UF1000,1000_QL80_.jpg" alt="X-Men: Mutant Genesis">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/61RduMQE6WL.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/61RduMQE6WL.jpg" alt="X-Men Legacy: Salvage">
-            </a>
+
+
 
 </div>
 
@@ -232,19 +228,14 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>December trades</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Limbo trades</b></p>
 
-<div alt="December trades" align="center">
+<div alt="Limbo trades" align="center">
 
             <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
             </a>
 
-<br>
-
-            <a href="https://m.media-amazon.com/images/I/81Hakje+Z0L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81Hakje+Z0L._SL1500_.jpg" alt="Tin Can Society">
-            </a>   
 
 </div>
 
@@ -425,7 +416,7 @@
 
 
 
-
+<br>
 
 
 
@@ -446,6 +437,10 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
 
 <div alt="February trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/81bjKhdD+wL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81bjKhdD+wL._SL1500_.jpg" alt="Poison Ivy vol 7. Poison Ivy 41 is the last issue. 4th of February.">
+            </a>
 
             <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9805875.jpg?1763116992" class="thumbnail">
                 <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-9805875.jpg?1763116992" alt="Ultimate X-Men vol 4">
@@ -470,6 +465,42 @@
 
 
 
+<br>
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March trades</b></p>
+
+<div alt="March trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2. March 4th.">
+            </a>
+            
+
+</div>
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Apriltrades</b></p>
+
+<div alt="April trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" alt="Ultimate Wolverine vol 3">
+            </a>
+            
+            <a href="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" alt="Ultimates vol 4">
+            </a>
+
+</div>
 
 
 
@@ -486,6 +517,11 @@
 
 
 
+
+
+
+
+<br>
 
 
 
@@ -696,11 +732,6 @@
 		<a href="https://cdn.shopify.com/s/files/1/0403/3514/7159/files/jedmackay-sideprofile.jpg?v=1759735530" class="thumbnail">
 			<img src="https://cdn.shopify.com/s/files/1/0403/3514/7159/files/jedmackay-sideprofile.jpg?v=1759735530" alt="Jed MacKay">
 			<img src="https://www.akim.nl/Images/Dynamic/full/Stripshop.Album/749193/144223-black-cat-marvel-omnibus-black-cat-by-jed-mackay.jpg" alt="Black Cat">
-		</a>
-
-		<a href="https://s3.amazonaws.com/comicgeeks/people/avatars/46186.jpg?t=1697114690" class="thumbnail">
-			<img src="https://s3.amazonaws.com/comicgeeks/people/avatars/46186.jpg?t=1697114690" alt="Wyatt Kennedy">
-			<img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534350809/nights-volume-2-9781534350809_hr.jpg" alt="Nights">
 		</a>
 
 		<a href="https://strangerworlds.com/wp-content/uploads/2015/08/photo-jul-12-11-03-06-am-e1440480880382.jpg" class="thumbnail">

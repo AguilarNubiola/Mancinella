@@ -1080,6 +1080,48 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center" style="font-family:'Courier New'; color: red; font-size:30px"><b>The rest</b></p>
 
 <div alt="The rest" align="center">
@@ -1107,8 +1149,8 @@
                     <img src="https://i0.wp.com/getcomics.org/share/uploads/2024/06/Into-the-Unbeing-1-2024.jpg?fit=400%2C615&ssl=1" alt="Into the Unbeing #1">
                 </a>
 
-                <a href="https://www.shortboxcomics.nl/cdn/shop/files/6a_1088059_0_DarkEmptyVoid1B.jpg?v=1738249254" class="thumbnail">
-                    <img src="https://www.shortboxcomics.nl/cdn/shop/files/6a_1088059_0_DarkEmptyVoid1B.jpg?v=1738249254" alt="Dark Empty Void #1">
+                <a href="https://m.media-amazon.com/images/I/81xyGFZQxcL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81xyGFZQxcL._SL1500_.jpg" alt="Dark Empty Void #1">
                 </a>
 
                 <a href="https://media.s-bol.com/DRYWgDLL5Dxy/908x1200.jpg" class="thumbnail">
@@ -1179,6 +1221,174 @@
 
 
 </div alt="End of the rest">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:gold; font-size:30px"><b>Trades finished in 2026</b></p>
+
+
+<div alt="finished comics 2026" align="Center">
+
+                <a href="https://m.media-amazon.com/images/I/91s7-P+WUML._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91s7-P+WUML._SL1500_.jpg" alt="X-Men Legacy: Emplate">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71SpsLEp5LL._SL1400_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71SpsLEp5LL._SL1400_.jpg" alt="X-men Legacy: Collision">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/714EKO485+L._SL1400_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/714EKO485+L._SL1400_.jpg" alt="X-men Legacy: Lost Legions">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51UICXBrmlL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51UICXBrmlL.jpg" alt="X-men Legacy: Aftermath">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/918hFa0+hTL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/918hFa0+hTL._SL1500_.jpg" alt="X-men Legacy: Five Miles South of the Universe">
+                </a>
+
+
+
+</div alt="Trades finished in 2026 end">
+
+
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1483,8 +1693,8 @@
                         <img src="https://m.media-amazon.com/images/I/91mPzIGG1yL._SL1500_.jpg" alt="X-Force vol 2">
                     </a>
                     
-                    <a href="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" class="thumbnail">
-                        <img src="https://cdn.imagecomics.com/assets/i/releases/1062699/gi-joe-6_9af1d7fab0.jpg" alt="GI Joe vol 1. 23 april.">
+                    <a href="https://m.media-amazon.com/images/I/81gBKnqO7UL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81gBKnqO7UL._SL1500_.jpg" alt="GI Joe vol 1. 23 april.">
                     </a>
 
                     <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7251660.jpg?1736390559" class="thumbnail">
@@ -3333,8 +3543,72 @@
                     
                     <a href="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" class="thumbnail">
                         <img src="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" alt="JLA (1997-2006) Vol. 4">
-                    </a>                    
+                    </a>           
+
+                    <a href="https://m.media-amazon.com/images/I/81jsIgSwdSL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81jsIgSwdSL._SL1500_.jpg" alt="Undeadpool">
+                    </a>    
                     
+                    <a href="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81WbWI-KNvL._SL1500_.jpg" alt="Cloak or Dagger">
+                    </a>                      
+                    
+                     <a href="https://m.media-amazon.com/images/I/51JbfTPHdjL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51JbfTPHdjL.jpg" alt="X-Men Legacy: Original Sin">
+                    </a>                 
+                    
+                    <a href="https://m.media-amazon.com/images/I/51sBxsbwfDL.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/51sBxsbwfDL.jpg" alt="X-Men Legacy: Salvage">
+                    </a>   
+
+                    <a href="https://m.media-amazon.com/images/I/91j+Mv3ClhL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91j+Mv3ClhL._UF1000,1000_QL80_.jpg" alt="X-Men: Mutant Genesis">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/71ETFAFi5VL._SL1400_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71ETFAFi5VL._SL1400_.jpg" alt="UNCANNY X-MEN SUPERIOR 01 SURVIVAL OF FITTEST">
+                    </a>      
+                    
+                    <a href="https://m.media-amazon.com/images/I/91ZxXW4H6pL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/91ZxXW4H6pL._SL1500_.jpg" alt="Uncanny X-Men: Superior Vol. 2: Apocalypse Wars ">
+                    </a>  
+                    
+                    <a href="https://m.media-amazon.com/images/I/71ETFAFi5VL._SL1400_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/71GI-qBmjPL._SL1400_.jpg" alt="UNCANNY X-MEN SUPERIOR 03 WAKING FROM DREAM">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/812yer8Sw8L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/812yer8Sw8L._SL1500_.jpg" alt="Uncanny X-Men vol 4: IVX">
+                    </a>            
+                    
+                    <a href="https://m.media-amazon.com/images/I/917NoEKFwzL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/917NoEKFwzL._SL1500_.jpg" alt="Weapon X Vol. 1: Weapons of Mutant Destruction Prelude">
+                    </a>
+
+                    <a href="https://m.media-amazon.com/images/I/81o9BUnsmZL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81o9BUnsmZL._SL1500_.jpg" alt="Weapon X Vol. 2: Hunt For Weapon H">
+                    </a>  
+                    
+                    <a href="https://m.media-amazon.com/images/I/919yz8z9ibL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/919yz8z9ibL._SL1500_.jpg" alt="Weapon X Vol. 3: Modern Warfare">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/81fQrwU+0cL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81fQrwU+0cL._SL1500_.jpg" alt="Weapon X Vol. 4: Russian Revolution">
+                    </a>                      
+                    
+                    <a href="https://m.media-amazon.com/images/I/81B9rMOEeIL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81B9rMOEeIL._SL1500_.jpg" alt="Weapon X Vol. 5: Weapon X-Force">
+                    </a>  
+
+                    <a href="https://m.media-amazon.com/images/I/81Hakje+Z0L._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81Hakje+Z0L._SL1500_.jpg" alt="Tin Can Society">
+                    </a>   
+                    
+                    <a href="https://www.akim.nl/Images/Dynamic/500x500/Stripshop.Publication/370108/40714-magika-integraal-2-de-vreselijke-kathedraal-hardcover-arboris.jpg" class="thumbnail">
+                        <img src="https://www.akim.nl/Images/Dynamic/500x500/Stripshop.Publication/370108/40714-magika-integraal-2-de-vreselijke-kathedraal-hardcover-arboris.jpg" alt="Magika integraal 2: De Vreselijke Kathedraal">
+                    </a>        
+
 </div alt="2025 trades finished end">
 
 
@@ -3347,9 +3621,13 @@
 
 
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
 
 
