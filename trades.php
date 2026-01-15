@@ -236,6 +236,17 @@
                 <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
             </a>
 
+            <a href="https://m.media-amazon.com/images/I/91CTpduO7SL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91CTpduO7SL._SL1500_.jpg" alt="Invisible Kingdom vol 1">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81rZ+MZoU0L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81rZ+MZoU0L._SL1500_.jpg" alt="Invisible Kingdom vol 2">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91z71B+VqXL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91z71B+VqXL._SL1500_.jpg" alt="Invisible Kingdom vol 3">
+            </a>
 
 </div>
 
@@ -393,9 +404,27 @@
 
             <a href="https://m.media-amazon.com/images/I/81VK806y4FL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81VK806y4FL._SL1500_.jpg" alt="Ultimate Black Panther vol 4">
-            </a>
+            </a>         
 
-            
+            <a href="https://m.media-amazon.com/images/I/91XLITTt6eL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91XLITTt6eL._SL1500_.jpg" alt="Doom Patrol, Book 3: Down Paradise Way">
+            </a>  
+
+            <a href="https://m.media-amazon.com/images/I/81kmoDuI1LL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81kmoDuI1LL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 4: Musclebound">
+            </a>  
+
+            <a href="https://m.media-amazon.com/images/I/91slntG52+L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91slntG52+L._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 5: Magic Bus">
+            </a>  
+
+            <a href="https://m.media-amazon.com/images/I/91rV4-V4DsL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91rV4-V4DsL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 6: Planet Love">
+            </a>  
+
+            <a href="https://m.media-amazon.com/images/I/91C-tPRXHyL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91C-tPRXHyL._SL1500_.jpg" alt="Elephantmen Vol. 6: Earthly Desires TP">
+            </a>  
 
 </div>
 
@@ -434,6 +463,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
 
 <div alt="February trades" align="center">
@@ -448,6 +491,30 @@
             
             <a href="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" alt="Ultimate Spider-man vol 4">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91Q79mvnDvL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91Q79mvnDvL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 1">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91az8jC62fL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91az8jC62fL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 2: The Red Queen">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91DH326apgL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91DH326apgL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 3: Learning To Be Human">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91OGYJeuBkL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91OGYJeuBkL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 4: All Coming Evil">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/A10NNok7bcL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/A10NNok7bcL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 5: Up Close & Personal">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91vOZDEOhYL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91vOZDEOhYL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 6: The Least, The Lost & The Last">
             </a>
 
 </div>
@@ -488,7 +555,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Apriltrades</b></p>
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April trades</b></p>
 
 <div alt="April trades" align="center">
 

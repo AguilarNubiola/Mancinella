@@ -1321,7 +1321,125 @@
                     <img src="https://m.media-amazon.com/images/I/918hFa0+hTL._SL1500_.jpg" alt="X-men Legacy: Five Miles South of the Universe">
                 </a>
 
+                <a href="https://m.media-amazon.com/images/I/71djxly1u2L._SL1400_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71djxly1u2L._SL1400_.jpg" alt="X-Necrosha">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/81LZLV-Dx4L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81LZLV-Dx4L._SL1500_.jpg" alt="Invincible Volume 25: The End of All Things Part 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51HUz6scozL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51HUz6scozL.jpg" alt="Our Happy Time">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/914jyPDxAWL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/914jyPDxAWL._SL1500_.jpg" alt="Invincible Volume 24: The End of All Things Part 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91B7GWrW7aL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91B7GWrW7aL._SL1500_.jpg" alt="X-Men: Age of X">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/912kBt3UZgL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/912kBt3UZgL._SL1500_.jpg" alt="Exiles volume 4: Legacy">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/916OXJ9mbrL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/916OXJ9mbrL._SL1500_.jpg" alt="Exiles volume 1: Down the Rabbit Hole">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/716ZOBpSTeL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/716ZOBpSTeL._SL1500_.jpg" alt="Fine Print vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81aG1XmKUrS._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81aG1XmKUrS._SL1500_.jpg" alt="Exiles vol 2: A World Apart">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81JmPoB6YTL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81JmPoB6YTL._SL1500_.jpg" alt="Exiles vol 6: Fantastic Voyage">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/615yALCADcL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/615yALCADcL.jpg" alt="X-Men by Fabian Nicieza 1/5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/917tAhSEbBL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/917tAhSEbBL._SL1500_.jpg" alt="Exiles vol 3: Out of Time">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91ndMD0aeVL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91ndMD0aeVL._SL1500_.jpg" alt="Elephantmen Vol. 2: Fatal Diseases ">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/612txU6m8GL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/612txU6m8GL.jpg" alt="Nicieza's X-Men 2/5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91b0cOYPRBL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91b0cOYPRBL._SL1500_.jpg" alt="Doom Patrol: Crawling from the Wreckage">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81NT68INbHL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81NT68INbHL._SL1500_.jpg" alt="Uncle Sam and the Freedom Fighters 2006">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91b0cOYPRBL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91Ca5rdJAsL._SL1500_.jpg" alt="Nicieza's X-Men 3/5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61pq5q2hycL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61pq5q2hycL.jpg" alt="Nicieza's X-Men 4/5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/610uNgPyToL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/610uNgPyToL.jpg" alt="Nicieza's X-Men 5/5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61bua79b0UL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61bua79b0UL._UF1000,1000_QL80_.jpg" alt="The Amazing X-Men">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91GVc0RLZCL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91GVc0RLZCL._SL1500_.jpg" alt="Beneath the Trees Where Nobody Sees">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71YyvTk6aSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71YyvTk6aSL._SL1500_.jpg" alt="Un/Sacred vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91e9z9DfhbL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91e9z9DfhbL._SL1500_.jpg" alt="Elephantmen Vol. 3: Dangerous Liaisons">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/811dSsgVoAL._SL1500_.jpgg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/811dSsgVoAL._SL1500_.jpg" alt="Mirka Andolfo's Sweet Paprika, Volume 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51FXT3byeyL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51FXT3byeyL.jpg" alt="Doom Patrol: The Painting that Ate Paris">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/71hIq3-TA5L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71hIq3-TA5L._SL1500_.jpg" alt="Sweet Paprika vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91LE-kr0yPL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91LE-kr0yPL._SL1500_.jpg" alt="Elephantmen Vol. 4: Questionable Things TP">
+                </a>  
+                
+                <a href="https://m.media-amazon.com/images/I/A1fTA2dt4NL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A1fTA2dt4NL._SL1500_.jpg" alt="Elephantmen 2239 Vol. 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91gQJZhg9uL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91gQJZhg9uL._SL1500_.jpg" alt="Elephantmen Vol. 0: Armed Forces TP">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/91gZ79PdTSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91gZ79PdTSL._SL1500_.jpg" alt="Elephantmen 2259 Vol. 5: Devilish Functions">
+                </a>  
 
 </div alt="Trades finished in 2026 end">
 
