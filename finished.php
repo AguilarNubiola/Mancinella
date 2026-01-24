@@ -1441,6 +1441,175 @@
                     <img src="https://m.media-amazon.com/images/I/91gZ79PdTSL._SL1500_.jpg" alt="Elephantmen 2259 Vol. 5: Devilish Functions">
                 </a>  
 
+                <a href="https://m.media-amazon.com/images/I/91C-tPRXHyL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91C-tPRXHyL._SL1500_.jpg" alt="Elephantmen Vol. 6: Earthly Desires TP">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/91CTpduO7SL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91CTpduO7SL._SL1500_.jpg" alt="Invisible Kingdom vol 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81rZ+MZoU0L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81rZ+MZoU0L._SL1500_.jpg" alt="Invisible Kingdom vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91z71B+VqXL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91z71B+VqXL._SL1500_.jpg" alt="Invisible Kingdom vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91Q79mvnDvL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91Q79mvnDvL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91az8jC62fL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91az8jC62fL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 2: The Red Queen">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91DH326apgL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91DH326apgL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 3: Learning To Be Human">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91OGYJeuBkL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91OGYJeuBkL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 4: All Coming Evil">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/A10NNok7bcL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A10NNok7bcL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 5: Up Close & Personal">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91vOZDEOhYL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91vOZDEOhYL._SL1500_.jpg" alt="Elephantmen 2260 Vol. 6: The Least, The Lost & The Last">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91iocXEHpdL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91iocXEHpdL._SL1500_.jpg" alt="Babs Vol. 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/A1YVQufDIML._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A1YVQufDIML._SL1500_.jpg" alt="The Last Days of American Crime">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81EnIM32-5L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81EnIM32-5L._SL1500_.jpg" alt="Batman and Harley Quinn">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/A1nUDljPjqL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A1nUDljPjqL._SL1500_.jpg" alt="Elephantmen: The Death of Shorty">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91od5wKHFZL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91od5wKHFZL._SL1500_.jpg" alt="Elephantmen: The Pentalion Job ">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91Nt6STLwTL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91Nt6STLwTL._SL1500_.jpg" alt="Elephantmen 2261 Season 3: Theo Laroux Meets The Elephantmen!">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91wi0Otu44L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91wi0Otu44L._SL1500_.jpg" alt="Elephantmen 2261 Season 4: Under Each Skin">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61P9RWZ2OlL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61P9RWZ2OlL.jpg" alt="Ant Vol. 1: Reality Bites">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61NnWwK4iaL._AC_SL1050_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61NnWwK4iaL._AC_SL1050_.jpg" alt="Ant Unleashed">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91XLITTt6eL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91XLITTt6eL._SL1500_.jpg" alt="Doom Patrol, Book 3: Down Paradise Way">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/91J42nKU3VL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91J42nKU3VL._SL1500_.jpg" alt="Marauders vol 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/9139QQeMelL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/9139QQeMelL._SL1500_.jpg" alt="Marauders vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/819MglpkL3L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/819MglpkL3L._SL1500_.jpg" alt="Marauders vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81V4tANTlOL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81V4tANTlOL._SL1500_.jpg" alt="Marauders vol 4">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/810vSc6oaIL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/810vSc6oaIL._SL1500_.jpg" alt="Nights vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81VK806y4FL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81VK806y4FL._SL1500_.jpg" alt="Ultimate Black Panther vol 4">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/81kmoDuI1LL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81kmoDuI1LL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 4: Musclebound">
+                </a>  
+
+                <a href="https://www.g-mart.com/static/f072545.jpg" class="thumbnail">
+                    <img src="https://www.g-mart.com/static/f072545.jpg" alt="Ant 2004">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/616lHshJHCL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/616lHshJHCL.jpg" alt="Ant 2005">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/91BHdYBy4jL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91BHdYBy4jL._UF1000,1000_QL80_.jpg" alt="Ant 2021">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71wx44PrkoL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71wx44PrkoL._AC_UF1000,1000_QL80_.jpg" alt="22 Brides">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91slntG52+L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91slntG52+L._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 5: Magic Bus">
+                </a>  
+
+                <a href="https://m.media-amazon.com/images/I/91rV4-V4DsL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91rV4-V4DsL._SL1500_.jpg" alt="Doom Patrol (1987-1995) Vol. 6: Planet Love">
+                </a>  
+
+                <a href="https://cdna.artstation.com/p/assets/images/images/042/232/958/large/josh-burns-painkiller-jane-white-josh-burns-web2-1600.jpg?1633958145" class="thumbnail">
+                    <img src="https://cdna.artstation.com/p/assets/images/images/042/232/958/large/josh-burns-painkiller-jane-white-josh-burns-web2-1600.jpg?1633958145" alt="Painkiller Jane: Heartbreaker">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91+tlUZWm1L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91+tlUZWm1L._SL1500_.jpg" alt="Painkiller Jane: Trust The Universe">
+                </a> 
+
+                <a href="https://comicvine.gamespot.com/a/uploads/scale_small/7/74140/9032476-painkillerjane-beautifulkillers%231%282023%29-page1.jpg" class="thumbnail">
+                    <img src="https://comicvine.gamespot.com/a/uploads/scale_small/7/74140/9032476-painkillerjane-beautifulkillers%231%282023%29-page1.jpg" alt="Painkiller Jane: Beautiful Killers">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/51GwROgVEXL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51GwROgVEXL.jpg" alt="Painkiller Jane: 22 Brides">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91nmdt4jHmS._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91nmdt4jHmS._SL1500_.jpg" alt="Painkiller Jane: The Price of Freedom">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/51Uinmhy-dL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51Uinmhy-dL.jpg" alt="Painkiller Jane vol 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/51LPEx6PoWL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51LPEx6PoWL.jpg" alt="Painkiller Jane vol 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91tSD74xZCL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91tSD74xZCL._SL1500_.jpg" alt="Invincible vol 1: Family Matters">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/513H+AnrD3L.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/513H+AnrD3L.jpg" alt="Painkiller Jane vol 3">
+                </a> 
+
+
 </div alt="Trades finished in 2026 end">
 
 
