@@ -1609,6 +1609,32 @@
                     <img src="https://m.media-amazon.com/images/I/513H+AnrD3L.jpg" alt="Painkiller Jane vol 3">
                 </a> 
 
+                <a href="https://m.media-amazon.com/images/I/91TCYB3d-NL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91TCYB3d-NL._SL1500_.jpg" alt="Invincible vol 2: Eight is Enough">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81IwJkWtJfL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81IwJkWtJfL._SL1500_.jpg" alt="Invincible vol 3: Perfect Strangers">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/515HtVEowrL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/515HtVEowrL.jpg" alt="Invincible vol 4: Head of the Class">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61zhYEJMyTL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61zhYEJMyTL.jpg" alt="Invincible vol 5: The Facts of Life">
+                </a> 
+
+                <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4729957.jpg?1750774268" class="thumbnail">
+                    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-4729957.jpg?1750774268" alt="Painkiller Jane/GI Zombie">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61V5hk2MZYL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61V5hk2MZYL.jpg" alt="Invincible vol 6: A Different World">
+                </a> 
+
+
+
 
 </div alt="Trades finished in 2026 end">
 
