@@ -1633,6 +1633,14 @@
                     <img src="https://m.media-amazon.com/images/I/61V5hk2MZYL.jpg" alt="Invincible vol 6: A Different World">
                 </a> 
 
+                <a href="https://m.media-amazon.com/images/I/91Vt+w0NmIL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91Vt+w0NmIL._SL1500_.jpg" alt="Marvel Masterworks: The Uncanny X-Men vol 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81aYRwXTDJL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81aYRwXTDJL._SL1500_.jpg" alt="Drawing Blood Vol. 1: Spilled Ink">
+                </a> 
+
 
 
 

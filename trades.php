@@ -51,10 +51,7 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Current target</b></p>
 
 <div alt="Current target" align="center">
-                
-                <a href="https://m.media-amazon.com/images/I/91TCYB3d-NL._SL1500_.jpg" class="thumbnail">
-                    <img src="https://m.media-amazon.com/images/I/91TCYB3d-NL._SL1500_.jpg" alt="Invincible vol 2: Eight is Enough">
-                </a> 
+
 
 
 
@@ -392,6 +389,9 @@
 
 <div alt="January trades" align="center">   
 
+                <a href="https://m.media-amazon.com/images/I/81aMxnZPWHL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81aMxnZPWHL._SL1500_.jpg" alt="Justice League Red">
+                </a> 
 
 
 </div>
@@ -448,6 +448,10 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
 
 <div alt="February trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" alt="Escape vol 1">
+            </a> 
 
             <a href="https://m.media-amazon.com/images/I/81bjKhdD+wL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81bjKhdD+wL._SL1500_.jpg" alt="Poison Ivy vol 7. Poison Ivy 41 is the last issue. 4th of February.">
