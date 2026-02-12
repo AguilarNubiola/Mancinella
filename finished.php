@@ -1161,8 +1161,6 @@
                     <img src="https://media.s-bol.com/k5wX3kByp1Y6/904x1200.jpg" alt="Metabarons: Castaka #2">
                 </a>
 
-
-
                 <a href="https://m.media-amazon.com/images/I/91cp-u-n97L._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/91cp-u-n97L._SL1500_.jpg" alt="Big Tiddie Goth Girlfriends on the Moon #3">
                 </a>
@@ -1641,11 +1639,276 @@
                     <img src="https://m.media-amazon.com/images/I/81aYRwXTDJL._SL1500_.jpg" alt="Drawing Blood Vol. 1: Spilled Ink">
                 </a> 
 
+                <a href="https://m.media-amazon.com/images/I/81aMxnZPWHL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81aMxnZPWHL._SL1500_.jpg" alt="Justice League Red">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81CgzMQJ0wL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81CgzMQJ0wL._SL1500_.jpg" alt="G.I. Joe vol 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81aMxnZPWHL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81aMxnZPWHL._SL1500_.jpg" alt="Invincible vol 7: Three's a Company">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61zidNe7Y3L.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61zidNe7Y3L.jpg" alt="Invincible vol 8: My Favorite Martian">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/710F2KCGyoL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/710F2KCGyoL._SL1500_.jpg" alt="Queen Kodiak">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61j6SmnfknL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61j6SmnfknL.jpg" alt="Invinclble vol 9: Out of this World">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81keSlN0bXL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81keSlN0bXL._SL1500_.jpg" alt="Druuna het begin 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71aF8UIT7WL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71aF8UIT7WL._SL1500_.jpg" alt="Druuna het begin 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61ixPkykS6L._SL1118_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61ixPkykS6L._SL1118_.jpg" alt="Saria 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/51d+MyRZ7aL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51d+MyRZ7aL.jpg" alt="Saria 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81KFSmtng9L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81KFSmtng9L._SL1500_.jpg" alt="Saria 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91Ji1-ASp6L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91Ji1-ASp6L._SL1500_.jpg" alt="New Mutants by Ed Brisson">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91o1gTUyhiL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91o1gTUyhiL._SL1500_.jpg" alt="New Mutants by Jonathan Hickman">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91bGSz+tHYL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91bGSz+tHYL._SL1500_.jpg" alt="Heir of Apocalypse">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91K72vgA+vL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91K72vgA+vL._SL1500_.jpg" alt="Way of X">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91XWBN8uyoL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91XWBN8uyoL._SL1500_.jpg" alt="Thellus Eva Samas 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81q3mjAz5yL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81q3mjAz5yL._SL1500_.jpg" alt="Thellus Eva Samas 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81Y7ax-hcTL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81Y7ax-hcTL._SL1500_.jpg" alt="Fistful of Blood">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/917NZqg3NqL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/917NZqg3NqL._SL1500_.jpg" alt="Warlord of Mars: Dejah Thoris vol 3: The Boorah Witch">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81-z++p4knL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81-z++p4knL._SL1500_.jpg" alt="Slut girl Isutoshi">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61UusCmloCL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61UusCmloCL.jpg" alt="Invinclble vol 10: Who's the Boss?">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61K7aSR2i7L.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61K7aSR2i7L.jpg" alt="Invinclble vol 11: Happy Days">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91GuyFY8WTS._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91GuyFY8WTS._SL1500_.jpg" alt="New Mutants by Vita Ayala Vol. 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61ZSRT+a4eL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61ZSRT+a4eL.jpg" alt="Invinclble vol 12: Still Standing">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/910C16NGrBL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/910C16NGrBL._SL1500_.jpg" alt="New Mutants by Vita Ayala Vol. 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91BAnSTd91L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91BAnSTd91L._SL1500_.jpg" alt="New Mutants by Vita Ayala Vol. 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/913Yd-tS7YL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/913Yd-tS7YL._SL1500_.jpg" alt="Warlord of Mars: Dejah Thoris Vol. 1: Colossus of Mars">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91GThkmFLrL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91GThkmFLrL._SL1500_.jpg" alt="Warlord of Mars: Dejah Thoris Vol. 2: The Pirate Queen of Mars">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61cNoWZBbZL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61cNoWZBbZL.jpg" alt="Invinclble vol 13: Growing Pains">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61bTfpIlxZL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61bTfpIlxZL.jpg" alt="Invinclble vol 14: The Viltrumite War">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/813jXUxlzTL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/813jXUxlzTL._SL1500_.jpg" alt="The Beauty Vol. 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71e5GM-+LPL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71e5GM-+LPL._SL1500_.jpg" alt="The Beauty Vol. 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61ZDZXQmw7L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61ZDZXQmw7L._SL1500_.jpg" alt="The Beauty Vol. 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81j8ZP8xnuL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81j8ZP8xnuL._SL1500_.jpg" alt="The Beauty Vol. 4">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71GJwyXRj3L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71GJwyXRj3L._SL1500_.jpg" alt="The Beauty Vol. 5">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71pfZ6qxoqL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71pfZ6qxoqL._SL1500_.jpg" alt="The Beauty Vol. 6">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91YU3NDY+8L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91YU3NDY+8L._SL1500_.jpg" alt="Warlord of Mars: Dejah Thoris Vol. 4: The Vampire Men of Saturn">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61CspLYL1ML.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61CspLYL1ML.jpg" alt="Invinclble vol 15: Get Smart">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81WdHYyp-XL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81WdHYyp-XL._SL1500_.jpg" alt="Invinclble vol 16: Family Ties">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81HmXCCqSrL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81HmXCCqSrL._SL1500_.jpg" alt="Warlord of Mars: Dejah Thoris Vol. 5: Rise of the Machine Men">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91EcsQSQ3YL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91EcsQSQ3YL._SL1500_.jpg" alt="Capes (original 2003 trilogy)">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81Yvb8d9B+L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81Yvb8d9B+L._SL1500_.jpg" alt="Invincible vol 17: What's Happening">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/613Zb6tCASL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/613Zb6tCASL.jpg" alt="Invincible vol 18: The Death of Everyone">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91GiBmLTQoL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91GiBmLTQoL._SL1500_.jpg" alt="Warlord of Mars: Dejah Thoris Vol. 6: Phantoms of Time ">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/619ah-N7CdL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/619ah-N7CdL.jpg" alt="Invincible vol 19: War at home">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/514Ip5ItWkL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/514Ip5ItWkL.jpg" alt="Invincible vol 20: Friends">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91rOMWawsCL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91rOMWawsCL._SL1500_.jpg" alt="Invincible vol 21: Modern Family">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/811kC540HML._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/811kC540HML._SL1500_.jpg" alt="Invincible vol 22: Reboot">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/912NsIv3-8L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/912NsIv3-8L._SL1500_.jpg" alt="Invincible vol 23: Full House">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71w3wkIj78L._SL1024_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71w3wkIj78L._SL1024_.jpg" alt="Magdalena 2003">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91auqNgDyGL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91auqNgDyGL._SL1500_.jpg" alt="Dark Reign - Elektra">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81B+O2rW29L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81B+O2rW29L._SL1500_.jpg" alt="Warlord of Mars: Dejah Thoris Vol. 7: Duel to the Death ">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/919wWV9aq8L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/919wWV9aq8L._SL1500_.jpg" alt="Guarding the Globe vol 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81TBqEi-L1L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81TBqEi-L1L._SL1500_.jpg" alt="Guarding the Globe vol 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81RGq7Ug8hL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81RGq7Ug8hL._SL1500_.jpg" alt="Battle Beast volume 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61g4xzKDCfL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61g4xzKDCfL.jpg" alt="Monster War">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81O5+AbzUGL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81O5+AbzUGL._SL1500_.jpg" alt="Stud and the Bloodblade">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91rl8BBgDGL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91rl8BBgDGL._SL1500_.jpg" alt="All-New X-Factor vol 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91YYeJwBqGL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91YYeJwBqGL._SL1500_.jpg" alt="All-New X-Factor vol 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71mIdvz8+SL._SL1400_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71mIdvz8+SL._SL1400_.jpg" alt="All-New X-Factor vol 3">
+                </a> 
+
+                <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2078876.jpg?1762211071" class="thumbnail">
+                    <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-2078876.jpg?1762211071" alt="Crimson After Hours">
+                </a> 
+
+                <a href="" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81zMXR98XVL._SL1500_.jpg" alt="Top 10 in entirety">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/91QGxzMKz6L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91QGxzMKz6L._SL1500_.jpg" alt="X-Factor investigations vol 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/812nWGK1TRL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/812nWGK1TRL._SL1500_.jpg" alt="Poison Ivy vol 7">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61wXGGRmgSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61wXGGRmgSL._SL1500_.jpg" alt="Power Fantasy vol 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81rODpI8+1L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81rODpI8+1L._SL1500_.jpg" alt="Ultimate X-Men vol 4">
+                </a> 
+
+
+
 
 
 
 </div alt="Trades finished in 2026 end">
-
 
 
 
