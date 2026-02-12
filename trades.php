@@ -440,6 +440,10 @@
 
 <div alt="February trades" align="center">
 
+            <a href="https://m.media-amazon.com/images/I/914XsYmfGTL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/914XsYmfGTL._SL1500_.jpg" alt="Catwoman vol 3">
+            </a> 
+
             <a href="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" alt="Escape vol 1">
             </a> 
@@ -474,6 +478,14 @@
             <a href="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2. March 4th.">
             </a>
+
+            <a href="" class="thumbnail">
+                <img src="" alt="Assorted Crisis Events vol 2. March 11th.">
+            </a>
+
+            <a href="" class="thumbnail">
+                <img src="" alt="Transformers vol 5. March 11th.">
+            </a>
             
 
 </div>
@@ -494,20 +506,25 @@
                 <img src="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" alt="Ultimate Wolverine vol 3">
             </a>
             
-            <a href="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" alt="Ultimates vol 4">
-            </a>
 
 </div>
 
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May trades</b></p>
+
+<div alt="May trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" alt="Black Cat by G. Willow Wilson">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" alt="Ultimates vol 4">
+            </a>
 
 
-
-
-
-
+</div>
 
 
 
