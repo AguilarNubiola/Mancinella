@@ -122,6 +122,35 @@
 
 
 
+<h3 align="center" style="font-family:'Courier New'; color:purple; font-size:30px">tv shows and movies finished in 2026</h3>
+<div class='tv shows and movies finished in 2025' align="center">
+
+            <a href="https://media.pathe.nl/movie/alex/HO00003111/poster/lg/2/movie&uuid=01BB6305-9557-4E24-8AA1-C70C8F8E0EFF" class="thumbnail">
+                <img src="https://media.pathe.nl/movie/alex/HO00003111/poster/lg/2/movie&uuid=01BB6305-9557-4E24-8AA1-C70C8F8E0EFF" alt="No other Choice">
+            </a>
+
+            <a href="https://www.animationmagazine.net/wordpress/wp-content/uploads/Scarlet_1.jpg" class="thumbnail">
+                <img src="https://www.animationmagazine.net/wordpress/wp-content/uploads/Scarlet_1.jpg" alt="Scarlet">
+            </a>
+
+            <a href="https://main.thgimages.com/?url=https://static.thcdn.com/productimg/960/960/8463320-9524324891908651.jpg&format=webp&width=1500&height=1500&fit=cover" class="thumbnail">
+                <img src="https://main.thgimages.com/?url=https://static.thcdn.com/productimg/960/960/8463320-9524324891908651.jpg&format=webp&width=1500&height=1500&fit=cover" alt="Ghost in the Shell: The first Gig">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81xXdDwBW0S._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81xXdDwBW0S._AC_UF894,1000_QL80_.jpg" alt="Ghost in the Shell: The second gig">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/71Iuc+ExskL._AC_SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/71Iuc+ExskL._AC_SL1500_.jpg" alt="Ghost in the Shell: Solid State Society">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81pAkv+sIML._AC_SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81pAkv+sIML._AC_SL1500_.jpg" alt="Ghost in the Shell 1995">
+            </a>
+
+
+</div>
 
 
 

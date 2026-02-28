@@ -436,24 +436,6 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>February trades</b></p>
-
-<div alt="February trades" align="center">
-
-            <a href="https://m.media-amazon.com/images/I/914XsYmfGTL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/914XsYmfGTL._SL1500_.jpg" alt="Catwoman vol 3">
-            </a> 
-
-            <a href="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" alt="Escape vol 1">
-            </a> 
-            
-            <a href="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91-xa2mJMVL._SL1500_.jpg" alt="Ultimate Spider-man vol 4">
-            </a>
-
-</div>
-
 
 
 
@@ -479,15 +461,6 @@
                 <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2. March 4th.">
             </a>
 
-            <a href="" class="thumbnail">
-                <img src="" alt="Assorted Crisis Events vol 2. March 11th.">
-            </a>
-
-            <a href="" class="thumbnail">
-                <img src="" alt="Transformers vol 5. March 11th.">
-            </a>
-            
-
 </div>
 
 
@@ -505,6 +478,10 @@
             <a href="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" alt="Ultimate Wolverine vol 3">
             </a>
+
+            <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2. April 15th.">
+            </a>
             
 
 </div>
@@ -521,6 +498,10 @@
 
             <a href="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" alt="Ultimates vol 4">
+            </a>
+            
+            <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7124600.jpg?1771844279" class="thumbnail">
+                <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7124600.jpg?1771844279" alt="Absolute Martian Manhunter vol 2">
             </a>
 
 

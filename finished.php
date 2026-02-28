@@ -1891,10 +1891,6 @@
                     <img src="https://m.media-amazon.com/images/I/91QGxzMKz6L._SL1500_.jpg" alt="X-Factor investigations vol 1">
                 </a> 
 
-                <a href="https://m.media-amazon.com/images/I/812nWGK1TRL._SL1500_.jpg" class="thumbnail">
-                    <img src="https://m.media-amazon.com/images/I/812nWGK1TRL._SL1500_.jpg" alt="Poison Ivy vol 7">
-                </a> 
-
                 <a href="https://m.media-amazon.com/images/I/61wXGGRmgSL._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/61wXGGRmgSL._SL1500_.jpg" alt="Power Fantasy vol 3">
                 </a> 
@@ -1902,6 +1898,101 @@
                 <a href="https://m.media-amazon.com/images/I/81rODpI8+1L._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/81rODpI8+1L._SL1500_.jpg" alt="Ultimate X-Men vol 4">
                 </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81phfAmeKdL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81phfAmeKdL._SL1500_.jpg" alt="UBER 01">
+                </a> 
+                
+                <a href="https://m.media-amazon.com/images/I/81AzkV+whjL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81AzkV+whjL._SL1500_.jpg" alt="Uber 02">
+                </a> 
+                
+                <a href="https://m.media-amazon.com/images/I/81D1Ft-7YiL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81D1Ft-7YiL._SL1500_.jpg" alt="Uber 03">
+                </a> 
+                
+                <a href="https://m.media-amazon.com/images/I/81B5IrWHHSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81B5IrWHHSL._SL1500_.jpg" alt="Uber 04">
+                </a> 
+                
+                <a href="https://m.media-amazon.com/images/I/81VKtkgT5wL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81VKtkgT5wL._SL1500_.jpg" alt="Uber 05">
+                </a> 
+                
+                <a href="https://m.media-amazon.com/images/I/91c8o95b38L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91c8o95b38L._SL1500_.jpg" alt="X-Factor first series by Peter David">
+                </a> 
+                
+                <a href="https://m.media-amazon.com/images/I/61srX+WtKjL._SL1009_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61srX+WtKjL._SL1009_.jpg" alt="Rose and Thorn">
+                </a> 
+                
+                <a href="https://m.media-amazon.com/images/I/612jURJ-GGL._SL1000_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/612jURJ-GGL._SL1000_.jpg" alt="V for Vendetta">
+                </a> 
+                
+                <a href="https://club-cdn.clz.com/original/2X/8/8a68f0e0befb21dd8b1b7eebbf3a338546ffb11a.jpeg" class="thumbnail">
+                    <img src="https://club-cdn.clz.com/original/2X/8/8a68f0e0befb21dd8b1b7eebbf3a338546ffb11a.jpeg" alt="Hypergeist">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81bqtsBcbSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81bqtsBcbSL._SL1500_.jpg" alt="Lightstep">
+                </a> 
+
+                <a href="https://media.mycomicshop.com/n_iv/600/8095847.jpg" class="thumbnail">
+                    <img src="https://media.mycomicshop.com/n_iv/600/8095847.jpg" alt="Flickering Lights">
+                </a> 
+
+                <a href="https://images-na.ssl-images-amazon.com/images/I/71wNAo8t74L._AC_UL375_SR375,375_.jpg" class="thumbnail">
+                    <img src="https://images-na.ssl-images-amazon.com/images/I/71wNAo8t74L._AC_UL375_SR375,375_.jpg" alt="The College Try">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61YiHCChRDL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61YiHCChRDL._AC_UF1000,1000_QL80_.jpg" alt="Dallas Barr">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81Cqp2nangL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81Cqp2nangL._AC_UF1000,1000_QL80_.jpg" alt="Appleseed vol 1">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71lXoK4wsUL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71lXoK4wsUL._AC_UF894,1000_QL80_.jpg" alt="Appleseed vol 2">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/A1R-r2foNVL._UF1000,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A1R-r2foNVL._UF1000,1000_QL80_.jpg" alt="Appleseed vol 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/61d+4aJFwWL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61d+4aJFwWL._AC_UF1000,1000_QL80_.jpg" alt="Appleseed vol 4">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/914XsYmfGTL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/914XsYmfGTL._SL1500_.jpg" alt="Catwoman vol 3">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81flYPrpAiL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81flYPrpAiL._SL1500_.jpg" alt="Ultimate Spider-man vol 4">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81bjKhdD+wL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81bjKhdD+wL._SL1500_.jpg" alt="Poison Ivy vol 7">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/71b-+oukGWL._SL1200_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71b-+oukGWL._SL1200_.jpg" alt="Ghost in the Shell">
+                </a> 
+
+                <a href="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81LeRnxYtHL._SL1500_.jpg" alt="Escape vol 1">
+                </a> 
+
+                <a href="https://cdn.archonia.com/images/1-104587973-1-1-original1/transformers-30-cover-a-david-nakayama.jpg" class="thumbnail">
+                    <img src="https://cdn.archonia.com/images/1-104587973-1-1-original1/transformers-30-cover-a-david-nakayama.jpg" alt="Transformers vol 5. March 11th.">
+                </a>
+
+
+
 
 
 
