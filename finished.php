@@ -1991,12 +1991,145 @@
                     <img src="https://cdn.archonia.com/images/1-104587973-1-1-original1/transformers-30-cover-a-david-nakayama.jpg" alt="Transformers vol 5. March 11th.">
                 </a>
 
+                <a href="https://m.media-amazon.com/images/I/81E-UIzyt9L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81E-UIzyt9L._SL1500_.jpg" alt="Promethea vol 1">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/81AOHXJne8L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81AOHXJne8L._SL1500_.jpg" alt="Promethea vol 2">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/81WDGfm3A4L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81WDGfm3A4L._SL1500_.jpg" alt="Promethea vol 3">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/81hPdPgLkrL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81hPdPgLkrL._SL1500_.jpg" alt="Promethea vol 4">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/81xZEkSIO2L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81xZEkSIO2L._SL1500_.jpg" alt="Promethea vol 5">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/91EeegGz3gL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91EeegGz3gL._SL1500_.jpg" alt="Cyberpunk: Edgerunners MADNESS">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/61AQNTNSGCL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61AQNTNSGCL.jpg" alt="TOM STRONGS TERRIFIC TALES 01">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81DE9pPxHCL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81DE9pPxHCL._SL1500_.jpg" alt="TOM STRONGS TERRIFIC TALES 02">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/916URwwOLVL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/916URwwOLVL._SL1500_.jpg" alt="Avengers By Jed Mackay Vol. 6: The Grail">
+                </a>
+            
+                <a href="https://m.media-amazon.com/images/I/91viWFi2YgL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91viWFi2YgL._SL1500_.jpg" alt="Beneath the Trees Where Nobody Sees: Rite of Spring">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81WUQdCCj9L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81WUQdCCj9L._SL1500_.jpg" alt="Jessica Jones: Blind spot">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81tMzh1KkTL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81tMzh1KkTL._SL1500_.jpg" alt="Jessica Jones: Purple Daughter ">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71G-TOjXo6L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71G-TOjXo6L._SL1500_.jpg" alt="Fraction's Batman vol 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2. March 4th.">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71ZNNHktUVL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71ZNNHktUVL._SL1500_.jpg" alt="Red Light">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81bTWZY2GJL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81bTWZY2GJL._SL1500_.jpg" alt="Spectators">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91xzgiq6n8L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91xzgiq6n8L._SL1500_.jpg" alt="X-Factor vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71ThSRsDzcL._SL1040_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71ThSRsDzcL._SL1040_.jpg" alt="X-Factor vol 4">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61iSao6sd2L.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61iSao6sd2L.jpg" alt="X-Factor vol 5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/911g4EQMmlL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/911g4EQMmlL._SL1500_.jpg" alt="X-Factor vol 6">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/9192zMnTmrL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/9192zMnTmrL._SL1500_.jpg" alt="X-Factor vol 7">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61t8pxKku-L.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61t8pxKku-L.jpg" alt="X-Factor vol 8">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81i2vyYDYDL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81i2vyYDYDL._SL1500_.jpg" alt="X-Factor vol 9">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91DCw1GrIML._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91DCw1GrIML._SL1500_.jpg" alt="X-Factor vol 10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91AGitaQlSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91AGitaQlSL._SL1500_.jpg" alt="X-Factor vol 11">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91v1cwo+EML._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91v1cwo+EML._SL1500_.jpg" alt="X-Factor vol 12">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61nmgNXvseL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61nmgNXvseL.jpg" alt="X-Factor vol 13">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91384MzLlNL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91384MzLlNL._SL1500_.jpg" alt="X-Factor vol 14">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91AFxSHlNVL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91AFxSHlNVL._SL1500_.jpg" alt="X-Factor vol 15">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91MddH4b0ZL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91MddH4b0ZL._SL1500_.jpg" alt="X-Factor vol 16">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81rDTeBRsFL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81rDTeBRsFL._SL1500_.jpg" alt="X-Factor vol 17">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81QH37n9IDL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81QH37n9IDL._SL1500_.jpg" alt="X-Factor vol 18">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81vOA+ULiLL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81vOA+ULiLL._SL1500_.jpg" alt="X-Factor vol 19">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/910G+GEz9KS._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/910G+GEz9KS._SL1500_.jpg" alt="X-Factor vol 20">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81fQfEs-nIS._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81fQfEs-nIS._SL1500_.jpg" alt="X-Factor vol 21">
+                </a>
 
 
 </div alt="Trades finished in 2026 end">
@@ -2468,8 +2601,8 @@
                         <img src="https://i0.wp.com/getcomics.org/share/uploads/2022/12/Radiant-Red-Vol.-1-TPB-2022.jpg?fit=400%2C615&ssl=1" alt="Radiant Red vol 1">
                     </a>
 
-                    <a href="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" class="thumbnail">
-                        <img src="https://comicbookclublive.com/wp-content/uploads/2024/12/The-Question-03_Cvr_Main_Cian-Tormey-crop.webp" alt="Question: All Along the Watchtower">
+                    <a href="https://m.media-amazon.com/images/I/81dBW+0e8kL._SL1500_.jpg" class="thumbnail">
+                        <img src="https://m.media-amazon.com/images/I/81dBW+0e8kL._SL1500_.jpg" alt="Question: All Along the Watchtower">
                     </a>
 
                     <a href="https://i0.wp.com/getcomics.org/share/uploads/2025/02/NYX-8-2025.jpg?fit=400%2C608&ssl=1" class="thumbnail">

@@ -52,7 +52,61 @@
 
 <div alt="Current target" align="center">
 
+        <a href="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" alt="Claremont's Uncanny X-Men 4/10">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" alt="Claremont's Uncanny X-Men 5/10">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/61ugGB25LYL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61ugGB25LYL.jpg" alt="Claremont's Uncanny X-Men 6/10">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" alt="Claremont's Uncanny X-Men 7/10">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" alt="Claremont's Uncanny X-Men 8/10">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" alt="Claremont's Uncanny X-Men 9/10">
+        </a>
+
+        <a href="" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" alt="Claremont's Uncanny X-Men 10/10">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/71TEY-hoh4L._SL1005_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/71TEY-hoh4L._SL1005_.jpg" alt="New Mutants 1/4">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/71af99WecZL._SL1002_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/71af99WecZL._SL1002_.jpg" alt="New Mutants 2/4">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/61YZcN9QKIL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61YZcN9QKIL.jpg" alt="New Mutants 3/4">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91o1LttlmHL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91o1LttlmHL._SL1500_.jpg" alt="New Mutants 4/4">
+        </a>
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
+
+
+
+
+
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
 
 
 </div>
@@ -220,6 +274,9 @@
 
 
 
+<a href="" class="thumbnail">
+    <img src="" alt="">
+</a>
 
 
 
@@ -457,9 +514,15 @@
 
 <div alt="March trades" align="center">
 
+
+
             <a href="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2. March 4th.">
             </a>
+
+
+
+            
 
 </div>
 
@@ -596,8 +659,8 @@
                 <img src="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" alt="Monstress">
             </a>
 
-            </a><a href="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1649913264568-A7741UOKA32H9W53N2WZ/yck5pgoudbuw_sjiz62z2u8nta-06bkv_66gcq_byom.jpeg?format=2500w" class="thumbnail">
-                <img src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1649913264568-A7741UOKA32H9W53N2WZ/yck5pgoudbuw_sjiz62z2u8nta-06bkv_66gcq_byom.jpeg?format=2500w" alt="Berserk">
+            </a><a href="https://m.media-amazon.com/images/I/81zK3Qd8bCL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81zK3Qd8bCL._SL1500_.jpg" alt="Promethea">
             </a>
 
 
@@ -635,9 +698,10 @@
 				<img src="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" alt="Low">
 			</a>
 
-			</a><a href="https://m.media-amazon.com/images/I/71P2EnT1VVL._UF894,1000_QL80_.jpg" class="thumbnail">
-				<img src="https://m.media-amazon.com/images/I/71P2EnT1VVL._UF894,1000_QL80_.jpg" alt="Sunstone">
-			</a>
+            </a><a href="https://m.media-amazon.com/images/I/81zK3Qd8bCL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81zK3Qd8bCL._SL1500_.jpg" alt="Promethea">
+            </a>
+
 
 
 
