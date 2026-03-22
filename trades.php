@@ -32,7 +32,22 @@
 
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>The remaining runs</b></p>
 
+<div alt="he remaining runs" align="center">
+
+        <a href="https://m.media-amazon.com/images/I/91MWhU8-aSL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91MWhU8-aSL._SL1500_.jpg" alt="New Mutants by Claremont">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" alt="Uncanny X-Men by Claremont">
+        </a>
+
+
+
+
+</div>
 
 
 
@@ -56,6 +71,33 @@
             <img src="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" alt="Claremont's Uncanny X-Men 4/10">
         </a>
 
+
+        
+        
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Next up</b></p>
+
+<div alt="Next up" align="center">
+
         <a href="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" alt="Claremont's Uncanny X-Men 5/10">
         </a>
@@ -76,70 +118,47 @@
             <img src="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" alt="Claremont's Uncanny X-Men 9/10">
         </a>
 
-        <a href="" class="thumbnail">
+        <a href="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" alt="Claremont's Uncanny X-Men 10/10">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/71TEY-hoh4L._SL1005_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/71TEY-hoh4L._SL1005_.jpg" alt="New Mutants 1/4">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/71af99WecZL._SL1002_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/71af99WecZL._SL1002_.jpg" alt="New Mutants 2/4">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/61YZcN9QKIL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61YZcN9QKIL.jpg" alt="New Mutants 3/4">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/91o1LttlmHL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91o1LttlmHL._SL1500_.jpg" alt="New Mutants 4/4">
-        </a>
-
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 
 
 
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -510,21 +529,7 @@
 
 
 
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>March trades</b></p>
 
-<div alt="March trades" align="center">
-
-
-
-            <a href="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2. March 4th.">
-            </a>
-
-
-
-            
-
-</div>
 
 
 

@@ -2055,6 +2055,10 @@
                     <img src="https://m.media-amazon.com/images/I/81bTWZY2GJL._SL1500_.jpg" alt="Spectators">
                 </a>
 
+                <a href="https://m.media-amazon.com/images/I/51tbeALiFbL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51tbeALiFbL.jpg" alt="Amiante">
+                </a>
+
                 <a href="https://m.media-amazon.com/images/I/91xzgiq6n8L._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/91xzgiq6n8L._SL1500_.jpg" alt="X-Factor vol 3">
                 </a>
@@ -2095,6 +2099,10 @@
                     <img src="https://m.media-amazon.com/images/I/91v1cwo+EML._SL1500_.jpg" alt="X-Factor vol 12">
                 </a>
 
+                <a href="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2.">
+                </a>
+
                 <a href="https://m.media-amazon.com/images/I/61nmgNXvseL.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/61nmgNXvseL.jpg" alt="X-Factor vol 13">
                 </a>
@@ -2130,6 +2138,51 @@
                 <a href="https://m.media-amazon.com/images/I/81fQfEs-nIS._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/81fQfEs-nIS._SL1500_.jpg" alt="X-Factor vol 21">
                 </a>
+
+                <a href="https://m.media-amazon.com/images/I/61CwgOaWtFL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61CwgOaWtFL.jpg" alt="New Mutants graphic novel">
+                </a>
+         
+                <a href="https://m.media-amazon.com/images/I/61dRdlh0avL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61dRdlh0avL.jpg" alt="New Mutants 1/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61E2egUyq4L.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61E2egUyq4L.jpg" alt="New Mutants 2/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61tbZwUHcuL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61tbZwUHcuL.jpg" alt="New Mutants 3/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51dGUIhY0oL._AC_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51dGUIhY0oL._AC_.jpg" alt="New Mutants part 4">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61iZ1UelRBL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61iZ1UelRBL.jpg" alt="New Mutants 5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91DUFzdhVSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91DUFzdhVSL._SL1500_.jpg" alt="New Mutants 6">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91VKmiZkjbL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91VKmiZkjbL._SL1500_.jpg" alt="New Mutants 7">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/A17YRK-GRjL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A17YRK-GRjL._SL1500_.jpg" alt="New Mutants 8">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/A1mb8oJA1AL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A1mb8oJA1AL._SL1500_.jpg" alt="New Mutants 9">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61jFj6lacAL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61jFj6lacAL.jpg" alt="New Mutants 10">
+                </a>
+                        
 
 
 </div alt="Trades finished in 2026 end">
