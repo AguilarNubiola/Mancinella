@@ -1989,6 +1989,14 @@
 
                 <a href="https://cdn.archonia.com/images/1-104587973-1-1-original1/transformers-30-cover-a-david-nakayama.jpg" class="thumbnail">
                     <img src="https://cdn.archonia.com/images/1-104587973-1-1-original1/transformers-30-cover-a-david-nakayama.jpg" alt="Transformers vol 5. March 11th.">
+                </a>                
+
+                <a href="https://images.penguinrandomhouse.com/cover/9781799508991" class="thumbnail">
+                    <img src="https://images.penguinrandomhouse.com/cover/9781799508991" alt="Detective Comics Vol. 3: The Courage That Kills">
+                </a>
+
+                <a href="https://images1.penguinrandomhouse.com/cover/9781302960889" class="thumbnail">
+                    <img src="https://images1.penguinrandomhouse.com/cover/9781302960889" alt="X-Men by Jed Mackay Vol. 4: Age of Revelation Aftermath">
                 </a>
 
                 <a href="https://m.media-amazon.com/images/I/81E-UIzyt9L._SL1500_.jpg" class="thumbnail">
@@ -2182,10 +2190,132 @@
                 <a href="https://m.media-amazon.com/images/I/61jFj6lacAL.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/61jFj6lacAL.jpg" alt="New Mutants 10">
                 </a>
-                        
+                
+                <a href="https://m.media-amazon.com/images/I/811iuye+KEL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/811iuye+KEL._SL1500_.jpg" alt="Metamorphosis">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51LXMUoHDuL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51LXMUoHDuL.jpg" alt="Astonishing X-Men vol 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51V5ojZk-rL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51V5ojZk-rL.jpg" alt="Astonishing X-Men vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91WYiYqzfRL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91WYiYqzfRL._SL1500_.jpg" alt="Astonishing X-Men vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61jFj6lacAL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71mpKm+EQML._SL1023_.jpg" alt="Astonishing X-Men vol 4">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71x4GUBd-9L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71x4GUBd-9L._SL1500_.jpg" alt="Good Devils Don't Play Fair with Evil">
+                </a>
 
 
 </div alt="Trades finished in 2026 end">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4470,6 +4600,10 @@
                         <img src="https://www.akim.nl/Images/Dynamic/500x500/Stripshop.Publication/370108/40714-magika-integraal-2-de-vreselijke-kathedraal-hardcover-arboris.jpg" alt="Magika integraal 2: De Vreselijke Kathedraal">
                     </a>        
 
+
+
+
+
 </div alt="2025 trades finished end">
 
 
@@ -4482,13 +4616,154 @@
 
 
 
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
 <br>
 
 <br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

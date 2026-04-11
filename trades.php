@@ -36,16 +36,17 @@
 
 <div alt="he remaining runs" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/91MWhU8-aSL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91MWhU8-aSL._SL1500_.jpg" alt="New Mutants by Claremont">
-        </a>
-
         <a href="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" alt="Uncanny X-Men by Claremont">
         </a>
 
+        <a href="https://m.media-amazon.com/images/I/91AaWXCplmL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91AaWXCplmL._SL1500_.jpg" alt="Giffen and Matteis Justice League">
+        </a>
 
-
+        <a href="https://m.media-amazon.com/images/I/810n6p+2ceL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/810n6p+2ceL._SL1500_.jpg" alt="The Sandman">
+        </a>
 
 </div>
 
@@ -70,17 +71,6 @@
         <a href="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" alt="Claremont's Uncanny X-Men 4/10">
         </a>
-
-
-        
-        
-
-
-
-
-
-
-
 
 </div>
 
@@ -548,7 +538,7 @@
             </a>
 
             <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2. April 15th.">
+                <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2.">
             </a>
             
 
@@ -588,7 +578,16 @@
 <br>
 
 
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June trades</b></p>
 
+<div alt="June trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2.">
+            </a>
+
+
+</div>
 
 
 
