@@ -2107,10 +2107,6 @@
                     <img src="https://m.media-amazon.com/images/I/91v1cwo+EML._SL1500_.jpg" alt="X-Factor vol 12">
                 </a>
 
-                <a href="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" class="thumbnail">
-                    <img src="https://m.media-amazon.com/images/I/71be23XkdGL._SL1500_.jpg" alt="Absolute Green Lantern vol 2.">
-                </a>
-
                 <a href="https://m.media-amazon.com/images/I/61nmgNXvseL.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/61nmgNXvseL.jpg" alt="X-Factor vol 13">
                 </a>
@@ -2214,6 +2210,52 @@
                 <a href="https://m.media-amazon.com/images/I/71x4GUBd-9L._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/71x4GUBd-9L._SL1500_.jpg" alt="Good Devils Don't Play Fair with Evil">
                 </a>
+
+                <a href="https://m.media-amazon.com/images/I/81Gu9-Y2b4L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81Gu9-Y2b4L._SL1500_.jpg" alt="Power Rangers Prime finale">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91zt2u4e30L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91zt2u4e30L._SL1500_.jpg" alt="Uncanny X-Men by Gail Simone Vol. 4: Where Monsters Dwell ">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81W-mc5-odL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81W-mc5-odL._SL1500_.jpg" alt="Die: Loaded vol 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81tXc0-hL5L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81tXc0-hL5L._SL1500_.jpg" alt="Blood and Thunder vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" alt="Claremont's Uncanny X-Men 4/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" alt="Claremont's Uncanny X-Men 5/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61ugGB25LYL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61ugGB25LYL.jpg" alt="Claremont's Uncanny X-Men 6/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/912pjUZBJ5L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/912pjUZBJ5L._SL1500_.jpg" alt="The Forged Vol. 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/811BoEpZpWL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/811BoEpZpWL._SL1500_.jpg" alt="The Forged Vol. 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71jGFysKF6L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71jGFysKF6L._SL1500_.jpg" alt="The Forged Vol. 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81fP60frpXL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81fP60frpXL._SL1500_.jpg" alt="Angelus">
+                </a>
+
+
 
 
 </div alt="Trades finished in 2026 end">

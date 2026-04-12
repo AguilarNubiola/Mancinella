@@ -40,12 +40,12 @@
             <img src="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" alt="Uncanny X-Men by Claremont">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91AaWXCplmL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91AaWXCplmL._SL1500_.jpg" alt="Giffen and Matteis Justice League">
-        </a>
-
         <a href="https://m.media-amazon.com/images/I/810n6p+2ceL._SL1500_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/810n6p+2ceL._SL1500_.jpg" alt="The Sandman">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/81PSeUvROSL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81PSeUvROSL._SL1500_.jpg" alt="Lucifer">
         </a>
 
 </div>
@@ -68,9 +68,23 @@
 
 <div alt="Current target" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/612fb1W3ZML.jpg" alt="Claremont's Uncanny X-Men 4/10">
+
+        <a href="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" alt="Claremont's Uncanny X-Men 7/10">
         </a>
+
+        <a href="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" alt="Claremont's Uncanny X-Men 8/10">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" alt="Claremont's Uncanny X-Men 9/10">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" alt="Claremont's Uncanny X-Men 10/10">
+        </a>
+
 
 </div>
 
@@ -88,29 +102,7 @@
 
 <div alt="Next up" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/6127Av10+VL.jpg" alt="Claremont's Uncanny X-Men 5/10">
-        </a>
 
-        <a href="https://m.media-amazon.com/images/I/61ugGB25LYL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61ugGB25LYL.jpg" alt="Claremont's Uncanny X-Men 6/10">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" alt="Claremont's Uncanny X-Men 7/10">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" alt="Claremont's Uncanny X-Men 8/10">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" alt="Claremont's Uncanny X-Men 9/10">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" alt="Claremont's Uncanny X-Men 10/10">
-        </a>
 
 
 
@@ -536,13 +528,54 @@
             <a href="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" alt="Ultimate Wolverine vol 3">
             </a>
-
-            <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2.">
-            </a>
-            
+    
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -554,14 +587,9 @@
                 <img src="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" alt="Black Cat by G. Willow Wilson">
             </a>
 
-            <a href="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91gPoY6xpiL._SL1500_.jpg" alt="Ultimates vol 4">
+            <a href="https://m.media-amazon.com/images/I/81r98MfRfML._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81r98MfRfML._SL1500_.jpg" alt="Ultimates vol 4">
             </a>
-            
-            <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7124600.jpg?1771844279" class="thumbnail">
-                <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7124600.jpg?1771844279" alt="Absolute Martian Manhunter vol 2">
-            </a>
-
 
 </div>
 
@@ -578,12 +606,42 @@
 <br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>June trades</b></p>
 
 <div alt="June trades" align="center">
 
             <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2.">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91Ra+SlEeyL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91Ra+SlEeyL._SL1500_.jpg" alt="Ultimate Endgame">
+            </a>
+
+            <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7124600.jpg?1771844279" class="thumbnail">
+                <img src="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7124600.jpg?1771844279" alt="Absolute Martian Manhunter vol 2">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81Z1XwQF1NL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81Z1XwQF1NL._SL1500_.jpg" alt="Magik and Colossus">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81C+9GuXsEL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81C+9GuXsEL._SL1500_.jpg" alt="Absolute Wonder Woman vol 3">
             </a>
 
 
