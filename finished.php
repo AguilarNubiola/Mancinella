@@ -2255,6 +2255,20 @@
                     <img src="https://m.media-amazon.com/images/I/81fP60frpXL._SL1500_.jpg" alt="Angelus">
                 </a>
 
+                <a href="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" alt="Ultimate Wolverine vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" alt="Claremont's Uncanny X-Men 7/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" alt="Claremont's Uncanny X-Men 8/10">
+                </a>
+
+
+
 
 
 

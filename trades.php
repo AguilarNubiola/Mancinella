@@ -69,14 +69,6 @@
 <div alt="Current target" align="center">
 
 
-        <a href="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/A1OFfHEmydL._SL1500_.jpg" alt="Claremont's Uncanny X-Men 7/10">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" alt="Claremont's Uncanny X-Men 8/10">
-        </a>
-
         <a href="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" class="thumbnail">
             <img src="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" alt="Claremont's Uncanny X-Men 9/10">
         </a>
@@ -517,20 +509,6 @@
 
 
 
-
-
-
-
-<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>April trades</b></p>
-
-<div alt="April trades" align="center">
-
-            <a href="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/8153QZy2i+L._SL1500_.jpg" alt="Ultimate Wolverine vol 3">
-            </a>
-    
-
-</div>
 
 
 
