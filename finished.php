@@ -2267,6 +2267,30 @@
                     <img src="https://m.media-amazon.com/images/I/61XKc2HsbNL.jpg" alt="Claremont's Uncanny X-Men 8/10">
                 </a>
 
+                <a href="https://cdn.shopify.com/s/files/1/0611/8545/8333/files/Disavowed_Preview_Copy_Page_1_480x480.jpg?v=1723468134" class="thumbnail">
+                    <img src="https://cdn.shopify.com/s/files/1/0611/8545/8333/files/Disavowed_Preview_Copy_Page_1_480x480.jpg?v=1723468134" alt="Disavowed">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91fSM-SqziL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91fSM-SqziL._SL1500_.jpg" alt="Bomb Queen specials">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/71RbHEKv46L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71RbHEKv46L._SL1500_.jpg" alt="Bomb Queen vol 1">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81vIcMqY-WL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81vIcMqY-WL._SL1500_.jpg" alt="Bomb Queen vol 8">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/810itbAtgdL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/810itbAtgdL._SL1500_.jpg" alt="Bomb Queen vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81JUogrUDhL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81JUogrUDhL._SL1500_.jpg" alt="Bomb Queen vol 3">
+                </a>
+
 
 
 

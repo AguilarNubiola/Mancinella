@@ -77,6 +77,36 @@
             <img src="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" alt="Claremont's Uncanny X-Men 10/10">
         </a>
 
+        <a href="https://m.media-amazon.com/images/I/91iFtI7xJPL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91iFtI7xJPL._SL1500_.jpg" alt="JSA 10 BLACK VENGEANCE">
+        </a>
+
+
+
+
+
+
+        
+
+        <a href="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" alt="Bomb Queen vol 4">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" alt="Bomb Queen vol 5">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" alt="Bomb Queen vol 6">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" alt="Bomb Queen vol 7">
+        </a>
+
+
+
+
 
 </div>
 
