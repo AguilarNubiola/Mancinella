@@ -86,23 +86,8 @@
 
 
 
-        
 
-        <a href="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" alt="Bomb Queen vol 4">
-        </a>
 
-        <a href="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" alt="Bomb Queen vol 5">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" alt="Bomb Queen vol 6">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" alt="Bomb Queen vol 7">
-        </a>
 
 
 
@@ -124,7 +109,21 @@
 
 <div alt="Next up" align="center">
 
+        <a href="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" alt="Bomb Queen vol 4">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" alt="Bomb Queen vol 5">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" alt="Bomb Queen vol 6">
+        </a>
+
+        <a href="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" alt="Bomb Queen vol 7">
+        </a>
 
 
 
@@ -313,6 +312,10 @@
 
             <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" alt="Black Cat by G. Willow Wilson">
             </a>
 
 </div>
@@ -591,10 +594,6 @@
 
 <div alt="May trades" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" alt="Black Cat by G. Willow Wilson">
-            </a>
-
             <a href="https://m.media-amazon.com/images/I/81r98MfRfML._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81r98MfRfML._SL1500_.jpg" alt="Ultimates vol 4">
             </a>
@@ -632,12 +631,12 @@
 
 <div alt="June trades" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2.">
-            </a>
-
             <a href="https://m.media-amazon.com/images/I/91Ra+SlEeyL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/91Ra+SlEeyL._SL1500_.jpg" alt="Ultimate Endgame">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2.">
             </a>
 
             <a href="https://s3.amazonaws.com/comicgeeks/comics/covers/large-7124600.jpg?1771844279" class="thumbnail">
@@ -756,16 +755,16 @@
 
 <div alt="Single book Rushmore" align="center">
 
+			<a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
+				<img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events">
+			</a>
+
 			<a href="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
 				<img src="https://m.media-amazon.com/images/I/71f4lqOymyL._AC_UF1000,1000_QL80_.jpg" alt="Empowered">
 			</a>
 
 			<a href="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" class="thumbnail">
 				<img src="https://m.media-amazon.com/images/I/81bGs636lzL.jpg" alt="Monstress">
-			</a>
-
-			<a href="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" class="thumbnail">
-				<img src="https://m.media-amazon.com/images/I/81B6zW1IgiL._AC_UF1000,1000_QL80_.jpg" alt="Low">
 			</a>
 
             </a><a href="https://m.media-amazon.com/images/I/81zK3Qd8bCL._SL1500_.jpg" class="thumbnail">
@@ -849,8 +848,8 @@
 			<img src="https://comichub.blob.core.windows.net/high/56948fe3-0757-47a8-a298-d7769926fa4d.jpg" alt="Planetary">
 		</a>
 
-		<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rick_Remender_-_01.jpg/640px-Rick_Remender_-_01.jpg" class="thumbnail">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rick_Remender_-_01.jpg/640px-Rick_Remender_-_01.jpg" alt="Rick Remender">
+		<a href="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/rick_remender.jpg" class="thumbnail">
+			<img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/rick_remender.jpg" alt="Rick Remender">
 			<img src="https://m.media-amazon.com/images/I/71Yx20mxdyL._AC_UF894,1000_QL80_.jpg" alt="Low">
 		</a>
 
