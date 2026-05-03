@@ -1918,6 +1918,10 @@
                 <a href="https://m.media-amazon.com/images/I/81VKtkgT5wL._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/81VKtkgT5wL._SL1500_.jpg" alt="Uber 05">
                 </a> 
+
+                <a href="https://m.media-amazon.com/images/I/813dQ0+U4lL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/813dQ0+U4lL._SL1500_.jpg" alt="Uber 06">
+                </a> 
                 
                 <a href="https://m.media-amazon.com/images/I/91c8o95b38L._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/91c8o95b38L._SL1500_.jpg" alt="X-Factor first series by Peter David">
@@ -2289,6 +2293,54 @@
 
                 <a href="https://m.media-amazon.com/images/I/81JUogrUDhL._SL1500_.jpg" class="thumbnail">
                     <img src="https://m.media-amazon.com/images/I/81JUogrUDhL._SL1500_.jpg" alt="Bomb Queen vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91iFtI7xJPL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91iFtI7xJPL._SL1500_.jpg" alt="JSA 10 BLACK VENGEANCE">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" alt="Bomb Queen vol 4">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" alt="Bomb Queen vol 6">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" alt="Bomb Queen vol 5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" alt="Bomb Queen vol 7">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" alt="Claremont's Uncanny X-Men 9/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" alt="Claremont's Uncanny X-Men 10/10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" alt="Uncanny X-Men by Claremont">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81mzalxU8ZL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81mzalxU8ZL._SL1500_.jpg" alt="Once & Future vol 1">
+                </a>
+                
+                <a href="https://m.media-amazon.com/images/I/91Qld1eN5FL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91Qld1eN5FL._SL1500_.jpg" alt="Once & Future vol 2">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51QhA1Uw-7L.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51QhA1Uw-7L.jpg" alt="Hotwire: Requiem For The Dead">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/51AIygee8HL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/51AIygee8HL.jpg" alt="Hotwire: Deep Cut">
                 </a>
 
 

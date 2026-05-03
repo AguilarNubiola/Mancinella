@@ -36,8 +36,8 @@
 
 <div alt="he remaining runs" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91NkI+ZbSbL._SL1500_.jpg" alt="Uncanny X-Men by Claremont">
+        <a href="https://m.media-amazon.com/images/I/81mzalxU8ZL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81mzalxU8ZL._SL1500_.jpg" alt="Once & Future">
         </a>
 
         <a href="https://m.media-amazon.com/images/I/810n6p+2ceL._SL1500_.jpg" class="thumbnail">
@@ -69,31 +69,34 @@
 <div alt="Current target" align="center">
 
 
-        <a href="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/61jBNVjjEjL._AC_.jpg" alt="Claremont's Uncanny X-Men 9/10">
+        <a href="https://m.media-amazon.com/images/I/81CDz7VNbSL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81CDz7VNbSL._SL1500_.jpg" alt="Once & Future vol 3">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/617iV1Q7xHL.jpg" alt="Claremont's Uncanny X-Men 10/10">
+        <a href="https://m.media-amazon.com/images/I/81dO9i+45wL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81dO9i+45wL._SL1500_.jpg" alt="Once & Future vol 4">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91iFtI7xJPL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91iFtI7xJPL._SL1500_.jpg" alt="JSA 10 BLACK VENGEANCE">
+        <a href="https://m.media-amazon.com/images/I/81yU5w3pq4L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81yU5w3pq4L._SL1500_.jpg" alt="Once & Future vol 5">
         </a>
-
-
-
-
-
-
-
-
-
-
-
-
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -109,36 +112,51 @@
 
 <div alt="Next up" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81lAEjbSCwL._SL1500_.jpg" alt="Bomb Queen vol 4">
+
+
+        <a href="https://m.media-amazon.com/images/I/91nftVNWrqL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91nftVNWrqL._SL1500_.jpg" alt="Lucifer vol 1">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/816lTmaR8EL._SL1500_.jpg" alt="Bomb Queen vol 5">
+        <a href="https://m.media-amazon.com/images/I/71GE8qZuFcL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/71GE8qZuFcL._SL1500_.jpg" alt="Lucifer vol 2">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81ng5ncwT4L._SL1500_.jpg" alt="Bomb Queen vol 6">
+        <a href="https://m.media-amazon.com/images/I/8144YHE2TBL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/8144YHE2TBL._SL1500_.jpg" alt="Lucifer vol 3">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/51H5LM0d6pL.jpg" alt="Bomb Queen vol 7">
+        <a href="https://m.media-amazon.com/images/I/81wxQ-Qd3NL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81wxQ-Qd3NL._SL1500_.jpg" alt="Lucifer vol 4">
         </a>
 
+        <a href="https://m.media-amazon.com/images/I/81sqmgOnUxL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81sqmgOnUxL._SL1500_.jpg" alt="Lucifer vol 5">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/91FLROpNeyL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91FLROpNeyL._SL1500_.jpg" alt="Lucifer vol 6">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/918rj3Hf2UL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/918rj3Hf2UL._SL1500_.jpg" alt="Lucifer vol 7">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/91lLcItK3yL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91lLcItK3yL._SL1500_.jpg" alt="Lucifer vol 8">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/31kazdLfSnL.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/31kazdLfSnL.jpg" alt="Lucifer vol 9">
+        </a>
 
+        <a href="https://m.media-amazon.com/images/I/91XfosHh6kL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91XfosHh6kL._SL1500_.jpg" alt="Lucifer vol 10">
+        </a>
 
-
-
-
-
-
-
-
-
+        <a href="https://m.media-amazon.com/images/I/919cThuwv6L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/919cThuwv6L._SL1500_.jpg" alt="Lucifer vol 11">
+        </a>
 
 
 
@@ -296,9 +314,6 @@
 
 
 
-<a href="" class="thumbnail">
-    <img src="" alt="">
-</a>
 
 
 
@@ -316,6 +331,10 @@
 
             <a href="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" alt="Black Cat by G. Willow Wilson">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/919BJbj3PoL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/919BJbj3PoL._SL1500_.jpg" alt="The City Beneath her Feet">
             </a>
 
 </div>
@@ -594,6 +613,11 @@
 
 <div alt="May trades" align="center">
 
+
+            <a href="https://m.media-amazon.com/images/I/91fiq13uXCL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91fiq13uXCL._SL1500_.jpg" alt="Sai: Dimensional Rivals">
+            </a>
+
             <a href="https://m.media-amazon.com/images/I/81r98MfRfML._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81r98MfRfML._SL1500_.jpg" alt="Ultimates vol 4">
             </a>
@@ -635,6 +659,10 @@
                 <img src="https://m.media-amazon.com/images/I/91Ra+SlEeyL._SL1500_.jpg" alt="Ultimate Endgame">
             </a>
 
+            <a href="https://m.media-amazon.com/images/I/71lpFVvpZfL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/71lpFVvpZfL._SL1500_.jpg" alt="Ghost Peppers vol 2">
+            </a>
+
             <a href="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81DyiaZa79L._SL1500_.jpg" alt="Assorted Crisis Events vol 2.">
             </a>
@@ -651,6 +679,80 @@
                 <img src="https://m.media-amazon.com/images/I/81C+9GuXsEL._SL1500_.jpg" alt="Absolute Wonder Woman vol 3">
             </a>
 
+
+
+
+<br>
+
+
+
+
+
+            <a href="https://m.media-amazon.com/images/I/81UF3D4Y3qL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81UF3D4Y3qL._SL1500_.jpg" alt="Sandman vol 1">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91pNZ4kyDrL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91pNZ4kyDrL._SL1500_.jpg" alt="Sandman vol 2">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91lFEogx5lL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91lFEogx5lL._SL1500_.jpg" alt="Sandman vol 3">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91ET1-cAhbL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91ET1-cAhbL._SL1500_.jpg" alt="Sandman vol 4">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91ojZ+QfV6L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91ojZ+QfV6L._SL1500_.jpg" alt="Sandman vol 5">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81TiGSbC-wL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81TiGSbC-wL._SL1500_.jpg" alt="Sandman vol 6">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81dRNbIKN7L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81dRNbIKN7L._SL1500_.jpg" alt="Sandman vol 7">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91ho3hJGRpL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91ho3hJGRpL._SL1500_.jpg" alt="Sandman vol 8">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/813X2y980wL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/813X2y980wL._SL1500_.jpg" alt="Sandman vol 9">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/91mkNjAC+sL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91mkNjAC+sL._SL1500_.jpg" alt="Sandman vol 10">
+            </a>
+
+            <a href="https://m.media-amazon.com/images/I/81att1WCNxL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81att1WCNxL._SL1500_.jpg" alt="sandman vol 11">
+            </a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>July trades</b></p>
+
+<div alt="July trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/91Nr9z7F7-L._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/91Nr9z7F7-L._SL1500_.jpg" alt="Inglorious X-Force vol 1">
+            </a>
 
 </div>
 
@@ -670,6 +772,139 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>August trades</b></p>
+
+<div alt="August trades" align="center">
+
+            <a href="https://m.media-amazon.com/images/I/81HTTvZvMGL._SL1500_.jpg" class="thumbnail">
+                <img src="https://m.media-amazon.com/images/I/81HTTvZvMGL._SL1500_.jpg" alt="Babs: The Black Road South">
+            </a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
 
 
 
@@ -712,6 +947,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Comic Rushmore</b></p>
 
 <div alt="Comic book franchise Rushmore" align="center">
@@ -731,7 +981,6 @@
             </a><a href="https://m.media-amazon.com/images/I/81zK3Qd8bCL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81zK3Qd8bCL._SL1500_.jpg" alt="Promethea">
             </a>
-
 
 </div>
 
