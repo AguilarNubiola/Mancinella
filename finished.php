@@ -2343,6 +2343,18 @@
                     <img src="https://m.media-amazon.com/images/I/51AIygee8HL.jpg" alt="Hotwire: Deep Cut">
                 </a>
 
+                <a href="https://m.media-amazon.com/images/I/81CDz7VNbSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81CDz7VNbSL._SL1500_.jpg" alt="Once & Future vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81dO9i+45wL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81dO9i+45wL._SL1500_.jpg" alt="Once & Future vol 4">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81yU5w3pq4L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81yU5w3pq4L._SL1500_.jpg" alt="Once & Future vol 5">
+                </a>
+
 
 
 
