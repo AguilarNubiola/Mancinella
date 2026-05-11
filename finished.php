@@ -2355,9 +2355,57 @@
                     <img src="https://m.media-amazon.com/images/I/81yU5w3pq4L._SL1500_.jpg" alt="Once & Future vol 5">
                 </a>
 
+                <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/91nftVNWrqL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91nftVNWrqL._SL1500_.jpg" alt="Lucifer vol 1">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/71GE8qZuFcL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/71GE8qZuFcL._SL1500_.jpg" alt="Lucifer vol 2">
+                </a>
 
+                <a href="https://m.media-amazon.com/images/I/8144YHE2TBL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/8144YHE2TBL._SL1500_.jpg" alt="Lucifer vol 3">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81wxQ-Qd3NL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81wxQ-Qd3NL._SL1500_.jpg" alt="Lucifer vol 4">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81sqmgOnUxL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81sqmgOnUxL._SL1500_.jpg" alt="Lucifer vol 5">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91FLROpNeyL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91FLROpNeyL._SL1500_.jpg" alt="Lucifer vol 6">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/918rj3Hf2UL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/918rj3Hf2UL._SL1500_.jpg" alt="Lucifer vol 7">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91lLcItK3yL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91lLcItK3yL._SL1500_.jpg" alt="Lucifer vol 8">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/31kazdLfSnL.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/31kazdLfSnL.jpg" alt="Lucifer vol 9">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/91XfosHh6kL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/91XfosHh6kL._SL1500_.jpg" alt="Lucifer vol 10">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/919cThuwv6L._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/919cThuwv6L._SL1500_.jpg" alt="Lucifer vol 11">
+                </a>
+
+                <a href="https://m.media-amazon.com/images/I/81PSeUvROSL._SL1500_.jpg" class="thumbnail">
+                    <img src="https://m.media-amazon.com/images/I/81PSeUvROSL._SL1500_.jpg" alt="Lucifer">
+                </a>
 
 
 </div alt="Trades finished in 2026 end">

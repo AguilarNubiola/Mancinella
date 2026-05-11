@@ -36,12 +36,8 @@
 
 <div alt="he remaining runs" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/810n6p+2ceL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/810n6p+2ceL._SL1500_.jpg" alt="The Sandman">
-        </a>
-
-        <a href="https://m.media-amazon.com/images/I/81PSeUvROSL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81PSeUvROSL._SL1500_.jpg" alt="Lucifer">
+        <a href="https://m.media-amazon.com/images/I/810n6p+2ceL._AC_UF894,1000_QL80_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/810n6p+2ceL._AC_UF894,1000_QL80_.jpg" alt="Sandman">
         </a>
 
 </div>
@@ -64,48 +60,48 @@
 
 <div alt="Current target" align="center">
 
-        <a href="https://m.media-amazon.com/images/I/91nftVNWrqL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91nftVNWrqL._SL1500_.jpg" alt="Lucifer vol 1">
+        <a href="https://m.media-amazon.com/images/I/81UF3D4Y3qL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81UF3D4Y3qL._SL1500_.jpg" alt="The Sandman Vol. 1">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/71GE8qZuFcL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/71GE8qZuFcL._SL1500_.jpg" alt="Lucifer vol 2">
+        <a href="https://m.media-amazon.com/images/I/91pNZ4kyDrL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91pNZ4kyDrL._SL1500_.jpg" alt="The Sandman Vol. 2">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/8144YHE2TBL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/8144YHE2TBL._SL1500_.jpg" alt="Lucifer vol 3">
+        <a href="https://m.media-amazon.com/images/I/91lFEogx5lL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91lFEogx5lL._SL1500_.jpg" alt="The Sandman Vol. 3">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/81wxQ-Qd3NL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81wxQ-Qd3NL._SL1500_.jpg" alt="Lucifer vol 4">
+        <a href="https://m.media-amazon.com/images/I/91ET1-cAhbL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91ET1-cAhbL._SL1500_.jpg" alt="The Sandman Vol. 4">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/81sqmgOnUxL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/81sqmgOnUxL._SL1500_.jpg" alt="Lucifer vol 5">
+        <a href="https://m.media-amazon.com/images/I/91ojZ+QfV6L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91ojZ+QfV6L._SL1500_.jpg" alt="The Sandman Vol. 5">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91FLROpNeyL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91FLROpNeyL._SL1500_.jpg" alt="Lucifer vol 6">
+        <a href="https://m.media-amazon.com/images/I/81TiGSbC-wL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81TiGSbC-wL._SL1500_.jpg" alt="The Sandman Volume 6">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/918rj3Hf2UL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/918rj3Hf2UL._SL1500_.jpg" alt="Lucifer vol 7">
+        <a href="https://m.media-amazon.com/images/I/81dRNbIKN7L._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81dRNbIKN7L._SL1500_.jpg" alt="The Sandman Vol. 7">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91lLcItK3yL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91lLcItK3yL._SL1500_.jpg" alt="Lucifer vol 8">
+        <a href="https://m.media-amazon.com/images/I/91ho3hJGRpL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91ho3hJGRpL._SL1500_.jpg" alt="The Sandman Vol. 8">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/31kazdLfSnL.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/31kazdLfSnL.jpg" alt="Lucifer vol 9">
+        <a href="https://m.media-amazon.com/images/I/813X2y980wL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/813X2y980wL._SL1500_.jpg" alt="The Sandman Vol. 9">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/91XfosHh6kL._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/91XfosHh6kL._SL1500_.jpg" alt="Lucifer vol 10">
+        <a href="https://m.media-amazon.com/images/I/91mkNjAC+sL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/91mkNjAC+sL._SL1500_.jpg" alt="The Sandman Vol. 10">
         </a>
 
-        <a href="https://m.media-amazon.com/images/I/919cThuwv6L._SL1500_.jpg" class="thumbnail">
-            <img src="https://m.media-amazon.com/images/I/919cThuwv6L._SL1500_.jpg" alt="Lucifer vol 11">
+        <a href="https://m.media-amazon.com/images/I/81att1WCNxL._SL1500_.jpg" class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/81att1WCNxL._SL1500_.jpg" alt="The Sandman Vol. 11">
         </a>
 
 </div>
@@ -139,50 +135,9 @@
 
 <div alt="Next up" align="center">
 
-            <a href="https://m.media-amazon.com/images/I/81UF3D4Y3qL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81UF3D4Y3qL._SL1500_.jpg" alt="Sandman vol 1">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/91pNZ4kyDrL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91pNZ4kyDrL._SL1500_.jpg" alt="Sandman vol 2">
-            </a>
 
-            <a href="https://m.media-amazon.com/images/I/91lFEogx5lL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91lFEogx5lL._SL1500_.jpg" alt="Sandman vol 3">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91ET1-cAhbL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91ET1-cAhbL._SL1500_.jpg" alt="Sandman vol 4">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91ojZ+QfV6L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91ojZ+QfV6L._SL1500_.jpg" alt="Sandman vol 5">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81TiGSbC-wL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81TiGSbC-wL._SL1500_.jpg" alt="Sandman vol 6">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81dRNbIKN7L._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81dRNbIKN7L._SL1500_.jpg" alt="Sandman vol 7">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91ho3hJGRpL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91ho3hJGRpL._SL1500_.jpg" alt="Sandman vol 8">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/813X2y980wL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/813X2y980wL._SL1500_.jpg" alt="Sandman vol 9">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/91mkNjAC+sL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/91mkNjAC+sL._SL1500_.jpg" alt="Sandman vol 10">
-            </a>
-
-            <a href="https://m.media-amazon.com/images/I/81att1WCNxL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81att1WCNxL._SL1500_.jpg" alt="sandman vol 11">
-            </a>
-
+        
 </div>
 
 
@@ -328,10 +283,6 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>Limbo trades</b></p>
 
 <div alt="Limbo trades" align="center">
-
-            <a href="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" class="thumbnail">
-                <img src="https://m.media-amazon.com/images/I/81Oi4IjTgdL._SL1500_.jpg" alt="Ekho: Venice">
-            </a>
 
             <a href="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/81POk52ZIkL._SL1500_.jpg" alt="Black Cat by G. Willow Wilson">
@@ -616,7 +567,6 @@
 <p align="center" style="font-family:'Courier New'; color:white; font-size:30px"><b>May trades</b></p>
 
 <div alt="May trades" align="center">
-
 
             <a href="https://m.media-amazon.com/images/I/91fiq13uXCL._SL1500_.jpg" class="thumbnail">
                 <img src="https://m.media-amazon.com/images/I/91fiq13uXCL._SL1500_.jpg" alt="Sai: Dimensional Rivals">
